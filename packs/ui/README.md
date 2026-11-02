@@ -7,6 +7,7 @@ Each UI kit has its **own folder**, editable model download, installation guide 
 | Pack | Preview | Download | Status |
 | --- | --- | --- | --- |
 | [Studs UI — HUD & 9-panel kit](studs-ui/) | [All 10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Private draft; native model round-trip/render checked |
+| [Essential STUD UI](essential-stud-ui/) | [13 screenshots](essential-stud-ui/#gallery--actual-imported-model) | [EssentialStudUI.rbxm](essential-stud-ui/EssentialStudUI.rbxm?raw=1) | Private demo; native export/render/Play checked |
 
 [![Studs UI HUD preview](studs-ui/previews/hud.jpg)](studs-ui/)
 

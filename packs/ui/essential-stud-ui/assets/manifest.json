@@ -1,0 +1,55 @@
+{
+  "atlases": [
+    {
+      "file": "icons-atlas.png",
+      "asset_id": "rbxassetid://93221120087757",
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "roblox_rect_cell": [
+        256,
+        256
+      ],
+      "order": [
+        "crown",
+        "teleporter",
+        "shoe",
+        "gift",
+        "cash",
+        "key",
+        "potion",
+        "chest",
+        "basket",
+        "calendar",
+        "check",
+        "gear",
+        "cat",
+        "coin",
+        "flame",
+        "shield"
+      ]
+    },
+    {
+      "file": "details-atlas.png",
+      "asset_id": "rbxassetid://122440188309227",
+      "roblox_rect_cell": [
+        512,
+        512
+      ],
+      "order": [
+        "cube",
+        "orb",
+        "flatcash",
+        "clock"
+      ]
+    }
+  ],
+  "method": "Built-in image_gen with transparent_background=true; original outputs retained under .codex/generated_images; original files copied without raster modification",
+  "rights": "Reference-inspired generated art; seller source assets excluded; no public redistribution approval inferred",
+  "avatar_ids": {
+    "Pistol_Pete26": 1868543425,
+    "M_Gameing4pro": 2706565897,
+    "Sayzz": 120902307
+  }
+}

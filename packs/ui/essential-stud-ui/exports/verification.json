@@ -1,0 +1,100 @@
+{
+  "model": "EssentialStudUI.rbxm",
+  "bytes": 69431,
+  "sha256": "589084256e54759f2c610e4ecaa2f10d43e0b3f4906a015ef6afb8e93aa3c138",
+  "root_class": "ScreenGui",
+  "root_name": "EssentialStudUI",
+  "descendants": 11385,
+  "panel_count": 9,
+  "native_serialization": "Roblox SerializationService SerializeInstancesAsync + DeserializeInstancesAsync",
+  "actual_import_rendered": true,
+  "actual_import_play_tested": true,
+  "script_sources_match_live": {
+    "Runtime": true,
+    "Configuration": true,
+    "Controller": true
+  },
+  "console_errors_observed": [],
+  "viewport_checks": {
+    "edit": [
+      1041,
+      761
+    ],
+    "play": [
+      1325,
+      761
+    ]
+  },
+  "touch_gamepad_tested": false,
+  "production_purchases_rewards_tested": false,
+  "published": false,
+  "files": {
+    "assets/details-atlas.png": "e63af2a3257820fd874a7d10722216efa8e17d905b0c835fefb5b97f70e2af0c",
+    "assets/icons-atlas.png": "f705c71465e299b0661d6eac7d0f58ed7ac58f5a86bedb0e8a3a7e9eab58e679",
+    "previews/codes.jpg": "7a7e03c3cb377c5c12e3d1db0d375da8d5c8aea4e1df2c01c60db7429e78958c",
+    "previews/confirm.jpg": "8b398b224f3ce3cf8cb1bc9b3914ce76683878b3e8263cdc54beb08a5de9daca",
+    "previews/daily.jpg": "34ce43ea7c19bfabeee57112e513961d4a8c0e4cb3d12d94801812de61aaf18f",
+    "previews/gift.jpg": "691440f1ae648b5a84ff640ded1ceca6472d7af27054ee8678bf537520f2e14b",
+    "previews/hud.jpg": "110655f81a336ef9f20258185f53af5b8ee2fa58af582a44484e6cb4a006ea8e",
+    "previews/loading.jpg": "8d680cd4afd489c46ff8f3369725bd38f55e5b58268be11cdfa56564c6eb99ac",
+    "previews/rewards.jpg": "3c5a8ff04d886c56fe0ea1a10733253cb1805bdf2324c5342d211e11acd3f56e",
+    "previews/settings.jpg": "9ed1348a82ed2ce1936865745ef127e92830137104ca36314b6e2c4d76071b80",
+    "previews/shop.jpg": "918e220d1a0fc62520c42f5aa8033ee3e3ed636ada0f36510f1e03da7033a275",
+    "previews/shoppasses.jpg": "423942617ff2cb4c007f514c2e8276482f05614e224db66f5988d8355f04713e",
+    "previews/shopproducts.jpg": "0f07861c9c76decf5e93b8d7c168555d5b41eb34d6e51c4719a5ff4d543432b6",
+    "previews/time.jpg": "b4726a464cfdf9fd37af7e1242675d11813245a4ec0c02ab62a04a386cfe6e0d",
+    "previews/wheel.jpg": "7e65b5c1fced61c1e28e12bc17305d4d89530a49031fae0f5b4ea1b8a0928996",
+    "src/Build.luau": "4f017b9de8d1d4d60a0ea0d12056027782b5ca3ded8c09f2d6d433d0ac4452c6",
+    "src/Configuration.luau": "a446e7767052ec2d16e98e2c4754a4818e5f6e7c0de9318cbbd73c75ed782c8d",
+    "src/Controller.luau": "59d7013c03e5beab1b76b2e3cb559850f641eec6c8fa269451c85e7398db4db9",
+    "src/Runtime.luau": "5332bb1eeb86fbc86a29d5c1b0064179e09551f669d2e4f3d49b225d7960ae26"
+  },
+  "sizing_review": {
+    "method": "native fixed-container layout simulation, not physical-device emulation",
+    "sizes": [
+      [
+        360,
+        800
+      ],
+      [
+        390,
+        844
+      ],
+      [
+        800,
+        360
+      ],
+      [
+        844,
+        390
+      ],
+      [
+        768,
+        1024
+      ],
+      [
+        1024,
+        768
+      ],
+      [
+        1280,
+        720
+      ],
+      [
+        1920,
+        1080
+      ],
+      [
+        2560,
+        1440
+      ]
+    ],
+    "panel_states": 81,
+    "detected_root_overflows": 0,
+    "detected_panel_hud_overlaps": 0,
+    "portrait_phone_readability": "failed: 5?6 px navigation labels",
+    "landscape_phone_readability": "compact: approximately 10 px navigation labels",
+    "model_changed": false,
+    "report": "SIZING.md"
+  }
+}
