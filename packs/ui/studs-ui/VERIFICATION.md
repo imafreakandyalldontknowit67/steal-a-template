@@ -1,5 +1,13 @@
 # Latest refinement verification
 
+## Pack delivery: native model and full screenshot gallery
+
+The kit is self-contained in `packs/ui/studs-ui/`, with a category-level catalog for future UI kits. Added `StudsUI.rbxm` as the primary download and ten local JPEG previews (HUD plus every panel), embedded in the pack README.
+
+Created the native binary through Studio SerializationService, with all modals initially closed. Deserialized that exact buffer through Studio, confirmed one ScreenGui root named StudsUI, 3,454 instances and byte-identical Controller.Source, then parented the imported copy under StarterGui. Captured every gallery image from that imported copy in Edit mode. Removed the temporary copy and restored the user's original UI afterward. This verifies native deserialization and Edit rendering, not manual OS drag/drop or fresh-place Play. The XML file's separate manual-import status is unchanged.
+
+Installation instructions target StarterGui explicitly; dropping a file onto the 3D viewport is not presented as automatic service routing. No plugin or pasted installer is required for the native model. Native model/source hashes are recorded in exports/native-export.json; tests catch stale snapshots and missing gallery files. The native model retains the tested viewport's Edit-mode preview scale, with responsive scaling at runtime.
+
 ## Pass 7: remove invented launcher and correct level-button palette
 
 Rechecked the original full-size Shop screenshot and supplied level-bar crop. Removed SET from the visible HUD (SettingsLauncher is hidden; its panel remains available for later placement). All three level buttons retain yellow/lime studded backgrounds with subtler diagonal highlights. Caption gradients now distinguish gold/orange +5, cyan/blue +10 and horizontal multicolor +25; the earlier flat purple +25 and oversized white glass bands were incorrect. Inspected the result through an Edit-mode Studio capture. Source and export updated; controller/animations unchanged.

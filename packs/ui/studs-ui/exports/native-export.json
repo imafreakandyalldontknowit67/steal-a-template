@@ -1,0 +1,22 @@
+{
+  "format": "Roblox native binary model",
+  "model": "StudsUI.rbxm",
+  "model_sha256": "0d259aed5df00a2b8a788a0efcbec0b27d6f6b615b3133b6b2e8d680a1143ab4",
+  "source": "src/Build.luau",
+  "source_hash_normalization": "UTF-8 with LF newlines",
+  "source_sha256": "2d4ba632166d9f8c44de3cfa1cdcc17d4061891e04e5f0004c61958c5c7de8bf",
+  "root_class": "ScreenGui",
+  "root_name": "StudsUI",
+  "target_parent": "StarterGui",
+  "instance_count": 3454,
+  "controller_source_roundtrip_equal": true,
+  "native_deserialization_checked": true,
+  "edit_render_checked": true,
+  "fresh_place_play_checked": false,
+  "preview_viewport": [
+    1041,
+    761
+  ],
+  "exported_at_utc": "2026-11-02T06:54:51.444895+00:00",
+  "method": "Studio SerializationService.SerializeInstancesAsync; DeserializeInstancesAsync verified; previews captured from imported copy in StarterGui"
+}

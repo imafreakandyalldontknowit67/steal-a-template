@@ -4,13 +4,13 @@ A growing library of original Roblox asset packs for developers building games i
 
 The goal is simple: find a pack, preview it, download it for free, and follow clear setup instructions to use it in your own game.
 
-**Status:** private starter repository. No finished packs or public downloads yet.
+**Status:** private asset repository. Studs UI includes a native model download and screenshot gallery for repository collaborators; public releases are not enabled yet.
 
 ## Catalog
 
 | Category | Packs | Status |
 | --- | --- | --- |
-| [UI kits and interfaces](packs/ui/) | [Studs UI](packs/ui/studs-ui/) | In-development, unverified draft |
+| [UI kits and interfaces](packs/ui/) | [Studs UI: model + screenshots](packs/ui/studs-ui/) | Private draft; native-model import/render checked |
 | [3D models and props](packs/models/) | None yet | Planned |
 | [Visual effects](packs/effects/) | None yet | Planned |
 | [Audio and sound effects](packs/audio/) | None yet | Planned |
@@ -26,7 +26,7 @@ Download one pack rather than cloning the whole collection. Public distribution 
 
 ### Are these Roblox assets free?
 
-Free downloads are the intended release model. No packs are available yet. Each released pack will state its own license and permitted uses.
+Free public downloads are the intended release model. Studs UI is currently a private, unlicensed draft with an editable model available to repository collaborators. Each released pack will state its own license and permitted uses.
 
 ### How do I install a Roblox UI pack?
 
@@ -42,7 +42,7 @@ Check the license included with the specific pack. Commercial-use and redistribu
 
 ### Do I need Rojo or a build tool?
 
-The starter workflow is Studio-first. Ready-to-insert exports are planned so developers do not need a source build tool to use a pack.
+The workflow is Studio-first. Studs UI includes a ready-to-insert native model, so developers do not need a source build tool to customize it.
 
 ## Structure
 

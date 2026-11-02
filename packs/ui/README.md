@@ -1,9 +1,31 @@
 # Roblox UI Kits & Interface Packs
 
-Reusable interfaces for Roblox Studio games. This is the first category in development; no downloads are available yet.
+Each UI kit has its **own folder**, editable model download, installation guide and screenshot gallery. Add future kits beside `studs-ui/` rather than mixing their assets or scripts together.
 
-Potential additions include inventory screens, shops, menus, HUDs, settings panels, and reusable interface components. These are examples of the category scope, not currently offered downloads.
+## UI pack catalog
 
-Each released pack should have a preview, versioned download, installation guide, dependency list, compatibility notes, and explicit license.
+| Pack | Preview | Download | Status |
+| --- | --- | --- | --- |
+| [Studs UI — HUD & 9-panel kit](studs-ui/) | [All 10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Private draft; native model round-trip/render checked |
 
-[Browse all Roblox asset categories](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)
+[![Studs UI HUD preview](studs-ui/previews/hud.jpg)](studs-ui/)
+
+## Install a kit
+
+Download its model and insert it under **StarterGui**. Each pack README covers its exact setup, included panels, dependencies and customization.
+
+```text
+packs/ui/
+├── README.md
+├── studs-ui/
+│   ├── README.md
+│   ├── StudsUI.rbxm
+│   ├── previews/
+│   ├── assets/
+│   └── src/
+└── <future-ui-kit>/           # Separate folder and README for each new kit
+```
+
+The repository remains private. Free public downloads are planned; review each pack's license before reuse or redistribution.
+
+[All asset categories](../../README.md#catalog) · [Authoring guide](../../docs/AUTHORING.md)

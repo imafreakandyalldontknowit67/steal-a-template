@@ -4,13 +4,13 @@
   "category": "ui",
   "version": "0.1.0",
   "status": "draft",
-  "description": "Reference-guided, editable Roblox UI draft with a responsive design canvas, HUD, nine modal panels, and local demo interactions installed through the Studio Command Bar.",
+  "description": "Editable Roblox HUD and nine-panel UI kit with a ready-to-insert native model, screenshot gallery, customizable instances and local demo interactions. Insert the ScreenGui under StarterGui.",
   "license": "UNLICENSED",
   "author": "",
   "files": {
-    "model": "exports/studs-ui.rbxmx",
+    "model": "StudsUI.rbxm",
     "demo": null,
-    "previews": [],
+    "previews": ["previews/hud.jpg", "previews/shop.jpg", "previews/stock-shop.jpg", "previews/daily-rewards.jpg", "previews/rebirth.jpg", "previews/index.jpg", "previews/season-pass.jpg", "previews/upgrades.jpg", "previews/settings.jpg", "previews/starter-pack.jpg"],
     "source": "src/Build.luau"
   },
   "dependencies": [],
