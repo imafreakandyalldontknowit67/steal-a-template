@@ -17,6 +17,19 @@
     1041,
     761
   ],
-  "exported_at_utc": "2026-11-02T06:54:51.444895+00:00",
-  "method": "Studio SerializationService.SerializeInstancesAsync; DeserializeInstancesAsync verified; previews captured from imported copy in StarterGui"
+  "exported_at_utc": "2026-11-02T16:53:06.908442+00:00",
+  "method": "Studio SerializationService.SerializeInstancesAsync; DeserializeInstancesAsync verified; previews captured from imported copy in StarterGui",
+  "preview_sha256": {
+    "daily-rewards.jpg": "0fa29adff1e3bd9c5e7126d038d3055b6e2549adce72faef4dda6843a49f7d00",
+    "hud.jpg": "36a636916f26e7252c4432cb11268e5d4258bc81374a7e3b7f4b0770b356a0f7",
+    "index.jpg": "f502a3a905400d1618b4149f168b36a7f111d3343d3402080ff6ecac34520458",
+    "rebirth.jpg": "d6ebb49ad9898c663e0b412d82595aa286fca9ec6f54d6143865b197b824f2c5",
+    "season-pass.jpg": "c74efd3a9982e7fcfb59efb39078c559625f07b7c59633bb6e0d974e7f613887",
+    "settings.jpg": "061f47bc87ea9bc8d28ab873d939fbc7fbdf2d367b8d9e6bfbcd01dfd7cb8117",
+    "shop.jpg": "399489483f91b8ed7e2cb9bccfed687c1fc90315e8d5b53dbb421dcbba6283a2",
+    "starter-pack.jpg": "c31a1ec2242664d7611dfda21ff42d6a871af2f100a51b803fd49487a2a52f45",
+    "stock-shop.jpg": "e4c2e754df005497875f50b6517190c2e450aea5f5d01297e5aa2d436fa57840",
+    "upgrades.jpg": "68c33b4172622c8187ee9067940100f1dbf81cc8896cae024e0d5d74819883c5"
+  },
+  "refresh_note": "Re-exported current Place1 StarterGui UI and recaptured HUD plus all nine panels from a deserialized copy. Native model and all preview images were byte-identical to the existing files. Original Studio preview restored. No new Play-mode test performed."
 }
