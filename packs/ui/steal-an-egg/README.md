@@ -117,7 +117,7 @@ steal-an-egg/
 
 ## Dependencies and verification
 
-The native model has **1,828 descendants** and its controller survived Studio serialization/deserialization unchanged. Imported-model Play checks covered panel routes, rapid interruptions, sliders, toggles, vertical/horizontal scrolling, fuse confirmation/result, pet equip and egg-growth demos. Six visual review passes corrected geometry, fonts, artwork, pass colors, cash cards and missing glyphs.
+The native model has **2,427 descendants** and its controller survived Studio serialization/deserialization unchanged. Imported-model Play checks covered panel routes, rapid interruptions, sliders, toggles, vertical/horizontal scrolling, fuse confirmation/result, pet equip and egg-growth demos. Six visual review passes corrected geometry, fonts, artwork, pass colors, cash cards and missing glyphs.
 
 **Desktop mouse only:** verified at 1701.33 × 787.33 UI pixels. The MCP schemas expose no device/viewport setters, so phone, tablet, reference-size, other desktop, console, resize and orientation tests remain blocked. Compact layout code is included but unverified. [Full coverage and limitations](VERIFICATION.md).
 

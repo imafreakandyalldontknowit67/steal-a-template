@@ -1,12 +1,12 @@
 {
   "version": "0.1.1",
-  "nativeBytes": 49522,
-  "descendants": 1828,
+  "nativeBytes": 54984,
+  "descendants": 2427,
   "directPanels": 9,
   "controllerRoundTripIdentical": true,
   "sha256": {
-    "StealAnEggUI.rbxm": "f09c213441f3089185f7abf026dc7d017f30439f4f83919eef4562bd15b9de60",
-    "src/Build.luau": "fccbdcb07dc2e356d9a46a489f10ae9e1b011879a1ff8c9362316576bbb6ac5d",
+    "StealAnEggUI.rbxm": "c653d01f773cfce089a99cfec55069d581bc2f36613a15aa08c751a9eb9d9ddd",
+    "src/Build.luau": "d630c536b7cf93c5cb4b9488153bab52c8a42704f3a1ec3b6e5b144610ec0bda",
     "src/Controller.luau": "e49cf2847f5553edca0c7a9492b83b2c048fac7787f32c9c0e6b40d862fb38f5"
   }
 }

@@ -38,6 +38,6 @@ Every generated icon was visually inspected. Significant revisions included the 
 
 make_hud_icons.py draws the replacement egg, paw, index page, top-bar gear and backpack as antialiased geometry. These five sources replace the HUD-only versions; pet artwork remains separate.
 
-## Mecha egg redesign
+## Mecha rainbow correction
 
-Built-in image_gen generated mecha-egg.png on 2026-11-02. Uploaded as rbxassetid://130327488977309. User requested a complete redesign and removal of squiggly decoration. Final brief: isolated transparent armored egg, chunky silver/gunmetal plates, cyan hexagonal power core, limited violet accents, bold clean silhouette readable at 110px; no text, frame, lightning, scribbles, limbs or external shadow. Original generated PNG retained without image postprocessing. The native card uses a dark blue/violet gradient and cyan outline; nine Lightning frames and its sunburst were removed. This is a user-directed design departure from the original reference.
+The original brown egg is retained. RainbowAura uses editable native rounded segments sampled along Catmull-Rom paths, with spatial rainbow colors and a matching multicolor perimeter. Paths were reconstructed against builtb423ybit.webp and video frames at 9.0/9.7 seconds. The mistakenly generated armored egg was removed from the pack. No new raster generation is used for the correction.

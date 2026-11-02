@@ -253,12 +253,46 @@ local rays=image(shop.LimitedOffer,"Sunburst",extra.rays,-50,-65,460,460,25);ray
 shop.LimitedOffer.ClipsDescendants=true
 for i=1,7 do local card=shop.LimitedOffer["Chance"..i];local r=image(card,"Sunburst",extra.rays,0,0,0,0,27);r.Size=UDim2.fromScale(1,1);r.ScaleType=Enum.ScaleType.Stretch;r.ImageTransparency=.2 end
 local mecha=shop.LimitedOffer.Chance7
-mecha.BackgroundColor3=C(255,255,255);mecha.BackgroundTransparency=0
-mecha.Gradient.Color=ColorSequence.new(C(17,36,59),C(62,27,91));mecha.Gradient.Rotation=45
-mecha.Outline.Color=C(0,235,255);mecha.Outline.Thickness=3
-mecha.Sunburst:Destroy()
-mecha.Egg.Image="rbxassetid://130327488977309"
-mecha.Egg.Position=UDim2.fromOffset(8,3);mecha.Egg.Size=UDim2.fromOffset(128,114)
+mecha.BackgroundColor3=C(66,62,40);mecha.BackgroundTransparency=.12
+mecha.Gradient:Destroy();mecha.Outline.Color=C(15,15,15);mecha.Outline.Thickness=2
+mecha.Sunburst.ImageTransparency=.45
+mecha.Egg.Position=UDim2.fromOffset(27,8);mecha.Egg.Size=UDim2.fromOffset(90,94)
+-- Irregular continuous rainbow arcs traced from the shop reference, not loose straight strokes.
+local aura=frame(mecha,"RainbowAura",0,0,144,147,C(255,255,255),27);aura.BackgroundTransparency=1
+local function rainbowAt(x,y) return Color3.fromHSV((.04+x/144*.50+y/147*.23)%1,1,1) end
+local function segment(a,b,index)
+ local d=b-a;local line=frame(aura,"Arc"..index,(a.X+b.X)/2,(a.Y+b.Y)/2,d.Magnitude+2,3.4,C(255,255,255),27)
+ line.AnchorPoint=Vector2.new(.5,.5);line.Rotation=math.deg(math.atan2(d.Y,d.X));line.BackgroundColor3=rainbowAt((a.X+b.X)/2,(a.Y+b.Y)/2);corner(line,2)
+end
+local paths={
+ {{5,34},{15,28},{24,33},{34,27},{47,28}},
+ {{9,15},{19,17},{28,12},{40,20},{51,16}},
+ {{3,55},{14,53},{23,58},{35,53},{45,51}},
+ {{3,93},{14,96},{25,89},{35,90},{47,83}},
+ {{8,126},{20,125},{21,115},{34,111},{42,102}},
+ {{91,26},{103,20},{114,22},{124,15},{139,17}},
+ {{97,43},{109,40},{120,33},{130,37},{141,32}},
+ {{100,59},{112,54},{124,60},{138,57}},
+ {{99,84},{111,79},{123,85},{136,81},{148,85}},
+ {{99,105},{110,109},{122,103},{136,106},{143,99}},
+ {{1,45},{-5,51},{2,65},{0,81},{5,92}},
+ {{143,38},{150,43},{146,57},{151,69},{145,77}},
+ {{17,138},{29,137},{40,145},{52,149},{64,141},{73,144}},
+ {{81,148},{94,152},{106,148},{122,148}}
+}
+local arcIndex=0
+for _,points in ipairs(paths) do
+ for j=1,#points-1 do
+  local p0=Vector2.new(unpack(points[math.max(j-1,1)]));local p1=Vector2.new(unpack(points[j]));local p2=Vector2.new(unpack(points[j+1]));local p3=Vector2.new(unpack(points[math.min(j+2,#points)]))
+  local prev=p1
+  for k=1,5 do local t=k/5;local pos=.5*((2*p1)+(-p0+p2)*t+(2*p0-5*p1+4*p2-p3)*t*t+(-p0+3*p1-3*p2+p3)*t*t*t);arcIndex+=1;segment(prev,pos,arcIndex);prev=pos end
+ end
+end
+-- Rainbow perimeter follows the color field of the surrounding arcs.
+for _,edge in ipairs({{0,0,144,2},{0,145,144,2},{0,0,2,147},{142,0,2,147}}) do
+ local vertical=edge[3]==2;local length=vertical and edge[4] or edge[3]
+ for j=0,11 do local x=edge[1]+(vertical and 0 or j*length/12);local y=edge[2]+(vertical and j*length/12 or 0);frame(aura,"RainbowBorder",x,y,vertical and 2 or length/12+1,vertical and length/12+1 or 2,rainbowAt(x,y),27) end
+end
 text(shop.LimitedOffer,"OldPrice","5,959",230,201,130,24,20,C(255,0,0),37);local strike=frame(shop.LimitedOffer,"Strike",244,211,93,2,C(255,10,10),38)
 shop.LimitedOffer.Quantity1.ZIndex=36;shop.LimitedOffer.Quantity2.ZIndex=36;shop.LimitedOffer.Quantity3.ZIndex=36;shop.LimitedOffer.Quantity4.ZIndex=36
 -- Actual two passes observed at video 10.3 seconds.
