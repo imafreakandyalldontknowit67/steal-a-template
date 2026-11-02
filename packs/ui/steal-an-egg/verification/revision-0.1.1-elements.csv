@@ -1,0 +1,10 @@
+element,reference,change,evidence,check
+"Topbar.Backpack","video 2.0s","native-style top-left button and All Items","all-items.jpg","mouse open/close; tool filter tested"
+"Topbar.Settings","video 3.0s","gear beside backpack outside scaled canvas","settings.jpg","mouse route and interruption tested"
+"HUD.Eggs.EggIcon","builtbybit.webp; video 3.0s","tapered pale egg outline","hud.jpg","visual comparison"
+"HUD.Pets.PawIcon","builtbybit.webp; video 3.0s","orange paw with light and dark outline","hud.jpg","visual comparison"
+"HUD.Index.Icon","builtbybi23t.webp","slanted paper mark","hud.jpg","visual comparison"
+"HUD.SpeedValue;HUD.CashValue","video 3.0s","left-aligned bold italic counters beside icons","hud.jpg","visual comparison"
+"Panels.ActivePets.Close;Panels.GrowingEggs.Close","video 26/29s","centered arrow within resized button","active-pets.jpg","text/button center equal"
+"HUD.FuseLauncher;HUD.TrailLauncher","user discovery critique; inferred addition","explicit demo access","fuse.jpg","mouse routes tested"
+"Panels.AllItems","video 2.0s","translucent inventory and search","all-items.jpg","empty and filtered Tool state tested"

@@ -1,0 +1,46 @@
+{
+  "id": "steal-an-egg",
+  "name": "Steal an Egg - Roblox HUD and Interface Pack",
+  "category": "ui",
+  "version": "0.1.1",
+  "status": "draft",
+  "description": "Editable nine-panel HUD with Roblox-style top-bar inventory/settings, visible Fuse/Trails demo routes, native model and controller. Desktop mouse verified; device matrix blocked.",
+  "license": "UNLICENSED",
+  "author": "",
+  "files": {
+    "model": "StealAnEggUI.rbxm",
+    "demo": null,
+    "previews": [
+      "previews/hud.jpg",
+      "previews/shop-cash.jpg",
+      "previews/shop.jpg",
+      "previews/shop-passes.jpg",
+      "previews/shop-speed.jpg",
+      "previews/settings.jpg",
+      "previews/speed-shop.jpg",
+      "previews/treadmill.jpg",
+      "previews/pet-index.jpg",
+      "previews/pet-index-lower.jpg",
+      "previews/pet-index-rare.jpg",
+      "previews/trails.jpg",
+      "previews/trails-middle.jpg",
+      "previews/trails-final.jpg",
+      "previews/active-pets.jpg",
+      "previews/growing-eggs.jpg",
+      "previews/fuse.jpg",
+      "previews/fuse-selected.jpg",
+      "previews/fuse-confirm.jpg",
+      "previews/fuse-result.jpg",
+      "previews/all-items.jpg"
+    ],
+    "source": "src/Build.luau"
+  },
+  "dependencies": [],
+  "tags": [
+    "ui",
+    "hud",
+    "roblox-studio",
+    "demo",
+    "steal-an-egg"
+  ]
+}

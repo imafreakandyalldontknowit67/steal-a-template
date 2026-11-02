@@ -8,8 +8,11 @@ Each UI kit has its **own folder**, editable model download, installation guide 
 | --- | --- | --- | --- |
 | [Studs UI — HUD & 9-panel kit](studs-ui/) | [All 10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Private draft; native model round-trip/render checked |
 | [Essential STUD UI](essential-stud-ui/) | [13 screenshots](essential-stud-ui/#screenshot-gallery) | [EssentialStudUI.rbxm](essential-stud-ui/EssentialStudUI.rbxm?raw=1) | Private demo; native export/render/Play checked |
+| [Steal an Egg — HUD & 9-panel kit](steal-an-egg/) | [All 21 screenshots](steal-an-egg/#screenshot-gallery) | [StealAnEggUI.rbxm](steal-an-egg/StealAnEggUI.rbxm?raw=1) | Private draft; imported desktop Play checked; device matrix blocked |
 
 [![Studs UI HUD preview](studs-ui/previews/hud.jpg)](studs-ui/)
+
+[![Steal an Egg HUD preview](steal-an-egg/previews/hud.jpg)](steal-an-egg/)
 
 ## Install a kit
 
