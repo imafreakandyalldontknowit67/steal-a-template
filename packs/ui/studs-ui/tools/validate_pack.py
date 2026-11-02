@@ -43,6 +43,10 @@ class Token:
     end: int
 
 
+LONG_BRACKET = re.compile(r"\[(=*)\[")
+WORD_TOKEN = re.compile(r"[A-Za-z_][A-Za-z_0-9]*|\d+(?:\.\d+)?")
+
+
 def lex_source(source: str) -> list[Token]:
     """Skip Luau comments; distinguish strings from code without parsing Luau.
 
@@ -59,7 +63,7 @@ def lex_source(source: str) -> list[Token]:
         comment = source.startswith("--", i)
         if comment:
             i += 2
-        long = re.match(r"\[(=*)\[", source[i:])
+        long = LONG_BRACKET.match(source, i)
         if long:
             opening = len(long.group())
             closing = "]" + long.group(1) + "]"
@@ -89,7 +93,7 @@ def lex_source(source: str) -> list[Token]:
             tokens.append(Token("string", source[value_start:i], start, min(i + 1, len(source))))
             i += 1
             continue
-        word = re.match(r"[A-Za-z_][A-Za-z_0-9]*|\d+(?:\.\d+)?", source[i:])
+        word = WORD_TOKEN.match(source, i)
         if word:
             value = word.group()
             i += len(value)

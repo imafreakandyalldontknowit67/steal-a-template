@@ -8,7 +8,7 @@
   "license": "UNLICENSED",
   "author": "",
   "files": {
-    "model": null,
+    "model": "exports/studs-ui.rbxmx",
     "demo": null,
     "previews": [],
     "source": "src/Build.luau"

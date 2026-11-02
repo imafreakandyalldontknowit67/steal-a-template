@@ -37,8 +37,9 @@ ENUMS = {
     "ScrollingDirection": {"X": 1, "Y": 2, "XY": 4},
     "ElasticBehavior": {"WhenScrollable": 0, "Always": 1, "Never": 2},
     "SortOrder": {"Name": 0, "Custom": 1, "LayoutOrder": 2},
+    "ScaleType": {"Stretch": 0, "Slice": 1, "Tile": 2, "Fit": 3, "Crop": 4},
 }
-GUI_CLASSES = {"Frame", "TextLabel", "TextButton", "ScrollingFrame"}
+GUI_CLASSES = {"Frame", "TextLabel", "TextButton", "ScrollingFrame", "ImageLabel"}
 CLASSES = GUI_CLASSES | {"ScreenGui", "UIScale", "UIStroke", "UIGradient",
                          "UICorner", "UIGridLayout"}
 INT_PROPERTIES = {"BorderSizePixel", "DisplayOrder", "ZIndex", "LayoutOrder",
@@ -268,6 +269,8 @@ def write_property(parent, name, value):
                 if tag in {"XO", "YO", "O"} and int(component) != component:
                     raise ValueError(f"UDim offsets must be integers: {name} {value}")
                 ET.SubElement(result, tag).text = number(component / 255 if kind == "Color3" else component)
+        elif kind == "NumberSequence":
+            element("NumberSequence", " ".join(map(number, components)) + " ")
         elif kind == "ColorSequence":
             if len(components) % 4:
                 raise ValueError("Malformed ColorSequence")
@@ -281,7 +284,11 @@ def write_property(parent, name, value):
     elif isinstance(value, bool):
         element("bool", str(value).lower())
     elif isinstance(value, str):
-        element("ProtectedString" if name == "Source" else "string", value)
+        if name == "Image":
+            content = element("Content")
+            ET.SubElement(content, "url").text = value
+        else:
+            element("ProtectedString" if name == "Source" else "string", value)
     elif isinstance(value, (int, float)):
         element("int" if name in INT_PROPERTIES else "float", number(value))
     else:

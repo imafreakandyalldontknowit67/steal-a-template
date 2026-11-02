@@ -24,3 +24,15 @@ release-builds/
 *.autosave
 
 # Intentionally track Roblox exports and editable source files.
+
+# Local reference material (not distributed)
+.local-reference/
+
+# Orchestrator
+.worktrees/
+tasks.json
+tasks.results.json
+tasks.review.json
+
+__pycache__/
+*.py[cod]
