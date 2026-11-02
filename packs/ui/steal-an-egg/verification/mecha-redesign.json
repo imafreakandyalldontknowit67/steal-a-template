@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-02",
+  "path": "StealAnEggUI.DesignCanvas.Panels.Shop.Content.LimitedOffer.Chance7",
+  "image": "rbxassetid://130327488977309",
+  "loaded": true,
+  "removed": [
+    "Lightning1..9",
+    "Sunburst"
+  ],
+  "nativeBytes": 49522,
+  "editDescendants": 1828,
+  "controllerRoundTripIdentical": true,
+  "screenshot": "previews/shop.jpg",
+  "viewportScreenshot": [
+    1920,
+    888
+  ],
+  "reference": "User-directed redesign; previous shop.jpg compared before replacement"
+}

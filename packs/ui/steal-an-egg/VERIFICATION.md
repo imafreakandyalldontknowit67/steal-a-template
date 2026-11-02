@@ -111,3 +111,7 @@ Selected slots narrowed the button to 68 design px while the label stayed 105 px
 ## Repository gallery refresh
 
 All 21 gallery views were recaptured from the corrected imported model in the same running Studio session and checked together. Source/native hashes remained valid. Existing Play mode and the selected Fuse state were restored after capture. Reference originals remain ignored. This draft is included in the existing private asset repository; it is not a public release.
+
+## Mecha artwork redesign — 2026-11-02
+
+Supersedes the Chance7 artwork and export counts above: 49,522 bytes, 1,828 edit-time descendants, nine panels. Pass 1 inspected the old shop screenshot and identified the repeated brown egg and nine arbitrary colored strokes. Pass 2 inspected the newly generated transparent armored egg, replaced Chance7.Egg and simplified its background. Pass 3 serialized/deserialized the model, confirmed identical controller source, ran the imported model in Play, verified ImageLabel.IsLoaded=true and absence of Lightning1, and reviewed the full 1920x888 shop capture at normal size. Updated previews/shop.jpg is actual MCP capture. Card labels and odds remain legible and unobstructed. Static artwork only; no controller or animation changes. Previous device/input limitations still apply.

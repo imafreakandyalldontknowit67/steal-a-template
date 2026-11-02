@@ -253,9 +253,12 @@ local rays=image(shop.LimitedOffer,"Sunburst",extra.rays,-50,-65,460,460,25);ray
 shop.LimitedOffer.ClipsDescendants=true
 for i=1,7 do local card=shop.LimitedOffer["Chance"..i];local r=image(card,"Sunburst",extra.rays,0,0,0,0,27);r.Size=UDim2.fromScale(1,1);r.ScaleType=Enum.ScaleType.Stretch;r.ImageTransparency=.2 end
 local mecha=shop.LimitedOffer.Chance7
-mecha.BackgroundColor3=C(255,255,255);mecha.Gradient.Color=ColorSequence.new({ColorSequenceKeypoint.new(0,C(255,230,0)),ColorSequenceKeypoint.new(.25,C(0,255,255)),ColorSequenceKeypoint.new(.5,C(90,40,255)),ColorSequenceKeypoint.new(.75,C(255,20,255)),ColorSequenceKeypoint.new(1,C(255,240,0))})
-mecha.Outline.Color=C(0,255,255);mecha.Outline.Thickness=3
-for i=1,9 do local line=frame(mecha,"Lightning"..i,(i*17)%120,(i*29)%135,42,3,Color3.fromHSV(i/9,1,1),27);line.Rotation=(i%2==0 and 25 or -20) end
+mecha.BackgroundColor3=C(255,255,255);mecha.BackgroundTransparency=0
+mecha.Gradient.Color=ColorSequence.new(C(17,36,59),C(62,27,91));mecha.Gradient.Rotation=45
+mecha.Outline.Color=C(0,235,255);mecha.Outline.Thickness=3
+mecha.Sunburst:Destroy()
+mecha.Egg.Image="rbxassetid://130327488977309"
+mecha.Egg.Position=UDim2.fromOffset(8,3);mecha.Egg.Size=UDim2.fromOffset(128,114)
 text(shop.LimitedOffer,"OldPrice","5,959",230,201,130,24,20,C(255,0,0),37);local strike=frame(shop.LimitedOffer,"Strike",244,211,93,2,C(255,10,10),38)
 shop.LimitedOffer.Quantity1.ZIndex=36;shop.LimitedOffer.Quantity2.ZIndex=36;shop.LimitedOffer.Quantity3.ZIndex=36;shop.LimitedOffer.Quantity4.ZIndex=36
 -- Actual two passes observed at video 10.3 seconds.
