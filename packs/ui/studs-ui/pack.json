@@ -1,0 +1,25 @@
+{
+  "id": "studs-ui",
+  "name": "Studs UI - Roblox HUD and Modal Kit",
+  "category": "ui",
+  "version": "0.1.0",
+  "status": "draft",
+  "description": "Reference-guided, editable Roblox UI draft with a responsive design canvas, HUD, nine modal panels, and local demo interactions installed through the Studio Command Bar.",
+  "license": "UNLICENSED",
+  "author": "",
+  "files": {
+    "model": null,
+    "demo": null,
+    "previews": [],
+    "source": "src/Build.luau"
+  },
+  "dependencies": [],
+  "tags": [
+    "ui",
+    "hud",
+    "modals",
+    "roblox-studio",
+    "command-bar",
+    "demo"
+  ]
+}
