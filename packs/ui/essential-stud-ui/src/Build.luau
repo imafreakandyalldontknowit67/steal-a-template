@@ -114,7 +114,7 @@ local shop=panel('Shop','Shop','cube',960,720,'gold')
 local scroll=make('ScrollingFrame',shop,{Name='Content',Position=UDim2.fromOffset(16,105),Size=UDim2.fromOffset(928,598),BackgroundTransparency=1,BorderSizePixel=0,ScrollBarThickness=6,ScrollBarImageColor3=rgb(163,181,197),CanvasSize=UDim2.fromOffset(0,1618),ScrollingDirection=Enum.ScrollingDirection.Y,ClipsDescendants=true})
 label(scroll,'Limited','- LIMITED TIME -',0,0,920,44,30)
 for i,dat in ipairs({{'STARTER PACK','pink','flame','shield'},{'SECRET PACK','gray','key','potion'}}) do
- local f=frame(scroll,'Pack'..i,14,52+(i-1)*240,888,220);surface(f,dat[2],34);rays(f,190,0,450,210);label(f,'Title',dat[1],14,8,440,40,32).TextXAlignment=Enum.TextXAlignment.Left
+ local f=frame(scroll,'Pack'..i,14,52+(i-1)*240,888,220);surface(f,dat[2],34);rays(f,70,7,220,210);rays(f,450,7,220,210);label(f,'Title',dat[1],14,8,440,40,32).TextXAlignment=Enum.TextXAlignment.Left
  icon(f,dat[3],110,42,140,140);icon(f,dat[4],490,42,140,140);label(f,'Item1','Title',95,166,170,44,32);label(f,'Item2','Title',475,166,170,44,32)
  price(f,'Purchase',700,150,164,56,'Buy:'..(i==1 and 'Starter Pack' or 'Secret Pack'));if i==2 then label(f,'Stock','Limited Stock',610,8,265,38,28,rgb(255,55,55)) end
 end

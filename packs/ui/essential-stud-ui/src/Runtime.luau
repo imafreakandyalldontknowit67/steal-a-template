@@ -47,10 +47,12 @@ return function(root)
    task.delay(.15,function()if transition==v then p.Visible=false;p.Position=UDim2.fromScale(.5,.5)end end)
   end
  end
+ local cashProducts={['1K Cash']=1000,['100K Cash']=100000,['1M Cash']=1000000,['10M Cash']=10000000}
  local function purchase(name,amount)
   -- DEMO ONLY: no Robux spent, no live entitlement/receipt claims.
   toast('DEMO: '..name..' — no Robux charged',true);confetti()
-  if amount then cashAdd(amount)end
+  amount=amount or cashProducts[name];if amount then cashAdd(amount)end
+  local offeredSpins=tonumber(name:match('^x(%d+) Spins$'));if offeredSpins then spins+=offeredSpins;panels.Wheel.Spin.Caption.Text='SPIN (x'..spins..')' end
   if name=='VIP' or name=='Teleporter' or name=='x2 Speed' then local c=panels.Shop.Content:FindFirstChild(name);if c then c.Buy.Amount.Visible=false;c.Buy.Robux.Visible=false;c.Buy.Caption.Text='OWNED' end end
  end
  local function refreshSpin() panels.Wheel.Spin.Caption.Text='SPIN (x'..spins..')' end;refreshSpin()
@@ -77,7 +79,7 @@ return function(root)
   elseif verb=='Daily' or verb=='Time' then local n=tonumber(arg);local key=verb..arg;local allowed=(verb=='Daily' and n==1) or (verb=='Time' and elapsed>=config.TimeRewards[n]);if not allowed then toast('Reward is locked',false) elseif claims[key] then toast('Already Claimed',false)else claims[key]=true;panels[verb]['Card'..n].Claim.Caption.Text='CLAIMED';toast('Successfully claimed — demo',true);cashAdd(100)end
   elseif verb=='Redeem' then local code=panels.Codes.CodeInput.Text:match('^%s*(.-)%s*$'):lower();if config.Codes[code] and not redeemed[code] then redeemed[code]=true;cashAdd(config.Codes[code]);toast('Code Redeemed Successfully',true)else toast(redeemed[code] and 'Code already redeemed' or 'Invalid Code',false)end
   elseif verb=='Spin' then return spin()
-  elseif verb=='Spins' then local n=tonumber(arg);spins+=n;refreshSpin();purchase('x'..n..' Spins')
+  elseif verb=='Spins' then local n=tonumber(arg);purchase('x'..n..' Spins')
   elseif verb=='Skip' then return skip()
   end
  end
@@ -100,6 +102,40 @@ return function(root)
   local v=workspace.CurrentCamera.ViewportSize;local scale=math.min(v.X/1920,v.Y/1080);canvas.ViewportScale.Scale=scale;canvas.Size=UDim2.fromOffset(v.X/scale,v.Y/scale)
  end
  connect(workspace.CurrentCamera:GetPropertyChangedSignal('ViewportSize'),resize);resize()
+ -- Reference item idle motion: 4.95-5.70s shop, 23-24.5s rewards,
+ -- 25.8-26.8s daily and 50-51.5s offers. Period/easing estimated from video.
+ local motionItems={};local rayPivots={};local idleStart=os.clock()
+ local function floatItem(o,phase,amp,tilt)
+  table.insert(motionItems,{o=o,pos=o.Position,rot=o.Rotation,phase=phase or 0,amp=amp or 8,tilt=tilt or 4})
+ end
+ for _,section in ipairs({panels.Shop.Content,panels.Daily,panels.Time,panels.Rewards.RewardArt})do
+  local index=0
+  for _,o in ipairs(section:GetDescendants())do
+   if o:IsA('ImageLabel') and o.Name:match('^Icon_') and not o.Parent:IsA('GuiButton') then
+    index+=1;floatItem(o,index*.85,math.min(9,o.Size.Y.Offset*.055),4)
+   end
+  end
+ end
+ floatItem(panels.Rewards.RewardArt.Cash,.85,9,4)
+ floatItem(panels.Rewards.RewardArt.Pet,1.7,9,4)
+ for i=1,3 do floatItem(hud.Offers['Offer'..i].Art,(i-1)*.8,8,5)end
+ for _,o in ipairs(root:GetDescendants())do
+  if o:IsA('Frame') and o.Name=='RayPivot' then table.insert(rayPivots,{o=o,rot=o.Rotation})end
+ end
+ local function visible(o)
+  local p=o
+  while p and p~=root do if p:IsA('GuiObject') and not p.Visible then return false end;p=p.Parent end
+  return root.Enabled
+ end
+ connect(RS.RenderStepped,function()
+  local t=os.clock()-idleStart
+  for _,m in ipairs(motionItems)do if m.o.Parent and visible(m.o)then
+   local wave=math.sin(t*math.pi*2/1.45+m.phase)
+   m.o.Position=m.pos+UDim2.fromOffset(0,wave*m.amp)
+   m.o.Rotation=m.rot+math.sin(t*math.pi*2/1.9+m.phase)*m.tilt
+  end end
+  for _,m in ipairs(rayPivots)do if m.o.Parent and visible(m.o)then m.o.Rotation=(m.rot+t*36)%360 end end
+ end)
  local icons={crown=0,teleporter=1,shoe=2,gift=3,cash=4,key=5,potion=6,chest=7,basket=8,calendar=9,check=10,gear=11,cat=12,coin=13,flame=14,shield=15}
  local wheelTemplate=hud.Offers.Offer3.Art.WheelIcon:Clone();wheelTemplate.Parent=nil
  local groups={{{'Secret Pack','potion'},{'Teleporter','teleporter'},{'x5 Spins','wheel'}},{{'x2 Speed','shoe'},{'Secret Pack','potion'},{'100K Cash','cash'}},{{'Teleporter','teleporter'},{'x5 Spins','wheel'},{'Starter Pack','flame'}}}
