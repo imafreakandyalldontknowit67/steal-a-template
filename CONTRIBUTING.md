@@ -7,7 +7,7 @@ Steal a Template starts with UI kits. New packs should save a Roblox developer s
 3. Include an editable native model, readable source, setup instructions, and screenshots from Studio.
 4. Explain what works, what is a demo, and what the consuming game must provide.
 5. Record artwork provenance, dependencies, license status, and actual device/input coverage.
-6. Add the pack to [catalog.json](catalog.json), its category README, and the root catalog.
+6. Add the pack to [catalog.json](catalog.json) and its category README. Keep individual pack listings off the root README.
 
 For a fix, include a before/after description and refresh screenshots of changed UI. Verify the exported model, not only the authoring scene.
 

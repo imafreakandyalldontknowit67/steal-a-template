@@ -14,7 +14,7 @@ Use a stable lowercase kebab-case ID, such as `inventory-ui`. Copy `_templates/u
 - `CREDITS.md`: attribution and external asset permissions.
 - `LICENSE`: add the actual selected license before publishing.
 
-Add the pack to the root `catalog.json`, its category README, and the root README. Catalog paths are repo-relative; pack-manifest paths are pack-relative. Keep both indexes synchronized. Use the existing UI packs as gallery and download examples.
+Add the pack to the root `catalog.json` and its category README. The root README links to categories, not individual packs. Catalog paths are repo-relative; pack-manifest paths are pack-relative. Keep both indexes synchronized. Use the existing UI packs as gallery and download examples.
 
 ## Studio-first UI workflow
 

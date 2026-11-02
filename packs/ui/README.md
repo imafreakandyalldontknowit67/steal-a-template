@@ -8,24 +8,6 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 | [Essential STUD UI](essential-stud-ui/) | [13 screenshots](essential-stud-ui/#screenshot-gallery) | [EssentialStudUI.rbxm](essential-stud-ui/EssentialStudUI.rbxm?raw=1) | Draft; export, render, and Play checked |
 | [Steal an Egg](steal-an-egg/) | [21 screenshots](steal-an-egg/#screenshot-gallery) | [StealAnEggUI.rbxm](steal-an-egg/StealAnEggUI.rbxm?raw=1) | Draft; imported desktop Play checked; other devices unverified |
 
-## Studs UI
-
-[![Studs UI shop](studs-ui/previews/shop.jpg)](studs-ui/)
-
-HUD and nine panels for shops, rewards, rebirth, upgrades, index, and settings. [Open the kit](studs-ui/).
-
-## Essential STUD UI
-
-[![Essential STUD UI shop](essential-stud-ui/previews/shop.jpg)](essential-stud-ui/)
-
-Shops, gifting, rewards, codes, lucky wheel, settings, and loading, with item animation and effects. [Open the kit](essential-stud-ui/).
-
-## Steal an Egg
-
-[![Steal an Egg shop](steal-an-egg/previews/shop.jpg)](steal-an-egg/)
-
-HUD, inventory, pet collection, egg growth, fuse machine, and trail shop. [Open the kit](steal-an-egg/).
-
 ## Install
 
 Download the kit's `.rbxm`, stop Play, then use **StarterGui → Insert from File** in Studio. Move the imported ScreenGui into StarterGui if necessary. Import one copy and press Play.

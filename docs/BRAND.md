@@ -1,40 +1,86 @@
-# Steal a Template
+# Steal a Template — brand kit
 
-## The pitch
+![Brand reference sheet](../assets/branding/brand-board.png)
 
-**Free Roblox asset packs for developers and their AI agents.**
+[Editable reference sheet](../assets/branding/brand-board.svg) · [Color and layout tokens](../assets/branding/tokens.json) · [Existing banner](../assets/branding/banner.png)
+
+## Identity
+
+**Steal a Template**
 
 **Grab a kit. Build something.**
 
-The library starts with UI kits. Models, VFX, and Luau systems are the intended expansion; audio has a reserved category too. Say what exists today before talking about the roadmap.
+Free Roblox asset packs for developers and their AI agents. UI kits first; models, VFX, and Luau systems later.
 
-## Look
+Old Roblox plastic, square studs, chunky outlines, and loud buttons. A little brainrot in the artwork; precise language in the instructions. Keep the existing banner as the main illustrated header.
 
-Old Roblox plastic, square studs, chunky outlines, bright buttons, and playful proportions. A little brainrot in the art; clear instructions in the docs. The banner uses charcoal, acid lime, cyan, yellow, and white.
+## Colors
 
-The canonical name is **Steal a Template**. The repository slug is `steal-a-template`. Do not use the old `roblox-asset-packs` name in new public-facing copy. Local folder names may differ.
+| Color | Hex | Job |
+| --- | --- | --- |
+| Baseplate | `#171A1D` | Page / backdrop |
+| Panel | `#262B30` | Cards / raised panels |
+| Chalk | `#F5F7FA` | Primary text |
+| Steel | `#ADB6C2` | Secondary text |
+| Loot Lime | `#B6FF00` | Primary brand / action |
+| Electric Cyan | `#12D9EF` | Links / supporting accent |
+| Spawn Yellow | `#FFD83D` | Highlights / announcements |
+| Reset Red | `#FF453A` | Errors / destructive action |
 
-## Voice
+Use roughly **70% dark neutrals, 20% lime, and 10% supporting color** in promotional layouts. This is a composition guide, not a rigid formula. Lime should be the first accent people notice.
 
-Use short, concrete language: grab a kit, open the source, insert into Studio, edit a panel, wire a handler. Humor belongs in headlines and artwork. Setup steps, errors, compatibility, and licenses should be literal.
+Use Baseplate text on lime, cyan, yellow, and red fills. Use Chalk or Steel on dark backgrounds. Avoid white text on the bright accent fills. Communicate status with words or icons as well as color.
 
-| Use | Meaning |
+The hex values are the canonical flat palette chosen to match the banner's direction; the banner contains lighting and shading rather than exact flat fills.
+
+## Type
+
+- **Display:** Arial Black, uppercase, short headlines. Use Arial Bold if unavailable. The banner's custom lettering is artwork, not an installable font.
+- **Body:** Arial, normal sentence case. Keep setup instructions comfortably spaced.
+- **Code:** Consolas, with a monospace fallback.
+
+For designed graphics, start with 48–72 px headlines and 18–24 px body text on a 1440 px wide canvas. Adjust for the actual display size. These are art-layout starting points, not settings to apply inside every UI pack.
+
+## Shapes and texture
+
+Use an 8 px spacing rhythm, 3 px near-black outlines, 8 px corners, and a short hard shadow offset by 4 px. Keep controls boxy. Studs belong on backdrops and broad surfaces; leave reading areas clear.
+
+Decorative windows can tilt slightly. Text blocks, tables, and setup diagrams should remain straight. A red close button, cyan cursor, and yellow block character are supporting motifs, not mandatory decoration on every graphic.
+
+## Marks
+
+Use the full **Steal a Template** name whenever it remains readable. For a small square or circular avatar, use the [ST monogram SVG](../assets/branding/avatar.svg) / [PNG](../assets/branding/avatar.png): dark field, lime tile, black lettering. It is an editable secondary mark designed for small display sizes; it does not replace the existing banner.
+
+Keep clear space around a mark equal to one letter-stroke width. Do not squeeze the full banner into an avatar. Avoid fine text or tiny studs inside small icons.
+
+## Discord later
+
+No server setup is part of this kit. Use these choices when the server is created:
+
+| Surface | Direction |
 | --- | --- |
-| UI kit | Editable interface instances plus included behavior |
-| Native model / RBXM | The file imported into Studio |
-| Luau source | Readable scripts an agent or developer can inspect |
-| Demo | Local sample behavior; not a production backend |
-| Verified | A named check was actually run |
-| Planned | Not available yet |
-| Draft | Present in the repo, but not released |
-| Free | Intended pricing; not a substitute for license terms |
+| Server name | Steal a Template |
+| Icon | ST monogram; centered with a generous safe margin for circular cropping |
+| Welcome graphic | Existing banner identity, one short message, one clear next step |
+| Announcements | Charcoal backdrop, lime title, yellow highlight |
+| Asset drops | Same header/footer each time; pack preview and category carry the changing content |
+| Bot embeds | Lime accent for normal updates, cyan for help, red only for errors |
+| Roles | Lime for maintainers, cyan for contributors, neutral for members; names should carry the meaning too |
 
-Avoid “production-ready,” “works on every device,” “one-click AI integration,” and unsupported performance or compatibility claims. Do not describe planned categories as downloads.
+Prepare icons on a **1024 × 1024** canvas and announcement artwork on **1920 × 1080** as reusable design masters. These are internal working sizes; confirm Discord's current upload/crop requirements during setup. Keep titles and marks away from outer edges.
 
-## References and artwork
+## Voice and discovery
 
-The local MUX README informed the centered identity, short pitch, navigation, and direct downloads. Local Shazam informed explicit setup, readable implementation notes, and clear verification limits. Their artwork and code are not included.
+Use **kit**, **pack**, **native model**, **Luau source**, **StarterGui**, and **demo** consistently. Headlines can be playful: “Grab a kit.” Instructions should say exactly what to do.
 
-[Banner](../assets/branding/banner.png) was generated with the built-in image generation tool for this project. [Exact prompt](../assets/branding/prompt.txt). It is branding artwork, not an included game asset or a screenshot of a UI kit. No image postprocessing was applied.
+Do not force meme slang into support messages. Do not claim production readiness, all-device compatibility, or a license that has not been established.
 
-This rebrand does not change repository visibility or grant a license to existing packs.
+The homepage is a category entry point, not an expanding wall of kit cards. Individual packs belong in the category catalog and `catalog.json`; screenshots and download details belong on each pack's page. Avoid hard-coded pack counts in evergreen homepage copy.
+
+## Artwork record
+
+The existing banner was generated with the built-in image generation tool; its [exact prompt](../assets/branding/prompt.txt) is retained. The brand sheet and ST monogram are editable SVG geometry and typography, with PNG previews rendered from those sources.
+
+MUX informed the earlier README structure; Local Shazam informed explicit setup and verification language. No artwork from either project is bundled.
+
+This kit does not change repository visibility or existing pack licenses.

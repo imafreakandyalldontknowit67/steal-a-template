@@ -32,6 +32,6 @@ Steal a Template is a Roblox asset library. UI kits exist today; models, VFX, au
 
 ## Keep discovery accurate
 
-When adding or renaming a pack, update `catalog.json`, `packs/<category>/README.md`, and the root README. Verify every referenced model, source, and screenshot exists. Follow `docs/AUTHORING.md` for new packs.
+When adding or renaming a pack, update `catalog.json` and `packs/<category>/README.md`. Update the root README only when categories or installation instructions change. Verify every referenced model, source, and screenshot exists. Follow `docs/AUTHORING.md` for new packs.
 
 Brand voice: playful in headlines, precise in instructions. Use **Steal a Template**, **Roblox Studio**, **Luau**, **UI kit**, **native model**, and **demo** consistently. Do not claim production readiness, public availability, or rights that have not been established.
