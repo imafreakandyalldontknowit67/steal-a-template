@@ -1,4 +1,4 @@
-# Roblox 3D Models & Prop Packs
+# Steal a Template / Models
 
 A reserved category for original models and props. No packs are available yet.
 
@@ -6,4 +6,4 @@ Potential additions include environment props, building pieces, and themed model
 
 Each released pack should have a preview, versioned download, installation guide, dependency list, compatibility notes, and explicit license.
 
-[Browse all Roblox asset categories](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)
+[Back to Steal a Template](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)

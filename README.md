@@ -1,77 +1,81 @@
-# Free Roblox Assets & Asset Packs for Developers
+<div align="center">
 
-A growing library of original Roblox asset packs for developers building games in Roblox Studio. The collection starts with reusable UI kits and is structured to expand into 3D models, visual effects, audio, and Luau systems.
+<img src="assets/branding/banner.png" alt="Steal a Template — Grab a kit. Build something." width="100%">
 
-The goal is simple: find a pack, preview it, download it for free, and follow clear setup instructions to use it in your own game.
+# Steal a Template
 
-**Status:** private asset repository. Studs UI includes a native model download and screenshot gallery for repository collaborators; public releases are not enabled yet.
+**Free Roblox asset packs for developers and their AI agents.**
 
-## Catalog
+UI kits now. Models, VFX, and Luau systems next.
 
-| Category | Packs | Status |
+[Browse UI kits](#pick-a-kit) · [Install a kit](#drop-it-into-studio) · [Build with an agent](docs/USING_WITH_AGENTS.md) · [Contribute](CONTRIBUTING.md)
+
+</div>
+
+Skip the blank baseplate. Start with an editable kit, open the source, and build your game around it. Studded panels, chunky buttons, loud colors, and actual Roblox instances you can change.
+
+**Current status:** three UI kits are available to repository collaborators as private drafts. Free public distribution is the goal; the packs are still unlicensed and pending rights review. Check each pack's status before reuse or redistribution.
+
+<a id="catalog"></a>
+
+## Pick a kit
+
+| [Studs UI](packs/ui/studs-ui/) | [Essential STUD UI](packs/ui/essential-stud-ui/) | [Steal an Egg](packs/ui/steal-an-egg/) |
 | --- | --- | --- |
-| [UI kits and interfaces](packs/ui/) | [Studs UI: model + screenshots](packs/ui/studs-ui/) | Private draft; native-model import/render checked |
-| [3D models and props](packs/models/) | None yet | Planned |
-| [Visual effects](packs/effects/) | None yet | Planned |
-| [Audio and sound effects](packs/audio/) | None yet | Planned |
-| [Luau scripts and systems](packs/systems/) | None yet | Planned |
+| [![Studs UI shop](packs/ui/studs-ui/previews/shop.jpg)](packs/ui/studs-ui/) | [![Essential STUD UI shop](packs/ui/essential-stud-ui/previews/shop.jpg)](packs/ui/essential-stud-ui/) | [![Steal an Egg shop](packs/ui/steal-an-egg/previews/shop.jpg)](packs/ui/steal-an-egg/) |
+| HUD, shops, rewards, rebirth, index, and settings. | Shops, gifting, codes, rewards, lucky wheel, and animated effects. | HUD, pet index, active pets, growing eggs, fuse machine, and trails. |
+| [10 screenshots](packs/ui/studs-ui/#screenshot-gallery) · [Download RBXM](packs/ui/studs-ui/StudsUI.rbxm?raw=1) | [13 screenshots](packs/ui/essential-stud-ui/#screenshot-gallery) · [Download RBXM](packs/ui/essential-stud-ui/EssentialStudUI.rbxm?raw=1) | [21 screenshots](packs/ui/steal-an-egg/#screenshot-gallery) · [Download RBXM](packs/ui/steal-an-egg/StealAnEggUI.rbxm?raw=1) |
 
-## For developers
+These are UI demos. Purchases, rewards, currency, and inventory need your game's backend. Device coverage and asset-access requirements are listed in each pack.
 
-Each released pack will include a ready-to-insert `.rbxm`, installation instructions, previews, dependency information, and a license. Some packs will also include a `.rbxl` demo place.
+## Drop it into Studio
 
-Download one pack rather than cloning the whole collection. Public distribution is not enabled while this repository is private.
+1. Pick a kit and download its **`.rbxm`**. You do not need the whole repo.
+2. Stop Play in Roblox Studio. Right-click **StarterGui → Insert from File** and select the model.
+3. If it lands elsewhere, move the kit's **ScreenGui** into **StarterGui**.
+4. Press **Play**, try the included interactions, then customize the named instances.
 
-## Frequently asked questions
+The controller comes with the model. No code paste, Rojo setup, or extra plugin is needed to try the current kits. Read the pack README for its hierarchy, configuration, linked assets, and limits.
 
-### Are these Roblox assets free?
+## Bring your agent
 
-Free public downloads are the intended release model. Studs UI is currently a private, unlicensed draft with an editable model available to repository collaborators. Each released pack will state its own license and permitted uses.
+The native model is for Studio. The Luau source, file paths, and pack notes are for you and your agent.
 
-### How do I install a Roblox UI pack?
+Start with [`catalog.json`](catalog.json) to find a pack, then read its README and `src/`. [`AGENTS.md`](AGENTS.md) explains how to work in this repository; the [agent guide](docs/USING_WITH_AGENTS.md) covers importing, editing, exporting, and verifying a kit.
 
-Insert the pack's `.rbxm` model into your existing Roblox Studio place, then move its ScreenGui into `StarterGui`. Follow the pack README for exact instance names, additional services, dependencies, and customization steps.
-
-### Should I download an RBXM or RBXL file?
-
-Use an `.rbxm` model to add a reusable asset to an existing game. An `.rbxl` is a full place file, useful for opening a separate demo rather than installing only the asset.
-
-### Can I use assets in a monetized Roblox game?
-
-Check the license included with the specific pack. Commercial-use and redistribution terms have not been selected yet; free download does not automatically grant every usage right.
-
-### Do I need Rojo or a build tool?
-
-The workflow is Studio-first. Studs UI includes a ready-to-insert native model, so developers do not need a source build tool to customize it.
-
-## Structure
+Give your agent a concrete task:
 
 ```text
-packs/
-  ui/                      # Finished and in-progress UI packs
-  models/                  # Future 3D asset packs
-  effects/                 # Future visual effects
-  audio/                   # Future original audio packs
-  systems/                 # Future scripted systems
-_templates/
-  ui-pack/                 # Copy this to packs/ui/<pack-id>
-docs/
-  AUTHORING.md             # How to add a pack
-  DISTRIBUTION.md           # Downloads and release checklist
-  LICENSING.md              # Licensing decision before public release
+Read AGENTS.md and catalog.json, then inspect the Steal an Egg pack's
+README and src/ files. Adapt its HUD to my game's colors and currency.
+Keep the existing panel routes and animations. List the integration
+points before wiring my backend. Update the source and exported model,
+then verify the imported result in Studio. Report anything you could
+not test.
 ```
 
-## Create the first UI pack
+Use any agent that can read the repository. Applying changes to a live place requires Studio access, through your own import workflow or a connected Studio tool. This repo does not install an agent or MCP server.
 
-1. Copy `_templates/ui-pack` to `packs/ui/<pack-id>` (for example `inventory-ui`).
-2. Update `pack.json` and the pack README.
-3. Build the UI in Studio. Export the insertable UI to `exports/<pack-id>.rbxm`.
-4. Optionally save a demonstration place in `demo/<pack-id>-demo.rbxl`.
-5. Add previews, source files, installation steps, and dependency/credit details.
-6. Choose a license and complete the [release checklist](docs/DISTRIBUTION.md).
+## What's on the shelf?
 
-No build tooling, Rojo, or package manager is required. Those can be added later if useful.
+| Category | Today |
+| --- | --- |
+| [UI kits](packs/ui/) | Three editable kits with source, native models, and galleries |
+| [Models](packs/models/) | Planned |
+| [VFX](packs/effects/) | Planned |
+| [Luau systems](packs/systems/) | Planned |
+| [Audio](packs/audio/) | Planned |
 
-## License
+A **kit** is something you insert and adapt. A **system** will include documented gameplay integration. A working demo button does not imply a finished economy, purchase flow, or save system.
 
-Licensing has not been selected yet. Free downloads are the intended direction, but permission to reuse or redistribute must be stated explicitly before release. See [licensing](docs/LICENSING.md).
+## Make the next pack
+
+Keep each pack in its own folder. Ship the model, readable source, screenshots, setup instructions, asset provenance, and an honest verification record.
+
+[Contribution guide](CONTRIBUTING.md) · [Pack format](docs/AUTHORING.md) · [Release checklist](docs/DISTRIBUTION.md) · [Brand notes](docs/BRAND.md)
+
+## Use and licensing
+
+Free downloads are the intended release model. Current packs have no reuse or redistribution license yet; there is no blanket license for this repository. Consult each pack's README, credits, and license status. [Licensing status](docs/LICENSING.md).
+
+Independent project; not affiliated with Roblox.

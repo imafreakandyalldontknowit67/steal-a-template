@@ -1,4 +1,4 @@
-# Roblox Audio & Sound Effect Packs
+# Steal a Template / Audio
 
 A reserved category for original audio assets. No packs are available yet.
 
@@ -6,4 +6,4 @@ Potential additions include interface sounds, ambience, and game sound effects. 
 
 Each released pack should have a preview, versioned download, installation guide, dependency list, compatibility notes, and explicit license.
 
-[Browse all Roblox asset categories](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)
+[Back to Steal a Template](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)

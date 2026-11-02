@@ -1,35 +1,35 @@
-# Roblox UI Kits & Interface Packs
+# Steal a Template / UI kits
 
-Each UI kit has its **own folder**, editable model download, installation guide and screenshot gallery. Add future kits beside `studs-ui/` rather than mixing their assets or scripts together.
+Editable Roblox interfaces with native models, Luau source, and real Studio screenshots. Pick a kit, inspect the gallery, then read its setup notes.
 
-## UI pack catalog
-
-| Pack | Preview | Download | Status |
+| Kit | Gallery | Native model | Current status |
 | --- | --- | --- | --- |
-| [Studs UI — HUD & 9-panel kit](studs-ui/) | [All 10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Private draft; native model round-trip/render checked |
-| [Essential STUD UI](essential-stud-ui/) | [13 screenshots](essential-stud-ui/#screenshot-gallery) | [EssentialStudUI.rbxm](essential-stud-ui/EssentialStudUI.rbxm?raw=1) | Private demo; native export/render/Play checked |
-| [Steal an Egg — HUD & 9-panel kit](steal-an-egg/) | [All 21 screenshots](steal-an-egg/#screenshot-gallery) | [StealAnEggUI.rbxm](steal-an-egg/StealAnEggUI.rbxm?raw=1) | Private draft; imported desktop Play checked; device matrix blocked |
+| [Studs UI](studs-ui/) | [10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Draft; model import and render checked |
+| [Essential STUD UI](essential-stud-ui/) | [13 screenshots](essential-stud-ui/#screenshot-gallery) | [EssentialStudUI.rbxm](essential-stud-ui/EssentialStudUI.rbxm?raw=1) | Draft; export, render, and Play checked |
+| [Steal an Egg](steal-an-egg/) | [21 screenshots](steal-an-egg/#screenshot-gallery) | [StealAnEggUI.rbxm](steal-an-egg/StealAnEggUI.rbxm?raw=1) | Draft; imported desktop Play checked; other devices unverified |
 
-[![Studs UI HUD preview](studs-ui/previews/hud.jpg)](studs-ui/)
+## Studs UI
 
-[![Steal an Egg HUD preview](steal-an-egg/previews/hud.jpg)](steal-an-egg/)
+[![Studs UI shop](studs-ui/previews/shop.jpg)](studs-ui/)
 
-## Install a kit
+HUD and nine panels for shops, rewards, rebirth, upgrades, index, and settings. [Open the kit](studs-ui/).
 
-Download its model and insert it under **StarterGui**. Each pack README covers its exact setup, included panels, dependencies and customization.
+## Essential STUD UI
 
-```text
-packs/ui/
-├── README.md
-├── studs-ui/
-│   ├── README.md
-│   ├── StudsUI.rbxm
-│   ├── previews/
-│   ├── assets/
-│   └── src/
-└── <future-ui-kit>/           # Separate folder and README for each new kit
-```
+[![Essential STUD UI shop](essential-stud-ui/previews/shop.jpg)](essential-stud-ui/)
 
-The repository remains private. Free public downloads are planned; review each pack's license before reuse or redistribution.
+Shops, gifting, rewards, codes, lucky wheel, settings, and loading, with item animation and effects. [Open the kit](essential-stud-ui/).
 
-[All asset categories](../../README.md#catalog) · [Authoring guide](../../docs/AUTHORING.md)
+## Steal an Egg
+
+[![Steal an Egg shop](steal-an-egg/previews/shop.jpg)](steal-an-egg/)
+
+HUD, inventory, pet collection, egg growth, fuse machine, and trail shop. [Open the kit](steal-an-egg/).
+
+## Install
+
+Download the kit's `.rbxm`, stop Play, then use **StarterGui → Insert from File** in Studio. Move the imported ScreenGui into StarterGui if necessary. Import one copy and press Play.
+
+Each pack documents its source files, linked artwork, demo interactions, and device limitations. These private drafts are not yet licensed for reuse or redistribution.
+
+[Back to Steal a Template](../../README.md) · [Agent guide](../../docs/USING_WITH_AGENTS.md) · [Machine-readable catalog](../../catalog.json)

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "name": "Steal a Template",
+  "repository": "https://github.com/imafreakandyalldontknowit67/steal-a-template",
+  "description": "Free Roblox asset packs for developers and their AI agents. UI kits first.",
+  "path_base": "repository-root",
+  "distribution_status": "private-drafts",
+  "license_policy": "Per-pack; no blanket reuse license. Current packs are unlicensed.",
+  "categories": [
+    {
+      "id": "ui",
+      "status": "draft-packs-available"
+    },
+    {
+      "id": "models",
+      "status": "planned"
+    },
+    {
+      "id": "effects",
+      "status": "planned"
+    },
+    {
+      "id": "systems",
+      "status": "planned"
+    },
+    {
+      "id": "audio",
+      "status": "planned"
+    }
+  ],
+  "packs": [
+    {
+      "id": "studs-ui",
+      "name": "Studs UI",
+      "category": "ui",
+      "status": "draft",
+      "license": "UNLICENSED",
+      "summary": "HUD and nine panels for shops, rewards, rebirth, index, upgrades, and settings.",
+      "directory": "packs/ui/studs-ui",
+      "readme": "packs/ui/studs-ui/README.md",
+      "model": "packs/ui/studs-ui/StudsUI.rbxm",
+      "preview": "packs/ui/studs-ui/previews/shop.jpg",
+      "preview_count": 10,
+      "source": {
+        "build": "packs/ui/studs-ui/src/Build.luau",
+        "runtime": [
+          "packs/ui/studs-ui/src/Controller.luau"
+        ]
+      },
+      "install": {
+        "service": "StarterGui",
+        "root_class": "ScreenGui",
+        "root_name": "StudsUI"
+      },
+      "behavior": "local-demo",
+      "verification_notes": "packs/ui/studs-ui/VERIFICATION.md",
+      "limitations": [
+        "Production backend integration required",
+        "Review pack-specific device coverage",
+        "Verify linked Roblox asset access in the destination experience",
+        "Rights review and license pending"
+      ]
+    },
+    {
+      "id": "essential-stud-ui",
+      "name": "Essential STUD UI",
+      "category": "ui",
+      "status": "draft",
+      "license": "UNLICENSED",
+      "summary": "Shops, gifting, rewards, codes, lucky wheel, settings, loading, and animated effects.",
+      "directory": "packs/ui/essential-stud-ui",
+      "readme": "packs/ui/essential-stud-ui/README.md",
+      "model": "packs/ui/essential-stud-ui/EssentialStudUI.rbxm",
+      "preview": "packs/ui/essential-stud-ui/previews/shop.jpg",
+      "preview_count": 13,
+      "source": {
+        "build": "packs/ui/essential-stud-ui/src/Build.luau",
+        "runtime": [
+          "packs/ui/essential-stud-ui/src/Controller.luau",
+          "packs/ui/essential-stud-ui/src/Runtime.luau",
+          "packs/ui/essential-stud-ui/src/Configuration.luau"
+        ]
+      },
+      "install": {
+        "service": "StarterGui",
+        "root_class": "ScreenGui",
+        "root_name": "EssentialStudUI"
+      },
+      "behavior": "local-demo",
+      "verification_notes": "packs/ui/essential-stud-ui/README.md",
+      "limitations": [
+        "Production backend integration required",
+        "Review pack-specific device coverage",
+        "Verify linked Roblox asset access in the destination experience",
+        "Rights review and license pending"
+      ]
+    },
+    {
+      "id": "steal-an-egg",
+      "name": "Steal an Egg",
+      "category": "ui",
+      "status": "draft",
+      "license": "UNLICENSED",
+      "summary": "HUD, inventory, pets, growing eggs, fuse machine, and trail shop.",
+      "directory": "packs/ui/steal-an-egg",
+      "readme": "packs/ui/steal-an-egg/README.md",
+      "model": "packs/ui/steal-an-egg/StealAnEggUI.rbxm",
+      "preview": "packs/ui/steal-an-egg/previews/shop.jpg",
+      "preview_count": 21,
+      "source": {
+        "build": "packs/ui/steal-an-egg/src/Build.luau",
+        "runtime": [
+          "packs/ui/steal-an-egg/src/Controller.luau"
+        ]
+      },
+      "install": {
+        "service": "StarterGui",
+        "root_class": "ScreenGui",
+        "root_name": "StealAnEggUI"
+      },
+      "behavior": "local-demo",
+      "verification_notes": "packs/ui/steal-an-egg/VERIFICATION.md",
+      "limitations": [
+        "Production backend integration required",
+        "Review pack-specific device coverage",
+        "Verify linked Roblox asset access in the destination experience",
+        "Rights review and license pending"
+      ]
+    }
+  ]
+}
