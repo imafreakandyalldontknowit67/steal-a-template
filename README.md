@@ -10,7 +10,7 @@ The goal is simple: find a pack, preview it, download it for free, and follow cl
 
 | Category | Packs | Status |
 | --- | --- | --- |
-| [UI kits and interfaces](packs/ui/) | None yet | First category in development |
+| [UI kits and interfaces](packs/ui/) | [Studs UI](packs/ui/studs-ui/) | In-development, unverified draft |
 | [3D models and props](packs/models/) | None yet | Planned |
 | [Visual effects](packs/effects/) | None yet | Planned |
 | [Audio and sound effects](packs/audio/) | None yet | Planned |
