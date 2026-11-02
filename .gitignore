@@ -1,0 +1,26 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies and temporary outputs
+node_modules/
+.temp/
+.tmp/
+release-builds/
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm.lock
+*.rbxmx.lock
+*.autosave
+
+# Intentionally track Roblox exports and editable source files.
