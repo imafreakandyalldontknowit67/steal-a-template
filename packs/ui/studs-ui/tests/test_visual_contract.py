@@ -74,6 +74,18 @@ class VisualContractTests(unittest.TestCase):
         for path, image in expected.items():
             self.assertEqual(self.props(path)['Image'], image)
 
+    def test_no_invented_visible_settings_launcher(self):
+        self.assertFalse(self.props('HUD.LeftHUD.SettingsLauncher')['Visible'])
+
+    def test_level_button_reference_colors(self):
+        for name in ('Add5', 'Add10', 'Add25'):
+            base = 'HUD.BottomHUD.' + name
+            self.assertFalse(self.props(base + '.ReferenceGlass')['Visible'])
+            gradient = self.props(base + '.Caption.Surface')
+            self.assertEqual(gradient['Rotation'], 0 if name == 'Add25' else 90)
+            if name == 'Add25':
+                self.assertEqual(len(gradient['Color']), 33)  # Eight horizontal rainbow stops.
+
 
 if __name__ == '__main__':
     unittest.main()

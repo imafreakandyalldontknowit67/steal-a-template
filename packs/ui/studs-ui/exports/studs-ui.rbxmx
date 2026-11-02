@@ -9,7 +9,7 @@
       <string name="Name">StudsUI</string>
       <bool name="ResetOnSpawn">false</bool>
       <token name="ZIndexBehavior">1</token>
-      <BinaryString name="AttributesSerialize">CgAAAAwAAABDbGlja1NvdW5kSWQCGwAAAHJieGFzc2V0aWQ6Ly84NzQzNzU0NDIzNjcwOAwAAABDbG9zZVNvdW5kSWQCGwAAAHJieGFzc2V0aWQ6Ly84ODQ0MjgzMzUwOTUzMggAAABEZW1vT25seQMBDAAAAEhvdmVyU291bmRJZAIcAAAAcmJ4YXNzZXRpZDovLzEzOTcxOTUwMzkwNDQ0OQsAAABPcGVuU291bmRJZAIbAAAAcmJ4YXNzZXRpZDovLzg4NDQyODMzNTA5NTMyDQAAAFJlZHVjZWRNb3Rpb24DAA8AAABSZWZlcmVuY2VDYW52YXMCCQAAADIwMDB4MTEyNQ4AAABSZWZpbmVtZW50UGFzcwYAAAAAAAAYQAsAAABTb3VuZFZvbHVtZQYpXI/C9SjMPwsAAABTdHVkc1BhY2tJZAIIAAAAc3R1ZHMtdWk=</BinaryString>
+      <BinaryString name="AttributesSerialize">CgAAAAwAAABDbGlja1NvdW5kSWQCGwAAAHJieGFzc2V0aWQ6Ly84NzQzNzU0NDIzNjcwOAwAAABDbG9zZVNvdW5kSWQCGwAAAHJieGFzc2V0aWQ6Ly84ODQ0MjgzMzUwOTUzMggAAABEZW1vT25seQMBDAAAAEhvdmVyU291bmRJZAIcAAAAcmJ4YXNzZXRpZDovLzEzOTcxOTUwMzkwNDQ0OQsAAABPcGVuU291bmRJZAIbAAAAcmJ4YXNzZXRpZDovLzg4NDQyODMzNTA5NTMyDQAAAFJlZHVjZWRNb3Rpb24DAA8AAABSZWZlcmVuY2VDYW52YXMCCQAAADIwMDB4MTEyNQ4AAABSZWZpbmVtZW50UGFzcwYAAAAAAAAcQAsAAABTb3VuZFZvbHVtZQYpXI/C9SjMPwsAAABTdHVkc1BhY2tJZAIIAAAAc3R1ZHMtdWk=</BinaryString>
     </Properties>
     <Item class="Frame" referent="RBX2">
       <Properties>
@@ -3640,6 +3640,7 @@
               <float name="TextStrokeTransparency">1</float>
               <bool name="TextWrapped">true</bool>
               <token name="TextXAlignment">2</token>
+              <bool name="Visible">false</bool>
               <int name="ZIndex">5</int>
               <BinaryString name="AttributesSerialize">AgAAAAsAAABTdHVkc0FjdGlvbgIJAAAAT3BlblBhbmVsCwAAAFN0dWRzVGFyZ2V0AggAAABTZXR0aW5ncw==</BinaryString>
             </Properties>
@@ -7103,7 +7104,7 @@
             </Properties>
             <Item class="UIGradient" referent="RBX241">
               <Properties>
-                <ColorSequence name="Color">0 0.9529411793 1 0 0 1 0.200000003 0.9568627477 0 0 </ColorSequence>
+                <ColorSequence name="Color">0 0.9411764741 1 0 0 1 0.2901960909 0.9647058845 0 0 </ColorSequence>
                 <string name="Name">SurfaceGradient</string>
                 <float name="Rotation">90</float>
                 <NumberSequence name="Transparency">0 0 0 1 0 0 </NumberSequence>
@@ -7207,7 +7208,7 @@
                   <Content name="Image">
                     <url>rbxassetid://124757208359095</url>
                   </Content>
-                  <float name="ImageTransparency">0.83</float>
+                  <float name="ImageTransparency">0.62</float>
                   <string name="Name">StudTexture</string>
                   <UDim2 name="Position">
                     <XS>0</XS>
@@ -7264,7 +7265,7 @@
                   <YS>0</YS>
                   <YO>56</YO>
                 </UDim2>
-                <bool name="Visible">false</bool>
+                <bool name="Visible">true</bool>
                 <int name="ZIndex">6</int>
               </Properties>
               <Item class="Frame" referent="RBX249">
@@ -7275,7 +7276,7 @@
                     <G>1</G>
                     <B>1</B>
                   </Color3>
-                  <float name="BackgroundTransparency">0.7699999809</float>
+                  <float name="BackgroundTransparency">0.86</float>
                   <int name="BorderSizePixel">0</int>
                   <string name="Name">Diagonal0</string>
                   <UDim2 name="Position">
@@ -7302,7 +7303,7 @@
                     <G>1</G>
                     <B>1</B>
                   </Color3>
-                  <float name="BackgroundTransparency">0.7699999809</float>
+                  <float name="BackgroundTransparency">0.86</float>
                   <int name="BorderSizePixel">0</int>
                   <string name="Name">Diagonal1</string>
                   <UDim2 name="Position">
@@ -7356,8 +7357,8 @@
                 <string name="Text">+5 Levels</string>
                 <Color3 name="TextColor3">
                   <R>1</R>
-                  <G>0.7294117808</G>
-                  <B>0</B>
+                  <G>1</G>
+                  <B>1</B>
                 </Color3>
                 <bool name="TextScaled">false</bool>
                 <float name="TextSize">42</float>
@@ -7378,6 +7379,13 @@
                   <string name="Name">TextOutline</string>
                   <float name="Thickness">2.8</float>
                   <float name="Transparency">0</float>
+                </Properties>
+              </Item>
+              <Item class="UIGradient" referent="RBX3451">
+                <Properties>
+                  <ColorSequence name="Color">0 1 0.8549019694 0 0 1 1 0.5372549295 0 0 </ColorSequence>
+                  <string name="Name">Surface</string>
+                  <float name="Rotation">90</float>
                 </Properties>
               </Item>
             </Item>
@@ -7405,6 +7413,7 @@
                   <YS>1</YS>
                   <YO>-12</YO>
                 </UDim2>
+                <bool name="Visible">false</bool>
                 <int name="ZIndex">7</int>
               </Properties>
               <Item class="Frame" referent="RBX3334">
@@ -7590,7 +7599,7 @@
             </Properties>
             <Item class="UIGradient" referent="RBX255">
               <Properties>
-                <ColorSequence name="Color">0 0.9529411793 1 0 0 1 0.200000003 0.9568627477 0 0 </ColorSequence>
+                <ColorSequence name="Color">0 0.9411764741 1 0 0 1 0.2901960909 0.9647058845 0 0 </ColorSequence>
                 <string name="Name">SurfaceGradient</string>
                 <float name="Rotation">90</float>
                 <NumberSequence name="Transparency">0 0 0 1 0 0 </NumberSequence>
@@ -7694,7 +7703,7 @@
                   <Content name="Image">
                     <url>rbxassetid://124757208359095</url>
                   </Content>
-                  <float name="ImageTransparency">0.83</float>
+                  <float name="ImageTransparency">0.62</float>
                   <string name="Name">StudTexture</string>
                   <UDim2 name="Position">
                     <XS>0</XS>
@@ -7751,7 +7760,7 @@
                   <YS>0</YS>
                   <YO>56</YO>
                 </UDim2>
-                <bool name="Visible">false</bool>
+                <bool name="Visible">true</bool>
                 <int name="ZIndex">6</int>
               </Properties>
               <Item class="Frame" referent="RBX263">
@@ -7762,7 +7771,7 @@
                     <G>1</G>
                     <B>1</B>
                   </Color3>
-                  <float name="BackgroundTransparency">0.7699999809</float>
+                  <float name="BackgroundTransparency">0.86</float>
                   <int name="BorderSizePixel">0</int>
                   <string name="Name">Diagonal0</string>
                   <UDim2 name="Position">
@@ -7789,7 +7798,7 @@
                     <G>1</G>
                     <B>1</B>
                   </Color3>
-                  <float name="BackgroundTransparency">0.7699999809</float>
+                  <float name="BackgroundTransparency">0.86</float>
                   <int name="BorderSizePixel">0</int>
                   <string name="Name">Diagonal1</string>
                   <UDim2 name="Position">
@@ -7842,8 +7851,8 @@
                 </UDim2>
                 <string name="Text">+10 Levels</string>
                 <Color3 name="TextColor3">
-                  <R>0</R>
-                  <G>0.8117647171</G>
+                  <R>1</R>
+                  <G>1</G>
                   <B>1</B>
                 </Color3>
                 <bool name="TextScaled">false</bool>
@@ -7865,6 +7874,13 @@
                   <string name="Name">TextOutline</string>
                   <float name="Thickness">2.8</float>
                   <float name="Transparency">0</float>
+                </Properties>
+              </Item>
+              <Item class="UIGradient" referent="RBX3452">
+                <Properties>
+                  <ColorSequence name="Color">0 0.0941176489 0.8745098114 1 0 1 0 0.5450980663 1 0 </ColorSequence>
+                  <string name="Name">Surface</string>
+                  <float name="Rotation">90</float>
                 </Properties>
               </Item>
             </Item>
@@ -7892,6 +7908,7 @@
                   <YS>1</YS>
                   <YO>-12</YO>
                 </UDim2>
+                <bool name="Visible">false</bool>
                 <int name="ZIndex">7</int>
               </Properties>
               <Item class="Frame" referent="RBX3340">
@@ -8077,7 +8094,7 @@
             </Properties>
             <Item class="UIGradient" referent="RBX269">
               <Properties>
-                <ColorSequence name="Color">0 0.9529411793 1 0 0 1 0.200000003 0.9568627477 0 0 </ColorSequence>
+                <ColorSequence name="Color">0 0.9411764741 1 0 0 1 0.2901960909 0.9647058845 0 0 </ColorSequence>
                 <string name="Name">SurfaceGradient</string>
                 <float name="Rotation">90</float>
                 <NumberSequence name="Transparency">0 0 0 1 0 0 </NumberSequence>
@@ -8181,7 +8198,7 @@
                   <Content name="Image">
                     <url>rbxassetid://124757208359095</url>
                   </Content>
-                  <float name="ImageTransparency">0.83</float>
+                  <float name="ImageTransparency">0.62</float>
                   <string name="Name">StudTexture</string>
                   <UDim2 name="Position">
                     <XS>0</XS>
@@ -8238,7 +8255,7 @@
                   <YS>0</YS>
                   <YO>56</YO>
                 </UDim2>
-                <bool name="Visible">false</bool>
+                <bool name="Visible">true</bool>
                 <int name="ZIndex">6</int>
               </Properties>
               <Item class="Frame" referent="RBX277">
@@ -8249,7 +8266,7 @@
                     <G>1</G>
                     <B>1</B>
                   </Color3>
-                  <float name="BackgroundTransparency">0.7699999809</float>
+                  <float name="BackgroundTransparency">0.86</float>
                   <int name="BorderSizePixel">0</int>
                   <string name="Name">Diagonal0</string>
                   <UDim2 name="Position">
@@ -8276,7 +8293,7 @@
                     <G>1</G>
                     <B>1</B>
                   </Color3>
-                  <float name="BackgroundTransparency">0.7699999809</float>
+                  <float name="BackgroundTransparency">0.86</float>
                   <int name="BorderSizePixel">0</int>
                   <string name="Name">Diagonal1</string>
                   <UDim2 name="Position">
@@ -8329,8 +8346,8 @@
                 </UDim2>
                 <string name="Text">+25 Levels</string>
                 <Color3 name="TextColor3">
-                  <R>0.8588235378</R>
-                  <G>0</G>
+                  <R>1</R>
+                  <G>1</G>
                   <B>1</B>
                 </Color3>
                 <bool name="TextScaled">false</bool>
@@ -8352,6 +8369,13 @@
                   <string name="Name">TextOutline</string>
                   <float name="Thickness">2.8</float>
                   <float name="Transparency">0</float>
+                </Properties>
+              </Item>
+              <Item class="UIGradient" referent="RBX3453">
+                <Properties>
+                  <ColorSequence name="Color">0 0.8745098114 0 1 0 0.1428571492 0.650980413 0 1 0 0.2857142985 0 0.7921568751 1 0 0.4285714328 0.270588249 0.9568627477 0.1098039225 0 0.571428597 1 0.7490196228 0 0 0.7142857313 1 0.1450980455 0.4588235319 0 0.8571428657 0.9411764741 0 1 0 1 0.650980413 0 1 0 </ColorSequence>
+                  <string name="Name">Surface</string>
+                  <float name="Rotation">0</float>
                 </Properties>
               </Item>
             </Item>
@@ -8379,6 +8403,7 @@
                   <YS>1</YS>
                   <YO>-12</YO>
                 </UDim2>
+                <bool name="Visible">false</bool>
                 <int name="ZIndex">7</int>
               </Properties>
               <Item class="Frame" referent="RBX3346">
@@ -79518,7 +79543,7 @@ consectetur adipiscing elit.</string>
         </Item>
       </Item>
     </Item>
-    <Item class="LocalScript" referent="RBX3451">
+    <Item class="LocalScript" referent="RBX3454">
       <Properties>
         <string name="Name">Controller</string>
         <bool name="Disabled">false</bool>

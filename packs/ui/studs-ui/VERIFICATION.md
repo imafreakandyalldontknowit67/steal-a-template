@@ -1,5 +1,9 @@
 # Latest refinement verification
 
+## Pass 7: remove invented launcher and correct level-button palette
+
+Rechecked the original full-size Shop screenshot and supplied level-bar crop. Removed SET from the visible HUD (SettingsLauncher is hidden; its panel remains available for later placement). All three level buttons retain yellow/lime studded backgrounds with subtler diagonal highlights. Caption gradients now distinguish gold/orange +5, cyan/blue +10 and horizontal multicolor +25; the earlier flat purple +25 and oversized white glass bands were incorrect. Inspected the result through an Edit-mode Studio capture. Source and export updated; controller/animations unchanged.
+
 ## Pass 6: operator-marked detail corrections
 
 - Rebuilt currency symbols as clipped native octagons with a square center, replacing rounded/rotated squares throughout the UI.
