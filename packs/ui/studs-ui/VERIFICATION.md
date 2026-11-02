@@ -1,5 +1,17 @@
 # Latest refinement verification
 
+## Pass 6: operator-marked detail corrections
+
+- Rebuilt currency symbols as clipped native octagons with a square center, replacing rounded/rotated squares throughout the UI.
+- Rebuilt the Daily Rewards alert as a circular gradient badge with a clean outline and highlight; removed square decoration layers.
+- Added clipped diagonal glass highlights and gift watermarks to X2 Money/X2 Luck; refined level-button surfaces and wallet outline/type proportions.
+- Added large crate/gift background illustrations, horizontal rainbow shading, tinted item wells and crossed-out original prices to the premium Shop offer cards. Verified gloss stays below item-card content.
+- Left HUD Shop now targets StockShop; top Shop still targets premium Shop. Redundant separate Stock Shop launcher is hidden.
+- Replaced rebirth/cash artwork with closer reference-guided generated sprites; bottom-right third status is now a native blue check badge. Restored pink X1.3 and blue N/A text colors.
+- Saved PNGs, asset IDs and generation prompts under assets/. Native source and XML export synchronized; final instance count 3,451.
+
+Inspected Shop, StockShop and HUD in Edit-mode Studio captures and scanned all nine panels for text fit: zero failures at the current viewport. Visible replacement sprites loaded; an offscreen Shop cash image reported not loaded during the scan, so that individual hidden image was not visually verified. Verified navigation attributes without entering Play. Controller/animation source was not changed. Unit suite: 46 run, 45 passed, one skipped; export consistency passed. Native icon shape, backgrounds and closer generated art are not a pixel-exact extraction of the reference.
+
 ## Pass 5: edit-time sizing comparison
 
 Compared each supplied screenshot panel against Studio MCP captures with panels made visible in Edit mode. Also reviewed the Upgrades video still, Settings and StarterPack. Did not enter Play or modify the controller/animations in this pass.

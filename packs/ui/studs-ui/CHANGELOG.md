@@ -2,6 +2,8 @@
 
 ## Unreleased - 0.1.0 refined draft
 
+- Pass 6: rebuilt Robux symbols/notification badge, added reference-style glossy backgrounds and offer artwork, corrected left Shop routing, replaced cash/rebirth sprites and restored blue check/pink-blue status badges. Added six visual-structure regression tests; animations unchanged.
+
 - Pass 5: compared panels in Edit mode; corrected individual HUD/modal text sizes, label boxes and price-symbol spacing, restored missing arrows, and verified no text-fit failures at the inspected viewport. Controller/animations unchanged.
 
 - Added editable HUD, nine panels, controller, source installer and XML export.

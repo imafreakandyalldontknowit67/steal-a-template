@@ -1,0 +1,13 @@
+# Pass 6 replacement art
+
+Generated with the built-in image generation tool, with transparent backgrounds. Reference screenshots were supplied by the operator and are not distributed. These are reference-guided replacements, not exact extracted pixels.
+
+Files: `rebirth-v2.png` and `cash-v2.png`. Uploaded IDs are recorded under the matching keys in `asset-ids.json`; original versions are retained for comparison. Robux symbols, notification circle and blue check badge are native editable shapes, not generated raster images.
+
+## Rebirth final prompt
+
+Create a transparent-background replacement sprite of ONLY the rebirth icon from this supplied Roblox UI reference. Specifically reproduce the large icon on the left-side Rebirth button and the same icon at the left edge of the Rebirth modal header. Isolate just the circular pair of arrows, no text, no button, no scene. Match the reference silhouette precisely: two broad thick swooping arrows form an almost circular disc, upper arrow is rose red with a LARGE angular triangular arrowhead at the upper right, lower arrow is pale ice-blue/white with a LARGE angular triangular arrowhead at lower left, dark black/navy outer contour and dark central gap. The arrows are wide flat filled shapes, NOT thin rounded tubular loops. Faceted cel shading and crisp polygon highlights as in the reference; red region subtle light-red top facet; white-blue lower region pale cyan underside. Single centered icon, fills 90% of square canvas, transparent outside, no shadows outside silhouette, no glow, no extra symbols. This is an asset for a faithful UI reproduction, not a redesign.
+
+## Cash final prompt
+
+Produce ONE isolated transparent-background UI sprite matching the small CASH BUNDLE in the bottom-right corner of this Roblox screenshot (above X1.1), and the cash icon in the starter pack offer. Copy this reference shape closely: a SINGLE tidy rectangular bundle of bright green banknotes, bound by ONE wide golden-yellow paper strap across its middle. Isometric view, long rectangular block rising toward the upper right, top surface medium emerald green with lighter lime banknote line markings, front long face lime green, visible side dark green. Broad yellow strap wraps vertically around the short dimension near the center/right. Crisp dark navy outline, flat polygonal cel shading, slight bevels. Simple solid rectangular single bundle, NOT a loose or fanned stack, NOT multiple bundles, no flying notes, no coin, no currency text, no white or dollar symbols. At small game HUD icon size it must read exactly like the reference compact green rectangular block with yellow band. Centered one object fills 85% of square canvas, fully transparent outside outline.
