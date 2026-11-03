@@ -2,7 +2,7 @@
   "source": "https://github.com/grim-technologies-arch/ui-figma-roblox",
   "commit": "99d286134d1fe9bed75e41c563f98555ac714c3c",
   "downloaded_at_utc": "2026-11-03T04:39:45.428742+00:00",
-  "file_count": 1120,
+  "file_count": 1113,
   "files": {
     ".gitignore": "b3eb1d9b83b1687f4009d41ec6469d0654561efb68a011fd65ab3cdef99a4da9",
     "assets/kek-ui-essentials/ASSET-NOTES.md": "e29ceeaf1a352c3053d32d53ec8d34cee27bbd40176af3a28c06b145c517b020",
@@ -1093,7 +1093,6 @@
     "assets/ui-resources/README.md": "31c9439a52224c09a19d365b0c807bb1363a15ecf0e346772cf84deaf53c4f60",
     "assets/ui-resources/SUMMARY.json": "c663023f1c98480b74b78b0fc03fe9c0a0236e01cbad77f46eb98a2078d8a4a3",
     "ATTRIBUTION.md": "77936492b7bfe920bfc73941f23dc4acb8984fe13d7bdb78b4f7b0f9bcda90fb",
-    "bin/ui-figma-roblox.js": "e2b600a883e88fef47f56a18c556b556a55e948d5bce7c9d4037626903cd88fa",
     "examples/stud-shop/README.md": "4d1a09446a43cd9d9a0ec10ff41f9b91922ef410b1846f4c4364f26083a5ed96",
     "examples/stud-shop/renders/00-user-reference.webp": "6d44e5275d77bad37fc2b9a06934801de6aa19845db949b68aa36c8890dd6f96",
     "examples/stud-shop/renders/01-rejected-first-attempt.png": "460e0429790af4fbb6fe35995c41bd39e49a6a5179119f4ed143de072692ae14",
@@ -1113,17 +1112,11 @@
     "examples/stud-shop/scripts/figma/03-button-bevels.js": "644a37934a9a4035d33dfaf2662188d932ca001b294f8d8aff1477bb3eac0e6e",
     "examples/stud-shop/scripts/roblox/build_shopgui.luau": "f73494730a3212881414aac05a0f6c286512ba3ef58d08708217029aec94f17f",
     "examples/stud-shop/scripts/roblox/ShopController.client.luau": "9a5d993a4e4486a1105489ff45010930290ec91588a02d7c9f3a6ba9622c945b",
-    "lib/agents.js": "ba1a7ad9268ac9793aa8c2dd272e03acfcdf06dc9de76b39238c3764c4368387",
-    "lib/cli.js": "4e7cfd5cf3a964b28bb8ef765720689d0459f127a1d1e5d2051bf8e2f2ec1a68",
-    "lib/install.js": "56c907cc27f9b22190fa2853f5489a07448b152fc56dde9bd685dc987c990123",
-    "lib/ui.js": "f9ef172a17e6ab424c382ac30d40af3caf70fcbe7cb3c8b6ebd70f24b6b41be3",
     "LICENSE": "38a34e90132ecc84b01604f6e98adf172046b102e75b937bd46ad1855749b442",
-    "package-lock.json": "05ab6289022b01c545502e706eeccd1e5fb762a414fb610e6d2133849ffdff75",
-    "package.json": "38a5720a97177936ede460ec51ffbcd8586010af33fb395ec2f349ea2529ecf2",
     "README.md": "21cc1e3fbd79cd48af6c3dcd5ffd323a876dd5d925ed2a264ac37bc3e4734887",
     "references/asset-library.md": "13ea142e90dc18b171de3dc39803f43f5ee0c99de6c14c16da9a2a57ee1891f7",
     "references/design-workflow.md": "cc20be1fcb833a28741309c237f470c1f2902cb6f5e91cec6699252f06e5d4e0",
     "SKILL.md": "44d73cb10f52c6e5f0d1bf0b766341b61c50ffd47a25ca906196fc731f8039c8"
   },
-  "local_changes": "Collection relocated into resources/ui-figma-roblox; README rewritten for local use; raw API catalog removed. Checksums describe the retained original source files, before local documentation edits."
+  "local_changes": "Collection relocated into resources/ui-figma-roblox; README rewritten for local use; raw API catalog and upstream npm installer removed. Checksums describe retained original source files before local documentation edits."
 }

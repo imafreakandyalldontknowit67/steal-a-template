@@ -60,3 +60,5 @@ Studio captures of the kit; the baseplate environment is not included.
 ## Assets and use
 
 Generated artwork and editable native geometry; no seller source files or reference media are bundled. Asset IDs and artwork provenance are in `assets/`. Verify Roblox asset access in your destination experience. This reference-inspired kit remains private pending redistribution-rights review; generated artwork and motion are not an exact reproduction.
+
+See [credits and permissions](CREDITS.md) for artwork records and license scope.
