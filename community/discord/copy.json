@@ -1,0 +1,145 @@
+{
+  "cards": [
+    {
+      "channel": "start-here",
+      "banner": "welcome",
+      "title": "Start here",
+      "body": "Free Roblox assets for developers and their AI agents. Start with editable UI kits.\n\n1. Read <#1566966690649083927>.\n2. Grab a kit from <#1566966693727699087>.\n3. Tell us what you are building in <#1566964412928233636>.\n\nShare your work in <#1566970205513453709> or request a UI in <#1566966905204506648>. Choose optional pings in Channels & Roles.",
+      "links": [
+        [
+          "Read rules",
+          "rules"
+        ],
+        [
+          "Find assets",
+          "asset-library"
+        ],
+        [
+          "Join chat",
+          "general"
+        ]
+      ]
+    },
+    {
+      "channel": "rules",
+      "banner": "rules",
+      "title": "Rules",
+      "body": "1. Respect other people. No harassment, hate speech, or sexual content.\n\n2. Keep posts relevant. No spam, unsolicited advertising, or mass mentions.\n\n3. Share only work and references you have permission to share. No leaked paid assets, malicious files, or requests for passwords and tokens.\n\n4. Use the right channel. Keep feedback useful and about the work, not the person.\n\n5. UI requests need a screenshot of every frame or panel you want copied and a full walkthrough video showing animations and interactions. Incomplete references may be sent back.\n\n6. Follow moderator directions. Report problems privately to the server owner rather than starting an argument.",
+      "links": [
+        [
+          "Start here",
+          "start-here"
+        ],
+        [
+          "Join chat",
+          "general"
+        ]
+      ]
+    },
+    {
+      "channel": "announcements",
+      "banner": "announcements",
+      "title": "Announcements",
+      "body": "Kit releases and community announcements live here.\n\nChoose optional pings in Channels & Roles: UI releases, Model releases, VFX releases, Luau releases, Community updates, or Events.\n\nWe use the relevant topic role for updates. You can change your choices at any time.\n\nBrowse the kits on [GitHub](https://github.com/imafreakandyalldontknowit67/steal-a-template).",
+      "links": [
+        [
+          "Browse kits",
+          "asset-library"
+        ],
+        [
+          "Join chat",
+          "general"
+        ]
+      ]
+    },
+    {
+      "channel": "asset-library",
+      "banner": "assets",
+      "title": "The library",
+      "body": "The assets live on [GitHub](https://github.com/imafreakandyalldontknowit67/steal-a-template). Browse the catalog, pick a UI kit, and follow its README.\n\nDownload the RBXM and drag it into Roblox Studio. If its ScreenGui is outside StarterGui, move it there. If it is already there, leave it in place. Import one copy.\n\nWorking with an AI agent? Use the repository installation instructions and give it the kit name or pack link.\n\nShow your changes in <#1566970205513453709> or report a kit issue in <#1566966709355806911>.",
+      "links": [
+        [
+          "Open GitHub",
+          "https://github.com/imafreakandyalldontknowit67/steal-a-template"
+        ],
+        [
+          "Share your build",
+          "showcase"
+        ]
+      ]
+    },
+    {
+      "channel": "general",
+      "banner": "general",
+      "title": "What are you building?",
+      "body": "Tell us what you are building and what you want to make next.\n\nAsk setup questions, compare approaches, and help another developer. Work in progress is welcome.\n\nShare your project in <#1566970205513453709>. Found a kit issue? Use <#1566966709355806911>.",
+      "links": [
+        [
+          "Share work",
+          "showcase"
+        ],
+        [
+          "Report a kit issue",
+          "bug-reports"
+        ]
+      ]
+    },
+    {
+      "channel": "suggestions",
+      "banner": "suggestions",
+      "title": "Suggest an improvement",
+      "body": "Describe the problem, who it affects, and the improvement you want. Keep one suggestion per message.\n\nHave a fix, cleanup, or improvement to the repository? Open a [pull request](https://github.com/imafreakandyalldontknowit67/steal-a-template/pulls) with what changed and how you checked it.\n\nFor a UI recreation, use <#1566966905204506648> with a full walkthrough video and a screenshot of every frame or panel you want copied.",
+      "links": [
+        [
+          "Open pull requests",
+          "https://github.com/imafreakandyalldontknowit67/steal-a-template/pulls"
+        ],
+        [
+          "Request a UI",
+          "ui-requests"
+        ]
+      ]
+    },
+    {
+      "channel": "bug-reports",
+      "banner": "bugs",
+      "title": "Report a kit issue",
+      "body": "Include:\n\nKit name and version, release, or commit\nDownload or pack link\nSteps to reproduce\nExpected result and actual result\nStudio errors and relevant logs\nDevice, viewport, and input method\nScreenshots or video showing the issue\nWhether the kit was modified and whether it happens in a clean place\n\nNo version label? Include the download date and source link.\n\nUsing an agent? Download report-kit-issue.txt attached to this post and give it to your agent. It will gather the details into a report you can review and post here. Remove secrets from logs.",
+      "links": [
+        [
+          "Open GitHub",
+          "https://github.com/imafreakandyalldontknowit67/steal-a-template"
+        ],
+        [
+          "Join chat",
+          "general"
+        ]
+      ]
+    }
+  ],
+  "requestGuide": {
+    "title": "How to request a UI",
+    "body": "Open one post per UI with a descriptive title. Include:\n\nA reference source or link\nA clear screenshot of every frame or panel you want copied, including its important states\nA full walkthrough video showing animations, opening and closing, hover and click feedback, scrolling, and transitions\nWhat you want recreated and any changes\nTarget devices and behavior the video does not show\n\nAttach the video or provide a viewable link. A still image or teaser is not enough. Both the video and screenshots are required.\n\nOnly share references you have permission to share; do not upload paid source files. Requests are suggestions, not delivery promises.",
+    "links": [
+      [
+        "Join chat",
+        "general"
+      ]
+    ]
+  },
+  "forumGuidelines": "Open one post per UI with a descriptive title. Include:\n\nA reference source or link\nA clear screenshot of every frame or panel you want copied, including its important states\nA full walkthrough video showing animations, opening and closing, hover and click feedback, scrolling, and transitions\nWhat you want recreated and any changes\nTarget devices and behavior the video does not show\n\nAttach the video or provide a viewable link. A still image or teaser is not enough. Both the video and screenshots are required.\n\nOnly share references you have permission to share; do not upload paid source files. Requests are suggestions, not delivery promises.",
+  "showcaseGuide": {
+    "title": "Show what you made",
+    "body": "Create one post per project. Include a screenshot or video, the kit name and version, what you changed, and the feedback you want.\n\nChoose Work in progress or Released. Keep updates together in your post, and give useful feedback on other builds.\n\nShare the work; keep unrelated promotion out.",
+    "links": [
+      [
+        "Browse kits",
+        "asset-library"
+      ],
+      [
+        "Join chat",
+        "general"
+      ]
+    ]
+  }
+}

@@ -53,21 +53,26 @@ Use the full **Steal a Template** name whenever it remains readable. For a small
 
 Keep clear space around a mark equal to one letter-stroke width. Do not squeeze the full banner into an avatar. Avoid fine text or tiny studs inside small icons.
 
-## Discord later
+## Discord
 
-No server setup is part of this kit. Use these choices when the server is created:
+The [Discord kit](../community/discord/README.md) contains deployed banners, the builder profile image, onboarding icons, copy, and configuration. Use charcoal reading areas, the yellow-and-blue character carrying a lime UI window from the GitHub hero, square studs, and a lime-to-cyan accent. Avoid nested decorative borders. Channel banners contain only a large channel title and artwork; omit the brand-name label and subtitles because the body embed supplies the explanation.
 
-| Surface | Direction |
+Banner masters are 1200 × 320. Keep written messages plain, without emojis or decorative typography. Each guide uses an image-only embed followed by a body embed and link buttons.
+
+### Role palette
+
+The role palette forms a lime-to-cyan progression across visible identities:
+
+| Role | Color |
 | --- | --- |
-| Server name | Steal a Template |
-| Icon | ST monogram; centered with a generous safe margin for circular cropping |
-| Welcome graphic | Existing banner identity, one short message, one clear next step |
-| Announcements | Charcoal backdrop, lime title, yellow highlight |
-| Asset drops | Same header/footer each time; pack preview and category carry the changing content |
-| Bot embeds | Lime accent for normal updates, cyan for help, red only for errors |
-| Roles | Lime for maintainers, cyan for contributors, neutral for members; names should carry the meaning too |
+| Maintainer | `#B6FF00` |
+| Moderator | `#8EF640` |
+| Contributor | `#65EC80` |
+| Studio builder | `#3CE3B7` |
+| Agent builder | `#12D9EF` |
+| All notification roles | Default / no color (`0`) |
 
-Prepare icons on a **1024 × 1024** canvas and announcement artwork on **1920 × 1080** as reusable design masters. These are internal working sizes; confirm Discord's current upload/crop requirements during setup. Keep titles and marks away from outer edges.
+These are flat role colors, not an animated or per-name gradient. The current server does not expose enhanced role styles. Notification roles never supply a display color. A member with multiple colored roles displays the color of their highest role. The bot could set colors but Discord rejected hierarchy reordering; the owner must arrange staff above contributor and builder roles.
 
 ## Voice and discovery
 

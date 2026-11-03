@@ -44,13 +44,17 @@ The controller comes with the model. No code paste or extra plugin is needed to 
 With your agent connected to Studio, give it this:
 
 ```text
-Install [kit name] from Steal a Template in my open Studio place.
-Read its catalog entry and setup notes. Check whether the kit is
-already imported. If its ScreenGui is outside StarterGui, move it
-into StarterGui. If it is already there, leave it in place.
-If it is missing, import the pack's native model once. Preserve
-unrelated UI and included scripts. Verify it opens in Play mode.
-If you cannot access Studio or import the file, tell me what remains.
+Install [kit name or pack URL] in my intended Roblox Studio place.
+Repository: https://github.com/imafreakandyalldontknowit67/steal-a-template
+Catalog: https://github.com/imafreakandyalldontknowit67/steal-a-template/blob/main/catalog.json
+Use my authorized repository access to read AGENTS.md, the catalog,
+and the selected pack's setup notes. Inspect the imported kit first.
+Move its ScreenGui into StarterGui only if it is elsewhere; leave an
+existing StarterGui copy in place. Import the native model once only
+if absent. Do not create duplicates or overwrite my edits. Preserve
+included scripts and unrelated UI. If Studio tools are available,
+verify it in Play and restore the previous mode. Report what remains
+if repository access, import, or verification is unavailable.
 ```
 
 [Agent setup details](docs/USING_WITH_AGENTS.md) · [Repository instructions](AGENTS.md)

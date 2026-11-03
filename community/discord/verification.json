@@ -1,0 +1,132 @@
+{
+  "checked_at": "2026-11-03T00:26:51.998Z",
+  "community": true,
+  "onboarding_enabled": true,
+  "below_requirements": false,
+  "default_channels": 9,
+  "showcase_forum": true,
+  "removed_channels_absent": true,
+  "notification_roles_colorless": true,
+  "role_colors": [
+    {
+      "name": "Studio builder",
+      "color": 3990455
+    },
+    {
+      "name": "Agent builder",
+      "color": 1235439
+    },
+    {
+      "name": "Contributor",
+      "color": 6679680
+    },
+    {
+      "name": "Moderator",
+      "color": 9369152
+    },
+    {
+      "name": "Maintainer",
+      "color": 11992832
+    }
+  ],
+  "messages": [
+    {
+      "channel": "start-here",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [],
+      "bodyMatches": true
+    },
+    {
+      "channel": "rules",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [],
+      "bodyMatches": true
+    },
+    {
+      "channel": "announcements",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [],
+      "bodyMatches": true
+    },
+    {
+      "channel": "asset-library",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [],
+      "bodyMatches": true
+    },
+    {
+      "channel": "general",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [],
+      "bodyMatches": true
+    },
+    {
+      "channel": "suggestions",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [],
+      "bodyMatches": true
+    },
+    {
+      "channel": "bug-reports",
+      "embeds": 2,
+      "imageOnly": true,
+      "pinned": true,
+      "attachments": [
+        "report-kit-issue.txt"
+      ],
+      "bodyMatches": true
+    }
+  ],
+  "role_reorder": "Rejected by Discord permissions; owner action needed",
+  "new_member_client_walkthrough": false,
+  "final_banner_revision": "GitHub hero character, channel title only",
+  "final_banner_readback": [
+    {
+      "channel": "start-here",
+      "image_present": true,
+      "body_matches": true
+    },
+    {
+      "channel": "rules",
+      "image_present": true,
+      "body_matches": true
+    },
+    {
+      "channel": "announcements",
+      "image_present": true,
+      "body_matches": true
+    },
+    {
+      "channel": "asset-library",
+      "image_present": true,
+      "body_matches": true
+    },
+    {
+      "channel": "general",
+      "image_present": true,
+      "body_matches": true
+    },
+    {
+      "channel": "suggestions",
+      "image_present": true,
+      "body_matches": true
+    },
+    {
+      "channel": "bug-reports",
+      "image_present": true,
+      "body_matches": true
+    }
+  ]
+}
