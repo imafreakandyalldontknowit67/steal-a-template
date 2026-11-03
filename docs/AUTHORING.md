@@ -9,7 +9,7 @@ Keep each pack in `packs/<category>/<pack-id>/`, using a stable lowercase, hyphe
 - `src/`: editable scripts and design source where applicable. State which source is authoritative if there are multiple formats.
 - `previews/`: labeled screenshots, recordings, and audio samples covering the full pack.
 - `demo/`: an optional example place showing the assets in use.
-- `CREDITS.md` and `LICENSE`: creator credits and the terms that apply to the included files.
+- `CREDITS.md` and `LICENSE`: creator credits, a copy of the project MIT license for original contributions, and any third-party terms. See [license scope](LICENSING.md).
 - `CHANGELOG.md`: changes by version.
 - `pack.json`, if used: pack-specific metadata; file paths are relative to the pack folder.
 

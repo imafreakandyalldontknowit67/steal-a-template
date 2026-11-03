@@ -6,4 +6,4 @@ Eleven illustration icons and one stud texture were generated for this pack. PNG
 
 Image/audio delivery and destination-experience access are runtime media dependencies. No third-party code package or network code loader is required. Verify current media usage terms and permissions before publishing.
 
-**UNLICENSED private draft.** No reuse/redistribution grant is provided. Review design/reference rights and asset licensing before public release.
+Original Steal a Template code, editable instances, and generated artwork use the [MIT License](LICENSE). This grant does not cover third-party reference designs or linked media; the permission gaps recorded above remain unresolved.

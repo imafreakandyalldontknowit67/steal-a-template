@@ -8,4 +8,4 @@ PNG artwork was generated for this task with OpenAI image generation; geometric 
 
 No original audio is distributed. Roblox platform fonts and UI rendering are dependencies.
 
-**UNLICENSED / private draft.** Ownership and permission for public distribution of this recreation have not been established. No reuse or redistribution license is granted. Local catalog registration does not publish a release.
+Original Steal a Template code, editable instances, and generated artwork use the [MIT License](LICENSE). That grant does not cover the referenced commercial design or establish its redistribution permission. Reference-design clearance remains unresolved.

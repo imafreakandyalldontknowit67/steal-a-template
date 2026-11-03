@@ -28,8 +28,7 @@ OS does not grant symlink creation; portable traversal/drive/UNC tests still run
 - Required nonempty `pack.json`, `README.md`, `CHANGELOG.md`, `CREDITS.md`, and
   `src/Build.luau`. Missing implementation files are **failures**, not skips.
 - Unambiguous JSON, template field types, identity `studs-ui` / `ui`, and this
-  task's **`draft` / `UNLICENSED`** metadata. A `LICENSE` is not required for this
-  unlicensed draft; no license grant or release approval is implied.
+  pack's `draft` status. `MIT` requires a readable LICENSE with permission and warranty notices; `UNLICENSED` is accepted for explicitly unlicensed drafts. License checks do not establish third-party permissions or release approval.
 - Every path under `files`, including additional nested path collections:
   existence, file type, portable relative paths, and resolved containment.
   Absolute paths, drive/UNC paths, traversal, and external symlinks fail.

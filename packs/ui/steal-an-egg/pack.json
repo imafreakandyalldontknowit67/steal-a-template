@@ -1,12 +1,12 @@
 {
   "id": "steal-an-egg",
-  "name": "Steal an Egg - Roblox HUD and Interface Pack",
+  "name": "Steal a Template / Steal an Egg - Roblox HUD and Interface Pack",
   "category": "ui",
   "version": "0.1.1",
   "status": "draft",
   "description": "Editable nine-panel HUD with Roblox-style top-bar inventory/settings, visible Fuse/Trails demo routes, native model and controller. Desktop mouse verified; device matrix blocked.",
-  "license": "UNLICENSED",
-  "author": "",
+  "license": "MIT",
+  "author": "Steal a Template contributors",
   "files": {
     "model": "StealAnEggUI.rbxm",
     "demo": null,
@@ -42,5 +42,6 @@
     "roblox-studio",
     "demo",
     "steal-an-egg"
-  ]
+  ],
+  "licenseScope": "Original Steal a Template contributions; see CREDITS.md for third-party material and reference permissions."
 }

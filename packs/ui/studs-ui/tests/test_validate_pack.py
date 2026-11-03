@@ -149,6 +149,23 @@ class ValidatePackTests(unittest.TestCase):
                 self.metadata[key] = old
         self.save_metadata()
 
+    def test_mit_license_notice_required(self):
+        self.metadata["license"] = "MIT"
+        self.save_metadata()
+        self.assert_code("metadata.license", "FAIL")
+        self.write("LICENSE", "MIT License only; permission text is missing.")
+        self.assert_code("metadata.license", "FAIL")
+        license_text = (Path(__file__).resolve().parents[1] / "LICENSE").read_text(encoding="utf-8")
+        self.write("LICENSE", license_text)
+        self.assert_no_failures()
+        self.assert_code("metadata.license", "PASS")
+        self.assertFalse(any(f.code == "release.unlicensed" for f in self.findings()))
+
+    def test_unknown_license_rejected(self):
+        self.metadata["license"] = "anything-goes"
+        self.save_metadata()
+        self.assert_code("metadata.license", "FAIL")
+
     def test_template_file_types(self):
         for key, value in (("model", []), ("demo", {}), ("previews", None), ("previews", [None])):
             with self.subTest(key=key, value=value):

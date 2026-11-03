@@ -8,7 +8,7 @@ Steal a Template is a Roblox asset library. It covers UI kits, models, VFX, audi
 - Paths inside a pack's `pack.json` are relative to that pack.
 - Category READMEs list packs. Pack READMEs and source contain the detailed behavior and limitations.
 - `.rbxm` is an exported Roblox model, not text. Read `src/` to inspect Luau; use Studio to inspect the instance hierarchy.
-- Current packs are private drafts without a reuse license. Do not change license or release status as a side effect of editing.
+- Original Steal a Template code and assets use MIT terms; see docs/LICENSING.md for scope. Preserve third-party notices and do not change release status or claim reference permissions as a side effect of editing.
 
 ## Make a scoped change
 

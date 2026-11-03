@@ -41,6 +41,6 @@ See [Contributing](CONTRIBUTING.md) for the steps.
 
 ## Use and licensing
 
-Check each pack's license and credits for its terms of use and any linked asset requirements. No repository-wide license overrides individual asset terms.
+Steal a Template's original code and assets are [MIT-licensed](LICENSE): use, modify, and share them, including in commercial Roblox games. Keep the license notice with redistributed copies. [License scope and creator credits](docs/LICENSING.md) cover included third-party material.
 
 Independent project; not affiliated with Roblox.

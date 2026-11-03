@@ -12,7 +12,7 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 
 Download the kit's `.rbxm`, stop Play, then use **StarterGui → Insert from File** in Studio. Move the imported ScreenGui into StarterGui if necessary. Import one copy and press Play.
 
-Each pack documents its source files, linked artwork, demo interactions, and device limitations. These private drafts are not yet licensed for reuse or redistribution.
+Each pack documents its source files, linked artwork, demo interactions, and device limitations. Original Steal a Template code and assets use [MIT terms](../../LICENSE); each pack's credits identify external material and permission records.
 
 [UI design resources](../../resources/ui-figma-roblox/) - artwork and editable Figma/Roblox examples in this repository.
 

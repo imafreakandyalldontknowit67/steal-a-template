@@ -195,11 +195,28 @@ class Validator:
             return
         self.add("PASS", "json.valid", "pack.json is valid, unambiguous JSON.")
         for key, expected in (("id", "studs-ui"), ("category", "ui"),
-                              ("status", "draft"), ("license", "UNLICENSED")):
+                              ("status", "draft")):
             if data.get(key) != expected:
                 self.add("FAIL", f"metadata.{key}", f"pack.json {key} must be {expected!r} for this draft contract.")
             else:
                 self.add("PASS", f"metadata.{key}", f"pack.json {key} matches the draft contract.")
+        license_id = data.get("license")
+        if license_id not in ("UNLICENSED", "MIT"):
+            self.add("FAIL", "metadata.license", "pack.json license must be MIT or UNLICENSED.")
+        elif license_id == "MIT":
+            license_path = self.path("LICENSE", "LICENSE")
+            license_text = self.read(license_path, "LICENSE") if license_path is not None else None
+            normalized = " ".join((license_text or "").split())
+            if all(phrase in normalized for phrase in (
+                "MIT License", "Permission is hereby granted, free of charge",
+                "The above copyright notice and this permission notice",
+                'THE SOFTWARE IS PROVIDED "AS IS"',
+            )):
+                self.add("PASS", "metadata.license", "MIT metadata has a corresponding license notice; third-party scope remains a credits review.")
+            else:
+                self.add("FAIL", "metadata.license", "MIT metadata requires a readable LICENSE containing the MIT permission and warranty notice.")
+        else:
+            self.add("PASS", "metadata.license", "Unlicensed draft metadata is explicit.")
         for key in ("name", "description", "version", "author"):
             value = data.get(key)
             if not isinstance(value, str) or (key != "author" and not value.strip()):
@@ -230,7 +247,10 @@ class Validator:
                     not all(isinstance(x, str) for x in files["previews"])):
                 self.add("FAIL", "metadata.files", "pack.json files.previews must be an array of paths.")
             self.reference(files, "files")
-        self.add("WARN", "release.unlicensed", "Draft validation is not a license grant or release approval; UNLICENSED must not be published as licensed content.")
+        if license_id == "UNLICENSED":
+            self.add("WARN", "release.unlicensed", "Draft validation is not a license grant or release approval; UNLICENSED must not be published as licensed content.")
+        else:
+            self.add("WARN", "release.scope", "License checks do not establish rights to third-party material or certify runtime readiness.")
 
     def source(self, source: str, label: str, *, installer: bool = False, depth: int = 0) -> None:
         tokens = lex_source(source)

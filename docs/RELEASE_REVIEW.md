@@ -7,17 +7,18 @@ Review date: 2026-11-03. Reviewed GitHub main at `4d06579`, followed by the prep
 - Restored and checked the original README banner and corrected broken separators.
 - Checked local Markdown links across the tracked repository: no missing targets.
 - Confirmed all 44 UI preview files are linked from their pack pages: Studs UI 10, Essential STUD UI 13, Steal an Egg 21. This checks existing gallery coverage, not every possible runtime state.
-- Ran the Studs UI test suite: 51 tests run, 50 passed, one Windows symlink-permission skip. The offline pack validator reported zero failures; warnings include binary inspection limits, asset permissions, and linked audio defaults.
+- Ran the Studs UI test suite: 53 tests run, 52 passed, one Windows symlink-permission skip. The offline pack validator reported zero failures; warnings include binary inspection limits, asset permissions, and linked audio defaults.
 - Verified the Steal an Egg native model and source against its recorded SHA-256 values. Studs UI model/source freshness is covered by the passing suite.
 - Scanned the working tree and full available Git history with Gitleaks 8.30.1. Three findings in each scan were checked: all are SHA-256 hashes of image files, not credentials. No credential findings remain after that review. This does not certify opaque binary contents or externally stored data.
 - Removed the bundled npm installer, which still downloaded from the original external repository. Local artwork, examples, scripts, source records, credits, and license remain.
 - Added the missing Essential STUD UI credits page and updated obsolete test-suite instructions.
+- Applied MIT terms to original Steal a Template contributions, included the license in all three UI packs, aligned author/brand metadata, and verified the validator accepts MIT only with a license notice.
 
 ## Decisions needed before visibility changes
 
 | Item | Evidence | Required decision or work |
 | --- | --- | --- |
-| Reuse license | No UI pack has a LICENSE granting reuse; existing metadata says UNLICENSED. | Choose terms for owned code/artwork, then add the scoped license to each cleared pack and align its README and metadata. |
+| Reuse license | MIT adopted for original Steal a Template code, documentation, and assets; root and pack LICENSE files added. | Resolved for original contributions. Third-party and reference permissions remain separate as described in [license scope](LICENSING.md). |
 | Studs UI design | [Credits](../packs/ui/studs-ui/CREDITS.md) record unverified reference permissions. | Record the creator/source and permission or replace the affected design. |
 | Essential STUD UI design | [Credits](../packs/ui/essential-stud-ui/CREDITS.md) and asset manifest do not establish redistribution clearance. | Record creator/source and permission or replace the affected design. |
 | Steal an Egg design | [Credits](../packs/ui/steal-an-egg/CREDITS.md) identify a recreation of a commercial template and unverified permission. | Confirm permission for public distribution or exclude/replace the affected pack. |

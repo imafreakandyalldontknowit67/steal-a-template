@@ -1,6 +1,6 @@
-# Studs UI — Roblox HUD & Interface Pack
+# Steal a Template / Studs UI — Roblox HUD & Interface Pack
 
-**Editable Roblox UI kit · 9 panels · 4-sided HUD · 0.1.0 private draft**
+**Editable Roblox UI kit · 9 panels · 4-sided HUD · 0.1.0**
 
 [**Download StudsUI.rbxm**](StudsUI.rbxm?raw=1) · [Screenshot gallery](#screenshot-gallery) · [Asset credits](CREDITS.md)
 
@@ -101,7 +101,7 @@ Image/audio files are delivered by Roblox; verify access in your destination exp
 
 The native model was serialized and deserialized in Studio, placed under StarterGui and visually inspected in Edit mode. Its 3,454 instances and embedded controller survived the round trip. Fresh-place Play, mobile/gamepad and broad viewport testing remain pending; see [VERIFICATION.md](VERIFICATION.md).
 
-**Private draft / UNLICENSED:** the intended release model is free downloads, but public distribution and reference/media licensing review are not finished. No reuse or redistribution license is granted yet.
+Original Steal a Template code and assets use the [MIT License](LICENSE). See [credits and permissions](CREDITS.md) for reference designs and third-party material.
 
 <details>
 <summary>For pack maintainers: source builds and checks</summary>

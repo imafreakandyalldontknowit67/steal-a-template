@@ -1,15 +1,17 @@
-# Licensing decision
+# Steal a Template license
 
-The goal is free asset downloads. Free access alone does not specify whether users may modify assets, use them in commercial games, redistribute them, or resell the pack itself.
+Steal a Template's original code, documentation, and assets use the [MIT License](../LICENSE). For this project, the licensed material includes editable Roblox instances, generated artwork, models, and source files contributed by Steal a Template, to the extent the contributors hold the rights to grant permission.
 
-No license grant is included in this starter. Choose terms before the first public release, then add a `LICENSE` file to each pack and update its `pack.json` and README. If all packs eventually use identical terms, a root license can be added with an explicit scope.
+You can use, modify, share, and sell that material, including in monetized Roblox games. Keep the copyright and license notice with copies or substantial portions you distribute. No on-screen credit or royalty is required by Steal a Template. The material is provided as-is, without a warranty.
 
-Decide:
+## Included and linked material from other creators
 
-- Can developers use the pack in monetized games?
-- Can they modify it?
-- Is attribution required?
-- Can they redistribute the source or resell the standalone pack?
-- Do scripts and artwork use the same terms?
+Existing third-party licenses and copyright notices remain in effect. Our MIT license does not relicense external artwork, Roblox platform assets, or reference designs owned by others. Pack CREDITS files and the design resource ATTRIBUTION file identify these items and any unresolved permissions. A bundled file with no permission record is not automatically MIT-licensed.
 
-Record third-party items separately in `CREDITS.md`; your license cannot grant rights you do not own. Keep `license` as `UNLICENSED` until the decision is made.
+The design resource collection's original code and documentation already carry MIT terms; its existing copyright notice is preserved. Its collected artwork retains individual creator terms.
+
+## Contributions and downloads
+
+Contribute your original work under the same MIT terms. Keep creator credits and dependency terms with any permitted external material. Include the pack's LICENSE and CREDITS files with redistributed downloads.
+
+Use Steal a Template as the project name and maintainer identity. Preserve original creator names in attribution and provenance records.

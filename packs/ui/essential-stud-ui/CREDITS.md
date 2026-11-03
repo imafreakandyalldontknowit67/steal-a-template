@@ -12,4 +12,4 @@ Roblox-hosted images and avatar thumbnails must be accessible in the destination
 
 ## License
 
-No reuse or redistribution license has been selected for this pack. Generated artwork does not by itself establish permission for the reference-inspired design. Add the chosen license and confirmed creator permissions before public distribution.
+Original Steal a Template code, editable instances, and generated artwork use the [MIT License](LICENSE). Reference designs and linked third-party assets are outside that grant; the reference-design permission record remains unresolved.

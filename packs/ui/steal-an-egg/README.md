@@ -1,6 +1,6 @@
-# Steal an Egg — Roblox HUD & Interface Pack
+# Steal a Template / Steal an Egg — Roblox HUD & Interface Pack
 
-**Editable Roblox UI kit · 9 panels + fuse confirmation/result · 0.1.1 private draft**
+**Editable Roblox UI kit · 9 panels + fuse confirmation/result · 0.1.1**
 
 [**Download StealAnEggUI.rbxm**](StealAnEggUI.rbxm?raw=1) · [Screenshot gallery](#screenshot-gallery) · [Asset credits](CREDITS.md)
 
@@ -121,9 +121,9 @@ The native model has **2,427 descendants** and its controller survived Studio se
 
 **Desktop mouse only:** verified at 1701.33 × 787.33 UI pixels. The MCP schemas expose no device/viewport setters, so phone, tablet, reference-size, other desktop, console, resize and orientation tests remain blocked. Compact layout code is included but unverified. [Full coverage and limitations](VERIFICATION.md).
 
-Generated artwork is a close recreation with visible art-style differences. Motion timing/easing is estimated from the supplied video; detailed timing equivalence for every transition and audio matching are not established. This is a private repository draft, not a production integration or a public release.
+Generated artwork is a close recreation with visible art-style differences. Motion timing/easing is estimated from the supplied video; detailed timing equivalence for every transition and audio matching are not established. Gameplay integrations remain demonstrations.
 
-**Private draft / UNLICENSED:** reference/media redistribution rights have not been verified. No reuse or redistribution license is granted.
+Original Steal a Template code and assets use the [MIT License](LICENSE). See [credits and permissions](CREDITS.md) for reference designs and third-party material.
 
 <details>
 <summary>For pack maintainers: rebuild and export</summary>

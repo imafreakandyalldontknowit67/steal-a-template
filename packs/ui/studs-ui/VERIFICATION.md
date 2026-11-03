@@ -67,4 +67,4 @@ These were found through Creator Store and loaded in the test place. Check curre
 
 ## Remaining limitations
 
-Not exact 1:1: generated artwork and replacement sounds differ from originals. Settings/StarterPack include inferred layouts; reference world is not included. Mobile/gamepad, respawn and broader viewport testing remain pending. Economy and purchases are local demos, not production systems. Repository stays private and UNLICENSED pending rights/release review.
+Not exact 1:1: generated artwork and replacement sounds differ from originals. Settings/StarterPack include inferred layouts; reference world is not included. Mobile/gamepad, respawn and broader viewport testing remain pending. Economy and purchases are local demos, not production systems. Original contributions now use MIT terms; reference/media permissions and release verification remain separate. See CREDITS.md.

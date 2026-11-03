@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Adopted MIT terms for original Steal a Template contributions; preserved separate reference and media permissions.
+
 ## Unreleased - 0.1.0 refined draft
 
 - Packaged a native StudsUI.rbxm download in the kit folder, verified native serialization/deserialization and captured HUD/all-nine-panel gallery images from the imported copy under StarterGui. Added download-first setup, customization instructions, category catalog and package freshness/gallery tests.
