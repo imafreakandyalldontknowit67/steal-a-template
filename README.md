@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/branding/banner.png" alt="Steal a Template — Grab a kit. Build something." width="100%">
-
 # Steal a Template
 
 **Free Roblox asset packs for developers and their AI agents.**
@@ -63,7 +61,7 @@ if repository access, import, or verification is unavailable.
 
 Keep each pack in its own folder with a native model, readable source, screenshots, setup instructions, and an honest verification record.
 
-[Contribute](CONTRIBUTING.md) · [Pack format](docs/AUTHORING.md) · [Release checklist](docs/DISTRIBUTION.md) · [Brand kit](docs/BRAND.md)
+[Contribute](CONTRIBUTING.md) · [Pack format](docs/AUTHORING.md) · [Release checklist](docs/DISTRIBUTION.md)
 
 ## Use and licensing
 
