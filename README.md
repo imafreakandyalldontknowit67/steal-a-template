@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/branding/banner.png" alt="Steal a Template ? Grab a kit. Build something." width="100%">
+<img src="assets/branding/banner.png" alt="Steal a Template - Grab a kit. Build something." width="100%">
 
 # Steal a Template
 
 **Free Roblox assets: UI kits, models, VFX, audio, and Luau systems.**
 
-[Browse assets](#browse-assets) ? [Use an asset](#use-an-asset) ? [Contribute](CONTRIBUTING.md)
+[Browse assets](#browse-assets) &middot; [Use an asset](#use-an-asset) &middot; [Contribute](CONTRIBUTING.md)
 
 </div>
 
