@@ -1,42 +1,43 @@
-# Authoring Steal a Template packs
+# Authoring asset packs
 
-## Keep each pack self-contained
+## Pack layout
 
-Use a stable lowercase kebab-case ID, such as `inventory-ui`. Copy `_templates/ui-pack` into `packs/ui/<pack-id>`. Do not ship the template as a finished pack.
+Keep each pack in `packs/<category>/<pack-id>/`, using a stable lowercase, hyphenated ID. Categories are `ui`, `models`, `effects`, `audio`, and `systems`.
 
-- `pack.json`: identity, version, status, license, file paths, and dependencies. This is repository metadata, not a Roblox package manifest.
-- A named `.rbxm` at the pack root: the ready-to-insert model, alongside its README. Optional alternate exports may live in `exports/`.
-- `demo/`: optional `.rbxl` / `.rbxlx` example place.
-- `src/`: editable Luau scripts, optional XML model source, and design source you own. Do not maintain duplicate sources without documenting which is authoritative.
-- `previews/`: screenshots and a short GIF/video showing interactions.
-- `README.md`: installation, customization, behavior, and compatibility.
+- `README.md`: what's included, a complete preview gallery, downloads, installation, customization, dependencies, and compatibility.
+- Asset files at the pack root: `.rbxm` or `.rbxmx` for Roblox instances, audio files for sound packs, or Luau modules for code-only systems. Name each download clearly.
+- `src/`: editable scripts and design source where applicable. State which source is authoritative if there are multiple formats.
+- `previews/`: labeled screenshots, recordings, and audio samples covering the full pack.
+- `demo/`: an optional example place showing the assets in use.
+- `CREDITS.md` and `LICENSE`: creator credits and the terms that apply to the included files.
 - `CHANGELOG.md`: changes by version.
-- `CREDITS.md`: attribution and external asset permissions.
-- `LICENSE`: add the actual selected license before publishing.
+- `pack.json`, if used: pack-specific metadata; file paths are relative to the pack folder.
 
-Add the pack to the root `catalog.json` and its category README. The root README links to categories, not individual packs. Catalog paths are repo-relative; pack-manifest paths are pack-relative. Keep both indexes synchronized. Use the existing UI packs as gallery and download examples.
+List the pack in its category README with a direct link and a representative preview. Keep installation and download details on the pack page so a developer can use it without following a chain of guides.
 
-## Studio-first UI workflow
+## Show every included asset
 
-1. Develop a `ScreenGui` with clearly named descendants in Studio.
-2. Keep visual-only packs separate from gameplay logic. Document whether buttons are decorative or connected to actual systems.
-3. Export the intended instances as a model file using Studio's save/export-to-file option. A folder can bundle multiple components, but consumers must move each component to its documented service.
-4. Test importing into a fresh place. Move the ScreenGui into `StarterGui`; put any other instances in the services documented by the pack.
-5. Run Play mode and verify open/close actions, scrolling, scaling, respawn behavior, and input support.
-6. Test desktop and mobile layouts; document gamepad support rather than assuming it.
-7. If a demo place helps explain the pack, save it separately. Never make a full place the only download for a reusable UI.
+Capture the actual delivered assets in Studio, with readable framing and lighting. A cover image alone is not a complete gallery.
 
-## External assets and scripts
+| Asset type | Required previews |
+| --- | --- |
+| UI | Every distinct screen, panel, dialog, and meaningful state, including content hidden behind tabs or scrolling. Capture each frame that presents a separate view; decorative layout frames do not need individual screenshots. Show supported desktop and mobile layouts. |
+| Models | Every model and meaningful variant, with enough angles to show its shape, materials, and scale. Label items in group shots and add individual views where details are unclear. |
+| VFX | Every effect, with a clear still and a short recording showing its motion and timing. |
+| Audio | A labeled playable sample for every sound or track; screenshots cannot demonstrate audio. |
+| Luau systems | Screenshots or short recordings of every user-facing feature, plus a runnable example for systems without visible output. |
 
-List every image, font, audio, animation, or other external asset ID and its ownership/permission requirements. A model export does not automatically make linked cloud assets usable by everyone.
+Match preview labels to the item list in the README. Embed screenshots directly on that page and link recordings or sound samples beside the relevant item. Refresh them whenever an asset changes.
 
-Do not include secrets, unpublished game data, unlicensed third-party art, hidden telemetry, remote-code loaders, or undocumented dependencies. Inspect every included script before release.
+## Build and verify
 
-## Format reference
+1. Create clearly named, editable assets and include the source needed to customize them.
+2. Export the intended instances or files. Give each component an exact installation destination; do not assume every asset belongs in `StarterGui`.
+3. Import the exported files into a fresh Studio place and follow your own installation instructions.
+4. Check every included item. For UI, test navigation, scrolling, scaling, and respawn behavior. For models, check appearance and collision. For effects and audio, test playback. For systems, exercise the documented behavior.
+5. Test the devices and inputs you claim to support, and record any untested cases or limitations.
+6. Capture previews from the final imported version and keep exports, source, and documentation synchronized.
 
-- `.rbxm`: binary model; recommended convenient UI download.
-- `.rbxmx`: XML model; optional text-oriented source/export.
-- `.rbxl`: binary place; useful for an optional demo.
-- `.rbxlx`: XML place; optional text-oriented demo source.
+Describe required game integration plainly: for example, whether a shop displays sample products or connects to actual purchases. Include asset IDs and access requirements for linked images, meshes, animations, and audio.
 
-Roblox references: [place files](https://create.roblox.com/docs/projects/place-files), [sharing exported models](https://create.roblox.com/docs/education/build-it-play-it-island-of-move/sharing-animations).
+Inspect included scripts and dependencies. Keep secrets, private game data, and unrelated files out of the pack. Preserve creator credits and include permission terms for externally sourced assets.

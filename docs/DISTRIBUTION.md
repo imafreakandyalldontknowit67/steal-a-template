@@ -1,44 +1,21 @@
-# Distribution
+# Distributing asset packs
 
-## Start simple
+Host pack pages, source, previews, and downloads in this GitHub repository. Each pack README should provide a direct download beside its gallery and installation instructions.
 
-Keep editable source, documentation, previews, and small current exports in Git. Use a versioned ZIP per pack for downloads instead of asking users to download the entire monorepo. Keep generated ZIPs in the ignored `release-builds/` directory, not committed alongside every version.
+Keep small current asset files in the pack folder. Use this repository's GitHub Releases for versioned ZIPs or larger downloads. A ZIP should contain the usable assets, editable source where applicable, README, previews, credits, license, and changelog. Include a demo place when it helps demonstrate the pack.
 
-Suggested ZIP contents:
+Use a tag such as `models/forest-props/v1.0.0`. Name the release after the pack and version, explain the changes, and link back to its pack page. Keep generated archives in the ignored `release-builds/` directory.
 
-```text
-inventory-ui-1.0.0/
-  inventory-ui.rbxm
-  inventory-ui-demo.rbxl    # optional
-  README.md
-  LICENSE
-  CREDITS.md
-  CHANGELOG.md
-```
+## Before publishing
 
-For larger files or frequent binary revisions, consider release attachments or dedicated asset storage rather than growing Git history indefinitely.
+- [ ] Check every included asset by importing or running the actual download in a fresh place.
+- [ ] Verify the installation destinations, dependencies, and customization instructions.
+- [ ] Include previews of every item: UI screens and states, models and variants, effects in motion, audio samples, or system demonstrations.
+- [ ] Record the devices and inputs tested where relevant.
+- [ ] Include credits and the applicable license, and confirm distribution rights for included files.
+- [ ] Check linked Roblox assets are accessible to the intended users.
+- [ ] Update the version, changelog, and any pack metadata.
+- [ ] Test the download links and archive contents.
+- [ ] Link the pack from its category README.
 
-## Private now, public later
-
-This repository and its releases are private. Anonymous developers cannot download from them. Choose one of these when ready:
-
-1. Make the repository public after reviewing its files and history; publish downloads using GitHub Releases.
-2. Keep this source repository private and deliberately publish approved ZIPs to a separate public downloads repository or website.
-
-Do not expose a GitHub token in a download website. No public distribution has been configured by this starter.
-
-Suggested per-pack tag: `ui/inventory-ui/v1.0.0`. Each release should identify the pack, changes, install steps, and license.
-
-## Release checklist
-
-- [ ] Replace all template placeholders and set a real version.
-- [ ] Export a working model and test installation in a fresh place.
-- [ ] Test supported screen sizes and input methods.
-- [ ] Document exact instance destinations and any required setup.
-- [ ] List external asset IDs, permissions, and dependencies.
-- [ ] Inspect scripts and remove secrets or unrelated private content.
-- [ ] Confirm rights to redistribute every included asset.
-- [ ] Add a license and synchronize its identifier in `pack.json`.
-- [ ] Add screenshots and update changelog.
-- [ ] Package and test the actual downloaded ZIP.
-- [ ] Set status to `released` and update the root catalog with download links only once available.
+A release should be usable from its pack page without a separate setup guide or an external download repository.

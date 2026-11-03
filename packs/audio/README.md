@@ -1,9 +1,9 @@
 # Steal a Template / Audio
 
-A reserved category for original audio assets. No packs are available yet.
+Interface sounds, ambience, and game sound effects.
 
-Potential additions include interface sounds, ambience, and game sound effects. These are examples of the category scope, not currently offered downloads.
+Pack pages include downloads, source where applicable, installation instructions, and previews of a playable sample of every sound.
 
-Each released pack should have a preview, versioned download, installation guide, dependency list, compatibility notes, and explicit license.
+No packs are listed in this category yet. [Contribute a pack](../../CONTRIBUTING.md).
 
-[Back to Steal a Template](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)
+[Back to Steal a Template](../../README.md#browse-assets)

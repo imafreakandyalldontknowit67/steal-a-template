@@ -39,7 +39,6 @@ Common tags: Halftones, Sunbursts, Stars, Characters, City, Circle, Sparke (sic)
 
 - `MANIFEST.csv` — one row per catalog link: `resource_id, title, category, description, tags, link_field, source_url, downloaded_path, download_status, http_status, content_type, size_bytes, sha256, final_url`. `downloaded_path` is relative to `assets/ui-resources/`.
 - `LINK-ONLY-RESOURCES.csv` — 154 records with no direct file (Figma/Studio plugins, sites, tutorials, software).
-- `catalog.json` — raw API response.
 - `SUMMARY.json`, `failures.json`, `README.md` — capture totals and notes.
 
 ### Not bundled

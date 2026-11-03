@@ -14,8 +14,6 @@ Download the kit's `.rbxm`, stop Play, then use **StarterGui → Insert from Fil
 
 Each pack documents its source files, linked artwork, demo interactions, and device limitations. These private drafts are not yet licensed for reuse or redistribution.
 
-[Back to Steal a Template](../../README.md) · [Agent guide](../../docs/USING_WITH_AGENTS.md) · [Machine-readable catalog](../../catalog.json)
+[UI design resources](../../resources/ui-figma-roblox/) ? artwork and editable Figma/Roblox examples in this repository.
 
-## Third-party design resources
-
-- [UI Figma Roblox resource library](../../third-party/ui-figma-roblox/): pinned upstream artwork, source manifests, and examples. Not an installable UI kit. Original licenses and creator credits are preserved; individual artwork terms require review before reuse or public distribution.
+[Back to Steal a Template](../../README.md)

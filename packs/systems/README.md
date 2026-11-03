@@ -1,9 +1,9 @@
 # Steal a Template / Luau systems
 
-A reserved category for reusable scripted systems. No packs are available yet.
+Reusable modules and gameplay systems.
 
-Potential additions include documented Luau modules and reusable gameplay components. These are examples of the category scope, not currently offered downloads.
+Pack pages include downloads, source where applicable, installation instructions, and previews of each feature or a runnable example.
 
-Each released pack should have a preview, versioned download, installation guide, dependency list, compatibility notes, and explicit license.
+No packs are listed in this category yet. [Contribute a pack](../../CONTRIBUTING.md).
 
-[Back to Steal a Template](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)
+[Back to Steal a Template](../../README.md#browse-assets)

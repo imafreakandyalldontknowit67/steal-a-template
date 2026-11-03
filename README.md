@@ -1,70 +1,46 @@
 <div align="center">
 
+<img src="assets/branding/banner.png" alt="Steal a Template ? Grab a kit. Build something." width="100%">
+
 # Steal a Template
 
-**Free Roblox asset packs for developers and their AI agents.**
+**Free Roblox assets: UI kits, models, VFX, audio, and Luau systems.**
 
-UI kits now. Models, VFX, and Luau systems next.
-
-[Browse assets](#browse-assets) · [Install a kit](#drop-it-into-studio) · [Agent setup](docs/USING_WITH_AGENTS.md) · [Contribute](CONTRIBUTING.md)
+[Browse assets](#browse-assets) ? [Use an asset](#use-an-asset) ? [Contribute](CONTRIBUTING.md)
 
 </div>
 
-Skip the blank baseplate. Start with an editable kit, open the source, and build your game around it. Studded panels, chunky buttons, loud colors, and actual Roblox instances you can change.
-
-**Current status:** packs are available to repository collaborators as private drafts. Free public distribution is the goal; licensing and rights review are pending.
-
-<a id="catalog"></a>
+Editable assets for your next Roblox game, with source files, previews, and setup instructions in each pack.
 
 ## Browse assets
 
-| Library | Status |
+| Category | What belongs here |
 | --- | --- |
-| [UI kits](packs/ui/) | Browse editable interfaces, model downloads, and galleries |
-| [Models](packs/models/) | Planned |
-| [VFX](packs/effects/) | Planned |
-| [Luau systems](packs/systems/) | Planned |
-| [Audio](packs/audio/) | Planned |
+| [UI kits](packs/ui/) | Interfaces, HUDs, menus, and reusable components |
+| [Models](packs/models/) | Props, building pieces, and model collections |
+| [VFX](packs/effects/) | Particles, beams, trails, and animated effects |
+| [Luau systems](packs/systems/) | Modules and reusable gameplay features |
+| [Audio](packs/audio/) | Interface sounds, ambience, and sound effects |
 
-Each pack has its own page with screenshots, source, setup, and compatibility notes. The [machine-readable catalog](catalog.json) lists exact file paths for tools and agents.
+Open a category to find its packs. Each pack page shows what's included, previews, downloads, and instructions.
 
-## Drop it into Studio
+[UI design resources](resources/ui-figma-roblox/) include artwork, editable Figma examples, and a Roblox shop example hosted in this repository.
 
-1. Open a pack's page and download its **`.rbxm`**.
-2. Stop Play in Roblox Studio. Right-click **StarterGui → Insert from File** and select the model.
-3. If dragging or importing places it elsewhere, move the kit's **ScreenGui** into **StarterGui**. If it is already there, leave it there.
-4. Import one copy, press **Play**, and try the included interactions.
+## Use an asset
 
-The controller comes with the model. No code paste or extra plugin is needed to try the current kits. Purchases, rewards, currency, and inventory are demos until connected to your game's backend.
-
-### Have an agent set it up
-
-With your agent connected to Studio, give it this:
-
-```text
-Install [kit name or pack URL] in my intended Roblox Studio place.
-Repository: https://github.com/imafreakandyalldontknowit67/steal-a-template
-Catalog: https://github.com/imafreakandyalldontknowit67/steal-a-template/blob/main/catalog.json
-Use my authorized repository access to read AGENTS.md, the catalog,
-and the selected pack's setup notes. Inspect the imported kit first.
-Move its ScreenGui into StarterGui only if it is elsewhere; leave an
-existing StarterGui copy in place. Import the native model once only
-if absent. Do not create duplicates or overwrite my edits. Preserve
-included scripts and unrelated UI. If Studio tools are available,
-verify it in Play and restore the previous mode. Report what remains
-if repository access, import, or verification is unavailable.
-```
-
-[Agent setup details](docs/USING_WITH_AGENTS.md) · [Repository instructions](AGENTS.md)
+1. Choose a pack and check its previews and included files.
+2. Download the asset from its pack page.
+3. Follow that pack's installation instructions in Roblox Studio. UI belongs in `StarterGui`; models, effects, audio, and systems use the destinations listed by the pack.
+4. Try it in your place, then customize the editable instances and source.
 
 ## Add a pack
 
-Keep each pack in its own folder with a native model, readable source, screenshots, setup instructions, and an honest verification record.
+Share a UI kit, model collection, effect, sound pack, or Luau system. Include the usable files, source where applicable, clear setup instructions, and previews of everything included.
 
-[Contribute](CONTRIBUTING.md) · [Pack format](docs/AUTHORING.md) · [Release checklist](docs/DISTRIBUTION.md)
+See [Contributing](CONTRIBUTING.md) for the steps.
 
 ## Use and licensing
 
-Free downloads are the intended release model. Current packs have no reuse or redistribution license yet; there is no blanket license for this repository. Consult each pack's README, credits, and license status. [Licensing status](docs/LICENSING.md).
+Check each pack's license and credits for its terms of use and any linked asset requirements. No repository-wide license overrides individual asset terms.
 
 Independent project; not affiliated with Roblox.

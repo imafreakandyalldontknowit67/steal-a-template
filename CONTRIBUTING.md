@@ -1,16 +1,14 @@
-# Add something worth stealing
+# Add a pack
 
-Steal a Template starts with UI kits. New packs should save a Roblox developer setup time and give their agent enough context to make useful edits.
+Contribute free Roblox assets that developers can inspect, import, and customize: UI kits, models, VFX, audio, or Luau systems.
 
-1. Choose one category and a stable lowercase pack ID.
-2. Follow the [pack format](docs/AUTHORING.md). Keep your pack in its own folder.
-3. Include an editable native model, readable source, setup instructions, and screenshots from Studio.
-4. Explain what works, what is a demo, and what the consuming game must provide.
-5. Record artwork provenance, dependencies, license status, and actual device/input coverage.
-6. Add the pack to [catalog.json](catalog.json) and its category README. Keep individual pack listings off the root README.
+1. Choose a category and a lowercase, hyphenated folder name under `packs/<category>/<pack-id>/`.
+2. Include the usable asset files and editable source. Use the [authoring guide](docs/AUTHORING.md) for the folder layout.
+3. Show everything included: every UI screen or panel, every model, and every effect. Add playable previews for audio and short recordings for motion or interactions.
+4. Write the pack README with an item list, downloads, exact installation steps, and customization instructions. Explain any setup the developer needs to finish.
+5. Import the delivered files into a fresh Studio place and check that they work. Record what you tested, fix issues, and include credits and the applicable license.
+6. Add the pack to its category README with a direct link and a representative preview. Submit the files and documentation together in a pull request.
 
-For a fix, include a before/after description and refresh screenshots of changed UI. Verify the exported model, not only the authoring scene.
+For an update, describe what changed, refresh previews for affected items, and verify the files users will actually download. Keep the source and exported assets in sync.
 
-Use the [release checklist](docs/DISTRIBUTION.md) before calling a pack released. Current drafts stay drafts until their licensing and rights review is complete.
-
-Agents should read [AGENTS.md](AGENTS.md). Human and agent contributions use the same pack format and verification standard.
+Publish downloads from this repository using the [distribution checklist](docs/DISTRIBUTION.md).

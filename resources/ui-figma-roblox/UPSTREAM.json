@@ -2,7 +2,7 @@
   "source": "https://github.com/grim-technologies-arch/ui-figma-roblox",
   "commit": "99d286134d1fe9bed75e41c563f98555ac714c3c",
   "downloaded_at_utc": "2026-11-03T04:39:45.428742+00:00",
-  "file_count": 1121,
+  "file_count": 1120,
   "files": {
     ".gitignore": "b3eb1d9b83b1687f4009d41ec6469d0654561efb68a011fd65ab3cdef99a4da9",
     "assets/kek-ui-essentials/ASSET-NOTES.md": "e29ceeaf1a352c3053d32d53ec8d34cee27bbd40176af3a28c06b145c517b020",
@@ -112,7 +112,6 @@
     "assets/kek-ui-essentials/quelly_spiral_5.png": "3ed4e7b1736792ec2326e4debe38e751e545c1c72afc9c6ac41acee805ab3c7f",
     "assets/kek-ui-essentials/quelly_spiral_6.png": "973a915d48a0ef3439df49c8fab5ea9e6394408b68bf679663340cb477d38523",
     "assets/kek-ui-essentials/quelly_spiral_7.png": "c0a3d52d2e4862b34797c058e539bfc3fb750fbfca4bcdf421be2626572ad00a",
-    "assets/ui-resources/catalog.json": "e691a8d954e2732e64d21055185ca5ec7755b42a5edcc0c378639005c41a2eec",
     "assets/ui-resources/failures.json": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
     "assets/ui-resources/files/Backgrounds/1007-download_url-IMG_2398.jpg": "1dd4e6870b3f68b4441e876429ffeba5e821e2184a3c26f8be4f2ac8075dad1f",
     "assets/ui-resources/files/Backgrounds/101-download_url-Baseplate.png": "05a91108ba96d2dbd71ef1aa8b761ccac86234069bbf2685781ee9fa28fc746e",
@@ -1125,5 +1124,6 @@
     "references/asset-library.md": "13ea142e90dc18b171de3dc39803f43f5ee0c99de6c14c16da9a2a57ee1891f7",
     "references/design-workflow.md": "cc20be1fcb833a28741309c237f470c1f2902cb6f5e91cec6699252f06e5d4e0",
     "SKILL.md": "44d73cb10f52c6e5f0d1bf0b766341b61c50ffd47a25ca906196fc731f8039c8"
-  }
+  },
+  "local_changes": "Collection relocated into resources/ui-figma-roblox; README rewritten for local use; raw API catalog removed. Checksums describe the retained original source files, before local documentation edits."
 }

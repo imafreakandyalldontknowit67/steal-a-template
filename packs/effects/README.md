@@ -1,9 +1,9 @@
 # Steal a Template / VFX
 
-A reserved category for original visual effects. No packs are available yet.
+Particles, beams, trails, and reusable visual effects.
 
-Potential additions include particles, beams, trails, and reusable effect collections. These are examples of the category scope, not currently offered downloads.
+Pack pages include downloads, source where applicable, installation instructions, and previews of every effect, including a recording of its motion.
 
-Each released pack should have a preview, versioned download, installation guide, dependency list, compatibility notes, and explicit license.
+No packs are listed in this category yet. [Contribute a pack](../../CONTRIBUTING.md).
 
-[Back to Steal a Template](../../README.md#catalog) | [How to create a pack](../../docs/AUTHORING.md)
+[Back to Steal a Template](../../README.md#browse-assets)

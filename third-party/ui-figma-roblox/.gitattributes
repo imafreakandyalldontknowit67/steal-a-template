@@ -1,2 +1,0 @@
-# Preserve upstream snapshot bytes and checksums on every platform.
-upstream/** -text
