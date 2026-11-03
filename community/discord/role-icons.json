@@ -1,0 +1,36 @@
+{
+  "status": "prepared; role icon upload blocked by server boost requirement",
+  "discord_error": 50101,
+  "roles": [
+    {
+      "name": "Codex",
+      "role_id": "1566978967725019197",
+      "icon": "assets/icons/codex.png"
+    },
+    {
+      "name": "Claude Code",
+      "role_id": "1566978968601493655",
+      "icon": "assets/icons/claude.png"
+    },
+    {
+      "name": "Cursor",
+      "role_id": "1566978969511796757",
+      "icon": "assets/icons/cursor.png"
+    },
+    {
+      "name": "GitHub Copilot",
+      "role_id": "1566978972200341644",
+      "icon": "assets/icons/copilot.png"
+    },
+    {
+      "name": "Other agent",
+      "role_id": "1566978977132843028",
+      "icon": "assets/icons/other.png"
+    },
+    {
+      "name": "No agent",
+      "role_id": "1566978978869285026",
+      "icon": "assets/icons/none.png"
+    }
+  ]
+}

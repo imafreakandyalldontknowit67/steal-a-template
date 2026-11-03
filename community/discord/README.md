@@ -1,74 +1,50 @@
-# Discord setup
+# Discord community kit
 
-Server: [Steal a Template](https://discord.com/channels/1566964411401371769/1566966689818611732)
+[Open the server](https://discord.com/channels/1566964411401371769/1566966689818611732)
 
-This folder contains the deployed artwork, copy, onboarding configuration, server IDs, and API verification record. It contains no bot token and does not run a persistent bot.
-
-## Artwork
-
-- [Profile image](assets/profile.png): applied to the server and setup bot.
-- [Channel banners](assets/banners/): 9 deployed matching PNGs and editable SVG sources.
-- [Onboarding icons](assets/icons/): 8 custom PNGs and editable SVG sources.
-- [Artwork notes](ARTWORK.md): provenance and rendering details.
-
-Each public guide uses two embeds: an image-only banner, then the body. Channel-link buttons sit below the body. No emoji or decorative text is used in channel names or written copy. Custom icons are used only as onboarding option artwork.
+This folder contains deployed artwork, copy, configuration, and API verification. No bot token or persistent bot process is included.
 
 ## Member path
 
-1. Join and optionally choose interests and notification topics.
-2. Read start-here and rules.
-3. Open GitHub from asset-library and choose a kit.
-4. Introduce a project in general or share a build in the Showcase forum.
-5. Submit a UI request with references when needed.
+Start here → rules → GitHub asset library → general, project posts, UI requests, or a build room. Optional onboarding questions suggest channels and let members choose notification topics and their main agent. These choices do not gate access to public channels.
 
-Community, native onboarding, the welcome screen, and mention-spam AutoMod are enabled. Onboarding passes Discord's requirements. These settings remain after the setup bot is removed.
-
-## Channel layout
+## Channels
 
 - Start here: start-here, rules, announcements, asset-library.
-- Community: general, showcase (forum), ui-requests (forum), suggestions, and bug-reports.
-- Staff: community-updates and staff-notes. Hidden from regular members.
+- Community: general, showcase (forum), ui-requests (forum), bug-reports.
+- Voice channels: Build room 1, Build room 2, Build room 3. Voice, screen sharing, and room chat are allowed.
+- Staff: community-updates and staff-notes, hidden from regular members.
 
-Read-only public channels are reserved for maintainers. Existing general chat was preserved. Help and Workshop voice were removed; Showcase was replaced only after checking that it contained no member posts.
+Help, Suggestions, and the old Workshop voice channel were removed. General has a text-only guide. Showcase was converted after checking there were no member posts to lose.
 
-## Roles and pings
+## Embeds and artwork
 
-Optional notification roles: UI releases, Model releases, VFX releases, Luau releases, Community updates, Events. Each grants zero permissions, has no role color, and is not publicly mentionable.
+Seven live banner guides use an image-only embed followed by the body and link buttons. Body embeds omit titles already present in the banners. Bold labels, numbered sections, spacing, and quote bars organize the text; there are no emojis in written copy.
 
-Studio builder and Agent builder are optional identity roles available in Channels & Roles. Contributor is available for manual assignment. Moderator and Maintainer are configured but unassigned; the owner chooses who receives them.
+[Profile](assets/profile.png) is applied to the server and setup bot. [Banners](assets/banners/) use the GitHub hero character. General and Suggestions artwork is retained as source material but is not deployed. [Artwork notes](ARTWORK.md) record generation prompts and editable sources.
 
-Regular members cannot mass-mention. Maintainer can publish in the read-only channels but does not receive mass-mention permission. The owner can post a relevant role ping. Routine posts should not use everyone or here.
+## Roles and onboarding
 
-For a future automated release publisher, pass only the selected role ID in `allowed_mentions.roles`; keep `allowed_mentions.parse` empty. No setup messages pinged a role or everyone.
+Hierarchy: setup bot → Maintainer → Moderator → Contributor → Member → agent identities → notification roles. Staff and Member use the [brand palette](../../docs/BRAND.md). Agent identities and all notification roles have no color and grant no permissions.
 
-## UI requests
+Notification topics: UI releases, Model releases, VFX releases, Luau releases, Community updates, Events. All are optional and not publicly mentionable. Routine posts should not use everyone or here. Automated posts must allow only their selected role ID in allowed_mentions.roles.
 
-The forum requires a tag and displays a reference checklist. Each request needs:
+The optional single-choice question “Which agent do you use most?” offers Codex, Claude Code, Cursor, GitHub Copilot, Other agent, and No agent. Members can skip it or change their choice later. Recognizable product icons identify Codex, Claude Code, Cursor, and GitHub Copilot; Other agent and No agent use generic symbols. [Sources](assets/icons/sources/sources.json) are recorded. Add future tools by adding a colorless role, icon, and onboarding option; Other agent covers tools not yet listed. Studio builder and Agent builder were removed.
 
-- A screenshot of every frame or panel to be copied, including important states.
-- A full walkthrough video showing animations, transitions, hover/click feedback, scrolling, opening, and closing.
-- The reference source, requested scope, and target devices.
+Selecting any onboarding option grants Member. Skipping every question preserves normal access via everyone; assigning Member to every future join would require a running automation. Staff roles remain manually assigned.
 
-The pinned guide repeats the checklist. Moderator-only status tags are Needs references, Under review, Planned, and Completed. Reference completeness is reviewed by a person; native forum settings cannot verify that a video demonstrates every interaction.
+## Requests and reports
 
-## Kit reports and contributions
+UI requests require a full walkthrough video and a screenshot of every requested frame or panel, plus scope, source, and target devices. Staff review completeness; native forum settings do not inspect video contents.
 
-The kit issue guide requests version/source, reproduction steps, expected and actual results, environment, errors, modifications, and visual evidence. Its attached [agent prompt](report-kit-issue.txt) gathers a report without modifying the project. Suggestions links directly to GitHub pull requests.
+Kit reports collect kit/version/source, reproduction steps, expected and actual results, environment, errors, modifications, and visual evidence. The [agent report prompt](report-kit-issue.txt) is attached to the live guide. Repository fixes and improvements can go through GitHub pull requests, linked in asset-library.
 
-## Release-facing links and remaining settings
+## Verification and limits
 
-Public Discord copy links directly to GitHub as requested. Repository visibility and pack licenses were not changed by this Discord update.
+Community, native onboarding, welcome screen, and mention-spam AutoMod are enabled. [verification.json](verification.json) records the latest API readback. No real new-member client walkthrough was performed.
 
-Role colors follow the [brand palette](../../docs/BRAND.md). Discord rejected the bot role hierarchy reorder; an owner must order staff above contributor and builder identities. Colors were applied successfully.
+The initial role API response gave every non-everyone role position 1. A single-role update normalized the positions, after which the full hierarchy reorder succeeded. No owner role movement was required.
 
-The server does not currently expose the BANNER feature. Channel banners are installed; a native server-header banner was not applied.
+Role icons beside chat names are also boost-gated: Discord rejected the upload with HTTP 403 / code 50101. Onboarding logos are live; [the role icon manifest](role-icons.json) maps the prepared PNGs to their roles for later application. No boosts were purchased. Native server-header artwork is unavailable at the current server tier. Separate membership-screening acceptance and Server Guide UI were not configured. Public copy links to GitHub; this setup did not change repository visibility or licenses.
 
-Rules are published in the designated Community rules channel. Native membership-screening acknowledgment and the separate Server Guide UI were not configured. The documented bot API does not expose those setup flows, and desktop control was stopped. The start-here guide and native onboarding provide the configured welcome flow.
-
-## Verification
-
-[verification.json](verification.json) records API readback of Community, onboarding requirements, role permissions, embed ordering, message pins, and mention behavior. The forum guide is pinned as a thread via its channel flag. A real new-member client walkthrough was not performed.
-
-[server-map.json](server-map.json) maps all channel, role, icon, and message IDs. [copy.json](copy.json) contains the deployed public copy. [onboarding.json](onboarding.json) contains the returned configuration.
-
-API references: [Discord guild and onboarding documentation](https://github.com/discord/discord-api-docs/blob/main/developers/resources/guild.mdx), [Discord message documentation](https://github.com/discord/discord-api-docs/blob/main/developers/resources/message.mdx).
+[Server IDs](server-map.json) · [Public copy](copy.json) · [Onboarding configuration](onboarding.json)

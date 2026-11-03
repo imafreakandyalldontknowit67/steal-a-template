@@ -12,7 +12,7 @@ The nine banners and eight onboarding icons extend the existing editable SVG bra
 
 Banners: 1200 × 320. Icons: 128 × 128 with transparent backgrounds. SVGs were rendered with resvg using installed system fonts. The PNGs are the uploaded artifacts; the SVGs remain editable. Banner text uses Arial and Arial Black fallbacks.
 
-No external stock artwork or seller assets are included in this folder. The original repository hero banner remains unchanged.
+No seller assets are included in this folder. Product logos below are third-party identification marks. The original repository hero banner remains unchanged.
 
 
 ## Final banner revision
@@ -20,3 +20,9 @@ No external stock artwork or seller assets are included in this folder. The orig
 The nine deployed banners use the character from the repository hero at `assets/branding/banner.png`. The built-in image generation tool extracted a transparent cutout, saved as `assets/github-character.png`. Each banner contains only a large channel label and artwork; the brand-name label, subtitle, and inner border are removed. Layout and lettering remain editable SVG.
 
 Exact edit prompt: Extract ONLY the exact character at the LEFT of this supplied GitHub banner, including the lime UI window it holds over its head. Copy this character faithfully: yellow head and raised yellow rectangular arms, open black happy mouth with pink tongue, blue rectangular torso, lime green legs in the same running pose, thick black edges and plastic shading. Preserve the original proportions, face, colors, pose, and overhead lime UI panel design. Remove everything else: all words, background, studs, rays, other UI windows and other objects. Deliver a clean transparent-background cutout of this exact character plus its held panel, centered with generous margins and full silhouette visible. Do not redesign the character, do not add characters, no letters or additional text.
+
+## Agent onboarding and role icons
+
+The original letter badges were replaced by actual product marks. Claude and Cursor come from their own websites; Copilot comes from GitHub’s Octicons repository; the Codex product mark comes from the Devicons catalog. Exact download URLs and timestamps are in [sources.json](assets/icons/sources/sources.json). Original SVG sources are retained beside that file. Marks belong to their respective owners and identify tools; no endorsement is implied.
+
+The SVG wrappers place the unchanged marks on a neutral light tile at 128 × 128. PNGs are rendered with resvg. Other agent and No agent retain generic plus/dash icons. Onboarding uses these as custom emojis. The same PNGs are ready for role icons, but Discord rejected role-icon upload because this server lacks the required boost level.

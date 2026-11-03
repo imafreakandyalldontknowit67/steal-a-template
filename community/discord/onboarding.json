@@ -7,14 +7,16 @@
       "options": [
         {
           "id": "1566967091523747865",
-          "title": "Find UI kits",
+          "title": "Find assets",
           "description": "Browse the library and release updates.",
           "emoji": {
             "id": "1566966922187374743",
             "name": "sat_ui",
             "animated": false
           },
-          "role_ids": [],
+          "role_ids": [
+            "1566978966760194178"
+          ],
           "channel_ids": [
             "1566966693727699087"
           ]
@@ -28,7 +30,9 @@
             "name": "sat_showcase",
             "animated": false
           },
-          "role_ids": [],
+          "role_ids": [
+            "1566978966760194178"
+          ],
           "channel_ids": [
             "1566964412928233636",
             "1566970205513453709"
@@ -43,7 +47,9 @@
             "name": "sat_studio",
             "animated": false
           },
-          "role_ids": [],
+          "role_ids": [
+            "1566978966760194178"
+          ],
           "channel_ids": [
             "1566966905204506648"
           ]
@@ -68,6 +74,7 @@
             "animated": false
           },
           "role_ids": [
+            "1566978966760194178",
             "1566966909289762987"
           ],
           "channel_ids": []
@@ -82,6 +89,7 @@
             "animated": false
           },
           "role_ids": [
+            "1566978966760194178",
             "1566966909981823060"
           ],
           "channel_ids": []
@@ -96,7 +104,8 @@
             "animated": false
           },
           "role_ids": [
-            "1566966911680516177"
+            "1566966911680516177",
+            "1566978966760194178"
           ],
           "channel_ids": []
         },
@@ -110,6 +119,7 @@
             "animated": false
           },
           "role_ids": [
+            "1566978966760194178",
             "1566966913999831203"
           ],
           "channel_ids": []
@@ -124,6 +134,7 @@
             "animated": false
           },
           "role_ids": [
+            "1566978966760194178",
             "1566966915405054043"
           ],
           "channel_ids": []
@@ -138,6 +149,7 @@
             "animated": false
           },
           "role_ids": [
+            "1566978966760194178",
             "1566966916311154859"
           ],
           "channel_ids": []
@@ -150,50 +162,112 @@
     },
     {
       "id": "1566967091591127109",
-      "title": "How do you build?",
+      "title": "Which agent do you use most?",
       "options": [
         {
-          "id": "1566967091641454704",
-          "title": "Roblox Studio",
-          "description": "Building directly in Studio.",
+          "id": "1566979089565360166",
+          "title": "Codex",
+          "description": "My main agent for development.",
           "emoji": {
-            "id": "1566966926813429762",
-            "name": "sat_studio",
+            "id": "1566980570184155196",
+            "name": "agent_codex_logo",
             "animated": false
           },
           "role_ids": [
-            "1566966917489758258"
+            "1566978966760194178",
+            "1566978967725019197"
           ],
           "channel_ids": []
         },
         {
-          "id": "1566967091641454705",
-          "title": "Studio and AI agents",
-          "description": "Building with an agent alongside Studio.",
+          "id": "1566979089565360167",
+          "title": "Claude Code",
+          "description": "My main agent for development.",
           "emoji": {
-            "id": "1566966931435688006",
-            "name": "sat_agent",
+            "id": "1566980571870134472",
+            "name": "agent_claude_logo",
             "animated": false
           },
           "role_ids": [
-            "1566966918361915395"
+            "1566978966760194178",
+            "1566978968601493655"
+          ],
+          "channel_ids": []
+        },
+        {
+          "id": "1566979089842049024",
+          "title": "Cursor",
+          "description": "My main agent for development.",
+          "emoji": {
+            "id": "1566980573023703070",
+            "name": "agent_cursor_logo",
+            "animated": false
+          },
+          "role_ids": [
+            "1566978966760194178",
+            "1566978969511796757"
+          ],
+          "channel_ids": []
+        },
+        {
+          "id": "1566979089842049025",
+          "title": "GitHub Copilot",
+          "description": "My main agent for development.",
+          "emoji": {
+            "id": "1566980574080663675",
+            "name": "agent_copilot_logo",
+            "animated": false
+          },
+          "role_ids": [
+            "1566978966760194178",
+            "1566978972200341644"
+          ],
+          "channel_ids": []
+        },
+        {
+          "id": "1566979089842049026",
+          "title": "Other agent",
+          "description": "Another tool or a custom setup.",
+          "emoji": {
+            "id": "1566979085928890512",
+            "name": "agent_other",
+            "animated": false
+          },
+          "role_ids": [
+            "1566978966760194178",
+            "1566978977132843028"
+          ],
+          "channel_ids": []
+        },
+        {
+          "id": "1566979089842049027",
+          "title": "No agent",
+          "description": "I build without an AI agent.",
+          "emoji": {
+            "id": "1566979087178924187",
+            "name": "agent_none",
+            "animated": false
+          },
+          "role_ids": [
+            "1566978978869285026",
+            "1566978966760194178"
           ],
           "channel_ids": []
         }
       ],
-      "single_select": false,
+      "single_select": true,
       "required": false,
-      "in_onboarding": false,
+      "in_onboarding": true,
       "type": 0
     }
   ],
   "default_channel_ids": [
     "1566964412928233636",
-    "1566966698404220940",
     "1566970205513453709",
     "1566966693727699087",
-    "1566966689818611732",
+    "1566978963585372240",
     "1566966692381462548",
+    "1566966689818611732",
     "1566966690649083927",
     "1566966905204506648",
     "1566966709355806911"
