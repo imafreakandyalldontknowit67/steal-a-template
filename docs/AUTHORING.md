@@ -1,11 +1,11 @@
-# Authoring packs
+# Authoring Steal a Template packs
 
 ## Keep each pack self-contained
 
 Use a stable lowercase kebab-case ID, such as `inventory-ui`. Copy `_templates/ui-pack` into `packs/ui/<pack-id>`. Do not ship the template as a finished pack.
 
 - `pack.json`: identity, version, status, license, file paths, and dependencies. This is repository metadata, not a Roblox package manifest.
-- `exports/`: ready-to-insert `.rbxm` downloads (or `.rbxmx` if desired).
+- A named `.rbxm` at the pack root: the ready-to-insert model, alongside its README. Optional alternate exports may live in `exports/`.
 - `demo/`: optional `.rbxl` / `.rbxlx` example place.
 - `src/`: editable Luau scripts, optional XML model source, and design source you own. Do not maintain duplicate sources without documenting which is authoritative.
 - `previews/`: screenshots and a short GIF/video showing interactions.
@@ -13,6 +13,8 @@ Use a stable lowercase kebab-case ID, such as `inventory-ui`. Copy `_templates/u
 - `CHANGELOG.md`: changes by version.
 - `CREDITS.md`: attribution and external asset permissions.
 - `LICENSE`: add the actual selected license before publishing.
+
+Add the pack to the root `catalog.json` and its category README. The root README links to categories, not individual packs. Catalog paths are repo-relative; pack-manifest paths are pack-relative. Keep both indexes synchronized. Use the existing UI packs as gallery and download examples.
 
 ## Studio-first UI workflow
 

@@ -1,81 +1,72 @@
-# Free Roblox Assets & Asset Packs for Developers
+<div align="center">
 
-A growing library of original Roblox asset packs for developers building games in Roblox Studio. The collection starts with reusable UI kits and is structured to expand into 3D models, visual effects, audio, and Luau systems.
+<img src="assets/branding/banner.png" alt="Steal a Template — Grab a kit. Build something." width="100%">
 
-The goal is simple: find a pack, preview it, download it for free, and follow clear setup instructions to use it in your own game.
+# Steal a Template
 
-**Status:** private asset repository. Studs UI includes a native model download and screenshot gallery for repository collaborators; public releases are not enabled yet.
+**Free Roblox asset packs for developers and their AI agents.**
 
-## Catalog
+UI kits now. Models, VFX, and Luau systems next.
 
-| Category | Packs | Status |
-| --- | --- | --- |
-| [UI kits and interfaces](packs/ui/) | [Studs UI: model + screenshots](packs/ui/studs-ui/) | Private draft; native-model import/render checked |
-| [3D models and props](packs/models/) | None yet | Planned |
-| [Visual effects](packs/effects/) | None yet | Planned |
-| [Audio and sound effects](packs/audio/) | None yet | Planned |
-| [Luau scripts and systems](packs/systems/) | None yet | Planned |
+[Browse assets](#browse-assets) · [Install a kit](#drop-it-into-studio) · [Agent setup](docs/USING_WITH_AGENTS.md) · [Contribute](CONTRIBUTING.md)
 
-## For developers
+</div>
 
-### Third-party resources
+Skip the blank baseplate. Start with an editable kit, open the source, and build your game around it. Studded panels, chunky buttons, loud colors, and actual Roblox instances you can change.
 
-[UI Figma Roblox](third-party/ui-figma-roblox/) is a separately credited, pinned external design-resource collection. It is not one of our original UI kits; its artwork has separate creator terms. See the collection's attribution and source manifest before reuse.
+**Current status:** packs are available to repository collaborators as private drafts. Free public distribution is the goal; licensing and rights review are pending.
 
-Each released pack will include a ready-to-insert `.rbxm`, installation instructions, previews, dependency information, and a license. Some packs will also include a `.rbxl` demo place.
+<a id="catalog"></a>
 
-Download one pack rather than cloning the whole collection. Public distribution is not enabled while this repository is private.
+## Browse assets
 
-## Frequently asked questions
+| Library | Status |
+| --- | --- |
+| [UI kits](packs/ui/) | Browse editable interfaces, model downloads, and galleries |
+| [Models](packs/models/) | Planned |
+| [VFX](packs/effects/) | Planned |
+| [Luau systems](packs/systems/) | Planned |
+| [Audio](packs/audio/) | Planned |
 
-### Are these Roblox assets free?
+Each pack has its own page with screenshots, source, setup, and compatibility notes. The [machine-readable catalog](catalog.json) lists exact file paths for tools and agents.
 
-Free public downloads are the intended release model. Studs UI is currently a private, unlicensed draft with an editable model available to repository collaborators. Each released pack will state its own license and permitted uses.
+## Drop it into Studio
 
-### How do I install a Roblox UI pack?
+1. Open a pack's page and download its **`.rbxm`**.
+2. Stop Play in Roblox Studio. Right-click **StarterGui → Insert from File** and select the model.
+3. If dragging or importing places it elsewhere, move the kit's **ScreenGui** into **StarterGui**. If it is already there, leave it there.
+4. Import one copy, press **Play**, and try the included interactions.
 
-Insert the pack's `.rbxm` model into your existing Roblox Studio place, then move its ScreenGui into `StarterGui`. Follow the pack README for exact instance names, additional services, dependencies, and customization steps.
+The controller comes with the model. No code paste or extra plugin is needed to try the current kits. Purchases, rewards, currency, and inventory are demos until connected to your game's backend.
 
-### Should I download an RBXM or RBXL file?
+### Have an agent set it up
 
-Use an `.rbxm` model to add a reusable asset to an existing game. An `.rbxl` is a full place file, useful for opening a separate demo rather than installing only the asset.
-
-### Can I use assets in a monetized Roblox game?
-
-Check the license included with the specific pack. Commercial-use and redistribution terms have not been selected yet; free download does not automatically grant every usage right.
-
-### Do I need Rojo or a build tool?
-
-The workflow is Studio-first. Studs UI includes a ready-to-insert native model, so developers do not need a source build tool to customize it.
-
-## Structure
+With your agent connected to Studio, give it this:
 
 ```text
-packs/
-  ui/                      # Finished and in-progress UI packs
-  models/                  # Future 3D asset packs
-  effects/                 # Future visual effects
-  audio/                   # Future original audio packs
-  systems/                 # Future scripted systems
-_templates/
-  ui-pack/                 # Copy this to packs/ui/<pack-id>
-docs/
-  AUTHORING.md             # How to add a pack
-  DISTRIBUTION.md           # Downloads and release checklist
-  LICENSING.md              # Licensing decision before public release
+Install [kit name or pack URL] in my intended Roblox Studio place.
+Repository: https://github.com/imafreakandyalldontknowit67/steal-a-template
+Catalog: https://github.com/imafreakandyalldontknowit67/steal-a-template/blob/main/catalog.json
+Use my authorized repository access to read AGENTS.md, the catalog,
+and the selected pack's setup notes. Inspect the imported kit first.
+Move its ScreenGui into StarterGui only if it is elsewhere; leave an
+existing StarterGui copy in place. Import the native model once only
+if absent. Do not create duplicates or overwrite my edits. Preserve
+included scripts and unrelated UI. If Studio tools are available,
+verify it in Play and restore the previous mode. Report what remains
+if repository access, import, or verification is unavailable.
 ```
 
-## Create the first UI pack
+[Agent setup details](docs/USING_WITH_AGENTS.md) · [Repository instructions](AGENTS.md)
 
-1. Copy `_templates/ui-pack` to `packs/ui/<pack-id>` (for example `inventory-ui`).
-2. Update `pack.json` and the pack README.
-3. Build the UI in Studio. Export the insertable UI to `exports/<pack-id>.rbxm`.
-4. Optionally save a demonstration place in `demo/<pack-id>-demo.rbxl`.
-5. Add previews, source files, installation steps, and dependency/credit details.
-6. Choose a license and complete the [release checklist](docs/DISTRIBUTION.md).
+## Add a pack
 
-No build tooling, Rojo, or package manager is required. Those can be added later if useful.
+Keep each pack in its own folder with a native model, readable source, screenshots, setup instructions, and an honest verification record.
 
-## License
+[Contribute](CONTRIBUTING.md) · [Pack format](docs/AUTHORING.md) · [Release checklist](docs/DISTRIBUTION.md) · [Brand kit](docs/BRAND.md)
 
-Licensing has not been selected yet. Free downloads are the intended direction, but permission to reuse or redistribute must be stated explicitly before release. See [licensing](docs/LICENSING.md).
+## Use and licensing
+
+Free downloads are the intended release model. Current packs have no reuse or redistribution license yet; there is no blanket license for this repository. Consult each pack's README, credits, and license status. [Licensing status](docs/LICENSING.md).
+
+Independent project; not affiliated with Roblox.

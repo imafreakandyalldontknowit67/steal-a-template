@@ -36,3 +36,6 @@ tasks.review.json
 
 __pycache__/
 *.py[cod]
+
+# Private visual references and local review evidence
+.ui-reference/

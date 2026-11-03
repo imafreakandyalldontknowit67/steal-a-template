@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-02",
+  "correction": "Restore brown egg; replace straight rainbow strokes with continuous curved paths",
+  "reference": [
+    "builtb423ybit.webp",
+    "video 9.0s",
+    "video 9.7s"
+  ],
+  "image": "rbxassetid://98549728933454",
+  "nativeBytes": 54984,
+  "editDescendants": 2427,
+  "controllerRoundTripIdentical": true,
+  "screenshot": "previews/shop.jpg",
+  "limitation": "Static curves; animated deformation/glow not reproduced"
+}

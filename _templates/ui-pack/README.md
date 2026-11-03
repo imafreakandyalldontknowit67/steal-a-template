@@ -1,4 +1,4 @@
-# PACK_NAME ? Roblox UI Kit
+# PACK_NAME — Roblox UI Kit
 
 > Template only. Replace all placeholders before release.
 
@@ -14,7 +14,7 @@ Not released. Add the real versioned download link, version, and update date whe
 
 ## Included
 
-- `exports/PACK_ID.rbxm` - ready-to-insert UI (not created yet).
+- `PACK_ID.rbxm` - ready-to-insert UI (not created yet).
 - `demo/PACK_ID-demo.rbxl` - optional demonstration place (not created yet).
 
 ## Installation
