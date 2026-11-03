@@ -1,8 +1,8 @@
-# Essential STUD UI ? Roblox HUD & Interface Pack
+# Essential STUD UI - Roblox HUD & Interface Pack
 
-**Editable Roblox UI kit ? 9 panels ? animated items and effects**
+**Editable Roblox UI kit · 9 panels · animated items and effects**
 
-[**Download EssentialStudUI.rbxm**](EssentialStudUI.rbxm?raw=1) ? [Screenshot gallery](#screenshot-gallery)
+[**Download EssentialStudUI.rbxm**](EssentialStudUI.rbxm?raw=1) · [Screenshot gallery](#screenshot-gallery)
 
 ![Essential STUD UI HUD](previews/hud.jpg)
 
@@ -10,7 +10,7 @@
 
 1. Download **[EssentialStudUI.rbxm](EssentialStudUI.rbxm?raw=1)**. You do not need the whole repository.
 2. Stop Play in Roblox Studio and open **Explorer**.
-3. Right-click **StarterGui ? Insert from File?** and select the model.
+3. Right-click **StarterGui → Insert from File** and select the model.
 4. If it imports elsewhere, move the **EssentialStudUI** ScreenGui into **StarterGui**.
 5. Press **Play**. The controller is included; no code paste or plugin is needed. Import only one copy.
 
@@ -20,7 +20,7 @@ Shop, gifting and confirmation, group rewards, daily rewards, playtime rewards, 
 
 ## Customize directly in Studio
 
-- **Panels:** under `Canvas ? Panels`, enable a panel's `Visible` property to preview it. Hide it again before saving.
+- **Panels:** under `Canvas > Panels`, enable a panel's `Visible` property to preview it. Hide it again before saving.
 - **Artwork/text/colors:** edit the named native instances. Source atlases are in `assets/`.
 - **Demo settings:** edit `Configuration` for starting cash/spins, offer timing, codes and reward timers.
 - **Behavior:** edit the included `Runtime`; `Controller` starts it automatically.
