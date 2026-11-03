@@ -11,6 +11,10 @@ Each UI kit has its **own folder**, editable model download, installation guide 
 
 [![Studs UI HUD preview](studs-ui/previews/hud.jpg)](studs-ui/)
 
+## Third-party design resources
+
+- [UI Figma Roblox resource library](../../third-party/ui-figma-roblox/): pinned upstream snapshot with artwork collections, source manifests, and worked examples. Not an installable UI pack; original licenses and creator credits are preserved. Review individual asset terms before reuse or public distribution.
+
 ## Install a kit
 
 Download its model and insert it under **StarterGui**. Each pack README covers its exact setup, included panels, dependencies and customization.

@@ -18,6 +18,10 @@ The goal is simple: find a pack, preview it, download it for free, and follow cl
 
 ## For developers
 
+### Third-party resources
+
+[UI Figma Roblox](third-party/ui-figma-roblox/) is a separately credited, pinned external design-resource collection. It is not one of our original UI kits; its artwork has separate creator terms. See the collection's attribution and source manifest before reuse.
+
 Each released pack will include a ready-to-insert `.rbxm`, installation instructions, previews, dependency information, and a license. Some packs will also include a `.rbxl` demo place.
 
 Download one pack rather than cloning the whole collection. Public distribution is not enabled while this repository is private.
