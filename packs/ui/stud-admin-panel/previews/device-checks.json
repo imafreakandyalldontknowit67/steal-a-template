@@ -1,0 +1,67 @@
+[
+  {
+    "name": "desktop-hd",
+    "result": "{\"inBounds\":true,\"position\":\"569, 240\",\"viewport\":\"1918, 1078\",\"safeSize\":\"1918, 1020\",\"scale\":1,\"size\":\"780, 540\"}",
+    "console": {
+      "content": [
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "isError": false
+    }
+  },
+  {
+    "name": "tablet",
+    "result": "{\"inBounds\":true,\"position\":\"297.5, 216.5\",\"viewport\":\"1375, 1031\",\"safeSize\":\"1375, 973\",\"scale\":1,\"size\":\"780, 540\"}",
+    "console": {
+      "content": [
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "isError": false
+    }
+  },
+  {
+    "name": "phone-landscape",
+    "result": "{\"inBounds\":true,\"position\":\"158.555542, 12\",\"viewport\":\"749, 381\",\"safeSize\":\"749, 323\",\"scale\":0.5537037253379822,\"size\":\"431.888916, 299\"}",
+    "console": {
+      "content": [
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "isError": false
+    }
+  },
+  {
+    "name": "phone-portrait",
+    "result": "{\"inBounds\":true,\"position\":\"12, 229\",\"viewport\":\"401, 777\",\"safeSize\":\"401, 719\",\"scale\":0.4833333194255829,\"size\":\"377, 261\"}",
+    "console": {
+      "content": [
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "isError": false
+    }
+  },
+  {
+    "name": "small-phone",
+    "result": "{\"inBounds\":true,\"position\":\"167.611115, 12\",\"viewport\":\"705, 338\",\"safeSize\":\"705, 280\",\"scale\":0.4740740656852722,\"size\":\"369.777771, 256\"}",
+    "console": {
+      "content": [
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "isError": false
+    }
+  }
+]
