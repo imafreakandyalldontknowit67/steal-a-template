@@ -10,16 +10,6 @@ Existing third-party licenses and copyright notices remain in effect. Our MIT li
 
 The design resource collection's original code and documentation already carry MIT terms; its existing copyright notice is preserved. Its collected artwork retains individual creator terms.
 
-## Icon and UI resource collections
-
-| Collection | Applicable terms |
-| --- | --- |
-| [Free Icon Pack v3.1 (Basic)](../packs/ui/icons/free-icon-pack-v3.1-basic/) | Gvesster's [original license](../packs/ui/icons/free-icon-pack-v3.1-basic/License.txt), not MIT. It permits project use under its stated conditions and restricts asset-pack reuse and resale. |
-| [Exclusive 200 Vector Pack](../packs/ui/icons/exclusive-200-vector-pack/) | No license or creator-credit file was supplied. The project does not grant MIT rights to these PNGs. |
-| [UI design resources](../packs/ui/ui-figma-roblox/) | Original code and documentation retain their [MIT notice](../packs/ui/ui-figma-roblox/LICENSE); collected artwork retains the terms recorded in [ATTRIBUTION.md](../packs/ui/ui-figma-roblox/ATTRIBUTION.md). |
-
-The root LICENSE now identifies these exclusions explicitly. Storing a collection in the repository does not change its creator's terms.
-
 ## Contributions and downloads
 
 Contribute your original work under the same MIT terms. Keep creator credits and dependency terms with any permitted external material. Include the pack's LICENSE and CREDITS files with redistributed downloads.

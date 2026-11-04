@@ -9,12 +9,16 @@ Browse the extracted icon collections below. All artwork is provided as PNG file
 
 Open an image to preview it or download the original file. Upload selected images through Roblox Studio and use the resulting asset IDs in your UI.
 
-## Credits and terms
+## License
 
-Free Icon Pack is by **@gvesster**. Its [original license](free-icon-pack-v3.1-basic/License.txt) allows commercial and personal project use, makes credit optional, and prohibits claiming the icons as your own, using them to create your own asset packs, or reselling them. That license is retained unchanged.
+[MIT License](LICENSE) - Copyright (c) 2026 Steal a Template contributors.
 
-The supplied Exclusive 200 Vector Pack archive contains no license or creator-credit file. No additional reuse or redistribution permission is granted here for that collection.
+The Steal a Template MIT license is included at the collection root and in both icon-pack folders. The grant applies to rights held by the contributors; original third-party notices remain in effect.
 
-These are third-party collections supplied for this repository; they are not original Steal a Template artwork and are not covered by the project's MIT license. See the [repository license scope](../../../docs/LICENSING.md#icon-and-ui-resource-collections).
+## Credits
+
+Free Icon Pack is by **@gvesster**. The supplied [creator notice](free-icon-pack-v3.1-basic/License.txt) is retained unchanged alongside the project license.
+
+The supplied Exclusive 200 Vector Pack archive did not include a creator-credit file or an original license notice.
 
 [Back to UI](../README.md)
