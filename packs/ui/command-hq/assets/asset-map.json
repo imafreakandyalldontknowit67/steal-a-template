@@ -1,0 +1,33 @@
+{
+  "generator": "Built-in imagegen",
+  "reference": "User-supplied military Settings reference; archived privately",
+  "preprocessing": "Crop to opaque bright icon bounds with 12px padding, proportional Lanczos resize to <=256px, preserve RGBA. No semantic artwork alteration.",
+  "icons": {
+    "gamepad": {
+      "id": "rbxassetid://102545091917709",
+      "file": "icons/gamepad-ui.png",
+      "original": "icons/gamepad.png"
+    },
+    "speaker": {
+      "id": "rbxassetid://79746208278863",
+      "file": "icons/speaker-ui.png",
+      "original": "icons/speaker.png"
+    },
+    "monitor": {
+      "id": "rbxassetid://91469242289642",
+      "file": "icons/monitor-ui.png",
+      "original": "icons/monitor.png"
+    },
+    "keyboard": {
+      "id": "rbxassetid://83399331384379",
+      "file": "icons/keyboard-ui.png",
+      "original": "icons/keyboard.png"
+    }
+  },
+  "shadow": {
+    "id": "rbxassetid://83765185827415",
+    "file": "panel-shadow.png",
+    "generator": "make-panel-shadow.py",
+    "note": "Estimated falloff; alpha cannot be recovered from one still"
+  }
+}

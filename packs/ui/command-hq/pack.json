@@ -1,0 +1,70 @@
+{
+  "id": "command-hq",
+  "name": "Command HQ - Roblox HUD and Interface Pack",
+  "category": "ui",
+  "version": "0.3.0",
+  "status": "draft",
+  "description": "Editable military UI with component colors sampled from the supplied reference, navy panels, separate gold control finishes, soft shadows, desktop/mobile toolbar and six panels.",
+  "license": "MIT (original contributions); reference and external rights excluded",
+  "author": "",
+  "files": {
+    "model": "CommandHQ.rbxm",
+    "demo": null,
+    "previews": [
+      "previews/hud.jpg",
+      "previews/settings-audio.jpg",
+      "previews/settings-game.jpg",
+      "previews/settings-graphics.jpg",
+      "previews/settings-controls.jpg",
+      "previews/update-log.jpg",
+      "previews/redeem-code.jpg",
+      "previews/missions.jpg",
+      "previews/leave-queue.jpg",
+      "previews/purchase-unit.jpg",
+      "previews/notifications.jpg"
+    ],
+    "source": "src/Build.luau"
+  },
+  "dependencies": [
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://102545091917709",
+      "source": "icons/gamepad-ui.png",
+      "note": "Verify access in destination experience"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://79746208278863",
+      "source": "icons/speaker-ui.png",
+      "note": "Verify access in destination experience"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://91469242289642",
+      "source": "icons/monitor-ui.png",
+      "note": "Verify access in destination experience"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://83399331384379",
+      "source": "icons/keyboard-ui.png",
+      "note": "Verify access in destination experience"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://83765185827415",
+      "source": "panel-shadow.png",
+      "note": "Procedural Gaussian shadow; verify destination access"
+    }
+  ],
+  "tags": [
+    "ui",
+    "hud",
+    "military",
+    "settings",
+    "codes",
+    "missions",
+    "responsive",
+    "demo"
+  ]
+}

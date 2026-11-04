@@ -1,0 +1,3061 @@
+[
+  {
+    "id": "reference",
+    "requested": [
+      1619,
+      971
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"1618, 970\",\"usable\":\"1618, 912\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1284, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"419, 189.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"419, 189.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"419, 189.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"419, 189.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"529, 226\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"529, 346\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"599, 250\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"629, 354.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"629, 354.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1284, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/reference-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "small-p",
+    "requested": [
+      360,
+      640
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"358, 638\",\"usable\":\"358, 580\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"170, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 484\",\"blur\":false,\"position\":\"16, 59.5999756\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 484\",\"blur\":false,\"position\":\"16, 59.5999756\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 484\",\"blur\":false,\"position\":\"16, 59.5999756\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 484\",\"blur\":false,\"position\":\"16, 59.5999756\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 460\",\"blur\":false,\"position\":\"16, 60\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 290\",\"blur\":false,\"position\":\"16, 145\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"326, 412\",\"blur\":false,\"position\":\"16, 84\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9055555462837219,\"size\":\"326, 217.333328\",\"blur\":false,\"position\":\"16, 192.933319\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9055555462837219,\"size\":\"326, 217.333328\",\"blur\":false,\"position\":\"16, 192.933319\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"170, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-p-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "small-l",
+    "requested": [
+      640,
+      360
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"638, 358\",\"usable\":\"638, 300\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"450, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"606, 276\",\"blur\":false,\"position\":\"16, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"606, 276\",\"blur\":false,\"position\":\"16, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"606, 276\",\"blur\":false,\"position\":\"16, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"606, 276\",\"blur\":false,\"position\":\"16, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 268\",\"blur\":false,\"position\":\"39, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"39, 40\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 268\",\"blur\":false,\"position\":\"109, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.8500000238418579,\"size\":\"306, 204\",\"blur\":false,\"position\":\"166, 54\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.8500000238418579,\"size\":\"306, 204\",\"blur\":false,\"position\":\"166, 54\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"450, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/small-l-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-p",
+    "requested": [
+      402,
+      874
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_17_pro\",\"camera\":\"401, 778\",\"usable\":\"401, 720\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"213, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 570\",\"blur\":false,\"position\":\"16, 89.3999939\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 570\",\"blur\":false,\"position\":\"16, 89.3999939\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 570\",\"blur\":false,\"position\":\"16, 89.3999939\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 570\",\"blur\":false,\"position\":\"16, 89.3999939\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 460\",\"blur\":false,\"position\":\"16, 130\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 290\",\"blur\":false,\"position\":\"16, 215\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"369, 412\",\"blur\":false,\"position\":\"16, 154\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"20.5, 254.399994\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"20.5, 254.399994\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"213, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-p-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-l",
+    "requested": [
+      874,
+      402
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_17_pro\",\"camera\":\"750, 381\",\"usable\":\"750, 323\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"562, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"718, 299\",\"blur\":false,\"position\":\"16, 18.4599915\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"718, 299\",\"blur\":false,\"position\":\"16, 18.4599915\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"718, 299\",\"blur\":false,\"position\":\"16, 18.4599915\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"718, 299\",\"blur\":false,\"position\":\"16, 18.4599915\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 291\",\"blur\":false,\"position\":\"95, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"95, 51.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 291\",\"blur\":false,\"position\":\"165, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9458333253860474,\"size\":\"340.5, 227\",\"blur\":false,\"position\":\"204.75, 54.4599915\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9458333253860474,\"size\":\"340.5, 227\",\"blur\":false,\"position\":\"204.75, 54.4599915\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"562, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/iphone-l-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tall-p",
+    "requested": [
+      390,
+      844
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"389, 843\",\"usable\":\"389, 785\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"201, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 570\",\"blur\":false,\"position\":\"16, 123.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 570\",\"blur\":false,\"position\":\"16, 123.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 570\",\"blur\":false,\"position\":\"16, 123.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 570\",\"blur\":false,\"position\":\"16, 123.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 460\",\"blur\":false,\"position\":\"16, 162.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 290\",\"blur\":false,\"position\":\"16, 247.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"357, 412\",\"blur\":false,\"position\":\"16, 186.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9916666746139526,\"size\":\"357, 238\",\"blur\":false,\"position\":\"16, 289.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9916666746139526,\"size\":\"357, 238\",\"blur\":false,\"position\":\"16, 289.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"201, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-p-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tall-l",
+    "requested": [
+      844,
+      390
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"843, 389\",\"usable\":\"843, 331\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"655, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 307\",\"blur\":false,\"position\":\"31.5, 18.6199951\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 307\",\"blur\":false,\"position\":\"31.5, 18.6199951\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 307\",\"blur\":false,\"position\":\"31.5, 18.6199951\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 307\",\"blur\":false,\"position\":\"31.5, 18.6199951\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 299\",\"blur\":false,\"position\":\"141.5, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"141.5, 55.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 299\",\"blur\":false,\"position\":\"211.5, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9791666865348816,\"size\":\"352.5, 235\",\"blur\":false,\"position\":\"245.25, 54.6199951\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":0.9791666865348816,\"size\":\"352.5, 235\",\"blur\":false,\"position\":\"245.25, 54.6199951\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"655, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tall-l-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "large-p",
+    "requested": [
+      430,
+      932
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"429, 930\",\"usable\":\"429, 872\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"241, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 570\",\"blur\":false,\"position\":\"16, 168.439972\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 570\",\"blur\":false,\"position\":\"16, 168.439972\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 570\",\"blur\":false,\"position\":\"16, 168.439972\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 570\",\"blur\":false,\"position\":\"16, 168.439972\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 460\",\"blur\":false,\"position\":\"16, 206\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 290\",\"blur\":false,\"position\":\"16, 291\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"397, 412\",\"blur\":false,\"position\":\"16, 230\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"34.5, 333.439972\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"34.5, 333.439972\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"241, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-p-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "large-l",
+    "requested": [
+      932,
+      430
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"930, 429\",\"usable\":\"930, 371\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"742, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 347\",\"blur\":false,\"position\":\"75, 19.4199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 347\",\"blur\":false,\"position\":\"75, 19.4199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 347\",\"blur\":false,\"position\":\"75, 19.4199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 347\",\"blur\":false,\"position\":\"75, 19.4199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 339\",\"blur\":false,\"position\":\"185, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"185, 75.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 339\",\"blur\":false,\"position\":\"255, 16\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"285, 72.9199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"285, 72.9199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"742, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-l-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tablet-p",
+    "requested": [
+      768,
+      1024
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"ipad_6th_generation\",\"camera\":\"768, 1023\",\"usable\":\"768, 965\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"580, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"736, 570\",\"blur\":false,\"position\":\"16, 216.799988\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"736, 570\",\"blur\":false,\"position\":\"16, 216.799988\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"736, 570\",\"blur\":false,\"position\":\"16, 216.799988\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"736, 570\",\"blur\":false,\"position\":\"16, 216.799988\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"104, 252.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"104, 372.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"174, 276.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"204, 381.799988\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"204, 381.799988\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"580, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-p-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tablet-l",
+    "requested": [
+      1024,
+      768
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"ipad_6th_generation\",\"camera\":\"1023, 768\",\"usable\":\"1023, 710\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"835, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"121.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"121.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"121.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"121.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"231.5, 125\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"231.5, 245\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"301.5, 149\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"331.5, 249.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"331.5, 249.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"835, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/tablet-l-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "large-tablet-p",
+    "requested": [
+      820,
+      1180
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"iphone_7\",\"camera\":\"819, 1179\",\"usable\":\"819, 1121\",\"compact\":true}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"631, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"19.5, 297.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"19.5, 297.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"19.5, 297.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"19.5, 297.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"129.5, 330.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"129.5, 450.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"199.5, 354.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"229.5, 462.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"229.5, 462.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"164, 48\",\"blur\":false,\"position\":\"631, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-p-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "large-tablet-l",
+    "requested": [
+      1180,
+      820
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"1179, 819\",\"usable\":\"1179, 761\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"845, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"199.5, 110.719971\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"199.5, 110.719971\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"199.5, 110.719971\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"199.5, 110.719971\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"309.5, 150.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"309.5, 270.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"379.5, 174.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"409.5, 275.719971\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"409.5, 275.719971\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"845, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/large-tablet-l-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "laptop-720",
+    "requested": [
+      1280,
+      720
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"1279, 720\",\"usable\":\"1279, 662\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"945, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 566\",\"blur\":false,\"position\":\"249.5, 61.2399902\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 566\",\"blur\":false,\"position\":\"249.5, 61.2399902\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 566\",\"blur\":false,\"position\":\"249.5, 61.2399902\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 566\",\"blur\":false,\"position\":\"249.5, 61.2399902\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"359.5, 101\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"359.5, 221\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"429.5, 125\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"459.5, 224.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"459.5, 224.23999\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"945, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-720-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "laptop-768",
+    "requested": [
+      1366,
+      768
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"1365, 768\",\"usable\":\"1365, 710\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1031, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"292.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"292.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"292.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"292.5, 84.1999817\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"402.5, 125\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"402.5, 245\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"472.5, 149\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"502.5, 249.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"502.5, 249.199982\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1031, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/laptop-768-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "desktop-hd",
+    "requested": [
+      1920,
+      1080
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"1919, 1079\",\"usable\":\"1919, 1021\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1585, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"679.5, 280.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"679.5, 400.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"749.5, 304.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"779.5, 410.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"779.5, 410.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1585, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-hd-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "desktop-qhd",
+    "requested": [
+      2560,
+      1440
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"2559, 1440\",\"usable\":\"2559, 1382\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"2225, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 433.639954\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 433.639954\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 433.639954\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 433.639954\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"999.5, 461\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"999.5, 581\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"1069.5, 485\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"1099.5, 598.639954\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"1099.5, 598.639954\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"2225, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/desktop-qhd-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ultrawide",
+    "requested": [
+      2560,
+      1080
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"average_laptop\",\"camera\":\"2559, 1079\",\"usable\":\"2559, 1021\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"2225, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"889.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"999.5, 280.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"999.5, 400.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"1069.5, 304.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"1099.5, 410.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"1099.5, 410.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"2225, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/ultrawide-notifications.jpg"
+      }
+    ]
+  },
+  {
+    "id": "console",
+    "requested": [
+      1920,
+      1080
+    ],
+    "setup": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"profile\":\"xbox\",\"camera\":\"1919, 1079\",\"usable\":\"1919, 1021\",\"compact\":false}"
+        }
+      ],
+      "isError": false
+    },
+    "states": [
+      {
+        "state": "hud",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1585, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-hud.jpg"
+      },
+      {
+        "state": "settings-audio",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-settings-audio.jpg"
+      },
+      {
+        "state": "settings-game",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-settings-game.jpg"
+      },
+      {
+        "state": "settings-graphics",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-settings-graphics.jpg"
+      },
+      {
+        "state": "settings-controls",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"780, 570\",\"blur\":false,\"position\":\"569.5, 245.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-settings-controls.jpg"
+      },
+      {
+        "state": "update-log",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 460\",\"blur\":false,\"position\":\"679.5, 280.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-update-log.jpg"
+      },
+      {
+        "state": "redeem-code",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"560, 220\",\"blur\":false,\"position\":\"679.5, 400.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-redeem-code.jpg"
+      },
+      {
+        "state": "missions",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"420, 412\",\"blur\":false,\"position\":\"749.5, 304.5\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-missions.jpg"
+      },
+      {
+        "state": "leave-queue",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"779.5, 410.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-leave-queue.jpg"
+      },
+      {
+        "state": "purchase-unit",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"scale\":1,\"size\":\"360, 240\",\"blur\":false,\"position\":\"779.5, 410.919983\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-purchase-unit.jpg"
+      },
+      {
+        "state": "notifications",
+        "probe": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\"size\":\"310, 48\",\"blur\":false,\"position\":\"1585, 18\"}"
+            }
+          ],
+          "isError": false
+        },
+        "file": "previews/devices/v020/console-notifications.jpg"
+      }
+    ]
+  }
+]

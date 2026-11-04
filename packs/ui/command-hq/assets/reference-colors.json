@@ -1,0 +1,840 @@
+{
+  "reference": "paste-1793828677228.png; 1619x971",
+  "method": "Exact RGB at recorded source pixels; separate samples for each component and gradient endpoint. Rendering/antialiasing can differ; values are not an exact full-screen match.",
+  "samples": [
+    {
+      "part": "Panel",
+      "source_xy": [
+        891,
+        420
+      ],
+      "source_rgb": [
+        11,
+        28,
+        41
+      ],
+      "applied_rgb": [
+        11,
+        28,
+        41
+      ]
+    },
+    {
+      "part": "PanelBottom",
+      "source_xy": [
+        891,
+        750
+      ],
+      "source_rgb": [
+        11,
+        29,
+        42
+      ],
+      "applied_rgb": [
+        11,
+        29,
+        42
+      ]
+    },
+    {
+      "part": "Header",
+      "source_xy": [
+        700,
+        190
+      ],
+      "source_rgb": [
+        23,
+        47,
+        64
+      ],
+      "applied_rgb": [
+        23,
+        47,
+        64
+      ]
+    },
+    {
+      "part": "HeaderTop",
+      "source_xy": [
+        700,
+        158
+      ],
+      "source_rgb": [
+        25,
+        49,
+        66
+      ],
+      "applied_rgb": [
+        25,
+        49,
+        66
+      ]
+    },
+    {
+      "part": "HeaderBottom",
+      "source_xy": [
+        700,
+        224
+      ],
+      "source_rgb": [
+        32,
+        55,
+        72
+      ],
+      "applied_rgb": [
+        32,
+        55,
+        72
+      ]
+    },
+    {
+      "part": "Content",
+      "source_xy": [
+        850,
+        390
+      ],
+      "source_rgb": [
+        13,
+        30,
+        44
+      ],
+      "applied_rgb": [
+        13,
+        30,
+        44
+      ]
+    },
+    {
+      "part": "ContentBottom",
+      "source_xy": [
+        850,
+        710
+      ],
+      "source_rgb": [
+        5,
+        20,
+        29
+      ],
+      "applied_rgb": [
+        5,
+        20,
+        29
+      ]
+    },
+    {
+      "part": "Section",
+      "source_xy": [
+        830,
+        356
+      ],
+      "source_rgb": [
+        22,
+        44,
+        62
+      ],
+      "applied_rgb": [
+        22,
+        44,
+        62
+      ]
+    },
+    {
+      "part": "RimTop",
+      "source_xy": [
+        500,
+        150
+      ],
+      "source_rgb": [
+        191,
+        230,
+        255
+      ],
+      "applied_rgb": [
+        191,
+        230,
+        255
+      ]
+    },
+    {
+      "part": "Rim",
+      "source_xy": [
+        104,
+        400
+      ],
+      "source_rgb": [
+        137,
+        182,
+        223
+      ],
+      "applied_rgb": [
+        137,
+        182,
+        223
+      ]
+    },
+    {
+      "part": "RimBottom",
+      "source_xy": [
+        500,
+        774
+      ],
+      "source_rgb": [
+        143,
+        189,
+        222
+      ],
+      "applied_rgb": [
+        143,
+        189,
+        222
+      ]
+    },
+    {
+      "part": "InnerRim",
+      "source_xy": [
+        133,
+        480
+      ],
+      "source_rgb": [
+        57,
+        91,
+        114
+      ],
+      "applied_rgb": [
+        57,
+        91,
+        114
+      ]
+    },
+    {
+      "part": "HeaderDivider",
+      "source_xy": [
+        830,
+        375
+      ],
+      "source_rgb": [
+        48,
+        75,
+        97
+      ],
+      "applied_rgb": [
+        48,
+        75,
+        97
+      ]
+    },
+    {
+      "part": "Divider",
+      "source_xy": [
+        300,
+        442
+      ],
+      "source_rgb": [
+        83,
+        118,
+        140
+      ],
+      "applied_rgb": [
+        83,
+        118,
+        140
+      ]
+    },
+    {
+      "part": "DividerShade",
+      "source_xy": [
+        300,
+        443
+      ],
+      "source_rgb": [
+        35,
+        65,
+        87
+      ],
+      "applied_rgb": [
+        35,
+        65,
+        87
+      ]
+    },
+    {
+      "part": "TabTop",
+      "source_xy": [
+        329,
+        254
+      ],
+      "source_rgb": [
+        201,
+        125,
+        36
+      ],
+      "applied_rgb": [
+        201,
+        125,
+        36
+      ]
+    },
+    {
+      "part": "TabBottom",
+      "source_xy": [
+        329,
+        297
+      ],
+      "source_rgb": [
+        205,
+        129,
+        36
+      ],
+      "applied_rgb": [
+        205,
+        129,
+        36
+      ]
+    },
+    {
+      "part": "TabRim",
+      "source_xy": [
+        390,
+        246
+      ],
+      "source_rgb": [
+        255,
+        218,
+        114
+      ],
+      "applied_rgb": [
+        255,
+        218,
+        114
+      ]
+    },
+    {
+      "part": "NeutralTop",
+      "source_xy": [
+        145,
+        260
+      ],
+      "source_rgb": [
+        19,
+        41,
+        56
+      ],
+      "applied_rgb": [
+        19,
+        41,
+        56
+      ]
+    },
+    {
+      "part": "NeutralBottom",
+      "source_xy": [
+        145,
+        285
+      ],
+      "source_rgb": [
+        21,
+        43,
+        58
+      ],
+      "applied_rgb": [
+        21,
+        43,
+        58
+      ]
+    },
+    {
+      "part": "NeutralRim",
+      "source_xy": [
+        145,
+        301
+      ],
+      "source_rgb": [
+        100,
+        136,
+        163
+      ],
+      "applied_rgb": [
+        100,
+        136,
+        163
+      ]
+    },
+    {
+      "part": "ActionTop",
+      "source_xy": [
+        1380,
+        730
+      ],
+      "source_rgb": [
+        239,
+        156,
+        49
+      ],
+      "applied_rgb": [
+        239,
+        156,
+        49
+      ]
+    },
+    {
+      "part": "ActionBottom",
+      "source_xy": [
+        1380,
+        765
+      ],
+      "source_rgb": [
+        235,
+        150,
+        42
+      ],
+      "applied_rgb": [
+        235,
+        150,
+        42
+      ]
+    },
+    {
+      "part": "ActionRim",
+      "source_xy": [
+        1380,
+        773
+      ],
+      "source_rgb": [
+        245,
+        199,
+        88
+      ],
+      "applied_rgb": [
+        245,
+        199,
+        88
+      ]
+    },
+    {
+      "part": "ToggleTop",
+      "source_xy": [
+        810,
+        601
+      ],
+      "source_rgb": [
+        224,
+        145,
+        47
+      ],
+      "applied_rgb": [
+        224,
+        145,
+        47
+      ]
+    },
+    {
+      "part": "ToggleBottom",
+      "source_xy": [
+        810,
+        628
+      ],
+      "source_rgb": [
+        225,
+        146,
+        45
+      ],
+      "applied_rgb": [
+        225,
+        146,
+        45
+      ]
+    },
+    {
+      "part": "ToggleRim",
+      "source_xy": [
+        810,
+        597
+      ],
+      "source_rgb": [
+        245,
+        180,
+        63
+      ],
+      "applied_rgb": [
+        245,
+        180,
+        63
+      ]
+    },
+    {
+      "part": "OffTop",
+      "source_xy": [
+        844,
+        681
+      ],
+      "source_rgb": [
+        60,
+        85,
+        105
+      ],
+      "applied_rgb": [
+        60,
+        85,
+        105
+      ]
+    },
+    {
+      "part": "OffBottom",
+      "source_xy": [
+        844,
+        700
+      ],
+      "source_rgb": [
+        64,
+        89,
+        111
+      ],
+      "applied_rgb": [
+        64,
+        89,
+        111
+      ]
+    },
+    {
+      "part": "OffRim",
+      "source_xy": [
+        844,
+        677
+      ],
+      "source_rgb": [
+        95,
+        123,
+        150
+      ],
+      "applied_rgb": [
+        95,
+        123,
+        150
+      ]
+    },
+    {
+      "part": "TrackTop",
+      "source_xy": [
+        750,
+        407
+      ],
+      "source_rgb": [
+        80,
+        111,
+        138
+      ],
+      "applied_rgb": [
+        80,
+        111,
+        138
+      ]
+    },
+    {
+      "part": "TrackBottom",
+      "source_xy": [
+        750,
+        413
+      ],
+      "source_rgb": [
+        85,
+        116,
+        140
+      ],
+      "applied_rgb": [
+        85,
+        116,
+        140
+      ]
+    },
+    {
+      "part": "FillTop",
+      "source_xy": [
+        500,
+        407
+      ],
+      "source_rgb": [
+        239,
+        162,
+        58
+      ],
+      "applied_rgb": [
+        239,
+        162,
+        58
+      ]
+    },
+    {
+      "part": "FillBottom",
+      "source_xy": [
+        500,
+        413
+      ],
+      "source_rgb": [
+        248,
+        168,
+        56
+      ],
+      "applied_rgb": [
+        248,
+        168,
+        56
+      ]
+    },
+    {
+      "part": "ThumbTop",
+      "source_xy": [
+        685,
+        402
+      ],
+      "source_rgb": [
+        236,
+        145,
+        27
+      ],
+      "applied_rgb": [
+        236,
+        145,
+        27
+      ]
+    },
+    {
+      "part": "ThumbBottom",
+      "source_xy": [
+        685,
+        417
+      ],
+      "source_rgb": [
+        232,
+        150,
+        41
+      ],
+      "applied_rgb": [
+        232,
+        150,
+        41
+      ]
+    },
+    {
+      "part": "KnobTop",
+      "source_xy": [
+        840,
+        605
+      ],
+      "source_rgb": [
+        248,
+        248,
+        248
+      ],
+      "applied_rgb": [
+        248,
+        248,
+        248
+      ]
+    },
+    {
+      "part": "KnobBottom",
+      "source_xy": [
+        840,
+        615
+      ],
+      "source_rgb": [
+        245,
+        245,
+        246
+      ],
+      "applied_rgb": [
+        245,
+        245,
+        246
+      ]
+    },
+    {
+      "part": "BannerTop",
+      "source_xy": [
+        1200,
+        212
+      ],
+      "source_rgb": [
+        56,
+        56,
+        51
+      ],
+      "applied_rgb": [
+        56,
+        56,
+        51
+      ]
+    },
+    {
+      "part": "BannerBottom",
+      "source_xy": [
+        1200,
+        242
+      ],
+      "source_rgb": [
+        59,
+        57,
+        53
+      ],
+      "applied_rgb": [
+        59,
+        57,
+        53
+      ]
+    },
+    {
+      "part": "BannerRim",
+      "source_xy": [
+        1200,
+        202
+      ],
+      "source_rgb": [
+        199,
+        143,
+        72
+      ],
+      "applied_rgb": [
+        199,
+        143,
+        72
+      ]
+    },
+    {
+      "part": "InputTop",
+      "source_xy": [
+        1100,
+        730
+      ],
+      "source_rgb": [
+        12,
+        28,
+        41
+      ],
+      "applied_rgb": [
+        12,
+        28,
+        41
+      ]
+    },
+    {
+      "part": "InputBottom",
+      "source_xy": [
+        1100,
+        770
+      ],
+      "source_rgb": [
+        9,
+        25,
+        35
+      ],
+      "applied_rgb": [
+        9,
+        25,
+        35
+      ]
+    },
+    {
+      "part": "InputRim",
+      "source_xy": [
+        1100,
+        773
+      ],
+      "source_rgb": [
+        109,
+        147,
+        181
+      ],
+      "applied_rgb": [
+        109,
+        147,
+        181
+      ]
+    },
+    {
+      "part": "Primary",
+      "source_xy": [
+        257,
+        401
+      ],
+      "source_rgb": [
+        255,
+        255,
+        255
+      ],
+      "applied_rgb": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "part": "Secondary",
+      "source_xy": [
+        188,
+        627
+      ],
+      "source_rgb": [
+        203,
+        225,
+        240
+      ],
+      "applied_rgb": [
+        203,
+        225,
+        240
+      ]
+    },
+    {
+      "part": "GoldText",
+      "source_xy": [
+        1078,
+        273
+      ],
+      "source_rgb": [
+        255,
+        183,
+        63
+      ],
+      "applied_rgb": [
+        255,
+        183,
+        63
+      ]
+    },
+    {
+      "part": "ActionText",
+      "source_xy": [
+        1459,
+        753
+      ],
+      "source_rgb": [
+        7,
+        20,
+        29
+      ],
+      "applied_rgb": [
+        7,
+        20,
+        29
+      ]
+    },
+    {
+      "part": "Ribbon",
+      "source_xy": [
+        117,
+        181
+      ],
+      "source_rgb": [
+        248,
+        168,
+        58
+      ],
+      "applied_rgb": [
+        248,
+        168,
+        58
+      ]
+    }
+  ],
+  "shadow": "Gaussian black shadow; original alpha cannot be recovered from one composited image without a clean background. Shape/opacity estimated."
+}
