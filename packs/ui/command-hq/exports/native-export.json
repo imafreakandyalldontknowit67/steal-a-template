@@ -1,22 +1,24 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "model": "CommandHQ.rbxm",
-  "sha256": "4f38308502be97352dce5a3be9b5eeced554e9a562b504f18d1c9d399fc4d3ec",
-  "bytes": 53560,
+  "sha256": "56194bf8b5046575d8ba7d390c11512dcccf7c0a8efd351b71c0c0cf16db6e01",
+  "bytes": 52810,
   "root": "CommandHQ",
   "class": "ScreenGui",
-  "descendants": 2320,
+  "descendants": 2138,
   "source_hash_normalization": "UTF-8, LF, trailing whitespace removed, one terminal newline",
   "source_sha256": {
     "src/Assets.luau": "30364ce83593eaa4b527ec395a3b0fc3ab18f9a43336be11d6ef5e0f6a15abac",
     "src/Build.luau": "051150f2c761cb81806d941863440189281131c2ac04a53aec9ba85ff7f1a115",
     "src/ColorMatch.luau": "98405e946cb546f8a24b50b1e2e2245dbd336ee92674709b65d52f7f33959cf9",
     "src/Controller.luau": "94d1f3d67653b2489da53a41443b511408cc8c2853174be52c8f9823a86e82aa",
+    "src/InstallIcons.luau": "3a4305cd113ce758d357ce567ea9de671c915c0a708872bb59a9027a97b220f5",
     "src/Palette.luau": "59d7addb4ba01feea7b04f9552bbcb5d471be9031166155d74eeb9582963bedb",
     "src/Polish.luau": "94518bc5ffd736c77a359989e6d1926ff9d2bebde5ea51a106af8feb245ed374",
+    "src/SharedIcons.luau": "16646940d4f4a47b815ffc86f3a700f5e58f3ffeaca0666e257c40bcc543d590",
     "src/Theme.luau": "37a0e3cee32b7a75cf8a36f7779341b2bb3e1ca46eb4a38c76270578e2eba31f"
   },
-  "round_trip": "Final bytes serialized/deserialized in Studio; Controller, Theme, Assets and Palette source equality passed; imported model checked in Play.",
-  "gallery": "11 imported-model MCP captures at reference-size emulation",
+  "round_trip": "Final native bytes serialized/deserialized in Studio; Controller, Theme, Assets, Palette and SharedIcons source equality verified. Imported Play checks and screenshots.",
+  "gallery": "11 imported-model captures; four viewport/profile cases with 11 states each",
   "status": "draft; touch/gamepad/hardware acceptance incomplete"
 }

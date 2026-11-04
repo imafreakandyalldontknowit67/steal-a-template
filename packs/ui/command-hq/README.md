@@ -1,6 +1,6 @@
 # Command HQ — Roblox HUD & Interface Pack
 
-**Editable glass UI kit · 6 panels + notifications · generated Settings icons · PC/mobile top-right HUD · 0.3.0 draft**
+**Editable glass UI kit · 6 panels + notifications · generated Settings and shared symbols · PC/mobile top-right HUD · 0.3.1 draft**
 
 [**Download CommandHQ.rbxm**](CommandHQ.rbxm?raw=1) · [Screenshot gallery](#screenshot-gallery) · [Asset credits](CREDITS.md)
 
@@ -33,7 +33,7 @@ StarterGui
 
 ## Customize directly in Studio
 
-Select named text, frames, borders and icon parts to change the design. The 0.3.0 revision applies 49 separately sampled reference color roles: panels, headers, rims, dividers, slider parts, neutral tabs, selected tabs, action buttons and toggles. Opaque navy paint matches the sampled composited reference surfaces; a separate Gaussian alpha image supplies the soft shadow. The gold header ribbon meets the top and left edges. Four generated Settings icons replace the earlier geometric placeholders. Preview a panel by enabling its Visible property under Panels; hide it again before saving. Notifications has its own Visible property under HUD. The initial editable model is complete with scripts disabled; Play runs only behavior and responsive layout.
+Select named text, frames, borders and icon parts to change the design. The 0.3.1 revision applies 49 separately sampled reference color roles: panels, headers, rims, dividers, slider parts, neutral tabs, selected tabs, action buttons and toggles. Opaque navy paint matches the sampled composited reference surfaces; a separate Gaussian alpha image supplies the soft shadow. The 0.3.1 revision replaces the document, plus, gear and wrench at all eight uses with four shared generated assets. The gold header ribbon meets the top and left edges. Four generated Settings tab icons and four shared symbols replace the earlier geometric placeholders. Preview a panel by enabling its Visible property under Panels; hide it again before saving. Notifications has its own Visible property under HUD. The initial editable model is complete with scripts disabled; Play runs only behavior and responsive layout.
 
 The controller adapts to the usable GUI size, reflows narrow Settings rows and Code entry, and scrolls long Settings, Updates and Missions content. Edit-mode panel sizes are authoring dimensions; change ResponsiveScale for a temporary preview, then let the controller recompute in Play.
 
@@ -43,7 +43,7 @@ Missions and the two confirmation panels have no invented HUD launchers. Preview
 
 ## Screenshot gallery
 
-Actual Roblox Studio MCP captures of the imported native model in Play. The baseplate and avatar are a preview environment and are not included. All gallery images show the final 0.3.0 imported model. Background blur is active in panel captures; the preview world is not bundled.
+Actual Roblox Studio MCP captures of the imported native model in Play. The baseplate and avatar are a preview environment and are not included. All gallery images show the final 0.3.1 imported model. Background blur is active in panel captures; the preview world is not bundled.
 
 | Audio settings | Game settings |
 | --- | --- |
@@ -67,7 +67,7 @@ Actual Roblox Studio MCP captures of the imported native model in Play. The base
 
 ### Mobile toolbar
 
-![Actual iPhone portrait HUD with document, ticket and gear icon buttons](previews/devices/v030/iphone-p-hud.jpg)
+![Actual iPhone portrait HUD with document, ticket and gear icon buttons](previews/devices/v031/small-p-hud.jpg)
 
 ## What's in this folder?
 
@@ -86,16 +86,16 @@ command-hq/
 
 ## Dependencies and verification
 
-Four uploaded generated image icons and one procedural shadow image are required; IDs and source PNGs are included in assets/. No sound or third-party code dependencies. The model contains 2,320 descendants, an embedded controller, Assets, Theme and Palette modules, and a blur template. Studio serialization/deserialization and imported Play checks passed. Desktop mouse interactions, native scrolling, phone/tablet layout and live orientation changes were exercised. [VERIFICATION.md](VERIFICATION.md) records actual dimensions and limitations.
+Eight uploaded generated icons and one procedural shadow image are required; IDs and source PNGs are included in assets/. No sound or third-party code dependencies. The model contains 2,138 descendants, an embedded controller, Assets, Theme, Palette and SharedIcons modules, and a blur template. Studio serialization/deserialization and imported Play checks passed. Desktop mouse interactions, native scrolling, phone/tablet layout and live orientation changes were exercised. [VERIFICATION.md](VERIFICATION.md) records actual dimensions and limitations.
 
-Touch gestures, virtual keyboards, physical devices, gamepad navigation, TV overscan and couch-distance readability are unverified. Console captures establish geometry only. Nineteen requested viewport/profile cases were captured for every panel and all four Settings tabs. Breakpoint boundary probing and exhaustive touch/keyboard/gamepad checks remain incomplete. Treat this as a tested draft, not complete all-device acceptance.
+Touch gestures, virtual keyboards, physical devices, gamepad navigation, TV overscan and couch-distance readability are unverified. Console captures establish geometry only. The preceding palette revision covered 19 viewport/profile cases. This icon-only revision preserved layout/controller source and recaptured four cases (reference, smallest portrait, smallest landscape and ultrawide), each with 11 states. Breakpoint boundary probing and exhaustive touch/keyboard/gamepad checks remain incomplete. Treat this as a tested draft, not complete all-device acceptance.
 
 **Draft.** Original Steal a Template contributions use the included [MIT license](LICENSE). Reference designs and external platform assets retain their own rights; see [credits](CREDITS.md).
 
 <details>
 <summary>For pack maintainers: source builds and checks</summary>
 
-Run src/Build.luau through Studio MCP in Edit mode after preserving an existing root. Use a temporary disabled CommandHQ_Revision root. Embed Assets, Palette and Theme from src/ as ModuleScripts before requiring Theme, and Controller as a LocalScript. Run Polish.luau once, then ColorMatch.luau. These are authoring steps; the runtime controller does not reconstruct the UI. Validate before swapping into place.
+Run src/Build.luau through Studio MCP in Edit mode after preserving an existing root. Use a temporary disabled CommandHQ_Revision root. Embed Assets, Palette, Theme and SharedIcons from src/ as ModuleScripts before requiring Theme, and Controller as a LocalScript. Run Polish.luau once, then ColorMatch.luau and InstallIcons.luau. These are authoring steps; the runtime controller does not reconstruct the UI. Validate before swapping into place.
 
 Export with SerializationService, import the resulting native bytes, and recheck Play behavior, every panel/tab gallery, asset loading and the device matrix after changes. Update `exports/native-export.json` and metadata. Do not overwrite user customizations or distribute a stale model.
 

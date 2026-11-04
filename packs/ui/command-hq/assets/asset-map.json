@@ -29,5 +29,27 @@
     "file": "panel-shadow.png",
     "generator": "make-panel-shadow.py",
     "note": "Estimated falloff; alpha cannot be recovered from one still"
+  },
+  "shared_icons": {
+    "gear": {
+      "id": "rbxassetid://87752625867783",
+      "file": "icons/gear-v031.png",
+      "original": "icons/gear-v031-original.png"
+    },
+    "wrench": {
+      "id": "rbxassetid://116727052226944",
+      "file": "icons/wrench-v031.png",
+      "original": "icons/wrench-v031-original.png"
+    },
+    "plus": {
+      "id": "rbxassetid://95038845218980",
+      "file": "icons/plus-v031.png",
+      "original": "icons/plus-v031-original.png"
+    },
+    "document": {
+      "id": "rbxassetid://73625031475709",
+      "file": "icons/document-v031.png",
+      "original": "icons/document-v031-original.png"
+    }
   }
 }

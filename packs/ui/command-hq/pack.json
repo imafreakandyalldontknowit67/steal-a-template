@@ -2,7 +2,7 @@
   "id": "command-hq",
   "name": "Command HQ - Roblox HUD and Interface Pack",
   "category": "ui",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "status": "draft",
   "description": "Editable military UI with component colors sampled from the supplied reference, navy panels, separate gold control finishes, soft shadows, desktop/mobile toolbar and six panels.",
   "license": "MIT (original contributions); reference and external rights excluded",
@@ -55,6 +55,30 @@
       "id": "rbxassetid://83765185827415",
       "source": "panel-shadow.png",
       "note": "Procedural Gaussian shadow; verify destination access"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://87752625867783",
+      "source": "icons/gear-v031.png",
+      "note": "Generated shared symbol; verify destination access"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://116727052226944",
+      "source": "icons/wrench-v031.png",
+      "note": "Generated shared symbol; verify destination access"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://95038845218980",
+      "source": "icons/plus-v031.png",
+      "note": "Generated shared symbol; verify destination access"
+    },
+    {
+      "type": "Roblox image",
+      "id": "rbxassetid://73625031475709",
+      "source": "icons/document-v031.png",
+      "note": "Generated shared symbol; verify destination access"
     }
   ],
   "tags": [

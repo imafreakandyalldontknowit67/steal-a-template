@@ -9,7 +9,7 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 | [Steal an Egg](steal-an-egg/) | [21 screenshots](steal-an-egg/#screenshot-gallery) | [StealAnEggUI.rbxm](steal-an-egg/StealAnEggUI.rbxm?raw=1) | Draft; imported desktop Play checked; other devices unverified |
 | [Stud Admin Panel](stud-admin-panel/) | [7 screenshots](stud-admin-panel/#screenshot-gallery) | [StudAdminPanel.rbxm](stud-admin-panel/StudAdminPanel.rbxm?raw=1) | Draft; original layout preserved; desktop/tablet/phone fit checked |
 
-| [Command HQ](command-hq/) | [11 screenshots](command-hq/#screenshot-gallery) | [CommandHQ.rbxm](command-hq/CommandHQ.rbxm?raw=1) | 0.3.0 draft; imported Play checked; desktop/mobile captures; touch/gamepad gaps remain |
+| [Command HQ](command-hq/) | [11 screenshots](command-hq/#screenshot-gallery) | [CommandHQ.rbxm](command-hq/CommandHQ.rbxm?raw=1) | 0.3.1 draft; regenerated shared icons; imported Play checked; desktop/mobile captures; touch/gamepad gaps remain |
 
 ### Command HQ
 
