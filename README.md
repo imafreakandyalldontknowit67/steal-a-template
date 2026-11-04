@@ -6,7 +6,7 @@
 
 **Free Roblox assets: UI kits, models, VFX, audio, and Luau systems.**
 
-[Browse assets](#browse-assets) &middot; [Use an asset](#use-an-asset) &middot; [Contribute](CONTRIBUTING.md)
+[Browse assets](#browse-assets) &middot; [Use an asset](#use-an-asset) &middot; [Contribute](CONTRIBUTING.md) &middot; [Join Discord](https://discord.gg/stealatemplate)
 
 </div>
 
