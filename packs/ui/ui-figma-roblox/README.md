@@ -19,7 +19,7 @@ Artwork and editable examples for building Roblox interfaces in Figma and Roblox
 3. For Roblox, upload the assets you have permission to use, then build the interface with editable Studio instances. Update image IDs to the uploads available to your experience.
 4. Test the finished interface in Studio and capture each screen and state for its pack page.
 
-These are design source files and examples; the ready-to-insert interfaces are in [UI kits](../../packs/ui/).
+These are design source files and examples; the ready-to-insert interfaces are in [UI kits](../).
 
 ## Credits
 

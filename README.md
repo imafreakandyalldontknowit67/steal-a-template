@@ -24,7 +24,7 @@ Editable assets for your next Roblox game, with source files, previews, and setu
 
 Open a category to find its packs. Each pack page shows what's included, previews, downloads, and instructions.
 
-[UI design resources](resources/ui-figma-roblox/) include artwork, editable Figma examples, and a Roblox shop example hosted in this repository.
+[UI design resources](packs/ui/ui-figma-roblox/) include artwork, editable Figma examples, and a Roblox shop example hosted in this repository.
 
 ## Use an asset
 

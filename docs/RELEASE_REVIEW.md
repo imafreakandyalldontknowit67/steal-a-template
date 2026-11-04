@@ -22,7 +22,7 @@ Review date: 2026-11-03. Reviewed GitHub main at `4d06579`, followed by the prep
 | Studs UI design | [Credits](../packs/ui/studs-ui/CREDITS.md) record unverified reference permissions. | Record the creator/source and permission or replace the affected design. |
 | Essential STUD UI design | [Credits](../packs/ui/essential-stud-ui/CREDITS.md) and asset manifest do not establish redistribution clearance. | Record creator/source and permission or replace the affected design. |
 | Steal an Egg design | [Credits](../packs/ui/steal-an-egg/CREDITS.md) identify a recreation of a commercial template and unverified permission. | Confirm permission for public distribution or exclude/replace the affected pack. |
-| Bundled design artwork | [Attribution](../resources/ui-figma-roblox/ATTRIBUTION.md) says the MIT license excludes artwork; Kek assets shipped without a license and the resource collection retains individual creator terms. | Clear each retained collection or select a smaller set with documented permission. |
+| Bundled design artwork | [Attribution](../packs/ui/ui-figma-roblox/ATTRIBUTION.md) says the MIT license excludes artwork; Kek assets shipped without a license and the resource collection retains individual creator terms. | Clear each retained collection or select a smaller set with documented permission. |
 | Historical files | Earlier commits contain the removed Discord configuration and the original bundled artwork. | Review whether that history is intended to be public. Deleting files from the latest commit does not remove historical versions. A clean public repository or reviewed history rewrite is a separate decision. |
 
 ## Final verification

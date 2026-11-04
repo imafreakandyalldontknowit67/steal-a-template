@@ -1118,5 +1118,5 @@
     "references/design-workflow.md": "cc20be1fcb833a28741309c237f470c1f2902cb6f5e91cec6699252f06e5d4e0",
     "SKILL.md": "44d73cb10f52c6e5f0d1bf0b766341b61c50ffd47a25ca906196fc731f8039c8"
   },
-  "local_changes": "Collection relocated into resources/ui-figma-roblox; README rewritten for local use; raw API catalog and upstream npm installer removed. Checksums describe retained original source files before local documentation edits."
+  "local_changes": "Collection relocated into packs/ui/ui-figma-roblox; README rewritten for local use; raw API catalog and upstream npm installer removed. Checksums describe retained original source files before local documentation edits."
 }
