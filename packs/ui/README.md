@@ -19,6 +19,8 @@ Download the kit's `.rbxm`, stop Play, then use **StarterGui → Insert from Fil
 
 Each pack documents its source files, linked artwork, demo interactions, and device limitations. Original Steal a Template code and assets use [MIT terms](../../LICENSE); each pack's credits identify external material and permission records.
 
+[Icons](icons/) - 2,272 PNGs across two extracted icon collections.
+
 [UI design resources](ui-figma-roblox/) - artwork and editable Figma/Roblox examples in this repository.
 
 [Back to Steal a Template](../../README.md)
