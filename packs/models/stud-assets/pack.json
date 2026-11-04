@@ -1,0 +1,15 @@
+{
+  "id": "stud-assets",
+  "name": "Stud Asset Pack",
+  "version": "1.0.0",
+  "category": "models",
+  "model": "StudAssets.rbxm",
+  "readme": "README.md",
+  "previews": [
+    "previews/assets-gallery-0.jpg",
+    "previews/assets-gallery-1.jpg"
+  ],
+  "security": "SECURITY.md",
+  "inventory": "inventory.json",
+  "sha256": "6488c26e79520cce6b6972959771a68bea03bab0a3d783d870d64305df8e1f8b"
+}

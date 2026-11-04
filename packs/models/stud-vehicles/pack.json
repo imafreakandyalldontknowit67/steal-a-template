@@ -1,0 +1,14 @@
+{
+  "id": "stud-vehicles",
+  "name": "Stud Vehicles",
+  "version": "1.0.0",
+  "category": "models",
+  "model": "StudVehicles.rbxm",
+  "readme": "README.md",
+  "previews": [
+    "previews/cars-overview.jpg"
+  ],
+  "security": "SECURITY.md",
+  "inventory": "inventory.json",
+  "sha256": "8bf889a2cdbd3e20e3f1cfefdadcf8368915bdba1783f75d1c6502e0a8020608"
+}

@@ -24,3 +24,11 @@ Each pack documents its source files, linked artwork, demo interactions, and dev
 [UI design resources](ui-figma-roblox/) - artwork and editable Figma/Roblox examples in this repository.
 
 [Back to Steal a Template](../../README.md)
+
+## Studs UI Pack 2
+
+An editable simulator UI with a HUD and nine panels. Includes three readable Luau scripts for panel animation, button hover/click scale effects, tagged rotating sunbursts, and UI sounds. Purchases, currency, XP, rewards, settings toggles, item filters, and upgrades display example content and require game integration.
+
+[Browse Studs UI Pack 2](studs-ui-pack-2/README.md)
+
+![Studs UI Pack 2](studs-ui-pack-2/previews/ui-hud.jpg)

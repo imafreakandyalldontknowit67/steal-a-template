@@ -1,0 +1,14 @@
+{
+  "id": "stud-pack-v1",
+  "name": "Stud Pack V1",
+  "version": "1.0.0",
+  "category": "models",
+  "model": "StudPackV1.rbxm",
+  "readme": "README.md",
+  "previews": [
+    "previews/v1-overview.jpg"
+  ],
+  "security": "SECURITY.md",
+  "inventory": "inventory.json",
+  "sha256": "844ad4da496dfea76c40e815d7c8dd379bdb242fc0f875e7911783928ba7f45f"
+}

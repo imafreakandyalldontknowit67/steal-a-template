@@ -1,0 +1,19 @@
+{
+  "id": "stud-animals",
+  "name": "Stud Animals",
+  "version": "1.0.0",
+  "category": "models",
+  "model": "StudAnimals.rbxm",
+  "readme": "README.md",
+  "previews": [
+    "previews/animals-gallery-01.jpg",
+    "previews/animals-gallery-02.jpg",
+    "previews/animals-gallery-03.jpg",
+    "previews/animals-gallery-04.jpg",
+    "previews/animals-gallery-05.jpg",
+    "previews/animals-gallery-06.jpg"
+  ],
+  "security": "SECURITY.md",
+  "inventory": "inventory.json",
+  "sha256": "64b0563279efd123881f55a9198f146de66f45f58d5a0b5e38a4b04b7c758eb0"
+}

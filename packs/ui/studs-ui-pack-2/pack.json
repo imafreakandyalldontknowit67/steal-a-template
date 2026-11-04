@@ -1,0 +1,24 @@
+{
+  "id": "studs-ui-pack-2",
+  "name": "Studs UI Pack 2",
+  "version": "1.0.0",
+  "category": "ui",
+  "model": "StudsUIPack2.rbxm",
+  "readme": "README.md",
+  "previews": [
+    "previews/ui-hud.jpg",
+    "previews/ui-starterpack.jpg",
+    "previews/ui-index.jpg",
+    "previews/ui-pass.jpg",
+    "previews/ui-rebirth.jpg",
+    "previews/ui-shop.jpg",
+    "previews/ui-stockshop.jpg",
+    "previews/ui-upgrades.jpg",
+    "previews/ui-daily.jpg",
+    "previews/ui-extra-settings.jpg",
+    "previews/ui-extra-shop.jpg"
+  ],
+  "security": "SECURITY.md",
+  "inventory": "inventory.json",
+  "sha256": "0ab5895ab84de7beb533d7b7d33af432923a674ed0528adb8083152b03295a7c"
+}
