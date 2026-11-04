@@ -15,6 +15,6 @@ Free Icon Pack is by **@gvesster**. Its [original license](free-icon-pack-v3.1-b
 
 The supplied Exclusive 200 Vector Pack archive contains no license or creator-credit file. No additional reuse or redistribution permission is granted here for that collection.
 
-These are third-party collections supplied for this repository; they are not original Steal a Template artwork and are not covered by the project's MIT license.
+These are third-party collections supplied for this repository; they are not original Steal a Template artwork and are not covered by the project's MIT license. See the [repository license scope](../../../docs/LICENSING.md#icon-and-ui-resource-collections).
 
 [Back to UI](../README.md)
