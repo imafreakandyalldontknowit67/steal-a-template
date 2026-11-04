@@ -7,6 +7,11 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 | [Studs UI](studs-ui/) | [10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Draft; model import and render checked |
 | [Essential STUD UI](essential-stud-ui/) | [13 screenshots](essential-stud-ui/#screenshot-gallery) | [EssentialStudUI.rbxm](essential-stud-ui/EssentialStudUI.rbxm?raw=1) | Draft; export, render, and Play checked |
 | [Steal an Egg](steal-an-egg/) | [21 screenshots](steal-an-egg/#screenshot-gallery) | [StealAnEggUI.rbxm](steal-an-egg/StealAnEggUI.rbxm?raw=1) | Draft; imported desktop Play checked; other devices unverified |
+| [Stud Admin Panel](stud-admin-panel/) | [7 screenshots](stud-admin-panel/#screenshot-gallery) | [StudAdminPanel.rbxm](stud-admin-panel/StudAdminPanel.rbxm?raw=1) | Draft; original layout preserved; desktop/tablet/phone fit checked |
+
+### Stud Admin Panel
+
+[![Stud Admin Panel — original layout, proportional sizing](stud-admin-panel/previews/desktop.jpg)](stud-admin-panel/)
 
 ## Install
 

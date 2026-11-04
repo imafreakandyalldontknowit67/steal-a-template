@@ -1,0 +1,30 @@
+{
+  "id": "stud-admin-panel",
+  "name": "Stud Admin Panel",
+  "version": "0.1.0",
+  "status": "draft",
+  "category": "ui",
+  "model": "StudAdminPanel.rbxm",
+  "installation": "StarterGui",
+  "authoredSource": "StudAdminPanel.rbxm",
+  "runtimeSources": [
+    "src/Layout.luau",
+    "src/Controller.client.luau"
+  ],
+  "sha256": "93401c3f9d846c78760c02d7baaf96d05420e45e4bd3b1263e0281746798143d",
+  "previews": [
+    "previews/closed-launcher.jpg",
+    "previews/desktop-hd.jpg",
+    "previews/desktop.jpg",
+    "previews/phone-landscape.jpg",
+    "previews/phone-portrait.jpg",
+    "previews/small-phone.jpg",
+    "previews/tablet.jpg"
+  ],
+  "limitations": [
+    "UI-only preview; no admin backend",
+    "Small-screen proportional fit; not minimum-44px touch targets",
+    "Fresh-place import and physical touch/gamepad testing outstanding",
+    "Original design/artwork clearance not independently established"
+  ]
+}
