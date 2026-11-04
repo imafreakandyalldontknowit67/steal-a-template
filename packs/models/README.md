@@ -12,7 +12,7 @@ Pack pages include downloads, source where applicable, installation instructions
 
 ![Car Pack aerial overview](car-pack/previews/overview.jpg)
 
-Local contribution draft: redistribution provenance and a fresh-place import check remain pending. See the pack's verification and credits before publication.
+Includes the native model download, four aerial previews, the project MIT license, and documented verification results.
 
 [Contribute a pack](../../CONTRIBUTING.md).
 

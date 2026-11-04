@@ -1,12 +1,12 @@
-# Credits and redistribution status
+# Credits and license
 
 - Source: the user-supplied local Roblox Studio place `CarPack.rbxl`.
 - Original model, texture, and particle-effect creator: not established by the supplied instance metadata.
-- No creator credits, license attributes, or permission records were found in the six model collections.
+- No creator credits or license attributes were embedded in the six model collections.
 - Supplied model names and asset references are preserved in the native export and inventory.
 - Packaging, audit notes, and documentation: Steal a Template.
 - Preview images: captured from the imported car collection in Roblox Studio.
 
-The copied project MIT license applies only to original Steal a Template contributions, to the extent the contributor holds those rights. It does not relicense these supplied car models, Roblox-hosted meshes/textures, third-party designs, or trademarks.
+The contributor directed publication of this pack under Steal a Template's existing [MIT License](LICENSE) on 2026-11-04. The license file is identical to the repository's project license.
 
-**Publication hold:** establish the source creator and redistribution terms before uploading the native model or previews to GitHub. This local draft is not a statement that the car collection is MIT-licensed or publicly available.
+The project's [license scope](../../../docs/LICENSING.md) applies: MIT covers contributed material to the extent the contributors hold the rights to grant permission. External Roblox platform assets, third-party designs, and trademarks retain their respective rights. This credit record does not assert an independently verified original creator.

@@ -6,7 +6,7 @@
 
 ![All 150 car models in six color rows](previews/overview.jpg)
 
-Local contribution draft. Redistribution permission and a fresh-place import check are still pending; see [credits](CREDITS.md) and [verification](VERIFICATION.md).
+Uses the project's [MIT License](LICENSE); see [credits and license scope](CREDITS.md). The export passed a same-session import comparison; a separate fresh-place check remains unverified. See [verification](VERIFICATION.md).
 
 ## Import into Roblox Studio
 

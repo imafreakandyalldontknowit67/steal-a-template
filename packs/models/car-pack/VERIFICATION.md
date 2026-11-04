@@ -32,5 +32,5 @@ The baseplate and lighting are preview context and are not in the export. Origin
 - Physical collision behavior in Play mode and a drivable chassis are not tested. Only collision properties were checked; no driving system is included.
 - External asset access was tested in this session only, not a different account or published experience.
 - Embedded particle instances were preserved and visible effects appeared in screenshots; no dedicated motion demonstration or exhaustive particle timing test was made.
-- Redistribution permission remains unresolved; see CREDITS.md. Do not publish this draft's native model or previews until provenance is established.
+- The contributor directed publication under the existing project MIT license on 2026-11-04; see CREDITS.md for license scope and source attribution.
 - No repository-wide automated test suite exists for this asset contribution.
