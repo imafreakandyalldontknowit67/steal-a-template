@@ -4,6 +4,16 @@ Props, building pieces, and themed model collections.
 
 Pack pages include downloads, source where applicable, installation instructions, and previews of every model and variant.
 
-No packs are listed in this category yet. [Contribute a pack](../../CONTRIBUTING.md).
+## Car Pack
+
+**25 car designs · 6 finishes · 150 editable models**
+
+[View the Car Pack](car-pack/) for the aerial gallery, included models, installation steps, and audit notes.
+
+![Car Pack aerial overview](car-pack/previews/overview.jpg)
+
+Local contribution draft: redistribution provenance and a fresh-place import check remain pending. See the pack's verification and credits before publication.
+
+[Contribute a pack](../../CONTRIBUTING.md).
 
 [Back to Steal a Template](../../README.md#browse-assets)
