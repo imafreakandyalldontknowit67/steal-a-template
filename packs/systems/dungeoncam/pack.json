@@ -1,0 +1,44 @@
+{
+  "id": "dungeoncam",
+  "name": "Dungeon Camera",
+  "version": "0.1.0",
+  "status": "preview",
+  "category": "systems",
+  "sourceFile": "DungeonCam.rbxm",
+  "sourceSha256": "876b9019d8ee21ebf5baba8ccda16566d0d83ceae13ceba4f32d4ca140858af5",
+  "publicationReady": false,
+  "originalInput": "DungeonCam.rbxm",
+  "inventory": "inventory.json",
+  "dependencies": "dependencies.json",
+  "sources": "src/index.json",
+  "previews": [
+    "previews-v2/live-camera-a.jpg",
+    "previews-v2/live-camera-b.jpg"
+  ],
+  "blockers": [],
+  "runtimeVerification": {
+    "kind": "native controller Play test",
+    "fov": 50,
+    "initialSettledOffsetError": 2.428e-05,
+    "afterTeleportErrorAt0_8Sec": 2.5643,
+    "limitations": [
+      "Per-frame rather than dt-based smoothing",
+      "No occlusion, zoom, respawn, physical-device or gamepad tests"
+    ]
+  },
+  "demonstrationStatus": "Limited Play check passed: camera follow and FOV 50",
+  "model": "DungeonCam.rbxm",
+  "sha256": "876b9019d8ee21ebf5baba8ccda16566d0d83ceae13ceba4f32d4ca140858af5",
+  "installation": "StarterPlayer/StarterCharacterScripts",
+  "previewRevision": "2026-11-05-v2",
+  "distributionAuthorized": true,
+  "permissionRecord": "CREDITS.md",
+  "license": "MIT; third-party terms preserved; see CREDITS.md",
+  "limitations": [
+    "Limited actual Play test: Scriptable camera, FOV 50 and character following observed. Frame-dependent smoothing, respawn, occlusion, zoom, touch and gamepad remain unverified. Screenshot avatar and cubes are test fixtures, not included assets."
+  ],
+  "remainingVerification": [
+    "Destination-experience linked asset access",
+    "Collision/device/integration checks as applicable"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "classes": {
+    "AnimationController": 5364,
+    "Animator": 5364,
+    "Attachment": 111018,
+    "Beam": 768,
+    "Bone": 135492,
+    "Folder": 61,
+    "MeshPart": 83666,
+    "Model": 5794,
+    "Motor6D": 81312,
+    "ObjectValue": 72,
+    "Part": 22803,
+    "ParticleEmitter": 37656,
+    "PointLight": 60,
+    "RigidConstraint": 3858,
+    "SurfaceAppearance": 5070,
+    "Trail": 396,
+    "UnionOperation": 1,
+    "Weld": 2436,
+    "WeldConstraint": 13572
+  },
+  "roots": [
+    "fayplestudios"
+  ],
+  "warnings": [],
+  "nodeCount": 514763,
+  "fullHierarchy": "inventory-full.json.gz"
+}

@@ -1,0 +1,4568 @@
+[
+  {
+    "class": "Beam",
+    "property": "Texture",
+    "reference": "rbxassetid://17572157737",
+    "occurrences": 4
+  },
+  {
+    "class": "Beam",
+    "property": "Texture",
+    "reference": "rbxassetid://17616111847",
+    "occurrences": 2
+  },
+  {
+    "class": "Beam",
+    "property": "Texture",
+    "reference": "rbxassetid://18456951207",
+    "occurrences": 3
+  },
+  {
+    "class": "Beam",
+    "property": "Texture",
+    "reference": "rbxassetid://74505180922435",
+    "occurrences": 16
+  },
+  {
+    "class": "Beam",
+    "property": "Texture",
+    "reference": "rbxassetid://83482164722038",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=10150774780",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=10198434999",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=11378390171",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=115972032417995",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=12202086233",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=12473124995",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=12799630495",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=14093540059",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=14152783729",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=14712560199",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=14943750476",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=15312735144",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=15502960661",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=15659706200",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=15760775426",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=15951394477",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=15951400644",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16026345008",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16125610617",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16574536578",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16615386579",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16699724016",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16718212610",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16718928993",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16734327167",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16874376111",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16950300068",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16969300854",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=16972459124",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=17077680210",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=17093828340",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=17627858096",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=17756309547",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=17825526848",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=243664672",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=4510290214",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=4581839269",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=7587238412",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=9781687320",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=99498494909215",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "https://assetgame.roblox.com/asset/?id=115498973868996&assetName=image_2_1",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://100026855945880",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://100044487685497",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://100214773525152",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://100338021757360",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10039693328",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://101120091423268",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://101430476623997",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10147761123",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10149702982",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://101510751583677",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10159731884",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10176110062",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10176632695",
+    "occurrences": 17
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10205180639",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://102135722385509",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10213978205",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://102374151967894",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10267587999",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10316078099",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://103161208163139",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://104019357877493",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://104032731423154",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10439119562",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10527344199",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://105327715341835",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://105353648066453",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://105564705155317",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10556525755",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://105566991755593",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10558510611",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://106488490711262",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://106586114001297",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://106926966774026",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://106931671464445",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://106976587465529",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://107333083447198",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://107574657473477",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://1075864321",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://1084991215",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10859315454",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://108747293364586",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://109034123758235",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://109440284900004",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://10953167939",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://110321334190114",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11037504142",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://110683329530622",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://111407562812105",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://111645198326084",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://111759374816671",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://111841052157943",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://112128391372593",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11236466031",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://112520741566165",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://112691044487221",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://113398526623218",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11349426661",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11349678373",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://113824402329464",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://114216751292629",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://114317473294777",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://114394951361018",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11447021694",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://114479011512409",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11448304274",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11503727043",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://115099037838152",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://115135116603083",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11515493609",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11518060690",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://115184980572720",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://115257157082446",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://115277291970389",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11536435403",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://115946087892520",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116092985983691",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116191620048048",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116264207187715",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11627077002",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116360203760867",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116535655897049",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116561419071195",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://116686317011720",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11669838662",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://117358933029438",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11757797090",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11762072190",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11783806829",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://117899608714187",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://117957165977842",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://118006269969706",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11820076505",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://118496584585163",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11855544753",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11862032588",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11867465395",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11888784039",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11895782540",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://119139904172923",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11932690139",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11941047152",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://119637388841475",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://119889706936691",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11989899750",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://119902293699786",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://120539447841887",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://121143963977274",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12118255430",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12170621453",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12192385650",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://122036199158672",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://122049262092290",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://122134894288654",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://122484551759506",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12270710676",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://122954463046434",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12306158846",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://123149894981585",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12318427204",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12341016789",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://123450761759511",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://123522575031715",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12356382511",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://123630005106717",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12371244264",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12376333655",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12388380491",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12402875536",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12402901395",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124273019022474",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124283109946757",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124365956300639",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12444217105",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124446745740915",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124496681233800",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124528317992705",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://124657056228340",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12473124995",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12486978769",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://125010703803604",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://125226300136414",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://125392484648382",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://125716684677906",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://126309199940282",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12697198011",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12697203738",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://127001266634941",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://127143849984599",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://127183534174817",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://127191514563096",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12738486019",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://127461324057648",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://127715243078398",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://128352490694787",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12848555566",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12867450128",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://128704617763218",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://128907947371741",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12892299969",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12900945158",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12919895706",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12921172449",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://129246053878073",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://129296350147631",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12937491569",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12957162958",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12970362815",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12991508490",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://129942981431897",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13020112504",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://130346331898282",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://130520814543774",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13071109992",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://131070767868542",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://131147883064427",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://131209311381618",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13127698536",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13131393513",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13164159000",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://131667932715858",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://131834556810162",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://132046871109049",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://132233428079987",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://132258859821606",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13237253135",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13237488843",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13244082271",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://132462744152797",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://132921682717899",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133032976369428",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133125636042508",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133235318397445",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133295143275412",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133366514440748",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133396072849769",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13341340522",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13350500478",
+    "occurrences": 17
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://133650067075481",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13407378526",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13413826512",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13417315210",
+    "occurrences": 15
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13417315284",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://134414996752534",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13447161541",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13452217224",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13478831328",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135045250277744",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13516631074",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135169203913163",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13522089613",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13547068200",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135535427438365",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13562154857",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135667646891512",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135751202911029",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135767287933837",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13580351747",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13580372792",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135890473402003",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://135992200323155",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13603608421",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://136086031840189",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://136093705650527",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13634052022",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://136568996602345",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13675192481",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://136879951069352",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://137014331200061",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://137068860007022",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13712004045",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13712007292",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13724617538",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13734332372",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13736805356",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13765238618",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13770098524",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://137776448998566",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13778611432",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13780268621",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13783882492",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13784241004",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://137935966840431",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13795733472",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138000070660679",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13805841956",
+    "occurrences": 14
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138111953688137",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13820538679",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13821091893",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138231890129613",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13824053049",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13839612192",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138613107575577",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138623024168640",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13881256571",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138827838254980",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13889049714",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://138949781338061",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://139200702110055",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://139231394844566",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13938110511",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://139424270182565",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13943284807",
+    "occurrences": 15
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://139447550181135",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://139474473857712",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13968782648",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13992190852",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13997926164",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14005427349",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14006234837",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14006390136",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14007518610",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14046537645",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14066311352",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14080651908",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14098252577",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14115237898",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14121731676",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14148833048",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14186562515",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14214139606",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14229268831",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14255883874",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14271209798",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14277915348",
+    "occurrences": 14
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14291927024",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14316341188",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14367067724",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14376604973",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14379744080",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14395391916",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14401695531",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14457094589",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14477032145",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14488610852",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14491843775",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14505776454",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14522579307",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14538969234",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14565296397",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14590086212",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14601002045",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14601007537",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14601074609",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14616070986",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14621031119",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14624393514",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14652756232",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14683477626",
+    "occurrences": 13
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14687560696",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14703705841",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14712560199",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14754464270",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14762383388",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14762708319",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14769281256",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14794494233",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14825732882",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14827153489",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14842097696",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14844123942",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14847649647",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14850804522",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14851677797",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14882713197",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14884178754",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14939399803",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14945509165",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14951204435",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14961910285",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14962423612",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14973797453",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14985988624",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15008355158",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15008670938",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15017690999",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15017717512",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15021706755",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15021737014",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15028417355",
+    "occurrences": 16
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15056677063",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15059553660",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15080854393",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15106742733",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15124481454",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15124806555",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15134750202",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15146906734",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15154476954",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15161996973",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15184178432",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15184178755",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15184179032",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15196831218",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15214318786",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15232757562",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15239406796",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15269685466",
+    "occurrences": 16
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15270167019",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15314567032",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15314587909",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15314598587",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15317869825",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15317888667",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15327100063",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15335356574",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15343221274",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15347950119",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15358602923",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15363915166",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15364124340",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15380148205",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15380148703",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15384529289",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15413764911",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15415212938",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15422351654",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15423959208",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15431126240",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15431912045",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15432025221",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15434990762",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15441066093",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15441262724",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15441282898",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15446757636",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15497164665",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15503634624",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15526320791",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15528149263",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15530610916",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15599635911",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15602659755",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15603804067",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15612970009",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15625902132",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15626573525",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15633534373",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15635861050",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15642850379",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15658580283",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15667704716",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15686085965",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15728350413",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15728405620",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15730883980",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15733521585",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15740276373",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15755452799",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15773880634",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15806236154",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15814288909",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15814918201",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15820980502",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15831917569",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15841621175",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15853057473",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15854522649",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15883763954",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15896240643",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15941193829",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15994492733",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15994535432",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16001089287",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16028033353",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16055618388",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16070964921",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16169821380",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16171607099",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16172858603",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16177865281",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16292934922",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16334183470",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16382685582",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16382762837",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16431771159",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16442657509",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16454644589",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16504138094",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16531643717",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16582645239",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16599022233",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16599202420",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16599299778",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16638057645",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16639893619",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16651565286",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16697955702",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16709676058",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16745823052",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16746472990",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16777577977",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16847071704",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16847138652",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16860307403",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16860461660",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16865839709",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16867368702",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16867371255",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16867383201",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16867394877",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16867567145",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16877851515",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16878181512",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16879575363",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16879789169",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16879808635",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16879819010",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16880045313",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16892063825",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16892231149",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16892332741",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16917609331",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16924875355",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16926196480",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://16962906868",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17002038219",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17002054706",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17006200673",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17034874710",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17045688562",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17052342455",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17061556158",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17077939650",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17085222506",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17093828340",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17226939594",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17247141881",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17268259842",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17304166887",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17334135713",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17363742844",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17388367001",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17388444841",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17409991165",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17450657969",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17455069964",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17487703808",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17496393760",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17524077902",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17572157737",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17585857014",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17612093017",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17613665673",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17617633011",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17627858096",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17629991673",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17802218212",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17826438728",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17848837505",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://17867406934",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18116056206",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18118762332",
+    "occurrences": 13
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18140248952",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18227093452",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18236638593",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18238455100",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18255237647",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18264471979",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18309614430",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18333908081",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18348331508",
+    "occurrences": 8
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18355866803",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18355944757",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18457400581",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18458366814",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18465146997",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18467644476",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18527700887",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18562662708",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18569840034",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18644435479",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18651438307",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18652132265",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18682835879",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18684145757",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://18922129136",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://311395391",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://4609193944",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://4770542473",
+    "occurrences": 7
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://5755091589",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://626588936",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6444340454",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6679618752",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6709428241",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6709713669",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6763809313",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6910301489",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6954174382",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://6967099425",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7016382152",
+    "occurrences": 11
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7043735710",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7046374898",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://70918090784083",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://71588252451469",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7216851093",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7216854921",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7216855914",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7216979701",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://72183457809326",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://72230378900743",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://72569239003951",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://72679265907942",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73007640829815",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73012430597979",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73090298247659",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73114185690652",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73183723808058",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73313375995343",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73438314576561",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73446422368349",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73452567910395",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73607860120690",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73781423701221",
+    "occurrences": 13
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://73800848382172",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7394759196",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://74098503434942",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://74334432404355",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://74470852920553",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7447358016",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://74883688959280",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://75084578376153",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://75104427275304",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://75325663840264",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://75499158209761",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://75571716008280",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://76457005038833",
+    "occurrences": 22
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://77024587778878",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://77189927291566",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://77355992169410",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://77521329801693",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://77918072233662",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78088160697253",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78217717322704",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78390022776249",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78422400450982",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78552861355915",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78775892906893",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://78917921964155",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://79011503859879",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://79186547666105",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://79229618038296",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://79696728389259",
+    "occurrences": 12
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://79929086311101",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://7994629137",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://80178910658006",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8030734851",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8030746658",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://80405856413833",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8048608283",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8050136743",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://80524921746303",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://80613704149297",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8084996370",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8094437430",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://81110184448579",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8133065785",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://81514770760311",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://81849795589954",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://81860464502405",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8189326437",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8196169974",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82021314181493",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82089354727252",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82119677414891",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82162538652378",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82167287860983",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82444847387520",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8250000734",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://82623418759453",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8274755886",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://83071689451725",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://83121028619202",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://83204041284879",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://84128767349636",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8466767701",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://84806503076166",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8511527728",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8512404223",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8521777234",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8529175248",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://85426520982411",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://85509538173824",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://85519442962093",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8573541034",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://85863690769056",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://86053465625060",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://86082712297344",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://86248454539509",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://86376385416081",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://86426438700221",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://87292222705848",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://87313735409872",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://87520821677529",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://87611664787759",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://87819339804153",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://87990261009842",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8823955910",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://88560472840059",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://88867995909352",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://89503370769930",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://89531304475987",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://89596636543264",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://8985771515",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://90191539126029",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://91618866977711",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9178507829",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://92176991886542",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://92217337435833",
+    "occurrences": 9
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://92232979811632",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://92772675508282",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://92878139473933",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://93082747376528",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://93350164458642",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://93899394787881",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://94178884328383",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://94338503475220",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://94705242050106",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://94738246895662",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://94754078244176",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://94826995393714",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://95444149177305",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9563725311",
+    "occurrences": 10
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9589703753",
+    "occurrences": 6
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://96004355425020",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9615776370",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://96288653875185",
+    "occurrences": 3
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://96371727533473",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://96482388216202",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9659008631",
+    "occurrences": 5
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://96806560443322",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9710916533",
+    "occurrences": 14
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://97136048647622",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://97203337598000",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://97219489639522",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://97476055789909",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9761807363",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://97791845516200",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9796475445",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://98016283117283",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://98086205667576",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9841283115",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://98672542781021",
+    "occurrences": 4
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://98955187088884",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://99072613788294",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://99170202125062",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9922864240",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://9997556038",
+    "occurrences": 5
+  },
+  {
+    "class": "Texture",
+    "property": "Texture",
+    "reference": "rbxassetid://121170788392333",
+    "occurrences": 6
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=5699911427",
+    "occurrences": 1
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "http://www.roblox.com/asset/?id=6091329339",
+    "occurrences": 2
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "rbxassetid://109798163516124",
+    "occurrences": 1
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "rbxassetid://112629787601025",
+    "occurrences": 1
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "rbxassetid://12557408701",
+    "occurrences": 1
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "rbxassetid://137404723090770",
+    "occurrences": 1
+  },
+  {
+    "class": "Trail",
+    "property": "Texture",
+    "reference": "rbxassetid://1803393098",
+    "occurrences": 1
+  }
+]

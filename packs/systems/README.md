@@ -15,3 +15,9 @@ Pack pages include downloads, source where applicable, installation instructions
 [Contribute a pack](../../CONTRIBUTING.md).
 
 [Back to Steal a Template](../../README.md#browse-assets)
+
+## Dungeon Camera
+
+[Download and gallery](dungeoncam/README.md) — Limited actual Play test: Scriptable camera, FOV 50 and character following observed. Frame-dependent smoothing, respawn, occlusion, zoom, touch and gamepad remain unverified. Screenshot avatar and cubes are test fixtures, not included assets.
+
+![Dungeon Camera](dungeoncam/previews-v2/live-camera-a.jpg)

@@ -1,0 +1,11 @@
+{
+  "classes": {
+    "LocalScript": 1
+  },
+  "roots": [
+    "StarterCharacterScripts"
+  ],
+  "warnings": [],
+  "nodeCount": 1,
+  "fullHierarchy": "inventory-full.json.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "small-lucky-block-pack-tu",
+  "name": "Small Lucky Block Pack",
+  "version": "0.1.0",
+  "status": "preview",
+  "category": "models",
+  "sourceFile": "Small Lucky BLock Pack! - TU.rbxm",
+  "sourceSha256": "dbd2526d8b1ec45732c5ff88d089d75f2375ad37f6a46583a5d5766ffad82628",
+  "publicationReady": false,
+  "originalInput": "Small Lucky BLock Pack! - TU.rbxm",
+  "inventory": "inventory.json",
+  "dependencies": "dependencies.json",
+  "sources": null,
+  "previews": [
+    "previews-v2/model-001.jpg",
+    "previews-v2/model-002.jpg",
+    "previews-v2/model-003.jpg"
+  ],
+  "blockers": [],
+  "studioVisualInspection": {
+    "date": "2026-11-05",
+    "place": "Place3 (fresh baseplate)",
+    "mode": "Edit",
+    "scriptsExecuted": false,
+    "previewTransform": "Model previews independently normalized to a 10-stud bounding dimension; UI uses a temporary host. Original native bytes unchanged.",
+    "coverage": "Review captures, not a completed CONTRIBUTING.md verification pass."
+  },
+  "galleryCoverage": "All 3 supplied lucky block models individually framed with effects suppressed.",
+  "demonstrationStatus": "Close-up geometry review; no gameplay/collision/animation claim",
+  "previewRevision": "2026-11-05-v2",
+  "distributionAuthorized": true,
+  "permissionRecord": "CREDITS.md",
+  "license": "MIT; third-party terms preserved; see CREDITS.md",
+  "model": "Small Lucky BLock Pack! - TU.rbxm",
+  "sha256": "dbd2526d8b1ec45732c5ff88d089d75f2375ad37f6a46583a5d5766ffad82628",
+  "limitations": [
+    "3 entries photographed separately, with effects suppressed on preview clones so the bodies are visible. No opening, loot, reward or purchase system is supplied or tested."
+  ],
+  "remainingVerification": [
+    "Destination-experience linked asset access",
+    "Collision/device/integration checks as applicable"
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://5000421150",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6375186312",
+    "occurrences": 2
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6375188276",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666223",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666232",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666339",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666371",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666666",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666699",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666757",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666759",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666770",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666791",
+    "occurrences": 5
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666796",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666799",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666814",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666919",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://6817666990",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "TextureID",
+    "reference": "rbxassetid://5058664832",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "TextureID",
+    "reference": "rbxassetid://5058665941",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "TextureID",
+    "reference": "rbxassetid://5553565389",
+    "occurrences": 1
+  }
+]

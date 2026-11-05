@@ -1,0 +1,20 @@
+{
+  "classes": {
+    "Attachment": 258,
+    "Beam": 27,
+    "Folder": 5,
+    "Highlight": 2,
+    "Part": 121,
+    "ParticleEmitter": 2073,
+    "PointLight": 1,
+    "Texture": 6,
+    "Trail": 11,
+    "WeldConstraint": 1
+  },
+  "roots": [
+    "100+ Combat VFX Pack"
+  ],
+  "warnings": [],
+  "nodeCount": 2505,
+  "fullHierarchy": "inventory-full.json.gz"
+}

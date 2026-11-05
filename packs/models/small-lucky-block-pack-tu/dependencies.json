@@ -1,0 +1,74 @@
+[
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://124233477796553",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://73591732705678",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "MeshId",
+    "reference": "rbxassetid://97718821766447",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "TextureID",
+    "reference": "rbxassetid://122545999583499",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "TextureID",
+    "reference": "rbxassetid://126440262273759",
+    "occurrences": 1
+  },
+  {
+    "class": "MeshPart",
+    "property": "TextureID",
+    "reference": "rbxassetid://127520840291455",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://11389369395",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://12906276200",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://13365068138",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://14394427356",
+    "occurrences": 2
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://15011471927",
+    "occurrences": 1
+  },
+  {
+    "class": "ParticleEmitter",
+    "property": "Texture",
+    "reference": "rbxassetid://70634260868876",
+    "occurrences": 3
+  }
+]

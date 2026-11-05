@@ -1,0 +1,52 @@
+{
+  "id": "forest-asset-pack",
+  "name": "Forest Asset Pack",
+  "version": "0.1.0",
+  "status": "preview",
+  "category": "models",
+  "sourceFile": "Forest Asset pack.rbxm",
+  "sourceSha256": "58c207170aecff9e44daaa6863a991f1f96e8ed058ab8b7264d333285747bd99",
+  "publicationReady": false,
+  "originalInput": "Forest Asset pack.rbxm",
+  "inventory": "inventory.json",
+  "dependencies": "dependencies.json",
+  "sources": null,
+  "previews": [
+    "previews-v2/model-001.jpg",
+    "previews-v2/model-002.jpg",
+    "previews-v2/model-003.jpg",
+    "previews-v2/model-004.jpg",
+    "previews-v2/model-005.jpg",
+    "previews-v2/model-006.jpg",
+    "previews-v2/model-007.jpg",
+    "previews-v2/model-008.jpg",
+    "previews-v2/model-009.jpg",
+    "previews-v2/model-010.jpg",
+    "previews-v2/model-011.jpg",
+    "previews-v2/model-012.jpg"
+  ],
+  "blockers": [],
+  "studioVisualInspection": {
+    "date": "2026-11-05",
+    "place": "Place3 (fresh baseplate)",
+    "mode": "Edit",
+    "scriptsExecuted": false,
+    "previewTransform": "Model previews independently normalized to a 10-stud bounding dimension; UI uses a temporary host. Original native bytes unchanged.",
+    "coverage": "Review captures, not a completed CONTRIBUTING.md verification pass."
+  },
+  "galleryCoverage": "All 12 gathered models individually framed; original geometry and colors preserved.",
+  "demonstrationStatus": "Close-up geometry review; no gameplay/collision/animation claim",
+  "previewRevision": "2026-11-05-v2",
+  "distributionAuthorized": true,
+  "permissionRecord": "CREDITS.md",
+  "license": "MIT; third-party terms preserved; see CREDITS.md",
+  "model": "Forest Asset pack.rbxm",
+  "sha256": "58c207170aecff9e44daaa6863a991f1f96e8ed058ab8b7264d333285747bd99",
+  "limitations": [
+    "All 12 gathered model entries have individual views. Geometry and colors were preserved; displayed bounds were normalized independently for framing. Real-world scale, collisions and destination-experience texture access remain unverified."
+  ],
+  "remainingVerification": [
+    "Destination-experience linked asset access",
+    "Collision/device/integration checks as applicable"
+  ]
+}

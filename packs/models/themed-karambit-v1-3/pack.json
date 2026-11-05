@@ -1,0 +1,55 @@
+{
+  "id": "themed-karambit-v1-3",
+  "name": "Themed Karambits",
+  "version": "0.1.0",
+  "status": "preview",
+  "category": "models",
+  "sourceFile": "Themed Karambit v1 (3).rbxm",
+  "sourceSha256": "c6c07c8e9e10093a1797028344570062bc6497553ee079499f44eadb89e69539",
+  "publicationReady": false,
+  "originalInput": "Themed Karambit v1 (3).rbxm",
+  "inventory": "inventory.json",
+  "dependencies": "dependencies.json",
+  "sources": "src/index.json",
+  "previews": [
+    "previews-v2/model-001.jpg",
+    "previews-v2/model-002.jpg",
+    "previews-v2/model-003.jpg",
+    "previews-v2/model-004.jpg",
+    "previews-v2/model-005.jpg",
+    "previews-v2/model-006.jpg",
+    "previews-v2/model-007.jpg",
+    "previews-v2/model-008.jpg",
+    "previews-v2/model-009.jpg",
+    "previews-v2/model-010.jpg",
+    "previews-v2/model-011.jpg",
+    "previews-v2/model-012.jpg",
+    "previews-v2/model-013.jpg",
+    "previews-v2/model-014.jpg",
+    "previews-v2/model-015.jpg"
+  ],
+  "blockers": [],
+  "studioVisualInspection": {
+    "date": "2026-11-05",
+    "place": "Place3 (fresh baseplate)",
+    "mode": "Edit",
+    "scriptsExecuted": false,
+    "previewTransform": "Model previews independently normalized to a 10-stud bounding dimension; UI uses a temporary host. Original native bytes unchanged.",
+    "coverage": "Review captures, not a completed CONTRIBUTING.md verification pass."
+  },
+  "galleryCoverage": "All 15 blade meshes individually framed, beams/trails/particles suppressed so the blade?not just its effect?is visible.",
+  "demonstrationStatus": "Close-up geometry review; no gameplay/collision/animation claim",
+  "previewRevision": "2026-11-05-v2",
+  "distributionAuthorized": true,
+  "permissionRecord": "CREDITS.md",
+  "license": "MIT; third-party terms preserved; see CREDITS.md",
+  "model": "Themed Karambit v1 (3).rbxm",
+  "sha256": "c6c07c8e9e10093a1797028344570062bc6497553ee079499f44eadb89e69539",
+  "limitations": [
+    "15 mesh entries photographed individually with effects disabled on preview clones. The embedded script contains a decorative comment/credit banner, not a weapon controller. No combat, equip or damage behavior is provided or verified."
+  ],
+  "remainingVerification": [
+    "Destination-experience linked asset access",
+    "Collision/device/integration checks as applicable"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "classes": {
+    "Attachment": 30,
+    "Beam": 120,
+    "Folder": 1,
+    "MeshPart": 15,
+    "ParticleEmitter": 60,
+    "Script": 1
+  },
+  "roots": [
+    "Themed Karambit v1"
+  ],
+  "warnings": [],
+  "nodeCount": 227,
+  "fullHierarchy": "inventory-full.json.gz"
+}

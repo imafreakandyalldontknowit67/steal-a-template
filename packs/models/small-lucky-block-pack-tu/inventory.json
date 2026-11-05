@@ -1,0 +1,22 @@
+{
+  "classes": {
+    "AnimationController": 3,
+    "Animator": 3,
+    "Attachment": 2,
+    "Bone": 11,
+    "Folder": 1,
+    "Keyframe": 99,
+    "KeyframeSequence": 3,
+    "MeshPart": 3,
+    "Model": 3,
+    "ObjectValue": 3,
+    "ParticleEmitter": 11,
+    "Pose": 818
+  },
+  "roots": [
+    "LuckyBlocks"
+  ],
+  "warnings": [],
+  "nodeCount": 960,
+  "fullHierarchy": "inventory-full.json.gz"
+}

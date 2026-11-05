@@ -1,0 +1,33 @@
+{
+  "classes": {
+    "MeshPart": 22,
+    "Tool": 22
+  },
+  "roots": [
+    "i22",
+    "i21",
+    "i20",
+    "i19",
+    "i18",
+    "i17",
+    "i16",
+    "i15",
+    "i14",
+    "i13",
+    "i12",
+    "i11",
+    "i10",
+    "i9",
+    "i8",
+    "i7",
+    "i6",
+    "i5",
+    "i4",
+    "i3",
+    "i2",
+    "i1"
+  ],
+  "warnings": [],
+  "nodeCount": 44,
+  "fullHierarchy": "inventory-full.json.gz"
+}

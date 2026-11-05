@@ -1,0 +1,62 @@
+{
+  "id": "pickaxes",
+  "name": "Pickaxes",
+  "version": "0.1.0",
+  "status": "preview",
+  "category": "models",
+  "sourceFile": "Pickaxes.rbxm",
+  "sourceSha256": "09cbb4bd509d3d4df26dba6e9fa1296b540347004686e42e63b4c212b5d92fc2",
+  "publicationReady": false,
+  "originalInput": "Pickaxes.rbxm",
+  "inventory": "inventory.json",
+  "dependencies": "dependencies.json",
+  "sources": null,
+  "previews": [
+    "previews-v2/model-001.jpg",
+    "previews-v2/model-002.jpg",
+    "previews-v2/model-003.jpg",
+    "previews-v2/model-004.jpg",
+    "previews-v2/model-005.jpg",
+    "previews-v2/model-006.jpg",
+    "previews-v2/model-007.jpg",
+    "previews-v2/model-008.jpg",
+    "previews-v2/model-009.jpg",
+    "previews-v2/model-010.jpg",
+    "previews-v2/model-011.jpg",
+    "previews-v2/model-012.jpg",
+    "previews-v2/model-013.jpg",
+    "previews-v2/model-014.jpg",
+    "previews-v2/model-015.jpg",
+    "previews-v2/model-016.jpg",
+    "previews-v2/model-017.jpg",
+    "previews-v2/model-018.jpg",
+    "previews-v2/model-019.jpg",
+    "previews-v2/model-020.jpg",
+    "previews-v2/model-021.jpg",
+    "previews-v2/model-022.jpg"
+  ],
+  "blockers": [],
+  "studioVisualInspection": {
+    "date": "2026-11-05",
+    "place": "Place3 (fresh baseplate)",
+    "mode": "Edit",
+    "scriptsExecuted": false,
+    "previewTransform": "Model previews independently normalized to a 10-stud bounding dimension; UI uses a temporary host. Original native bytes unchanged.",
+    "coverage": "Review captures, not a completed CONTRIBUTING.md verification pass."
+  },
+  "galleryCoverage": "All 22 supplied tools individually framed from their broad geometry-facing side.",
+  "demonstrationStatus": "Close-up geometry review; no gameplay/collision/animation claim",
+  "previewRevision": "2026-11-05-v2",
+  "distributionAuthorized": true,
+  "permissionRecord": "CREDITS.md",
+  "license": "MIT; third-party terms preserved; see CREDITS.md",
+  "model": "Pickaxes.rbxm",
+  "sha256": "09cbb4bd509d3d4df26dba6e9fa1296b540347004686e42e63b4c212b5d92fc2",
+  "limitations": [
+    "22 Tool entries photographed individually with broadside mesh views. These are visual assets, not a complete mining system. Equipping, grip orientation, collision and server-authoritative mining behavior were not tested."
+  ],
+  "remainingVerification": [
+    "Destination-experience linked asset access",
+    "Collision/device/integration checks as applicable"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "classes": {
+    "Folder": 1,
+    "MeshPart": 23,
+    "Model": 16,
+    "Part": 2,
+    "SurfaceAppearance": 23,
+    "Weld": 1
+  },
+  "roots": [
+    "Forest Asset pack"
+  ],
+  "warnings": [],
+  "nodeCount": 66,
+  "fullHierarchy": "inventory-full.json.gz"
+}

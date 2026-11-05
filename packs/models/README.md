@@ -49,3 +49,33 @@ Includes the native model download, four aerial previews, the project MIT licens
 [Browse Stud Pack V1](stud-pack-v1/README.md)
 
 ![Stud Pack V1](stud-pack-v1/previews/v1-overview.jpg)
+
+## Brainrot Models & Mutations
+
+[Download and gallery](all-brainrots-models-with-all-mutations-1/README.md) — 5,364 native models across 12 mutation groups. All 447 Default entries have individual views, plus representative mutation samples and additional angles. The gallery is NOT an exhaustive inspection of all 5,364 variants. No pet AI, animation or gameplay controller is supplied.
+
+![Brainrot Models & Mutations](all-brainrots-models-with-all-mutations-1/previews-v2/default-001.jpg)
+
+## Forest Asset Pack
+
+[Download and gallery](forest-asset-pack/README.md) — All 12 gathered model entries have individual views. Geometry and colors were preserved; displayed bounds were normalized independently for framing. Real-world scale, collisions and destination-experience texture access remain unverified.
+
+![Forest Asset Pack](forest-asset-pack/previews-v2/model-001.jpg)
+
+## Pickaxes
+
+[Download and gallery](pickaxes/README.md) — 22 Tool entries photographed individually with broadside mesh views. These are visual assets, not a complete mining system. Equipping, grip orientation, collision and server-authoritative mining behavior were not tested.
+
+![Pickaxes](pickaxes/previews-v2/model-001.jpg)
+
+## Small Lucky Block Pack
+
+[Download and gallery](small-lucky-block-pack-tu/README.md) — 3 entries photographed separately, with effects suppressed on preview clones so the bodies are visible. No opening, loot, reward or purchase system is supplied or tested.
+
+![Small Lucky Block Pack](small-lucky-block-pack-tu/previews-v2/model-001.jpg)
+
+## Themed Karambits
+
+[Download and gallery](themed-karambit-v1-3/README.md) — 15 mesh entries photographed individually with effects disabled on preview clones. The embedded script contains a decorative comment/credit banner, not a weapon controller. No combat, equip or damage behavior is provided or verified.
+
+![Themed Karambits](themed-karambit-v1-3/previews-v2/model-001.jpg)
