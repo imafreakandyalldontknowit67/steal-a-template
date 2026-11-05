@@ -1,5 +1,22 @@
 # Steal a Template / UI kits
 
+<!-- category-masterlist:start -->
+## Masterlist
+
+All 8 packs in this category. Open a pack for downloads, previews, credits, and verification limits.
+
+| Pack | Verification |
+| --- | --- |
+| [Command HQ - Roblox HUD and Interface Pack](command-hq/README.md) | See pack verification |
+| [Steal a Template / Essential STUD UI - Roblox HUD & Interface Pack](essential-stud-ui/README.md) | See pack verification |
+| [Steal a Template / Icons](icons/README.md) | See pack verification |
+| [Steal a Template / Steal an Egg - Roblox HUD and Interface Pack](steal-an-egg/README.md) | See pack verification |
+| [Stud Admin Panel](stud-admin-panel/README.md) | See pack verification |
+| [Steal a Template / Studs UI - Roblox HUD and Modal Kit](studs-ui/README.md) | See pack verification |
+| [Studs UI Pack 2](studs-ui-pack-2/README.md) | See pack verification |
+| [Steal a Template / UI design resources](ui-figma-roblox/README.md) | See pack verification |
+<!-- category-masterlist:end -->
+
 Editable Roblox interfaces with native models, Luau source, and real Studio screenshots. Pick a kit, inspect the gallery, then read its setup notes.
 
 | Kit | Gallery | Native model | Current status |

@@ -1,5 +1,24 @@
 # Steal a Template / Models
 
+<!-- category-masterlist:start -->
+## Masterlist
+
+All 10 packs in this category. Open a pack for downloads, previews, credits, and verification limits.
+
+| Pack | Verification |
+| --- | --- |
+| [Brainrot Models & Mutations](all-brainrots-models-with-all-mutations-1/README.md) | Preview ? testing limits documented |
+| [Steal a Template / Car Pack](car-pack/README.md) | See pack verification |
+| [Forest Asset Pack](forest-asset-pack/README.md) | Preview ? testing limits documented |
+| [Pickaxes](pickaxes/README.md) | Preview ? testing limits documented |
+| [Small Lucky Block Pack](small-lucky-block-pack-tu/README.md) | Preview ? testing limits documented |
+| [Stud Animals](stud-animals/README.md) | See pack verification |
+| [Stud Asset Pack](stud-assets/README.md) | See pack verification |
+| [Stud Pack V1](stud-pack-v1/README.md) | See pack verification |
+| [Stud Vehicles](stud-vehicles/README.md) | See pack verification |
+| [Themed Karambits](themed-karambit-v1-3/README.md) | Preview ? testing limits documented |
+<!-- category-masterlist:end -->
+
 Props, building pieces, and themed model collections.
 
 Pack pages include downloads, source where applicable, installation instructions, and previews of every model and variant.

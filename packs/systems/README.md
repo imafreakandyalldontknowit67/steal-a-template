@@ -1,5 +1,16 @@
 # Steal a Template / Luau systems
 
+<!-- category-masterlist:start -->
+## Masterlist
+
+All 2 packs in this category. Open a pack for downloads, previews, credits, and verification limits.
+
+| Pack | Verification |
+| --- | --- |
+| [Steal a Template / Dialogue and Quest System](dialogue-system/README.md) | See pack verification |
+| [Dungeon Camera](dungeoncam/README.md) | Preview ? testing limits documented |
+<!-- category-masterlist:end -->
+
 Reusable modules and gameplay systems.
 
 Pack pages include downloads, source where applicable, installation instructions, and previews of each feature or a runnable example.

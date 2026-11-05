@@ -1,10 +1,20 @@
 # Steal a Template / VFX
 
+<!-- category-masterlist:start -->
+## Masterlist
+
+All 1 pack in this category. Open a pack for downloads, previews, credits, and verification limits.
+
+| Pack | Verification |
+| --- | --- |
+| [Combat VFX Collection](100-combat-vfx-pack-1/README.md) | Preview ? testing limits documented |
+<!-- category-masterlist:end -->
+
 Particles, beams, trails, and reusable visual effects.
 
 Pack pages include downloads, source where applicable, installation instructions, and previews of every effect, including a recording of its motion.
 
-No packs are listed in this category yet. [Contribute a pack](../../CONTRIBUTING.md).
+[Contribute a pack](../../CONTRIBUTING.md).
 
 [Back to Steal a Template](../../README.md#browse-assets)
 
