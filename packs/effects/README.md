@@ -1,25 +1,19 @@
 # Steal a Template / VFX
 
-<!-- category-masterlist:start -->
-## Masterlist
+Editable Roblox particles, beams, and trails with native downloads and real Studio captures. Pick a pack and review its playback and verification limits.
 
-All 1 pack in this category. Open a pack for downloads, previews, credits, and verification limits.
+| Pack | Gallery | Native model | Current status |
+| --- | --- | --- | --- |
+| [Combat VFX Collection](100-combat-vfx-pack-1/) | [101 screenshots](100-combat-vfx-pack-1/GALLERY.md) | [100+ Combat VFX Pack (1).rbxm](100-combat-vfx-pack-1/100%2B%20Combat%20VFX%20Pack%20%281%29.rbxm?raw=1) | Visual preview; motion recording pending |
 
-| Pack | Verification |
-| --- | --- |
-| [Combat VFX Collection](100-combat-vfx-pack-1/README.md) | Preview ? testing limits documented |
-<!-- category-masterlist:end -->
+### Combat VFX Collection
 
-Particles, beams, trails, and reusable visual effects.
+[![Combat VFX Collection](100-combat-vfx-pack-1/previews-v2/effect-001.jpg)](100-combat-vfx-pack-1/)
 
-Pack pages include downloads, source where applicable, installation instructions, and previews of every effect, including a recording of its motion.
+## Install
 
-[Contribute a pack](../../CONTRIBUTING.md).
+Download the pack's `.rbxm`, stop Play, and follow the exact destination and setup steps on its pack page. Review the documented dependencies and test limits before integrating it into a game.
 
-[Back to Steal a Template](../../README.md#browse-assets)
+Original Steal a Template contributions use [MIT terms](../../LICENSE); each pack's credits preserve applicable third-party notices.
 
-## Combat VFX Collection
-
-[Download and gallery](100-combat-vfx-pack-1/README.md) — 96 particle-effect entries and 5 trails photographed separately. Carrier geometry was hidden for triggered-effect stills. Emission timing was staged and frozen for capture; trail lifetime was extended on preview clones only. No motion recording is supplied, and original timing/playback integration remains unverified.
-
-![Combat VFX Collection](100-combat-vfx-pack-1/previews-v2/effect-001.jpg)
+[Back to Steal a Template](../../README.md)

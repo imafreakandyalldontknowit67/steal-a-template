@@ -1,34 +1,24 @@
 # Steal a Template / Luau systems
 
-<!-- category-masterlist:start -->
-## Masterlist
+Editable Roblox systems with native models, Luau source, and real Studio screenshots. Pick a system, inspect the gallery, then read its setup notes.
 
-All 2 packs in this category. Open a pack for downloads, previews, credits, and verification limits.
+| Pack | Gallery | Native model | Current status |
+| --- | --- | --- | --- |
+| [Dialogue and Quest System](dialogue-system/) | [7 screenshots](dialogue-system/#screenshot-gallery) | [DialogueSystem.rbxm](dialogue-system/DialogueSystem.rbxm?raw=1) | Draft; see pack verification and device limits |
+| [Dungeon Camera](dungeoncam/) | [2 screenshots](dungeoncam/GALLERY.md) | [DungeonCam.rbxm](dungeoncam/DungeonCam.rbxm?raw=1) | Visual preview; limited camera Play test |
 
-| Pack | Verification |
-| --- | --- |
-| [Steal a Template / Dialogue and Quest System](dialogue-system/README.md) | See pack verification |
-| [Dungeon Camera](dungeoncam/README.md) | Preview ? testing limits documented |
-<!-- category-masterlist:end -->
+### Dialogue and Quest System
 
-Reusable modules and gameplay systems.
+[![Dialogue and Quest System](dialogue-system/previews/guide-menu.jpg)](dialogue-system/)
 
-Pack pages include downloads, source where applicable, installation instructions, and previews of each feature or a runnable example.
+### Dungeon Camera
 
-## Dialogue and Quest System
+[![Dungeon Camera](dungeoncam/previews-v2/live-camera-a.jpg)](dungeoncam/)
 
-**Four NPC conversations · branching choices · cinematic camera · quest examples**
+## Install
 
-[Explore the Dialogue and Quest System](dialogue-system/) for the native download, exact Luau source, installation steps, and Play mode gallery.
+Download the pack's `.rbxm`, stop Play, and follow the exact destination and setup steps on its pack page. Review the documented dependencies and test limits before integrating it into a game.
 
-![Guide dialogue choice menu](dialogue-system/previews/guide-menu.jpg)
+Original Steal a Template contributions use [MIT terms](../../LICENSE); each pack's credits preserve applicable third-party notices.
 
-[Contribute a pack](../../CONTRIBUTING.md).
-
-[Back to Steal a Template](../../README.md#browse-assets)
-
-## Dungeon Camera
-
-[Download and gallery](dungeoncam/README.md) — Limited actual Play test: Scriptable camera, FOV 50 and character following observed. Frame-dependent smoothing, respawn, occlusion, zoom, touch and gamepad remain unverified. Screenshot avatar and cubes are test fixtures, not included assets.
-
-![Dungeon Camera](dungeoncam/previews-v2/live-camera-a.jpg)
+[Back to Steal a Template](../../README.md)
