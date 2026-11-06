@@ -1,0 +1,19 @@
+{
+  "classes": {
+    "Attachment": 4,
+    "Folder": 1,
+    "MeshPart": 22,
+    "Part": 8,
+    "ParticleEmitter": 12,
+    "SpecialMesh": 1,
+    "SurfaceAppearance": 18,
+    "Tool": 9,
+    "Weld": 21
+  },
+  "roots": [
+    "Tools"
+  ],
+  "warnings": [],
+  "nodeCount": 96,
+  "fullHierarchy": "inventory-full.json.gz"
+}

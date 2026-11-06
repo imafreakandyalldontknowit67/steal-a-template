@@ -1,0 +1,2898 @@
+[
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/cover.jpg",
+    "relative": "previews/cover.jpg",
+    "label": "Cover - Lion | Triceratops | Dog",
+    "items": [
+      "AnimalModels/BaseAnimals/Lion",
+      "AnimalModels/BaseAnimals/Triceratops",
+      "AnimalModels/BaseAnimals/Dog"
+    ],
+    "alternate": false,
+    "cover": true,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-001.jpg",
+    "relative": "previews/sheet-001.jpg",
+    "label": "Primary view - ARCHAEOPTERYX | ARGENTAVIS | AZHDARCHID",
+    "items": [
+      "AnimalModels/BaseAnimals/ARCHAEOPTERYX",
+      "AnimalModels/BaseAnimals/ARGENTAVIS",
+      "AnimalModels/BaseAnimals/AZHDARCHID"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-004.jpg",
+    "relative": "previews/sheet-004.jpg",
+    "label": "Primary view - Ankylosaurus | Bat | Bear",
+    "items": [
+      "AnimalModels/BaseAnimals/Ankylosaurus",
+      "AnimalModels/BaseAnimals/Bat",
+      "AnimalModels/BaseAnimals/Bear"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-007.jpg",
+    "relative": "previews/sheet-007.jpg",
+    "label": "Primary view - Brachiosaurus | Bull | Bunny",
+    "items": [
+      "AnimalModels/BaseAnimals/Brachiosaurus",
+      "AnimalModels/BaseAnimals/Bull",
+      "AnimalModels/BaseAnimals/Bunny"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-010.jpg",
+    "relative": "previews/sheet-010.jpg",
+    "label": "Primary view - CALADRIUS | CERBERUS | CHIREMA",
+    "items": [
+      "AnimalModels/BaseAnimals/CALADRIUS",
+      "AnimalModels/BaseAnimals/CERBERUS",
+      "AnimalModels/BaseAnimals/CHIREMA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-013.jpg",
+    "relative": "previews/sheet-013.jpg",
+    "label": "Primary view - CLASSICDRAGON | COCKATRICE | Capybara",
+    "items": [
+      "AnimalModels/BaseAnimals/CLASSICDRAGON",
+      "AnimalModels/BaseAnimals/COCKATRICE",
+      "AnimalModels/BaseAnimals/Capybara"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-016.jpg",
+    "relative": "previews/sheet-016.jpg",
+    "label": "Primary view - Cat | Chicken | Cobra",
+    "items": [
+      "AnimalModels/BaseAnimals/Cat",
+      "AnimalModels/BaseAnimals/Chicken",
+      "AnimalModels/BaseAnimals/Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-019.jpg",
+    "relative": "previews/sheet-019.jpg",
+    "label": "Primary view - Cow | Crab | Crocodile",
+    "items": [
+      "AnimalModels/BaseAnimals/Cow",
+      "AnimalModels/BaseAnimals/Crab",
+      "AnimalModels/BaseAnimals/Crocodile"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-022.jpg",
+    "relative": "previews/sheet-022.jpg",
+    "label": "Primary view - DIMETRODON | Dog | Elephant",
+    "items": [
+      "AnimalModels/BaseAnimals/DIMETRODON",
+      "AnimalModels/BaseAnimals/Dog",
+      "AnimalModels/BaseAnimals/Elephant"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-025.jpg",
+    "relative": "previews/sheet-025.jpg",
+    "label": "Primary view - FIREPHOENIX | Frog | GARGOYLE_BAT",
+    "items": [
+      "AnimalModels/BaseAnimals/FIREPHOENIX",
+      "AnimalModels/BaseAnimals/Frog",
+      "AnimalModels/BaseAnimals/GARGOYLE_BAT"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-028.jpg",
+    "relative": "previews/sheet-028.jpg",
+    "label": "Primary view - GARUDA | GRIFFIN | Gallimimus",
+    "items": [
+      "AnimalModels/BaseAnimals/GARUDA",
+      "AnimalModels/BaseAnimals/GRIFFIN",
+      "AnimalModels/BaseAnimals/Gallimimus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-031.jpg",
+    "relative": "previews/sheet-031.jpg",
+    "label": "Primary view - Giraffe | Goat | Goldfish",
+    "items": [
+      "AnimalModels/BaseAnimals/Giraffe",
+      "AnimalModels/BaseAnimals/Goat",
+      "AnimalModels/BaseAnimals/Goldfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-034.jpg",
+    "relative": "previews/sheet-034.jpg",
+    "label": "Primary view - Gorilla | Guinea Pig | HYDRA",
+    "items": [
+      "AnimalModels/BaseAnimals/Gorilla",
+      "AnimalModels/BaseAnimals/Guinea Pig",
+      "AnimalModels/BaseAnimals/HYDRA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-037.jpg",
+    "relative": "previews/sheet-037.jpg",
+    "label": "Primary view - Hamster | Horse | Jellyfish",
+    "items": [
+      "AnimalModels/BaseAnimals/Hamster",
+      "AnimalModels/BaseAnimals/Horse",
+      "AnimalModels/BaseAnimals/Jellyfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-040.jpg",
+    "relative": "previews/sheet-040.jpg",
+    "label": "Primary view - Kangaroo | Kitsune | Koala",
+    "items": [
+      "AnimalModels/BaseAnimals/Kangaroo",
+      "AnimalModels/BaseAnimals/Kitsune",
+      "AnimalModels/BaseAnimals/Koala"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-043.jpg",
+    "relative": "previews/sheet-043.jpg",
+    "label": "Primary view - Lion | Lizard | Llama",
+    "items": [
+      "AnimalModels/BaseAnimals/Lion",
+      "AnimalModels/BaseAnimals/Lizard",
+      "AnimalModels/BaseAnimals/Llama"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-046.jpg",
+    "relative": "previews/sheet-046.jpg",
+    "label": "Primary view - MANTICORE | MICRORAPTOR | MINOTAUR",
+    "items": [
+      "AnimalModels/BaseAnimals/MANTICORE",
+      "AnimalModels/BaseAnimals/MICRORAPTOR",
+      "AnimalModels/BaseAnimals/MINOTAUR"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-049.jpg",
+    "relative": "previews/sheet-049.jpg",
+    "label": "Primary view - MOTHMAN | Mammoth | Mosasaurus",
+    "items": [
+      "AnimalModels/BaseAnimals/MOTHMAN",
+      "AnimalModels/BaseAnimals/Mammoth",
+      "AnimalModels/BaseAnimals/Mosasaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-052.jpg",
+    "relative": "previews/sheet-052.jpg",
+    "label": "Primary view - Ostrich | Owl | PEGASUS",
+    "items": [
+      "AnimalModels/BaseAnimals/Ostrich",
+      "AnimalModels/BaseAnimals/Owl",
+      "AnimalModels/BaseAnimals/PEGASUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-055.jpg",
+    "relative": "previews/sheet-055.jpg",
+    "label": "Primary view - PREHISTORIC_DRAGONFLY | PREHISTORIC_MOTH | PTERANODON",
+    "items": [
+      "AnimalModels/BaseAnimals/PREHISTORIC_DRAGONFLY",
+      "AnimalModels/BaseAnimals/PREHISTORIC_MOTH",
+      "AnimalModels/BaseAnimals/PTERANODON"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-058.jpg",
+    "relative": "previews/sheet-058.jpg",
+    "label": "Primary view - PTERODACTYL | Parrot | Pigeon",
+    "items": [
+      "AnimalModels/BaseAnimals/PTERODACTYL",
+      "AnimalModels/BaseAnimals/Parrot",
+      "AnimalModels/BaseAnimals/Pigeon"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-061.jpg",
+    "relative": "previews/sheet-061.jpg",
+    "label": "Primary view - Polar Bear | Pony | QILIN",
+    "items": [
+      "AnimalModels/BaseAnimals/Polar Bear",
+      "AnimalModels/BaseAnimals/Pony",
+      "AnimalModels/BaseAnimals/QILIN"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-064.jpg",
+    "relative": "previews/sheet-064.jpg",
+    "label": "Primary view - QUETZALCOATLUS | ROC | SABER_TOOTHED_TIGER",
+    "items": [
+      "AnimalModels/BaseAnimals/QUETZALCOATLUS",
+      "AnimalModels/BaseAnimals/ROC",
+      "AnimalModels/BaseAnimals/SABER_TOOTHED_TIGER"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-067.jpg",
+    "relative": "previews/sheet-067.jpg",
+    "label": "Primary view - SIMURGH | SPHINX | STEGOSAURUS",
+    "items": [
+      "AnimalModels/BaseAnimals/SIMURGH",
+      "AnimalModels/BaseAnimals/SPHINX",
+      "AnimalModels/BaseAnimals/STEGOSAURUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-070.jpg",
+    "relative": "previews/sheet-070.jpg",
+    "label": "Primary view - STYMPHALIANBIRD | Seal | Shark",
+    "items": [
+      "AnimalModels/BaseAnimals/STYMPHALIANBIRD",
+      "AnimalModels/BaseAnimals/Seal",
+      "AnimalModels/BaseAnimals/Shark"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-073.jpg",
+    "relative": "previews/sheet-073.jpg",
+    "label": "Primary view - Snail | Snake | Spinosaurus",
+    "items": [
+      "AnimalModels/BaseAnimals/Snail",
+      "AnimalModels/BaseAnimals/Snake",
+      "AnimalModels/BaseAnimals/Spinosaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-076.jpg",
+    "relative": "previews/sheet-076.jpg",
+    "label": "Primary view - Swordfish | T-Rex | THUNDERBIRD",
+    "items": [
+      "AnimalModels/BaseAnimals/Swordfish",
+      "AnimalModels/BaseAnimals/T-Rex",
+      "AnimalModels/BaseAnimals/THUNDERBIRD"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-079.jpg",
+    "relative": "previews/sheet-079.jpg",
+    "label": "Primary view - Tiger | Triceratops | Triple Cobra",
+    "items": [
+      "AnimalModels/BaseAnimals/Tiger",
+      "AnimalModels/BaseAnimals/Triceratops",
+      "AnimalModels/BaseAnimals/Triple Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-082.jpg",
+    "relative": "previews/sheet-082.jpg",
+    "label": "Primary view - Turtle | Unicorn | Velicoraptor",
+    "items": [
+      "AnimalModels/BaseAnimals/Turtle",
+      "AnimalModels/BaseAnimals/Unicorn",
+      "AnimalModels/BaseAnimals/Velicoraptor"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-085.jpg",
+    "relative": "previews/sheet-085.jpg",
+    "label": "Primary view - WINGED_IMP | WYVERN | Whale",
+    "items": [
+      "AnimalModels/BaseAnimals/WINGED_IMP",
+      "AnimalModels/BaseAnimals/WYVERN",
+      "AnimalModels/BaseAnimals/Whale"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-088.jpg",
+    "relative": "previews/sheet-088.jpg",
+    "label": "Primary view - Wolf | YI_QI | Zebra",
+    "items": [
+      "AnimalModels/BaseAnimals/Wolf",
+      "AnimalModels/BaseAnimals/YI_QI",
+      "AnimalModels/BaseAnimals/Zebra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-091.jpg",
+    "relative": "previews/sheet-091.jpg",
+    "label": "Primary view - ARCHAEOPTERYX | ARGENTAVIS | AZHDARCHID",
+    "items": [
+      "AnimalModels/DiamondAnimals/ARCHAEOPTERYX",
+      "AnimalModels/DiamondAnimals/ARGENTAVIS",
+      "AnimalModels/DiamondAnimals/AZHDARCHID"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-094.jpg",
+    "relative": "previews/sheet-094.jpg",
+    "label": "Primary view - Ankylosaurus | Bat | Bear",
+    "items": [
+      "AnimalModels/DiamondAnimals/Ankylosaurus",
+      "AnimalModels/DiamondAnimals/Bat",
+      "AnimalModels/DiamondAnimals/Bear"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-097.jpg",
+    "relative": "previews/sheet-097.jpg",
+    "label": "Primary view - Brachiosaurus | Bull | Bunny",
+    "items": [
+      "AnimalModels/DiamondAnimals/Brachiosaurus",
+      "AnimalModels/DiamondAnimals/Bull",
+      "AnimalModels/DiamondAnimals/Bunny"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-100.jpg",
+    "relative": "previews/sheet-100.jpg",
+    "label": "Primary view - CALADRIUS | CERBERUS | CHIREMA",
+    "items": [
+      "AnimalModels/DiamondAnimals/CALADRIUS",
+      "AnimalModels/DiamondAnimals/CERBERUS",
+      "AnimalModels/DiamondAnimals/CHIREMA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-103.jpg",
+    "relative": "previews/sheet-103.jpg",
+    "label": "Primary view - CLASSICDRAGON | COCKATRICE | Capybara",
+    "items": [
+      "AnimalModels/DiamondAnimals/CLASSICDRAGON",
+      "AnimalModels/DiamondAnimals/COCKATRICE",
+      "AnimalModels/DiamondAnimals/Capybara"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-106.jpg",
+    "relative": "previews/sheet-106.jpg",
+    "label": "Primary view - Cat | Chicken | Cobra",
+    "items": [
+      "AnimalModels/DiamondAnimals/Cat",
+      "AnimalModels/DiamondAnimals/Chicken",
+      "AnimalModels/DiamondAnimals/Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-109.jpg",
+    "relative": "previews/sheet-109.jpg",
+    "label": "Primary view - Cow | Crab | Crocodile",
+    "items": [
+      "AnimalModels/DiamondAnimals/Cow",
+      "AnimalModels/DiamondAnimals/Crab",
+      "AnimalModels/DiamondAnimals/Crocodile"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-112.jpg",
+    "relative": "previews/sheet-112.jpg",
+    "label": "Primary view - DIMETRODON | Dog | Elephant",
+    "items": [
+      "AnimalModels/DiamondAnimals/DIMETRODON",
+      "AnimalModels/DiamondAnimals/Dog",
+      "AnimalModels/DiamondAnimals/Elephant"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-115.jpg",
+    "relative": "previews/sheet-115.jpg",
+    "label": "Primary view - FIREPHOENIX | Frog | GARGOYLE_BAT",
+    "items": [
+      "AnimalModels/DiamondAnimals/FIREPHOENIX",
+      "AnimalModels/DiamondAnimals/Frog",
+      "AnimalModels/DiamondAnimals/GARGOYLE_BAT"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-118.jpg",
+    "relative": "previews/sheet-118.jpg",
+    "label": "Primary view - GARUDA | GRIFFIN | Gallimimus",
+    "items": [
+      "AnimalModels/DiamondAnimals/GARUDA",
+      "AnimalModels/DiamondAnimals/GRIFFIN",
+      "AnimalModels/DiamondAnimals/Gallimimus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-121.jpg",
+    "relative": "previews/sheet-121.jpg",
+    "label": "Primary view - Giraffe | Goat | Goldfish",
+    "items": [
+      "AnimalModels/DiamondAnimals/Giraffe",
+      "AnimalModels/DiamondAnimals/Goat",
+      "AnimalModels/DiamondAnimals/Goldfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-124.jpg",
+    "relative": "previews/sheet-124.jpg",
+    "label": "Primary view - Gorilla | Guinea Pig | HYDRA",
+    "items": [
+      "AnimalModels/DiamondAnimals/Gorilla",
+      "AnimalModels/DiamondAnimals/Guinea Pig",
+      "AnimalModels/DiamondAnimals/HYDRA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-127.jpg",
+    "relative": "previews/sheet-127.jpg",
+    "label": "Primary view - Hamster | Horse | Jellyfish",
+    "items": [
+      "AnimalModels/DiamondAnimals/Hamster",
+      "AnimalModels/DiamondAnimals/Horse",
+      "AnimalModels/DiamondAnimals/Jellyfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-130.jpg",
+    "relative": "previews/sheet-130.jpg",
+    "label": "Primary view - Kangaroo | Kitsune | Koala",
+    "items": [
+      "AnimalModels/DiamondAnimals/Kangaroo",
+      "AnimalModels/DiamondAnimals/Kitsune",
+      "AnimalModels/DiamondAnimals/Koala"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-133.jpg",
+    "relative": "previews/sheet-133.jpg",
+    "label": "Primary view - Lion | Lizard | Llama",
+    "items": [
+      "AnimalModels/DiamondAnimals/Lion",
+      "AnimalModels/DiamondAnimals/Lizard",
+      "AnimalModels/DiamondAnimals/Llama"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-136.jpg",
+    "relative": "previews/sheet-136.jpg",
+    "label": "Primary view - MANTICORE | MICRORAPTOR | MINOTAUR",
+    "items": [
+      "AnimalModels/DiamondAnimals/MANTICORE",
+      "AnimalModels/DiamondAnimals/MICRORAPTOR",
+      "AnimalModels/DiamondAnimals/MINOTAUR"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-139.jpg",
+    "relative": "previews/sheet-139.jpg",
+    "label": "Primary view - MOTHMAN | Mammoth | Mosasaurus",
+    "items": [
+      "AnimalModels/DiamondAnimals/MOTHMAN",
+      "AnimalModels/DiamondAnimals/Mammoth",
+      "AnimalModels/DiamondAnimals/Mosasaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-142.jpg",
+    "relative": "previews/sheet-142.jpg",
+    "label": "Primary view - Ostrich | Owl | PEGASUS",
+    "items": [
+      "AnimalModels/DiamondAnimals/Ostrich",
+      "AnimalModels/DiamondAnimals/Owl",
+      "AnimalModels/DiamondAnimals/PEGASUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-145.jpg",
+    "relative": "previews/sheet-145.jpg",
+    "label": "Primary view - PREHISTORIC_DRAGONFLY | PREHISTORIC_MOTH | PTERANODON",
+    "items": [
+      "AnimalModels/DiamondAnimals/PREHISTORIC_DRAGONFLY",
+      "AnimalModels/DiamondAnimals/PREHISTORIC_MOTH",
+      "AnimalModels/DiamondAnimals/PTERANODON"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-148.jpg",
+    "relative": "previews/sheet-148.jpg",
+    "label": "Primary view - PTERODACTYL | Parrot | Pigeon",
+    "items": [
+      "AnimalModels/DiamondAnimals/PTERODACTYL",
+      "AnimalModels/DiamondAnimals/Parrot",
+      "AnimalModels/DiamondAnimals/Pigeon"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-151.jpg",
+    "relative": "previews/sheet-151.jpg",
+    "label": "Primary view - Polar Bear | Pony | QILIN",
+    "items": [
+      "AnimalModels/DiamondAnimals/Polar Bear",
+      "AnimalModels/DiamondAnimals/Pony",
+      "AnimalModels/DiamondAnimals/QILIN"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-154.jpg",
+    "relative": "previews/sheet-154.jpg",
+    "label": "Primary view - QUETZALCOATLUS | ROC | SABER_TOOTHED_TIGER",
+    "items": [
+      "AnimalModels/DiamondAnimals/QUETZALCOATLUS",
+      "AnimalModels/DiamondAnimals/ROC",
+      "AnimalModels/DiamondAnimals/SABER_TOOTHED_TIGER"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-157.jpg",
+    "relative": "previews/sheet-157.jpg",
+    "label": "Primary view - SIMURGH | SPHINX | STEGOSAURUS",
+    "items": [
+      "AnimalModels/DiamondAnimals/SIMURGH",
+      "AnimalModels/DiamondAnimals/SPHINX",
+      "AnimalModels/DiamondAnimals/STEGOSAURUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-160.jpg",
+    "relative": "previews/sheet-160.jpg",
+    "label": "Primary view - STYMPHALIANBIRD | Seal | Shark",
+    "items": [
+      "AnimalModels/DiamondAnimals/STYMPHALIANBIRD",
+      "AnimalModels/DiamondAnimals/Seal",
+      "AnimalModels/DiamondAnimals/Shark"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-163.jpg",
+    "relative": "previews/sheet-163.jpg",
+    "label": "Primary view - Snail | Snake | Spinosaurus",
+    "items": [
+      "AnimalModels/DiamondAnimals/Snail",
+      "AnimalModels/DiamondAnimals/Snake",
+      "AnimalModels/DiamondAnimals/Spinosaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-166.jpg",
+    "relative": "previews/sheet-166.jpg",
+    "label": "Primary view - Swordfish | T-Rex | THUNDERBIRD",
+    "items": [
+      "AnimalModels/DiamondAnimals/Swordfish",
+      "AnimalModels/DiamondAnimals/T-Rex",
+      "AnimalModels/DiamondAnimals/THUNDERBIRD"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-169.jpg",
+    "relative": "previews/sheet-169.jpg",
+    "label": "Primary view - Tiger | Triceratops | Triple Cobra",
+    "items": [
+      "AnimalModels/DiamondAnimals/Tiger",
+      "AnimalModels/DiamondAnimals/Triceratops",
+      "AnimalModels/DiamondAnimals/Triple Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-172.jpg",
+    "relative": "previews/sheet-172.jpg",
+    "label": "Primary view - Turtle | Unicorn | Velicoraptor",
+    "items": [
+      "AnimalModels/DiamondAnimals/Turtle",
+      "AnimalModels/DiamondAnimals/Unicorn",
+      "AnimalModels/DiamondAnimals/Velicoraptor"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-175.jpg",
+    "relative": "previews/sheet-175.jpg",
+    "label": "Primary view - WINGED_IMP | WYVERN | Whale",
+    "items": [
+      "AnimalModels/DiamondAnimals/WINGED_IMP",
+      "AnimalModels/DiamondAnimals/WYVERN",
+      "AnimalModels/DiamondAnimals/Whale"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-178.jpg",
+    "relative": "previews/sheet-178.jpg",
+    "label": "Primary view - Wolf | YI_QI | Zebra",
+    "items": [
+      "AnimalModels/DiamondAnimals/Wolf",
+      "AnimalModels/DiamondAnimals/YI_QI",
+      "AnimalModels/DiamondAnimals/Zebra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-181.jpg",
+    "relative": "previews/sheet-181.jpg",
+    "label": "Primary view - ARCHAEOPTERYX | ARGENTAVIS | AZHDARCHID",
+    "items": [
+      "AnimalModels/EmeraldAnimals/ARCHAEOPTERYX",
+      "AnimalModels/EmeraldAnimals/ARGENTAVIS",
+      "AnimalModels/EmeraldAnimals/AZHDARCHID"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-184.jpg",
+    "relative": "previews/sheet-184.jpg",
+    "label": "Primary view - Ankylosaurus | Bat | Bear",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Ankylosaurus",
+      "AnimalModels/EmeraldAnimals/Bat",
+      "AnimalModels/EmeraldAnimals/Bear"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-187.jpg",
+    "relative": "previews/sheet-187.jpg",
+    "label": "Primary view - Brachiosaurus | Bull | Bunny",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Brachiosaurus",
+      "AnimalModels/EmeraldAnimals/Bull",
+      "AnimalModels/EmeraldAnimals/Bunny"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-190.jpg",
+    "relative": "previews/sheet-190.jpg",
+    "label": "Primary view - CALADRIUS | CERBERUS | CHIREMA",
+    "items": [
+      "AnimalModels/EmeraldAnimals/CALADRIUS",
+      "AnimalModels/EmeraldAnimals/CERBERUS",
+      "AnimalModels/EmeraldAnimals/CHIREMA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-193.jpg",
+    "relative": "previews/sheet-193.jpg",
+    "label": "Primary view - CLASSICDRAGON | COCKATRICE | Capybara",
+    "items": [
+      "AnimalModels/EmeraldAnimals/CLASSICDRAGON",
+      "AnimalModels/EmeraldAnimals/COCKATRICE",
+      "AnimalModels/EmeraldAnimals/Capybara"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-196.jpg",
+    "relative": "previews/sheet-196.jpg",
+    "label": "Primary view - Cat | Chicken | Cobra",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Cat",
+      "AnimalModels/EmeraldAnimals/Chicken",
+      "AnimalModels/EmeraldAnimals/Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-199.jpg",
+    "relative": "previews/sheet-199.jpg",
+    "label": "Primary view - Cow | Crab | Crocodile",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Cow",
+      "AnimalModels/EmeraldAnimals/Crab",
+      "AnimalModels/EmeraldAnimals/Crocodile"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-202.jpg",
+    "relative": "previews/sheet-202.jpg",
+    "label": "Primary view - DIMETRODON | Dog | Elephant",
+    "items": [
+      "AnimalModels/EmeraldAnimals/DIMETRODON",
+      "AnimalModels/EmeraldAnimals/Dog",
+      "AnimalModels/EmeraldAnimals/Elephant"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-205.jpg",
+    "relative": "previews/sheet-205.jpg",
+    "label": "Primary view - FIREPHOENIX | Frog | GARGOYLE_BAT",
+    "items": [
+      "AnimalModels/EmeraldAnimals/FIREPHOENIX",
+      "AnimalModels/EmeraldAnimals/Frog",
+      "AnimalModels/EmeraldAnimals/GARGOYLE_BAT"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-208.jpg",
+    "relative": "previews/sheet-208.jpg",
+    "label": "Primary view - GARUDA | GRIFFIN | Gallimimus",
+    "items": [
+      "AnimalModels/EmeraldAnimals/GARUDA",
+      "AnimalModels/EmeraldAnimals/GRIFFIN",
+      "AnimalModels/EmeraldAnimals/Gallimimus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-211.jpg",
+    "relative": "previews/sheet-211.jpg",
+    "label": "Primary view - Giraffe | Goat | Goldfish",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Giraffe",
+      "AnimalModels/EmeraldAnimals/Goat",
+      "AnimalModels/EmeraldAnimals/Goldfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-214.jpg",
+    "relative": "previews/sheet-214.jpg",
+    "label": "Primary view - Gorilla | Guinea Pig | HYDRA",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Gorilla",
+      "AnimalModels/EmeraldAnimals/Guinea Pig",
+      "AnimalModels/EmeraldAnimals/HYDRA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-217.jpg",
+    "relative": "previews/sheet-217.jpg",
+    "label": "Primary view - Hamster | Horse | Jellyfish",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Hamster",
+      "AnimalModels/EmeraldAnimals/Horse",
+      "AnimalModels/EmeraldAnimals/Jellyfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-220.jpg",
+    "relative": "previews/sheet-220.jpg",
+    "label": "Primary view - Kangaroo | Kitsune | Koala",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Kangaroo",
+      "AnimalModels/EmeraldAnimals/Kitsune",
+      "AnimalModels/EmeraldAnimals/Koala"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-223.jpg",
+    "relative": "previews/sheet-223.jpg",
+    "label": "Primary view - Lion | Lizard | Llama",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Lion",
+      "AnimalModels/EmeraldAnimals/Lizard",
+      "AnimalModels/EmeraldAnimals/Llama"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-226.jpg",
+    "relative": "previews/sheet-226.jpg",
+    "label": "Primary view - MANTICORE | MICRORAPTOR | MINOTAUR",
+    "items": [
+      "AnimalModels/EmeraldAnimals/MANTICORE",
+      "AnimalModels/EmeraldAnimals/MICRORAPTOR",
+      "AnimalModels/EmeraldAnimals/MINOTAUR"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-229.jpg",
+    "relative": "previews/sheet-229.jpg",
+    "label": "Primary view - MOTHMAN | Mammoth | Mosasaurus",
+    "items": [
+      "AnimalModels/EmeraldAnimals/MOTHMAN",
+      "AnimalModels/EmeraldAnimals/Mammoth",
+      "AnimalModels/EmeraldAnimals/Mosasaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-232.jpg",
+    "relative": "previews/sheet-232.jpg",
+    "label": "Primary view - Ostrich | Owl | PEGASUS",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Ostrich",
+      "AnimalModels/EmeraldAnimals/Owl",
+      "AnimalModels/EmeraldAnimals/PEGASUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-235.jpg",
+    "relative": "previews/sheet-235.jpg",
+    "label": "Primary view - PREHISTORIC_DRAGONFLY | PREHISTORIC_MOTH | PTERANODON",
+    "items": [
+      "AnimalModels/EmeraldAnimals/PREHISTORIC_DRAGONFLY",
+      "AnimalModels/EmeraldAnimals/PREHISTORIC_MOTH",
+      "AnimalModels/EmeraldAnimals/PTERANODON"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-238.jpg",
+    "relative": "previews/sheet-238.jpg",
+    "label": "Primary view - PTERODACTYL | Parrot | Pigeon",
+    "items": [
+      "AnimalModels/EmeraldAnimals/PTERODACTYL",
+      "AnimalModels/EmeraldAnimals/Parrot",
+      "AnimalModels/EmeraldAnimals/Pigeon"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-241.jpg",
+    "relative": "previews/sheet-241.jpg",
+    "label": "Primary view - Polar Bear | Pony | QILIN",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Polar Bear",
+      "AnimalModels/EmeraldAnimals/Pony",
+      "AnimalModels/EmeraldAnimals/QILIN"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-244.jpg",
+    "relative": "previews/sheet-244.jpg",
+    "label": "Primary view - QUETZALCOATLUS | ROC | SABER_TOOTHED_TIGER",
+    "items": [
+      "AnimalModels/EmeraldAnimals/QUETZALCOATLUS",
+      "AnimalModels/EmeraldAnimals/ROC",
+      "AnimalModels/EmeraldAnimals/SABER_TOOTHED_TIGER"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-247.jpg",
+    "relative": "previews/sheet-247.jpg",
+    "label": "Primary view - SIMURGH | SPHINX | STEGOSAURUS",
+    "items": [
+      "AnimalModels/EmeraldAnimals/SIMURGH",
+      "AnimalModels/EmeraldAnimals/SPHINX",
+      "AnimalModels/EmeraldAnimals/STEGOSAURUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-250.jpg",
+    "relative": "previews/sheet-250.jpg",
+    "label": "Primary view - STYMPHALIANBIRD | Seal | Shark",
+    "items": [
+      "AnimalModels/EmeraldAnimals/STYMPHALIANBIRD",
+      "AnimalModels/EmeraldAnimals/Seal",
+      "AnimalModels/EmeraldAnimals/Shark"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-253.jpg",
+    "relative": "previews/sheet-253.jpg",
+    "label": "Primary view - Snail | Snake | Spinosaurus",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Snail",
+      "AnimalModels/EmeraldAnimals/Snake",
+      "AnimalModels/EmeraldAnimals/Spinosaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-256.jpg",
+    "relative": "previews/sheet-256.jpg",
+    "label": "Primary view - Swordfish | T-Rex | THUNDERBIRD",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Swordfish",
+      "AnimalModels/EmeraldAnimals/T-Rex",
+      "AnimalModels/EmeraldAnimals/THUNDERBIRD"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-259.jpg",
+    "relative": "previews/sheet-259.jpg",
+    "label": "Primary view - Tiger | Triceratops | Triple Cobra",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Tiger",
+      "AnimalModels/EmeraldAnimals/Triceratops",
+      "AnimalModels/EmeraldAnimals/Triple Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-262.jpg",
+    "relative": "previews/sheet-262.jpg",
+    "label": "Primary view - Turtle | Unicorn | Velicoraptor",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Turtle",
+      "AnimalModels/EmeraldAnimals/Unicorn",
+      "AnimalModels/EmeraldAnimals/Velicoraptor"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-265.jpg",
+    "relative": "previews/sheet-265.jpg",
+    "label": "Primary view - WINGED_IMP | WYVERN | Whale",
+    "items": [
+      "AnimalModels/EmeraldAnimals/WINGED_IMP",
+      "AnimalModels/EmeraldAnimals/WYVERN",
+      "AnimalModels/EmeraldAnimals/Whale"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-268.jpg",
+    "relative": "previews/sheet-268.jpg",
+    "label": "Primary view - Wolf | YI_QI | Zebra",
+    "items": [
+      "AnimalModels/EmeraldAnimals/Wolf",
+      "AnimalModels/EmeraldAnimals/YI_QI",
+      "AnimalModels/EmeraldAnimals/Zebra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-271.jpg",
+    "relative": "previews/sheet-271.jpg",
+    "label": "Primary view - ARCHAEOPTERYX | ARGENTAVIS | AZHDARCHID",
+    "items": [
+      "AnimalModels/GoldAnimals/ARCHAEOPTERYX",
+      "AnimalModels/GoldAnimals/ARGENTAVIS",
+      "AnimalModels/GoldAnimals/AZHDARCHID"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-274.jpg",
+    "relative": "previews/sheet-274.jpg",
+    "label": "Primary view - Ankylosaurus | Bat | Bear",
+    "items": [
+      "AnimalModels/GoldAnimals/Ankylosaurus",
+      "AnimalModels/GoldAnimals/Bat",
+      "AnimalModels/GoldAnimals/Bear"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-277.jpg",
+    "relative": "previews/sheet-277.jpg",
+    "label": "Primary view - Brachiosaurus | Bull | Bunny",
+    "items": [
+      "AnimalModels/GoldAnimals/Brachiosaurus",
+      "AnimalModels/GoldAnimals/Bull",
+      "AnimalModels/GoldAnimals/Bunny"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-280.jpg",
+    "relative": "previews/sheet-280.jpg",
+    "label": "Primary view - CALADRIUS | CERBERUS | CHIREMA",
+    "items": [
+      "AnimalModels/GoldAnimals/CALADRIUS",
+      "AnimalModels/GoldAnimals/CERBERUS",
+      "AnimalModels/GoldAnimals/CHIREMA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-283.jpg",
+    "relative": "previews/sheet-283.jpg",
+    "label": "Primary view - CLASSICDRAGON | COCKATRICE | Capybara",
+    "items": [
+      "AnimalModels/GoldAnimals/CLASSICDRAGON",
+      "AnimalModels/GoldAnimals/COCKATRICE",
+      "AnimalModels/GoldAnimals/Capybara"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-286.jpg",
+    "relative": "previews/sheet-286.jpg",
+    "label": "Primary view - Cat | Chicken | Cobra",
+    "items": [
+      "AnimalModels/GoldAnimals/Cat",
+      "AnimalModels/GoldAnimals/Chicken",
+      "AnimalModels/GoldAnimals/Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-289.jpg",
+    "relative": "previews/sheet-289.jpg",
+    "label": "Primary view - Cow | Crab | Crocodile",
+    "items": [
+      "AnimalModels/GoldAnimals/Cow",
+      "AnimalModels/GoldAnimals/Crab",
+      "AnimalModels/GoldAnimals/Crocodile"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-292.jpg",
+    "relative": "previews/sheet-292.jpg",
+    "label": "Primary view - DIMETRODON | Dog | Elephant",
+    "items": [
+      "AnimalModels/GoldAnimals/DIMETRODON",
+      "AnimalModels/GoldAnimals/Dog",
+      "AnimalModels/GoldAnimals/Elephant"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-295.jpg",
+    "relative": "previews/sheet-295.jpg",
+    "label": "Primary view - FIREPHOENIX | Frog | GARGOYLE_BAT",
+    "items": [
+      "AnimalModels/GoldAnimals/FIREPHOENIX",
+      "AnimalModels/GoldAnimals/Frog",
+      "AnimalModels/GoldAnimals/GARGOYLE_BAT"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-298.jpg",
+    "relative": "previews/sheet-298.jpg",
+    "label": "Primary view - GARUDA | GRIFFIN | Gallimimus",
+    "items": [
+      "AnimalModels/GoldAnimals/GARUDA",
+      "AnimalModels/GoldAnimals/GRIFFIN",
+      "AnimalModels/GoldAnimals/Gallimimus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-301.jpg",
+    "relative": "previews/sheet-301.jpg",
+    "label": "Primary view - Giraffe | Goat | Goldfish",
+    "items": [
+      "AnimalModels/GoldAnimals/Giraffe",
+      "AnimalModels/GoldAnimals/Goat",
+      "AnimalModels/GoldAnimals/Goldfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-304.jpg",
+    "relative": "previews/sheet-304.jpg",
+    "label": "Primary view - Gorilla | Guinea Pig | HYDRA",
+    "items": [
+      "AnimalModels/GoldAnimals/Gorilla",
+      "AnimalModels/GoldAnimals/Guinea Pig",
+      "AnimalModels/GoldAnimals/HYDRA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-307.jpg",
+    "relative": "previews/sheet-307.jpg",
+    "label": "Primary view - Hamster | Horse | Jellyfish",
+    "items": [
+      "AnimalModels/GoldAnimals/Hamster",
+      "AnimalModels/GoldAnimals/Horse",
+      "AnimalModels/GoldAnimals/Jellyfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-310.jpg",
+    "relative": "previews/sheet-310.jpg",
+    "label": "Primary view - Kangaroo | Kitsune | Koala",
+    "items": [
+      "AnimalModels/GoldAnimals/Kangaroo",
+      "AnimalModels/GoldAnimals/Kitsune",
+      "AnimalModels/GoldAnimals/Koala"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-313.jpg",
+    "relative": "previews/sheet-313.jpg",
+    "label": "Primary view - Lion | Lizard | Llama",
+    "items": [
+      "AnimalModels/GoldAnimals/Lion",
+      "AnimalModels/GoldAnimals/Lizard",
+      "AnimalModels/GoldAnimals/Llama"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-316.jpg",
+    "relative": "previews/sheet-316.jpg",
+    "label": "Primary view - MANTICORE | MICRORAPTOR | MINOTAUR",
+    "items": [
+      "AnimalModels/GoldAnimals/MANTICORE",
+      "AnimalModels/GoldAnimals/MICRORAPTOR",
+      "AnimalModels/GoldAnimals/MINOTAUR"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-319.jpg",
+    "relative": "previews/sheet-319.jpg",
+    "label": "Primary view - MOTHMAN | Mammoth | Mosasaurus",
+    "items": [
+      "AnimalModels/GoldAnimals/MOTHMAN",
+      "AnimalModels/GoldAnimals/Mammoth",
+      "AnimalModels/GoldAnimals/Mosasaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-322.jpg",
+    "relative": "previews/sheet-322.jpg",
+    "label": "Primary view - Ostrich | Owl | PEGASUS",
+    "items": [
+      "AnimalModels/GoldAnimals/Ostrich",
+      "AnimalModels/GoldAnimals/Owl",
+      "AnimalModels/GoldAnimals/PEGASUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-325.jpg",
+    "relative": "previews/sheet-325.jpg",
+    "label": "Primary view - PREHISTORIC_DRAGONFLY | PREHISTORIC_MOTH | PTERANODON",
+    "items": [
+      "AnimalModels/GoldAnimals/PREHISTORIC_DRAGONFLY",
+      "AnimalModels/GoldAnimals/PREHISTORIC_MOTH",
+      "AnimalModels/GoldAnimals/PTERANODON"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-328.jpg",
+    "relative": "previews/sheet-328.jpg",
+    "label": "Primary view - PTERODACTYL | Parrot | Pigeon",
+    "items": [
+      "AnimalModels/GoldAnimals/PTERODACTYL",
+      "AnimalModels/GoldAnimals/Parrot",
+      "AnimalModels/GoldAnimals/Pigeon"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-331.jpg",
+    "relative": "previews/sheet-331.jpg",
+    "label": "Primary view - Polar Bear | Pony | QILIN",
+    "items": [
+      "AnimalModels/GoldAnimals/Polar Bear",
+      "AnimalModels/GoldAnimals/Pony",
+      "AnimalModels/GoldAnimals/QILIN"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-334.jpg",
+    "relative": "previews/sheet-334.jpg",
+    "label": "Primary view - QUETZALCOATLUS | ROC | SABER_TOOTHED_TIGER",
+    "items": [
+      "AnimalModels/GoldAnimals/QUETZALCOATLUS",
+      "AnimalModels/GoldAnimals/ROC",
+      "AnimalModels/GoldAnimals/SABER_TOOTHED_TIGER"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-337.jpg",
+    "relative": "previews/sheet-337.jpg",
+    "label": "Primary view - SIMURGH | SPHINX | STEGOSAURUS",
+    "items": [
+      "AnimalModels/GoldAnimals/SIMURGH",
+      "AnimalModels/GoldAnimals/SPHINX",
+      "AnimalModels/GoldAnimals/STEGOSAURUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-340.jpg",
+    "relative": "previews/sheet-340.jpg",
+    "label": "Primary view - STYMPHALIANBIRD | Seal | Shark",
+    "items": [
+      "AnimalModels/GoldAnimals/STYMPHALIANBIRD",
+      "AnimalModels/GoldAnimals/Seal",
+      "AnimalModels/GoldAnimals/Shark"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-343.jpg",
+    "relative": "previews/sheet-343.jpg",
+    "label": "Primary view - Snail | Snake | Spinosaurus",
+    "items": [
+      "AnimalModels/GoldAnimals/Snail",
+      "AnimalModels/GoldAnimals/Snake",
+      "AnimalModels/GoldAnimals/Spinosaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-346.jpg",
+    "relative": "previews/sheet-346.jpg",
+    "label": "Primary view - Swordfish | T-Rex | THUNDERBIRD",
+    "items": [
+      "AnimalModels/GoldAnimals/Swordfish",
+      "AnimalModels/GoldAnimals/T-Rex",
+      "AnimalModels/GoldAnimals/THUNDERBIRD"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-349.jpg",
+    "relative": "previews/sheet-349.jpg",
+    "label": "Primary view - Tiger | Triceratops | Triple Cobra",
+    "items": [
+      "AnimalModels/GoldAnimals/Tiger",
+      "AnimalModels/GoldAnimals/Triceratops",
+      "AnimalModels/GoldAnimals/Triple Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-352.jpg",
+    "relative": "previews/sheet-352.jpg",
+    "label": "Primary view - Turtle | Unicorn | Velicoraptor",
+    "items": [
+      "AnimalModels/GoldAnimals/Turtle",
+      "AnimalModels/GoldAnimals/Unicorn",
+      "AnimalModels/GoldAnimals/Velicoraptor"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-355.jpg",
+    "relative": "previews/sheet-355.jpg",
+    "label": "Primary view - WINGED_IMP | WYVERN | Whale",
+    "items": [
+      "AnimalModels/GoldAnimals/WINGED_IMP",
+      "AnimalModels/GoldAnimals/WYVERN",
+      "AnimalModels/GoldAnimals/Whale"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-358.jpg",
+    "relative": "previews/sheet-358.jpg",
+    "label": "Primary view - Wolf | YI_QI | Zebra",
+    "items": [
+      "AnimalModels/GoldAnimals/Wolf",
+      "AnimalModels/GoldAnimals/YI_QI",
+      "AnimalModels/GoldAnimals/Zebra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-361.jpg",
+    "relative": "previews/sheet-361.jpg",
+    "label": "Primary view - ARCHAEOPTERYX | ARGENTAVIS | AZHDARCHID",
+    "items": [
+      "AnimalModels/RubyAnimals/ARCHAEOPTERYX",
+      "AnimalModels/RubyAnimals/ARGENTAVIS",
+      "AnimalModels/RubyAnimals/AZHDARCHID"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-364.jpg",
+    "relative": "previews/sheet-364.jpg",
+    "label": "Primary view - Ankylosaurus | Bat | Bear",
+    "items": [
+      "AnimalModels/RubyAnimals/Ankylosaurus",
+      "AnimalModels/RubyAnimals/Bat",
+      "AnimalModels/RubyAnimals/Bear"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-367.jpg",
+    "relative": "previews/sheet-367.jpg",
+    "label": "Primary view - Brachiosaurus | Bull | Bunny",
+    "items": [
+      "AnimalModels/RubyAnimals/Brachiosaurus",
+      "AnimalModels/RubyAnimals/Bull",
+      "AnimalModels/RubyAnimals/Bunny"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-370.jpg",
+    "relative": "previews/sheet-370.jpg",
+    "label": "Primary view - CALADRIUS | CERBERUS | CHIREMA",
+    "items": [
+      "AnimalModels/RubyAnimals/CALADRIUS",
+      "AnimalModels/RubyAnimals/CERBERUS",
+      "AnimalModels/RubyAnimals/CHIREMA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-373.jpg",
+    "relative": "previews/sheet-373.jpg",
+    "label": "Primary view - CLASSICDRAGON | COCKATRICE | Capybara",
+    "items": [
+      "AnimalModels/RubyAnimals/CLASSICDRAGON",
+      "AnimalModels/RubyAnimals/COCKATRICE",
+      "AnimalModels/RubyAnimals/Capybara"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-376.jpg",
+    "relative": "previews/sheet-376.jpg",
+    "label": "Primary view - Cat | Chicken | Cobra",
+    "items": [
+      "AnimalModels/RubyAnimals/Cat",
+      "AnimalModels/RubyAnimals/Chicken",
+      "AnimalModels/RubyAnimals/Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-379.jpg",
+    "relative": "previews/sheet-379.jpg",
+    "label": "Primary view - Cow | Crab | Crocodile",
+    "items": [
+      "AnimalModels/RubyAnimals/Cow",
+      "AnimalModels/RubyAnimals/Crab",
+      "AnimalModels/RubyAnimals/Crocodile"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-382.jpg",
+    "relative": "previews/sheet-382.jpg",
+    "label": "Primary view - DIMETRODON | Dog | Elephant",
+    "items": [
+      "AnimalModels/RubyAnimals/DIMETRODON",
+      "AnimalModels/RubyAnimals/Dog",
+      "AnimalModels/RubyAnimals/Elephant"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-385.jpg",
+    "relative": "previews/sheet-385.jpg",
+    "label": "Primary view - FIREPHOENIX | Frog | GARGOYLE_BAT",
+    "items": [
+      "AnimalModels/RubyAnimals/FIREPHOENIX",
+      "AnimalModels/RubyAnimals/Frog",
+      "AnimalModels/RubyAnimals/GARGOYLE_BAT"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-388.jpg",
+    "relative": "previews/sheet-388.jpg",
+    "label": "Primary view - GARUDA | GRIFFIN | Gallimimus",
+    "items": [
+      "AnimalModels/RubyAnimals/GARUDA",
+      "AnimalModels/RubyAnimals/GRIFFIN",
+      "AnimalModels/RubyAnimals/Gallimimus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-391.jpg",
+    "relative": "previews/sheet-391.jpg",
+    "label": "Primary view - Giraffe | Goat | Goldfish",
+    "items": [
+      "AnimalModels/RubyAnimals/Giraffe",
+      "AnimalModels/RubyAnimals/Goat",
+      "AnimalModels/RubyAnimals/Goldfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-394.jpg",
+    "relative": "previews/sheet-394.jpg",
+    "label": "Primary view - Gorilla | Guinea Pig | HYDRA",
+    "items": [
+      "AnimalModels/RubyAnimals/Gorilla",
+      "AnimalModels/RubyAnimals/Guinea Pig",
+      "AnimalModels/RubyAnimals/HYDRA"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-397.jpg",
+    "relative": "previews/sheet-397.jpg",
+    "label": "Primary view - Hamster | Horse | Jellyfish",
+    "items": [
+      "AnimalModels/RubyAnimals/Hamster",
+      "AnimalModels/RubyAnimals/Horse",
+      "AnimalModels/RubyAnimals/Jellyfish"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-400.jpg",
+    "relative": "previews/sheet-400.jpg",
+    "label": "Primary view - Kangaroo | Kitsune | Koala",
+    "items": [
+      "AnimalModels/RubyAnimals/Kangaroo",
+      "AnimalModels/RubyAnimals/Kitsune",
+      "AnimalModels/RubyAnimals/Koala"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-403.jpg",
+    "relative": "previews/sheet-403.jpg",
+    "label": "Primary view - Lion | Lizard | Llama",
+    "items": [
+      "AnimalModels/RubyAnimals/Lion",
+      "AnimalModels/RubyAnimals/Lizard",
+      "AnimalModels/RubyAnimals/Llama"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-406.jpg",
+    "relative": "previews/sheet-406.jpg",
+    "label": "Primary view - MANTICORE | MICRORAPTOR | MINOTAUR",
+    "items": [
+      "AnimalModels/RubyAnimals/MANTICORE",
+      "AnimalModels/RubyAnimals/MICRORAPTOR",
+      "AnimalModels/RubyAnimals/MINOTAUR"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-409.jpg",
+    "relative": "previews/sheet-409.jpg",
+    "label": "Primary view - MOTHMAN | Mammoth | Mosasaurus",
+    "items": [
+      "AnimalModels/RubyAnimals/MOTHMAN",
+      "AnimalModels/RubyAnimals/Mammoth",
+      "AnimalModels/RubyAnimals/Mosasaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-412.jpg",
+    "relative": "previews/sheet-412.jpg",
+    "label": "Primary view - Ostrich | Owl | PEGASUS",
+    "items": [
+      "AnimalModels/RubyAnimals/Ostrich",
+      "AnimalModels/RubyAnimals/Owl",
+      "AnimalModels/RubyAnimals/PEGASUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-415.jpg",
+    "relative": "previews/sheet-415.jpg",
+    "label": "Primary view - PREHISTORIC_DRAGONFLY | PREHISTORIC_MOTH | PTERANODON",
+    "items": [
+      "AnimalModels/RubyAnimals/PREHISTORIC_DRAGONFLY",
+      "AnimalModels/RubyAnimals/PREHISTORIC_MOTH",
+      "AnimalModels/RubyAnimals/PTERANODON"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-418.jpg",
+    "relative": "previews/sheet-418.jpg",
+    "label": "Primary view - PTERODACTYL | Parrot | Pigeon",
+    "items": [
+      "AnimalModels/RubyAnimals/PTERODACTYL",
+      "AnimalModels/RubyAnimals/Parrot",
+      "AnimalModels/RubyAnimals/Pigeon"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-421.jpg",
+    "relative": "previews/sheet-421.jpg",
+    "label": "Primary view - Polar Bear | Pony | QILIN",
+    "items": [
+      "AnimalModels/RubyAnimals/Polar Bear",
+      "AnimalModels/RubyAnimals/Pony",
+      "AnimalModels/RubyAnimals/QILIN"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-424.jpg",
+    "relative": "previews/sheet-424.jpg",
+    "label": "Primary view - QUETZALCOATLUS | ROC | SABER_TOOTHED_TIGER",
+    "items": [
+      "AnimalModels/RubyAnimals/QUETZALCOATLUS",
+      "AnimalModels/RubyAnimals/ROC",
+      "AnimalModels/RubyAnimals/SABER_TOOTHED_TIGER"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-427.jpg",
+    "relative": "previews/sheet-427.jpg",
+    "label": "Primary view - SIMURGH | SPHINX | STEGOSAURUS",
+    "items": [
+      "AnimalModels/RubyAnimals/SIMURGH",
+      "AnimalModels/RubyAnimals/SPHINX",
+      "AnimalModels/RubyAnimals/STEGOSAURUS"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-430.jpg",
+    "relative": "previews/sheet-430.jpg",
+    "label": "Primary view - STYMPHALIANBIRD | Seal | Shark",
+    "items": [
+      "AnimalModels/RubyAnimals/STYMPHALIANBIRD",
+      "AnimalModels/RubyAnimals/Seal",
+      "AnimalModels/RubyAnimals/Shark"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-433.jpg",
+    "relative": "previews/sheet-433.jpg",
+    "label": "Primary view - Snail | Snake | Spinosaurus",
+    "items": [
+      "AnimalModels/RubyAnimals/Snail",
+      "AnimalModels/RubyAnimals/Snake",
+      "AnimalModels/RubyAnimals/Spinosaurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-436.jpg",
+    "relative": "previews/sheet-436.jpg",
+    "label": "Primary view - Swordfish | T-Rex | THUNDERBIRD",
+    "items": [
+      "AnimalModels/RubyAnimals/Swordfish",
+      "AnimalModels/RubyAnimals/T-Rex",
+      "AnimalModels/RubyAnimals/THUNDERBIRD"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-439.jpg",
+    "relative": "previews/sheet-439.jpg",
+    "label": "Primary view - Tiger | Triceratops | Triple Cobra",
+    "items": [
+      "AnimalModels/RubyAnimals/Tiger",
+      "AnimalModels/RubyAnimals/Triceratops",
+      "AnimalModels/RubyAnimals/Triple Cobra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-442.jpg",
+    "relative": "previews/sheet-442.jpg",
+    "label": "Primary view - Turtle | Unicorn | Velicoraptor",
+    "items": [
+      "AnimalModels/RubyAnimals/Turtle",
+      "AnimalModels/RubyAnimals/Unicorn",
+      "AnimalModels/RubyAnimals/Velicoraptor"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-445.jpg",
+    "relative": "previews/sheet-445.jpg",
+    "label": "Primary view - WINGED_IMP | WYVERN | Whale",
+    "items": [
+      "AnimalModels/RubyAnimals/WINGED_IMP",
+      "AnimalModels/RubyAnimals/WYVERN",
+      "AnimalModels/RubyAnimals/Whale"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/sheet-448.jpg",
+    "relative": "previews/sheet-448.jpg",
+    "label": "Primary view - Wolf | YI_QI | Zebra",
+    "items": [
+      "AnimalModels/RubyAnimals/Wolf",
+      "AnimalModels/RubyAnimals/YI_QI",
+      "AnimalModels/RubyAnimals/Zebra"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-001.jpg",
+    "relative": "previews/alternate-001.jpg",
+    "label": "Alternate view - ARCHAEOPTERYX | ARGENTAVIS | AZHDARCHID",
+    "items": [
+      "AnimalModels/BaseAnimals/ARCHAEOPTERYX",
+      "AnimalModels/BaseAnimals/ARGENTAVIS",
+      "AnimalModels/BaseAnimals/AZHDARCHID"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-004.jpg",
+    "relative": "previews/alternate-004.jpg",
+    "label": "Alternate view - Ankylosaurus | Bat | Bear",
+    "items": [
+      "AnimalModels/BaseAnimals/Ankylosaurus",
+      "AnimalModels/BaseAnimals/Bat",
+      "AnimalModels/BaseAnimals/Bear"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-007.jpg",
+    "relative": "previews/alternate-007.jpg",
+    "label": "Alternate view - Brachiosaurus | Bull | Bunny",
+    "items": [
+      "AnimalModels/BaseAnimals/Brachiosaurus",
+      "AnimalModels/BaseAnimals/Bull",
+      "AnimalModels/BaseAnimals/Bunny"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-010.jpg",
+    "relative": "previews/alternate-010.jpg",
+    "label": "Alternate view - CALADRIUS | CERBERUS | CHIREMA",
+    "items": [
+      "AnimalModels/BaseAnimals/CALADRIUS",
+      "AnimalModels/BaseAnimals/CERBERUS",
+      "AnimalModels/BaseAnimals/CHIREMA"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-013.jpg",
+    "relative": "previews/alternate-013.jpg",
+    "label": "Alternate view - CLASSICDRAGON | COCKATRICE | Capybara",
+    "items": [
+      "AnimalModels/BaseAnimals/CLASSICDRAGON",
+      "AnimalModels/BaseAnimals/COCKATRICE",
+      "AnimalModels/BaseAnimals/Capybara"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-016.jpg",
+    "relative": "previews/alternate-016.jpg",
+    "label": "Alternate view - Cat | Chicken | Cobra",
+    "items": [
+      "AnimalModels/BaseAnimals/Cat",
+      "AnimalModels/BaseAnimals/Chicken",
+      "AnimalModels/BaseAnimals/Cobra"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-019.jpg",
+    "relative": "previews/alternate-019.jpg",
+    "label": "Alternate view - Cow | Crab | Crocodile",
+    "items": [
+      "AnimalModels/BaseAnimals/Cow",
+      "AnimalModels/BaseAnimals/Crab",
+      "AnimalModels/BaseAnimals/Crocodile"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-022.jpg",
+    "relative": "previews/alternate-022.jpg",
+    "label": "Alternate view - DIMETRODON | Dog | Elephant",
+    "items": [
+      "AnimalModels/BaseAnimals/DIMETRODON",
+      "AnimalModels/BaseAnimals/Dog",
+      "AnimalModels/BaseAnimals/Elephant"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-025.jpg",
+    "relative": "previews/alternate-025.jpg",
+    "label": "Alternate view - FIREPHOENIX | Frog | GARGOYLE_BAT",
+    "items": [
+      "AnimalModels/BaseAnimals/FIREPHOENIX",
+      "AnimalModels/BaseAnimals/Frog",
+      "AnimalModels/BaseAnimals/GARGOYLE_BAT"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-028.jpg",
+    "relative": "previews/alternate-028.jpg",
+    "label": "Alternate view - GARUDA | GRIFFIN | Gallimimus",
+    "items": [
+      "AnimalModels/BaseAnimals/GARUDA",
+      "AnimalModels/BaseAnimals/GRIFFIN",
+      "AnimalModels/BaseAnimals/Gallimimus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-031.jpg",
+    "relative": "previews/alternate-031.jpg",
+    "label": "Alternate view - Giraffe | Goat | Goldfish",
+    "items": [
+      "AnimalModels/BaseAnimals/Giraffe",
+      "AnimalModels/BaseAnimals/Goat",
+      "AnimalModels/BaseAnimals/Goldfish"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-034.jpg",
+    "relative": "previews/alternate-034.jpg",
+    "label": "Alternate view - Gorilla | Guinea Pig | HYDRA",
+    "items": [
+      "AnimalModels/BaseAnimals/Gorilla",
+      "AnimalModels/BaseAnimals/Guinea Pig",
+      "AnimalModels/BaseAnimals/HYDRA"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-037.jpg",
+    "relative": "previews/alternate-037.jpg",
+    "label": "Alternate view - Hamster | Horse | Jellyfish",
+    "items": [
+      "AnimalModels/BaseAnimals/Hamster",
+      "AnimalModels/BaseAnimals/Horse",
+      "AnimalModels/BaseAnimals/Jellyfish"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-040.jpg",
+    "relative": "previews/alternate-040.jpg",
+    "label": "Alternate view - Kangaroo | Kitsune | Koala",
+    "items": [
+      "AnimalModels/BaseAnimals/Kangaroo",
+      "AnimalModels/BaseAnimals/Kitsune",
+      "AnimalModels/BaseAnimals/Koala"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-043.jpg",
+    "relative": "previews/alternate-043.jpg",
+    "label": "Alternate view - Lion | Lizard | Llama",
+    "items": [
+      "AnimalModels/BaseAnimals/Lion",
+      "AnimalModels/BaseAnimals/Lizard",
+      "AnimalModels/BaseAnimals/Llama"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-046.jpg",
+    "relative": "previews/alternate-046.jpg",
+    "label": "Alternate view - MANTICORE | MICRORAPTOR | MINOTAUR",
+    "items": [
+      "AnimalModels/BaseAnimals/MANTICORE",
+      "AnimalModels/BaseAnimals/MICRORAPTOR",
+      "AnimalModels/BaseAnimals/MINOTAUR"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-049.jpg",
+    "relative": "previews/alternate-049.jpg",
+    "label": "Alternate view - MOTHMAN | Mammoth | Mosasaurus",
+    "items": [
+      "AnimalModels/BaseAnimals/MOTHMAN",
+      "AnimalModels/BaseAnimals/Mammoth",
+      "AnimalModels/BaseAnimals/Mosasaurus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-052.jpg",
+    "relative": "previews/alternate-052.jpg",
+    "label": "Alternate view - Ostrich | Owl | PEGASUS",
+    "items": [
+      "AnimalModels/BaseAnimals/Ostrich",
+      "AnimalModels/BaseAnimals/Owl",
+      "AnimalModels/BaseAnimals/PEGASUS"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-055.jpg",
+    "relative": "previews/alternate-055.jpg",
+    "label": "Alternate view - PREHISTORIC_DRAGONFLY | PREHISTORIC_MOTH | PTERANODON",
+    "items": [
+      "AnimalModels/BaseAnimals/PREHISTORIC_DRAGONFLY",
+      "AnimalModels/BaseAnimals/PREHISTORIC_MOTH",
+      "AnimalModels/BaseAnimals/PTERANODON"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-058.jpg",
+    "relative": "previews/alternate-058.jpg",
+    "label": "Alternate view - PTERODACTYL | Parrot | Pigeon",
+    "items": [
+      "AnimalModels/BaseAnimals/PTERODACTYL",
+      "AnimalModels/BaseAnimals/Parrot",
+      "AnimalModels/BaseAnimals/Pigeon"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-061.jpg",
+    "relative": "previews/alternate-061.jpg",
+    "label": "Alternate view - Polar Bear | Pony | QILIN",
+    "items": [
+      "AnimalModels/BaseAnimals/Polar Bear",
+      "AnimalModels/BaseAnimals/Pony",
+      "AnimalModels/BaseAnimals/QILIN"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-064.jpg",
+    "relative": "previews/alternate-064.jpg",
+    "label": "Alternate view - QUETZALCOATLUS | ROC | SABER_TOOTHED_TIGER",
+    "items": [
+      "AnimalModels/BaseAnimals/QUETZALCOATLUS",
+      "AnimalModels/BaseAnimals/ROC",
+      "AnimalModels/BaseAnimals/SABER_TOOTHED_TIGER"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-067.jpg",
+    "relative": "previews/alternate-067.jpg",
+    "label": "Alternate view - SIMURGH | SPHINX | STEGOSAURUS",
+    "items": [
+      "AnimalModels/BaseAnimals/SIMURGH",
+      "AnimalModels/BaseAnimals/SPHINX",
+      "AnimalModels/BaseAnimals/STEGOSAURUS"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-070.jpg",
+    "relative": "previews/alternate-070.jpg",
+    "label": "Alternate view - STYMPHALIANBIRD | Seal | Shark",
+    "items": [
+      "AnimalModels/BaseAnimals/STYMPHALIANBIRD",
+      "AnimalModels/BaseAnimals/Seal",
+      "AnimalModels/BaseAnimals/Shark"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-073.jpg",
+    "relative": "previews/alternate-073.jpg",
+    "label": "Alternate view - Snail | Snake | Spinosaurus",
+    "items": [
+      "AnimalModels/BaseAnimals/Snail",
+      "AnimalModels/BaseAnimals/Snake",
+      "AnimalModels/BaseAnimals/Spinosaurus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-076.jpg",
+    "relative": "previews/alternate-076.jpg",
+    "label": "Alternate view - Swordfish | T-Rex | THUNDERBIRD",
+    "items": [
+      "AnimalModels/BaseAnimals/Swordfish",
+      "AnimalModels/BaseAnimals/T-Rex",
+      "AnimalModels/BaseAnimals/THUNDERBIRD"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-079.jpg",
+    "relative": "previews/alternate-079.jpg",
+    "label": "Alternate view - Tiger | Triceratops | Triple Cobra",
+    "items": [
+      "AnimalModels/BaseAnimals/Tiger",
+      "AnimalModels/BaseAnimals/Triceratops",
+      "AnimalModels/BaseAnimals/Triple Cobra"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-082.jpg",
+    "relative": "previews/alternate-082.jpg",
+    "label": "Alternate view - Turtle | Unicorn | Velicoraptor",
+    "items": [
+      "AnimalModels/BaseAnimals/Turtle",
+      "AnimalModels/BaseAnimals/Unicorn",
+      "AnimalModels/BaseAnimals/Velicoraptor"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-085.jpg",
+    "relative": "previews/alternate-085.jpg",
+    "label": "Alternate view - WINGED_IMP | WYVERN | Whale",
+    "items": [
+      "AnimalModels/BaseAnimals/WINGED_IMP",
+      "AnimalModels/BaseAnimals/WYVERN",
+      "AnimalModels/BaseAnimals/Whale"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/animal-pack-3/previews/alternate-088.jpg",
+    "relative": "previews/alternate-088.jpg",
+    "label": "Alternate view - Wolf | YI_QI | Zebra",
+    "items": [
+      "AnimalModels/BaseAnimals/Wolf",
+      "AnimalModels/BaseAnimals/YI_QI",
+      "AnimalModels/BaseAnimals/Zebra"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  }
+]

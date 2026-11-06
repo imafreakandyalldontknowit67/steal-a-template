@@ -1,0 +1,15 @@
+{
+  "classes": {
+    "Attachment": 20,
+    "Folder": 1,
+    "MeshPart": 18,
+    "ParticleEmitter": 10,
+    "Trail": 10
+  },
+  "roots": [
+    "Pickaxes"
+  ],
+  "warnings": [],
+  "nodeCount": 59,
+  "fullHierarchy": "inventory-full.json.gz"
+}

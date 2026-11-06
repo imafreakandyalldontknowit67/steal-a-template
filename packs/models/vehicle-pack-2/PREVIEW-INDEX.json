@@ -1,0 +1,1136 @@
+[
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/cover.jpg",
+    "relative": "previews/cover.jpg",
+    "label": "Cover - Alcyone | Cyrene | Blitzkrieg",
+    "items": [
+      "VehiclePack/Cars/Citizen/Alcyone",
+      "VehiclePack/Boats/Cyrene",
+      "VehiclePack/Planes/Blitzkrieg"
+    ],
+    "alternate": false,
+    "cover": true,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-001.jpg",
+    "relative": "previews/sheet-001.jpg",
+    "label": "Primary view - Cyrene | Elpis | Eurybia",
+    "items": [
+      "VehiclePack/Boats/Cyrene",
+      "VehiclePack/Boats/Elpis",
+      "VehiclePack/Boats/Eurybia"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-004.jpg",
+    "relative": "previews/sheet-004.jpg",
+    "label": "Primary view - Hapi | Lesath | Limos",
+    "items": [
+      "VehiclePack/Boats/Hapi",
+      "VehiclePack/Boats/Lesath",
+      "VehiclePack/Boats/Limos"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-007.jpg",
+    "relative": "previews/sheet-007.jpg",
+    "label": "Primary view - Longshen | Oceanus | Alcyone",
+    "items": [
+      "VehiclePack/Boats/Longshen",
+      "VehiclePack/Boats/Oceanus",
+      "VehiclePack/Cars/Citizen/Alcyone"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-010.jpg",
+    "relative": "previews/sheet-010.jpg",
+    "label": "Primary view - Aniara | Anteros | Aphrodite",
+    "items": [
+      "VehiclePack/Cars/Citizen/Aniara",
+      "VehiclePack/Cars/Citizen/Anteros",
+      "VehiclePack/Cars/Citizen/Aphrodite"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-013.jpg",
+    "relative": "previews/sheet-013.jpg",
+    "label": "Primary view - Ascella | Azura | Belenus",
+    "items": [
+      "VehiclePack/Cars/Citizen/Ascella",
+      "VehiclePack/Cars/Citizen/Azura",
+      "VehiclePack/Cars/Citizen/Belenus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-016.jpg",
+    "relative": "previews/sheet-016.jpg",
+    "label": "Primary view - Boar | Chandra | Clymene",
+    "items": [
+      "VehiclePack/Cars/Citizen/Boar",
+      "VehiclePack/Cars/Citizen/Chandra",
+      "VehiclePack/Cars/Citizen/Clymene"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-019.jpg",
+    "relative": "previews/sheet-019.jpg",
+    "label": "Primary view - Coggia | Cyclope | Echo",
+    "items": [
+      "VehiclePack/Cars/Citizen/Coggia",
+      "VehiclePack/Cars/Citizen/Cyclope",
+      "VehiclePack/Cars/Citizen/Echo"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-022.jpg",
+    "relative": "previews/sheet-022.jpg",
+    "label": "Primary view - Endeis | Eos | Erebus",
+    "items": [
+      "VehiclePack/Cars/Citizen/Endeis",
+      "VehiclePack/Cars/Citizen/Eos",
+      "VehiclePack/Cars/Citizen/Erebus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-025.jpg",
+    "relative": "previews/sheet-025.jpg",
+    "label": "Primary view - Faunus | GT8 | Gaia",
+    "items": [
+      "VehiclePack/Cars/Citizen/Faunus",
+      "VehiclePack/Cars/Citizen/GT8",
+      "VehiclePack/Cars/Citizen/Gaia"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-028.jpg",
+    "relative": "previews/sheet-028.jpg",
+    "label": "Primary view - Hesat | Hyas | Hyperion",
+    "items": [
+      "VehiclePack/Cars/Citizen/Hesat",
+      "VehiclePack/Cars/Citizen/Hyas",
+      "VehiclePack/Cars/Citizen/Hyperion"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-031.jpg",
+    "relative": "previews/sheet-031.jpg",
+    "label": "Primary view - Iapetus | Ichor | Interamnia",
+    "items": [
+      "VehiclePack/Cars/Citizen/Iapetus",
+      "VehiclePack/Cars/Citizen/Ichor",
+      "VehiclePack/Cars/Citizen/Interamnia"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-034.jpg",
+    "relative": "previews/sheet-034.jpg",
+    "label": "Primary view - Io | Itonda | Keres",
+    "items": [
+      "VehiclePack/Cars/Citizen/Io",
+      "VehiclePack/Cars/Citizen/Itonda",
+      "VehiclePack/Cars/Citizen/Keres"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-037.jpg",
+    "relative": "previews/sheet-037.jpg",
+    "label": "Primary view - Laelaps | Milan | Nosaxa",
+    "items": [
+      "VehiclePack/Cars/Citizen/Laelaps",
+      "VehiclePack/Cars/Citizen/Milan",
+      "VehiclePack/Cars/Citizen/Nosaxa"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-040.jpg",
+    "relative": "previews/sheet-040.jpg",
+    "label": "Primary view - Oniros | Peleus | Raksha",
+    "items": [
+      "VehiclePack/Cars/Citizen/Oniros",
+      "VehiclePack/Cars/Citizen/Peleus",
+      "VehiclePack/Cars/Citizen/Raksha"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-043.jpg",
+    "relative": "previews/sheet-043.jpg",
+    "label": "Primary view - Salacia | Sapphire | Stallion",
+    "items": [
+      "VehiclePack/Cars/Citizen/Salacia",
+      "VehiclePack/Cars/Citizen/Sapphire",
+      "VehiclePack/Cars/Citizen/Stallion"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-046.jpg",
+    "relative": "previews/sheet-046.jpg",
+    "label": "Primary view - Thisbe | Tiny | Tlaloc",
+    "items": [
+      "VehiclePack/Cars/Citizen/Thisbe",
+      "VehiclePack/Cars/Citizen/Tiny",
+      "VehiclePack/Cars/Citizen/Tlaloc"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-049.jpg",
+    "relative": "previews/sheet-049.jpg",
+    "label": "Primary view - Tsukasa | Yukimura | Yuzuki",
+    "items": [
+      "VehiclePack/Cars/Citizen/Tsukasa",
+      "VehiclePack/Cars/Citizen/Yukimura",
+      "VehiclePack/Cars/Citizen/Yuzuki"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-052.jpg",
+    "relative": "previews/sheet-052.jpg",
+    "label": "Primary view - Cupid | Dionysus | Elara",
+    "items": [
+      "VehiclePack/Cars/Countryside/Cupid",
+      "VehiclePack/Cars/Countryside/Dionysus",
+      "VehiclePack/Cars/Countryside/Elara"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-055.jpg",
+    "relative": "previews/sheet-055.jpg",
+    "label": "Primary view - Flora-8 | Florence-3122 | Foreword",
+    "items": [
+      "VehiclePack/Cars/Countryside/Flora-8",
+      "VehiclePack/Cars/Countryside/Florence-3122",
+      "VehiclePack/Cars/Countryside/Foreword"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-058.jpg",
+    "relative": "previews/sheet-058.jpg",
+    "label": "Primary view - Glauke-288 | Gliese-393 | Helene",
+    "items": [
+      "VehiclePack/Cars/Countryside/Glauke-288",
+      "VehiclePack/Cars/Countryside/Gliese-393",
+      "VehiclePack/Cars/Countryside/Helene"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-061.jpg",
+    "relative": "previews/sheet-061.jpg",
+    "label": "Primary view - Horae | Kalliope | Merope",
+    "items": [
+      "VehiclePack/Cars/Countryside/Horae",
+      "VehiclePack/Cars/Countryside/Kalliope",
+      "VehiclePack/Cars/Countryside/Merope"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-064.jpg",
+    "relative": "previews/sheet-064.jpg",
+    "label": "Primary view - Mimas | Momus | Moros",
+    "items": [
+      "VehiclePack/Cars/Countryside/Mimas",
+      "VehiclePack/Cars/Countryside/Momus",
+      "VehiclePack/Cars/Countryside/Moros"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-067.jpg",
+    "relative": "previews/sheet-067.jpg",
+    "label": "Primary view - Nephele | Ocipete | Otomi",
+    "items": [
+      "VehiclePack/Cars/Countryside/Nephele",
+      "VehiclePack/Cars/Countryside/Ocipete",
+      "VehiclePack/Cars/Countryside/Otomi"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-070.jpg",
+    "relative": "previews/sheet-070.jpg",
+    "label": "Primary view - Pheme | Quetzal | Rogelia",
+    "items": [
+      "VehiclePack/Cars/Countryside/Pheme",
+      "VehiclePack/Cars/Countryside/Quetzal",
+      "VehiclePack/Cars/Countryside/Rogelia"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-073.jpg",
+    "relative": "previews/sheet-073.jpg",
+    "label": "Primary view - Roxane-317 | Scamander | Varuna",
+    "items": [
+      "VehiclePack/Cars/Countryside/Roxane-317",
+      "VehiclePack/Cars/Countryside/Scamander",
+      "VehiclePack/Cars/Countryside/Varuna"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-076.jpg",
+    "relative": "previews/sheet-076.jpg",
+    "label": "Primary view - Vortice | Weathered | Brigid",
+    "items": [
+      "VehiclePack/Cars/Countryside/Vortice",
+      "VehiclePack/Cars/Countryside/Weathered",
+      "VehiclePack/Cars/Utility/Brigid"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-079.jpg",
+    "relative": "previews/sheet-079.jpg",
+    "label": "Primary view - Diotima | Etelvinna | Limos",
+    "items": [
+      "VehiclePack/Cars/Utility/Diotima",
+      "VehiclePack/Cars/Utility/Etelvinna",
+      "VehiclePack/Cars/Utility/Limos"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-082.jpg",
+    "relative": "previews/sheet-082.jpg",
+    "label": "Primary view - Marsyas | Minos | Nessus",
+    "items": [
+      "VehiclePack/Cars/Utility/Marsyas",
+      "VehiclePack/Cars/Utility/Minos",
+      "VehiclePack/Cars/Utility/Nessus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-085.jpg",
+    "relative": "previews/sheet-085.jpg",
+    "label": "Primary view - Quaoar | Stormfront | Talos",
+    "items": [
+      "VehiclePack/Cars/Utility/Quaoar",
+      "VehiclePack/Cars/Utility/Stormfront",
+      "VehiclePack/Cars/Utility/Talos"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-088.jpg",
+    "relative": "previews/sheet-088.jpg",
+    "label": "Primary view - Blitzkrieg | Hatysa | Osa-Mayor",
+    "items": [
+      "VehiclePack/Planes/Blitzkrieg",
+      "VehiclePack/Planes/Hatysa",
+      "VehiclePack/Planes/Osa-Mayor"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-091.jpg",
+    "relative": "previews/sheet-091.jpg",
+    "label": "Primary view - Wild-2 | Aether | Apollo",
+    "items": [
+      "VehiclePack/Planes/Wild-2",
+      "VehiclePack/Spaceships/Aether",
+      "VehiclePack/Spaceships/Apollo"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-094.jpg",
+    "relative": "previews/sheet-094.jpg",
+    "label": "Primary view - Athena | Centaur | Enceladus",
+    "items": [
+      "VehiclePack/Spaceships/Athena",
+      "VehiclePack/Spaceships/Centaur",
+      "VehiclePack/Spaceships/Enceladus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-097.jpg",
+    "relative": "previews/sheet-097.jpg",
+    "label": "Primary view - Hecate | Menoetius | Nempty",
+    "items": [
+      "VehiclePack/Spaceships/Hecate",
+      "VehiclePack/Spaceships/Menoetius",
+      "VehiclePack/Spaceships/Nempty"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-100.jpg",
+    "relative": "previews/sheet-100.jpg",
+    "label": "Primary view - Oneiroi | Priapus | Taurus",
+    "items": [
+      "VehiclePack/Spaceships/Oneiroi",
+      "VehiclePack/Spaceships/Priapus",
+      "VehiclePack/Spaceships/Taurus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/sheet-103.jpg",
+    "relative": "previews/sheet-103.jpg",
+    "label": "Primary view - Zetes | Zeus",
+    "items": [
+      "VehiclePack/Spaceships/Zetes",
+      "VehiclePack/Spaceships/Zeus"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-001.jpg",
+    "relative": "previews/alternate-001.jpg",
+    "label": "Alternate view - Cyrene | Elpis | Eurybia",
+    "items": [
+      "VehiclePack/Boats/Cyrene",
+      "VehiclePack/Boats/Elpis",
+      "VehiclePack/Boats/Eurybia"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-004.jpg",
+    "relative": "previews/alternate-004.jpg",
+    "label": "Alternate view - Hapi | Lesath | Limos",
+    "items": [
+      "VehiclePack/Boats/Hapi",
+      "VehiclePack/Boats/Lesath",
+      "VehiclePack/Boats/Limos"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-007.jpg",
+    "relative": "previews/alternate-007.jpg",
+    "label": "Alternate view - Longshen | Oceanus | Alcyone",
+    "items": [
+      "VehiclePack/Boats/Longshen",
+      "VehiclePack/Boats/Oceanus",
+      "VehiclePack/Cars/Citizen/Alcyone"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-010.jpg",
+    "relative": "previews/alternate-010.jpg",
+    "label": "Alternate view - Aniara | Anteros | Aphrodite",
+    "items": [
+      "VehiclePack/Cars/Citizen/Aniara",
+      "VehiclePack/Cars/Citizen/Anteros",
+      "VehiclePack/Cars/Citizen/Aphrodite"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-013.jpg",
+    "relative": "previews/alternate-013.jpg",
+    "label": "Alternate view - Ascella | Azura | Belenus",
+    "items": [
+      "VehiclePack/Cars/Citizen/Ascella",
+      "VehiclePack/Cars/Citizen/Azura",
+      "VehiclePack/Cars/Citizen/Belenus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-016.jpg",
+    "relative": "previews/alternate-016.jpg",
+    "label": "Alternate view - Boar | Chandra | Clymene",
+    "items": [
+      "VehiclePack/Cars/Citizen/Boar",
+      "VehiclePack/Cars/Citizen/Chandra",
+      "VehiclePack/Cars/Citizen/Clymene"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-019.jpg",
+    "relative": "previews/alternate-019.jpg",
+    "label": "Alternate view - Coggia | Cyclope | Echo",
+    "items": [
+      "VehiclePack/Cars/Citizen/Coggia",
+      "VehiclePack/Cars/Citizen/Cyclope",
+      "VehiclePack/Cars/Citizen/Echo"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-022.jpg",
+    "relative": "previews/alternate-022.jpg",
+    "label": "Alternate view - Endeis | Eos | Erebus",
+    "items": [
+      "VehiclePack/Cars/Citizen/Endeis",
+      "VehiclePack/Cars/Citizen/Eos",
+      "VehiclePack/Cars/Citizen/Erebus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-025.jpg",
+    "relative": "previews/alternate-025.jpg",
+    "label": "Alternate view - Faunus | GT8 | Gaia",
+    "items": [
+      "VehiclePack/Cars/Citizen/Faunus",
+      "VehiclePack/Cars/Citizen/GT8",
+      "VehiclePack/Cars/Citizen/Gaia"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-028.jpg",
+    "relative": "previews/alternate-028.jpg",
+    "label": "Alternate view - Hesat | Hyas | Hyperion",
+    "items": [
+      "VehiclePack/Cars/Citizen/Hesat",
+      "VehiclePack/Cars/Citizen/Hyas",
+      "VehiclePack/Cars/Citizen/Hyperion"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-031.jpg",
+    "relative": "previews/alternate-031.jpg",
+    "label": "Alternate view - Iapetus | Ichor | Interamnia",
+    "items": [
+      "VehiclePack/Cars/Citizen/Iapetus",
+      "VehiclePack/Cars/Citizen/Ichor",
+      "VehiclePack/Cars/Citizen/Interamnia"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-034.jpg",
+    "relative": "previews/alternate-034.jpg",
+    "label": "Alternate view - Io | Itonda | Keres",
+    "items": [
+      "VehiclePack/Cars/Citizen/Io",
+      "VehiclePack/Cars/Citizen/Itonda",
+      "VehiclePack/Cars/Citizen/Keres"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-037.jpg",
+    "relative": "previews/alternate-037.jpg",
+    "label": "Alternate view - Laelaps | Milan | Nosaxa",
+    "items": [
+      "VehiclePack/Cars/Citizen/Laelaps",
+      "VehiclePack/Cars/Citizen/Milan",
+      "VehiclePack/Cars/Citizen/Nosaxa"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-040.jpg",
+    "relative": "previews/alternate-040.jpg",
+    "label": "Alternate view - Oniros | Peleus | Raksha",
+    "items": [
+      "VehiclePack/Cars/Citizen/Oniros",
+      "VehiclePack/Cars/Citizen/Peleus",
+      "VehiclePack/Cars/Citizen/Raksha"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-043.jpg",
+    "relative": "previews/alternate-043.jpg",
+    "label": "Alternate view - Salacia | Sapphire | Stallion",
+    "items": [
+      "VehiclePack/Cars/Citizen/Salacia",
+      "VehiclePack/Cars/Citizen/Sapphire",
+      "VehiclePack/Cars/Citizen/Stallion"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-046.jpg",
+    "relative": "previews/alternate-046.jpg",
+    "label": "Alternate view - Thisbe | Tiny | Tlaloc",
+    "items": [
+      "VehiclePack/Cars/Citizen/Thisbe",
+      "VehiclePack/Cars/Citizen/Tiny",
+      "VehiclePack/Cars/Citizen/Tlaloc"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-049.jpg",
+    "relative": "previews/alternate-049.jpg",
+    "label": "Alternate view - Tsukasa | Yukimura | Yuzuki",
+    "items": [
+      "VehiclePack/Cars/Citizen/Tsukasa",
+      "VehiclePack/Cars/Citizen/Yukimura",
+      "VehiclePack/Cars/Citizen/Yuzuki"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-052.jpg",
+    "relative": "previews/alternate-052.jpg",
+    "label": "Alternate view - Cupid | Dionysus | Elara",
+    "items": [
+      "VehiclePack/Cars/Countryside/Cupid",
+      "VehiclePack/Cars/Countryside/Dionysus",
+      "VehiclePack/Cars/Countryside/Elara"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-055.jpg",
+    "relative": "previews/alternate-055.jpg",
+    "label": "Alternate view - Flora-8 | Florence-3122 | Foreword",
+    "items": [
+      "VehiclePack/Cars/Countryside/Flora-8",
+      "VehiclePack/Cars/Countryside/Florence-3122",
+      "VehiclePack/Cars/Countryside/Foreword"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-058.jpg",
+    "relative": "previews/alternate-058.jpg",
+    "label": "Alternate view - Glauke-288 | Gliese-393 | Helene",
+    "items": [
+      "VehiclePack/Cars/Countryside/Glauke-288",
+      "VehiclePack/Cars/Countryside/Gliese-393",
+      "VehiclePack/Cars/Countryside/Helene"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-061.jpg",
+    "relative": "previews/alternate-061.jpg",
+    "label": "Alternate view - Horae | Kalliope | Merope",
+    "items": [
+      "VehiclePack/Cars/Countryside/Horae",
+      "VehiclePack/Cars/Countryside/Kalliope",
+      "VehiclePack/Cars/Countryside/Merope"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-064.jpg",
+    "relative": "previews/alternate-064.jpg",
+    "label": "Alternate view - Mimas | Momus | Moros",
+    "items": [
+      "VehiclePack/Cars/Countryside/Mimas",
+      "VehiclePack/Cars/Countryside/Momus",
+      "VehiclePack/Cars/Countryside/Moros"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-067.jpg",
+    "relative": "previews/alternate-067.jpg",
+    "label": "Alternate view - Nephele | Ocipete | Otomi",
+    "items": [
+      "VehiclePack/Cars/Countryside/Nephele",
+      "VehiclePack/Cars/Countryside/Ocipete",
+      "VehiclePack/Cars/Countryside/Otomi"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-070.jpg",
+    "relative": "previews/alternate-070.jpg",
+    "label": "Alternate view - Pheme | Quetzal | Rogelia",
+    "items": [
+      "VehiclePack/Cars/Countryside/Pheme",
+      "VehiclePack/Cars/Countryside/Quetzal",
+      "VehiclePack/Cars/Countryside/Rogelia"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-073.jpg",
+    "relative": "previews/alternate-073.jpg",
+    "label": "Alternate view - Roxane-317 | Scamander | Varuna",
+    "items": [
+      "VehiclePack/Cars/Countryside/Roxane-317",
+      "VehiclePack/Cars/Countryside/Scamander",
+      "VehiclePack/Cars/Countryside/Varuna"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-076.jpg",
+    "relative": "previews/alternate-076.jpg",
+    "label": "Alternate view - Vortice | Weathered | Brigid",
+    "items": [
+      "VehiclePack/Cars/Countryside/Vortice",
+      "VehiclePack/Cars/Countryside/Weathered",
+      "VehiclePack/Cars/Utility/Brigid"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-079.jpg",
+    "relative": "previews/alternate-079.jpg",
+    "label": "Alternate view - Diotima | Etelvinna | Limos",
+    "items": [
+      "VehiclePack/Cars/Utility/Diotima",
+      "VehiclePack/Cars/Utility/Etelvinna",
+      "VehiclePack/Cars/Utility/Limos"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-082.jpg",
+    "relative": "previews/alternate-082.jpg",
+    "label": "Alternate view - Marsyas | Minos | Nessus",
+    "items": [
+      "VehiclePack/Cars/Utility/Marsyas",
+      "VehiclePack/Cars/Utility/Minos",
+      "VehiclePack/Cars/Utility/Nessus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-085.jpg",
+    "relative": "previews/alternate-085.jpg",
+    "label": "Alternate view - Quaoar | Stormfront | Talos",
+    "items": [
+      "VehiclePack/Cars/Utility/Quaoar",
+      "VehiclePack/Cars/Utility/Stormfront",
+      "VehiclePack/Cars/Utility/Talos"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-088.jpg",
+    "relative": "previews/alternate-088.jpg",
+    "label": "Alternate view - Blitzkrieg | Hatysa | Osa-Mayor",
+    "items": [
+      "VehiclePack/Planes/Blitzkrieg",
+      "VehiclePack/Planes/Hatysa",
+      "VehiclePack/Planes/Osa-Mayor"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-091.jpg",
+    "relative": "previews/alternate-091.jpg",
+    "label": "Alternate view - Wild-2 | Aether | Apollo",
+    "items": [
+      "VehiclePack/Planes/Wild-2",
+      "VehiclePack/Spaceships/Aether",
+      "VehiclePack/Spaceships/Apollo"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-094.jpg",
+    "relative": "previews/alternate-094.jpg",
+    "label": "Alternate view - Athena | Centaur | Enceladus",
+    "items": [
+      "VehiclePack/Spaceships/Athena",
+      "VehiclePack/Spaceships/Centaur",
+      "VehiclePack/Spaceships/Enceladus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-097.jpg",
+    "relative": "previews/alternate-097.jpg",
+    "label": "Alternate view - Hecate | Menoetius | Nempty",
+    "items": [
+      "VehiclePack/Spaceships/Hecate",
+      "VehiclePack/Spaceships/Menoetius",
+      "VehiclePack/Spaceships/Nempty"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-100.jpg",
+    "relative": "previews/alternate-100.jpg",
+    "label": "Alternate view - Oneiroi | Priapus | Taurus",
+    "items": [
+      "VehiclePack/Spaceships/Oneiroi",
+      "VehiclePack/Spaceships/Priapus",
+      "VehiclePack/Spaceships/Taurus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/vehicle-pack-2/previews/alternate-103.jpg",
+    "relative": "previews/alternate-103.jpg",
+    "label": "Alternate view - Zetes | Zeus",
+    "items": [
+      "VehiclePack/Spaceships/Zetes",
+      "VehiclePack/Spaceships/Zeus"
+    ],
+    "alternate": true,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  }
+]

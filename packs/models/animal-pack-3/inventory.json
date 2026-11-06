@@ -1,0 +1,21 @@
+{
+  "classes": {
+    "AnimationController": 450,
+    "Animator": 449,
+    "Attachment": 360,
+    "Bone": 10304,
+    "CFrameValue": 37257,
+    "Folder": 451,
+    "MeshPart": 450,
+    "Model": 455,
+    "ObjectValue": 449,
+    "ParticleEmitter": 990,
+    "SurfaceAppearance": 449
+  },
+  "roots": [
+    "AnimalModels"
+  ],
+  "warnings": [],
+  "nodeCount": 52064,
+  "fullHierarchy": "inventory-full.json.gz"
+}

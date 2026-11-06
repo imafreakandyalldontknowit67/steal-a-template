@@ -1,0 +1,270 @@
+[
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/cover.jpg",
+    "relative": "previews/cover.jpg",
+    "label": "Cover - 17: Galaxy Pickaxe | 12: Demon Pickaxe | 10: Rainbow Pickaxe",
+    "items": [
+      "Pickaxes/17: Galaxy Pickaxe",
+      "Pickaxes/12: Demon Pickaxe",
+      "Pickaxes/10: Rainbow Pickaxe"
+    ],
+    "alternate": false,
+    "cover": true,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-001.jpg",
+    "relative": "previews/item-001.jpg",
+    "label": "Primary view - 10: Rainbow Pickaxe",
+    "items": [
+      "Pickaxes/10: Rainbow Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-002.jpg",
+    "relative": "previews/item-002.jpg",
+    "label": "Primary view - 11: Crystal Pickaxe",
+    "items": [
+      "Pickaxes/11: Crystal Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-003.jpg",
+    "relative": "previews/item-003.jpg",
+    "label": "Primary view - 12: Demon Pickaxe",
+    "items": [
+      "Pickaxes/12: Demon Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-004.jpg",
+    "relative": "previews/item-004.jpg",
+    "label": "Primary view - 13: Hacker Pickaxe",
+    "items": [
+      "Pickaxes/13: Hacker Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-005.jpg",
+    "relative": "previews/item-005.jpg",
+    "label": "Primary view - 14: Ufo Pickaxe",
+    "items": [
+      "Pickaxes/14: Ufo Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-006.jpg",
+    "relative": "previews/item-006.jpg",
+    "label": "Primary view - 15: Secret Pickaxe",
+    "items": [
+      "Pickaxes/15: Secret Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-007.jpg",
+    "relative": "previews/item-007.jpg",
+    "label": "Primary view - 16: Cool Pickaxe",
+    "items": [
+      "Pickaxes/16: Cool Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-008.jpg",
+    "relative": "previews/item-008.jpg",
+    "label": "Primary view - 17: Galaxy Pickaxe",
+    "items": [
+      "Pickaxes/17: Galaxy Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-009.jpg",
+    "relative": "previews/item-009.jpg",
+    "label": "Primary view - 18: Celestial Pickaxe",
+    "items": [
+      "Pickaxes/18: Celestial Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-010.jpg",
+    "relative": "previews/item-010.jpg",
+    "label": "Primary view - 1: Wooden Pickaxe",
+    "items": [
+      "Pickaxes/1: Wooden Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-011.jpg",
+    "relative": "previews/item-011.jpg",
+    "label": "Primary view - 2: Stone Pickaxe",
+    "items": [
+      "Pickaxes/2: Stone Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-012.jpg",
+    "relative": "previews/item-012.jpg",
+    "label": "Primary view - 3: Iron Pickaxe",
+    "items": [
+      "Pickaxes/3: Iron Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-013.jpg",
+    "relative": "previews/item-013.jpg",
+    "label": "Primary view - 4: Golden Pickaxe",
+    "items": [
+      "Pickaxes/4: Golden Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-014.jpg",
+    "relative": "previews/item-014.jpg",
+    "label": "Primary view - 5: Diamond Pickaxe",
+    "items": [
+      "Pickaxes/5: Diamond Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-015.jpg",
+    "relative": "previews/item-015.jpg",
+    "label": "Primary view - 6: Strawberry Pickaxe",
+    "items": [
+      "Pickaxes/6: Strawberry Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-016.jpg",
+    "relative": "previews/item-016.jpg",
+    "label": "Primary view - 7: Cactus Pickaxe",
+    "items": [
+      "Pickaxes/7: Cactus Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-017.jpg",
+    "relative": "previews/item-017.jpg",
+    "label": "Primary view - 8: Lightning Pickaxe",
+    "items": [
+      "Pickaxes/8: Lightning Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/pickaxes-studs-2/previews/item-018.jpg",
+    "relative": "previews/item-018.jpg",
+    "label": "Primary view - 9: Candy Pickaxe",
+    "items": [
+      "Pickaxes/9: Candy Pickaxe"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  }
+]

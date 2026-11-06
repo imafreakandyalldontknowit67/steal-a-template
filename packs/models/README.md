@@ -14,6 +14,11 @@ Editable Roblox model collections with native downloads and real Studio screensh
 | [Stud Pack V1](stud-pack-v1/) | [1 screenshots](stud-pack-v1/#screenshot-gallery) | [StudPackV1.rbxm](stud-pack-v1/StudPackV1.rbxm?raw=1) | Draft; see pack verification and device limits |
 | [Stud Vehicles](stud-vehicles/) | [1 screenshots](stud-vehicles/#screenshot-gallery) | [StudVehicles.rbxm](stud-vehicles/StudVehicles.rbxm?raw=1) | Draft; see pack verification and device limits |
 | [Themed Karambits](themed-karambit-v1-3/) | [15 screenshots](themed-karambit-v1-3/GALLERY.md) | [Themed Karambit v1 (3).rbxm](themed-karambit-v1-3/Themed%20Karambit%20v1%20%283%29.rbxm?raw=1) | Visual preview; geometry captured; gameplay/collision unverified |
+| [Bat Tool Models](bat-tools/) | [10 screenshots](bat-tools/GALLERY.md) | [BatTools.rbxm](bat-tools/BatTools.rbxm?raw=1) | Static geometry captured; gameplay unverified |
+| [Vehicle Pack 2](vehicle-pack-2/) | [71 screenshots](vehicle-pack-2/GALLERY.md) | [VehiclePack.rbxm](vehicle-pack-2/VehiclePack.rbxm?raw=1) | Static geometry captured; gameplay unverified |
+| [Gym Model Collection](gym-models/) | [85 screenshots](gym-models/GALLERY.md) | [GymModels.rbxm](gym-models/GymModels.rbxm?raw=1) | Static geometry captured; gameplay unverified |
+| [Stud Pickaxes 2](pickaxes-studs-2/) | [19 screenshots](pickaxes-studs-2/GALLERY.md) | [PickaxePack_Studs_2.rbxm](pickaxes-studs-2/PickaxePack_Studs_2.rbxm?raw=1) | Static geometry captured; gameplay unverified |
+| [Animal Pack 3](animal-pack-3/) | [181 screenshots](animal-pack-3/GALLERY.md) | [AnimalPack3.rbxm](animal-pack-3/AnimalPack3.rbxm?raw=1) | Static geometry captured; gameplay unverified |
 
 ### Brainrot Models & Mutations
 
@@ -54,6 +59,26 @@ Editable Roblox model collections with native downloads and real Studio screensh
 ### Themed Karambits
 
 [![Themed Karambits](themed-karambit-v1-3/previews-v2/model-001.jpg)](themed-karambit-v1-3/)
+
+### Bat Tool Models
+
+[![Bat Tool Models](bat-tools/previews/cover.jpg)](bat-tools/)
+
+### Vehicle Pack 2
+
+[![Vehicle Pack 2](vehicle-pack-2/previews/cover.jpg)](vehicle-pack-2/)
+
+### Gym Model Collection
+
+[![Gym Model Collection](gym-models/previews/cover.jpg)](gym-models/)
+
+### Stud Pickaxes 2
+
+[![Stud Pickaxes 2](pickaxes-studs-2/previews/cover.jpg)](pickaxes-studs-2/)
+
+### Animal Pack 3
+
+[![Animal Pack 3](animal-pack-3/previews/cover.jpg)](animal-pack-3/)
 
 ## Install
 

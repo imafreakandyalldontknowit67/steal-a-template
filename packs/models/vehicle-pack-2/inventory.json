@@ -1,0 +1,13 @@
+{
+  "classes": {
+    "Folder": 8,
+    "MeshPart": 499,
+    "Model": 104
+  },
+  "roots": [
+    "VehiclePack"
+  ],
+  "warnings": [],
+  "nodeCount": 611,
+  "fullHierarchy": "inventory-full.json.gz"
+}

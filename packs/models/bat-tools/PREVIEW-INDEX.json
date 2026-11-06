@@ -1,0 +1,144 @@
+[
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/cover.jpg",
+    "relative": "previews/cover.jpg",
+    "label": "Cover - CandyBat | GalaxyBat | LavaBat",
+    "items": [
+      "Tools/CandyBat",
+      "Tools/GalaxyBat",
+      "Tools/LavaBat"
+    ],
+    "alternate": false,
+    "cover": true,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-001.jpg",
+    "relative": "previews/item-001.jpg",
+    "label": "Primary view - Bat",
+    "items": [
+      "Tools/Bat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-002.jpg",
+    "relative": "previews/item-002.jpg",
+    "label": "Primary view - BlossomBat",
+    "items": [
+      "Tools/BlossomBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-003.jpg",
+    "relative": "previews/item-003.jpg",
+    "label": "Primary view - CactusBat",
+    "items": [
+      "Tools/CactusBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-004.jpg",
+    "relative": "previews/item-004.jpg",
+    "label": "Primary view - CandyBat",
+    "items": [
+      "Tools/CandyBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-005.jpg",
+    "relative": "previews/item-005.jpg",
+    "label": "Primary view - FrostBat",
+    "items": [
+      "Tools/FrostBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-006.jpg",
+    "relative": "previews/item-006.jpg",
+    "label": "Primary view - GalaxyBat",
+    "items": [
+      "Tools/GalaxyBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-007.jpg",
+    "relative": "previews/item-007.jpg",
+    "label": "Primary view - LakeBat",
+    "items": [
+      "Tools/LakeBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-008.jpg",
+    "relative": "previews/item-008.jpg",
+    "label": "Primary view - LavaBat",
+    "items": [
+      "Tools/LavaBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  },
+  {
+    "path": "draft-packs/packs/models/bat-tools/previews/item-009.jpg",
+    "relative": "previews/item-009.jpg",
+    "label": "Primary view - TreeBat",
+    "items": [
+      "Tools/TreeBat"
+    ],
+    "alternate": false,
+    "cover": false,
+    "pixels": [
+      1631,
+      761
+    ]
+  }
+]

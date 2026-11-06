@@ -1,0 +1,43 @@
+{
+  "id": "bat-tools",
+  "name": "Bat Tool Models",
+  "category": "models",
+  "version": "0.1.0",
+  "status": "preview",
+  "approved": true,
+  "publicationReady": false,
+  "technicalReview": "static-capture-complete",
+  "sourceFile": "BatTools.rbxm",
+  "sourceSha256": "f91cadd1448f12c59381d32bab61908f097ded330e468cac5404027c0fb995ee",
+  "model": "BatTools.rbxm",
+  "sha256": "f91cadd1448f12c59381d32bab61908f097ded330e468cac5404027c0fb995ee",
+  "itemCount": 9,
+  "previews": [
+    "previews/cover.jpg",
+    "previews/item-001.jpg",
+    "previews/item-002.jpg",
+    "previews/item-003.jpg",
+    "previews/item-004.jpg",
+    "previews/item-005.jpg",
+    "previews/item-006.jpg",
+    "previews/item-007.jpg",
+    "previews/item-008.jpg",
+    "previews/item-009.jpg"
+  ],
+  "cover": "previews/cover.jpg",
+  "scripts": 0,
+  "installation": "ServerStorage master; selected entries to Workspace; individual bat Tools may be tested in StarterPack",
+  "permissionStatus": "Repository owner explicitly requested public distribution; independent original-creator terms not established; see CREDITS.md",
+  "limitations": [
+    "All delivered model/tool entries have a primary static capture. Alternate angles cover all 104 Vehicle Pack models, 90 BaseAnimals and 19 Normal cars; other finishes have primary views, not every possible angle.",
+    "Geometry-only previews: particles, beams and trails disabled on temporary clones, with independent normalization to a 10-stud largest visible bound, anchoring, orientation and lighting changes for framing. The delivered native model preserves original geometry, appearances, scale and effect instances. Screenshots are not common-scale comparisons or motion/effect demonstrations.",
+    "No source code executed. No Play, collisions, physics, equipping, device, gameplay or production-integration certification. PreloadAsync callbacks reported no failed resources during these captures; that does not guarantee destination-experience access or correct materials.",
+    "Original creator/third-party rights were not independently verified. The included MIT license has the limited scope documented in CREDITS.md."
+  ],
+  "studio": "Place2",
+  "captureMode": "Edit; no supplied scripts executed",
+  "materialVariants": {},
+  "missingMaterialDefinitions": {},
+  "originalInput": "BatTools.rbxm",
+  "distributionAuthorized": true
+}

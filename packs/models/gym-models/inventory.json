@@ -1,0 +1,17 @@
+{
+  "classes": {
+    "Attachment": 280,
+    "Beam": 125,
+    "Folder": 1,
+    "MeshPart": 250,
+    "Model": 10,
+    "ParticleEmitter": 80,
+    "SurfaceAppearance": 200
+  },
+  "roots": [
+    "GymModels"
+  ],
+  "warnings": [],
+  "nodeCount": 946,
+  "fullHierarchy": "inventory-full.json.gz"
+}
