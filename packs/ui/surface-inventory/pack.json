@@ -1,0 +1,49 @@
+{
+  "id": "surface-inventory",
+  "name": "Surface Inventory - Roblox Camera-relative SurfaceGui",
+  "category": "ui",
+  "version": "0.5.2",
+  "status": "tested-private-draft",
+  "description": "Editable 60-cell SurfaceGui inventory with 4px native scrollbar, animated bevel studs, and centered X-button hover/click motion. Draft; see verification caveats.",
+  "license": "MIT",
+  "files": {
+    "model": "SurfaceInventory.rbxm",
+    "demo": null,
+    "previews": [
+      "previews/hud.jpg",
+      "previews/inventory.jpg",
+      "previews/selected-slot.jpg",
+      "previews/opening-overshoot.jpg",
+      "previews/opening-stagger.jpg",
+      "previews/tilt-left.jpg",
+      "previews/tilt-right.jpg",
+      "previews/compact-portrait.jpg",
+      "previews/compact-landscape.jpg",
+      "previews/compact-scroll-bottom.jpg",
+      "previews/tablet.jpg",
+      "previews/backpack-hover.jpg",
+      "previews/slot-hover.jpg",
+      "previews/primary-hover.jpg",
+      "previews/secondary-hover.jpg",
+      "previews/desktop-scroll-bottom.jpg",
+      "previews/close-hover.jpg"
+    ],
+    "source": "src/SurfaceInventory.rbxmx"
+  },
+  "dependencies": [
+    {
+      "type": "image",
+      "id": "86135425235678",
+      "source": "assets/backpack-v2.png",
+      "access": "Loaded in the connected Studio account; cross-owner access not certified"
+    }
+  ],
+  "tags": [
+    "surfacegui",
+    "inventory",
+    "camera-relative",
+    "native-ui",
+    "local-demo"
+  ],
+  "verification": "VERIFICATION.md"
+}

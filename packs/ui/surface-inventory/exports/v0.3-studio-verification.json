@@ -1,0 +1,2745 @@
+{
+  "sourceVersion": "e4016f89c48860cd0da15d80364511aa2cc761c8f30ae886f24f3d1c9aef7e80",
+  "modelSha256": "e6395955257df9111cdba61939049404e5e315f8c55b7774b70c163ee00f07ce",
+  "studio": "Place1 / 433aee66-06bd-4b27-9923-176ea00995ec",
+  "method": "Actual Studio Client, final deserialized native UI plus byte-identical embedded scripts restored via supported editor; source-equivalent full device matrix.",
+  "motion": {
+    "sourceVersion": "e4016f89c48860cd0da15d80364511aa2cc761c8f30ae886f24f3d1c9aef7e80",
+    "startup": [
+      {
+        "rotation": 0,
+        "t": 3.300025127828121e-06,
+        "scale": 1
+      },
+      {
+        "rotation": -7.59205961227417,
+        "t": 0.08666810003342107,
+        "scale": 1
+      },
+      {
+        "rotation": -6.479875087738037,
+        "t": 0.1560278999968432,
+        "scale": 1
+      },
+      {
+        "rotation": -5.678285598754883,
+        "t": 0.2305089000146836,
+        "scale": 1
+      },
+      {
+        "rotation": -5.1550726890563965,
+        "t": 0.2926693999907002,
+        "scale": 1
+      },
+      {
+        "rotation": -4.837722301483154,
+        "t": 0.34845679998397827,
+        "scale": 1
+      },
+      {
+        "rotation": -4.338792324066162,
+        "t": 0.41473690001294017,
+        "scale": 1
+      },
+      {
+        "rotation": -4.042341232299805,
+        "t": 0.46551190002355725,
+        "scale": 1
+      },
+      {
+        "rotation": -3.648521900177002,
+        "t": 0.5314164999872446,
+        "scale": 1
+      },
+      {
+        "rotation": -3.2927262783050537,
+        "t": 0.5980994999990799,
+        "scale": 1
+      },
+      {
+        "rotation": -2.9721145629882812,
+        "t": 0.6645777000230737,
+        "scale": 1
+      },
+      {
+        "rotation": -2.751709461212158,
+        "t": 0.7148845000192523,
+        "scale": 1
+      },
+      {
+        "rotation": -2.4845011234283447,
+        "t": 0.7816252000047825,
+        "scale": 1
+      },
+      {
+        "rotation": -2.268547773361206,
+        "t": 0.8320635000127368,
+        "scale": 1
+      },
+      {
+        "rotation": -2.0749659538269043,
+        "t": 0.8978130000177771,
+        "scale": 1
+      },
+      {
+        "rotation": -1.9228434562683105,
+        "t": 0.9486281999852508,
+        "scale": 1
+      },
+      {
+        "rotation": -1.7365169525146484,
+        "t": 1.014360100030899,
+        "scale": 1
+      },
+      {
+        "rotation": -1.607062578201294,
+        "t": 1.0670010999892838,
+        "scale": 1
+      },
+      {
+        "rotation": -1.4494259357452393,
+        "t": 1.1314874999807216,
+        "scale": 1
+      },
+      {
+        "rotation": -1.3371409177780151,
+        "t": 1.1820053000119515,
+        "scale": 1
+      },
+      {
+        "rotation": -1.242601990699768,
+        "t": 1.2331007000175305,
+        "scale": 1
+      },
+      {
+        "rotation": -1.1498624086380005,
+        "t": 1.2832365999929607,
+        "scale": 1
+      },
+      {
+        "rotation": -1.035707712173462,
+        "t": 1.3490163999958895,
+        "scale": 1
+      },
+      {
+        "rotation": -0.936488687992096,
+        "t": 1.4179946000222117,
+        "scale": 1
+      },
+      {
+        "rotation": -0.8446385860443115,
+        "t": 1.4817399000166915,
+        "scale": 1
+      },
+      {
+        "rotation": -0.7838186025619507,
+        "t": 1.532026400032919,
+        "scale": 1
+      },
+      {
+        "rotation": -0.7075550556182861,
+        "t": 1.5977542999899015,
+        "scale": 1
+      },
+      {
+        "rotation": -0.6544917225837708,
+        "t": 1.6495399000123143,
+        "scale": 1
+      },
+      {
+        "rotation": -0.5902103185653687,
+        "t": 1.7144314000033773,
+        "scale": 1
+      },
+      {
+        "rotation": -0.5463966131210327,
+        "t": 1.764952400000766,
+        "scale": 1
+      },
+      {
+        "rotation": -0.49410203099250793,
+        "t": 1.8312638999777846,
+        "scale": 1
+      },
+      {
+        "rotation": -0.4568597078323364,
+        "t": 1.881549299985636,
+        "scale": 1
+      },
+      {
+        "rotation": -0.41270193457603455,
+        "t": 1.9473398000118323,
+        "scale": 1
+      },
+      {
+        "rotation": -0.3817380666732788,
+        "t": 1.997721299994737,
+        "scale": 1
+      },
+      {
+        "rotation": -0.3539103865623474,
+        "t": 2.0479678999981843,
+        "scale": 1
+      },
+      {
+        "rotation": -0.3274277448654175,
+        "t": 2.0983527000062168,
+        "scale": 1
+      },
+      {
+        "rotation": -0.29585057497024536,
+        "t": 2.1649426000076346,
+        "scale": 1
+      },
+      {
+        "rotation": -0.2667624056339264,
+        "t": 2.2308505999972112,
+        "scale": 1
+      },
+      {
+        "rotation": -0.2473168969154358,
+        "t": 2.281512500019744,
+        "scale": 1
+      },
+      {
+        "rotation": -0.2231624275445938,
+        "t": 2.348463000031188,
+        "scale": 1
+      },
+      {
+        "rotation": -0.2015903890132904,
+        "t": 2.4137183999991976,
+        "scale": 1
+      },
+      {
+        "rotation": -0.18643809854984283,
+        "t": 2.4647652999847196,
+        "scale": 1
+      },
+      {
+        "rotation": -0.17277316749095917,
+        "t": 2.5148193000350147,
+        "scale": 1
+      },
+      {
+        "rotation": -0.1558070182800293,
+        "t": 2.5814487999887206,
+        "scale": 1
+      },
+      {
+        "rotation": -0.14063605666160583,
+        "t": 2.6478351000114344,
+        "scale": 1
+      }
+    ],
+    "motion": [
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 0.0009944000048562884,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -82,
+        "y": -5,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 0.09972240001661703,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -83,
+        "y": -4,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 0.20313700003316626,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -84,
+        "y": -3,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 0.30144580005435273,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -84,
+        "y": -3,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 0.40022160002263263,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -85,
+        "y": -2,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 5.86716365814209,
+        "slotScale": 1.0586715936660767,
+        "t": 0.4999950000201352,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -86,
+        "y": -1,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.574854373931885,
+        "slotScale": 1.0757485628128052,
+        "t": 0.6007784000248648,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -86,
+        "y": -1,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.913300514221191,
+        "slotScale": 1.0791330337524414,
+        "t": 0.700237900018692,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -87,
+        "y": 0,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.982583522796631,
+        "slotScale": 1.0798258781433105,
+        "t": 0.8004780000192113,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -44,
+        "y": -43,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.996476650238037,
+        "slotScale": 1.0799647569656372,
+        "t": 0.9003740000189282,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -44,
+        "y": -43,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.999288558959961,
+        "slotScale": 1.0799928903579712,
+        "t": 1.0003320000250824,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -45,
+        "y": -42,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.999856472015381,
+        "slotScale": 1.0799986124038696,
+        "t": 1.1004469000035897,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -46,
+        "y": -41,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.999971389770508,
+        "slotScale": 1.0799996852874756,
+        "t": 1.2031525000347756,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -47,
+        "y": -40,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.999994277954102,
+        "slotScale": 1.0799999237060547,
+        "t": 1.3005277000484057,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -47,
+        "y": -40,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.999998569488525,
+        "slotScale": 1.0800000429153442,
+        "t": 1.3989879000000656,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -48,
+        "y": -39,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.999999523162842,
+        "slotScale": 1.0800000429153442,
+        "t": 1.4996380000375211,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -49,
+        "y": -38,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.61819589138031,
+        "slotScale": 1.0161819458007812,
+        "t": 1.6002750000334345,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -49,
+        "y": -38,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0.3271632194519043,
+        "slotScale": 1.0032715797424316,
+        "t": 1.7002469000290148,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -50,
+        "y": -37,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0.06543481349945068,
+        "slotScale": 1.0006543397903442,
+        "t": 1.8022505000117235,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -51,
+        "y": -36,
+        "primary": 1.0497002601623535,
+        "secondary": 1
+      },
+      {
+        "slot": 0.013402118347585201,
+        "slotScale": 1.000133991241455,
+        "t": 1.8995625000097789,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -51,
+        "y": -36,
+        "primary": 1.081745982170105,
+        "secondary": 1
+      },
+      {
+        "slot": 0.0026499417144805193,
+        "slotScale": 1.0000264644622803,
+        "t": 2.000866500020493,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -52,
+        "y": -35,
+        "primary": 1.0883679389953613,
+        "secondary": 1
+      },
+      {
+        "slot": 0.00054129958152771,
+        "slotScale": 1.0000053644180298,
+        "t": 2.1001836000359617,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -53,
+        "y": -34,
+        "primary": 1.0896666049957275,
+        "secondary": 1
+      },
+      {
+        "slot": 0.00010929489508271217,
+        "slotScale": 1.000001072883606,
+        "t": 2.2025160000193864,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -54,
+        "y": -33,
+        "primary": 1.0899326801300049,
+        "secondary": 1
+      },
+      {
+        "slot": 2.2027774321031757e-05,
+        "slotScale": 1.000000238418579,
+        "t": 2.300179300014861,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -54,
+        "y": -33,
+        "primary": 1.0899864435195923,
+        "secondary": 1
+      },
+      {
+        "slot": 4.432576133694965e-06,
+        "slotScale": 1,
+        "t": 2.400373500015121,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -55,
+        "y": -32,
+        "primary": 1.0899972915649414,
+        "secondary": 1
+      },
+      {
+        "slot": 8.889592209015973e-07,
+        "slotScale": 1,
+        "t": 2.5033725000103004,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -56,
+        "y": -31,
+        "primary": 1.0899994373321533,
+        "secondary": 1
+      },
+      {
+        "slot": 1.8053187034183793e-07,
+        "slotScale": 1,
+        "t": 2.6005612000008114,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -56,
+        "y": -31,
+        "primary": 1.0899999141693115,
+        "secondary": 1
+      },
+      {
+        "slot": 3.610167809142695e-08,
+        "slotScale": 1,
+        "t": 2.701324600027874,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -57,
+        "y": -30,
+        "primary": 1.090000033378601,
+        "secondary": 1
+      },
+      {
+        "slot": 7.270202218023769e-09,
+        "slotScale": 1,
+        "t": 2.8011804000125267,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -58,
+        "y": -29,
+        "primary": 1.090000033378601,
+        "secondary": 1
+      },
+      {
+        "slot": 1.493097645521857e-09,
+        "slotScale": 1,
+        "t": 2.900531100051012,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -58,
+        "y": -29,
+        "primary": 1.090000033378601,
+        "secondary": 1
+      },
+      {
+        "slot": 2.9807806223303146e-10,
+        "slotScale": 1,
+        "t": 3.0012799000251107,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -59,
+        "y": -28,
+        "primary": 1.090000033378601,
+        "secondary": 1
+      },
+      {
+        "slot": 6.072276015345324e-11,
+        "slotScale": 1,
+        "t": 3.1008513999986462,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -60,
+        "y": -27,
+        "primary": 1.0237663984298706,
+        "secondary": 1.0495400428771973
+      },
+      {
+        "slot": 1.2322762601990611e-11,
+        "slotScale": 1,
+        "t": 3.202390600054059,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -61,
+        "y": -26,
+        "primary": 1.004823088645935,
+        "secondary": 1.081789255142212
+      },
+      {
+        "slot": 2.468513457878907e-12,
+        "slotScale": 1,
+        "t": 3.300426200032234,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -61,
+        "y": -26,
+        "primary": 1.000966191291809,
+        "secondary": 1.0883551836013794
+      },
+      {
+        "slot": 5.061666146985444e-13,
+        "slotScale": 1,
+        "t": 3.3994956000242382,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -62,
+        "y": -25,
+        "primary": 1.0001981258392334,
+        "secondary": 1.089662790298462
+      },
+      {
+        "slot": 1.0150185542328466e-13,
+        "slotScale": 1,
+        "t": 3.4999001000542194,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -63,
+        "y": -24,
+        "primary": 1.0000396966934204,
+        "secondary": 1.0899323225021362
+      },
+      {
+        "slot": 2.0314104876863713e-14,
+        "slotScale": 1,
+        "t": 3.600443300034385,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -63,
+        "y": -24,
+        "primary": 1.0000079870224,
+        "secondary": 1.0899864435195923
+      },
+      {
+        "slot": 4.1150321709447924e-15,
+        "slotScale": 1,
+        "t": 3.700281099998392,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -64,
+        "y": -23,
+        "primary": 1.0000016689300537,
+        "secondary": 1.0899972915649414
+      },
+      {
+        "slot": 8.360392007527684e-16,
+        "slotScale": 1,
+        "t": 3.7998581000138074,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -65,
+        "y": -22,
+        "primary": 1.0000003576278687,
+        "secondary": 1.0899994373321533
+      },
+      {
+        "slot": 1.6642839513853435e-16,
+        "slotScale": 1,
+        "t": 3.9007167000090703,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -65,
+        "y": -22,
+        "primary": 1.0000001192092896,
+        "secondary": 1.0899999141693115
+      },
+      {
+        "slot": 3.384026987945468e-17,
+        "slotScale": 1,
+        "t": 4.00030610000249,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -66,
+        "y": -21,
+        "primary": 1,
+        "secondary": 1.090000033378601
+      },
+      {
+        "slot": 6.515658671688346e-18,
+        "slotScale": 1,
+        "t": 4.103420100000221,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -67,
+        "y": -20,
+        "primary": 1,
+        "secondary": 1.090000033378601
+      },
+      {
+        "slot": 1.391939209749373e-18,
+        "slotScale": 1,
+        "t": 4.202528599998914,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -68,
+        "y": -19,
+        "primary": 1.0176743268966675,
+        "secondary": 1.052846074104309
+      },
+      {
+        "slot": 2.8054024345192e-19,
+        "slotScale": 1,
+        "t": 4.301896800054237,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -68,
+        "y": -19,
+        "primary": 1.0035622119903564,
+        "secondary": 1.010650873184204
+      },
+      {
+        "slot": 5.679000740664569e-20,
+        "slotScale": 1,
+        "t": 4.401515900040977,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -69,
+        "y": -18,
+        "primary": 1.0007210969924927,
+        "secondary": 1.0021560192108154
+      },
+      {
+        "slot": 1.1488401335019294e-20,
+        "slotScale": 1,
+        "t": 4.503092500031926,
+        "launcher": 5.883464336395264,
+        "launcherScale": 1.0882519483566284,
+        "x": -70,
+        "y": -17,
+        "primary": 1.0001459121704102,
+        "secondary": 1.0004361867904663
+      },
+      {
+        "slot": 2.253530188433373e-21,
+        "slotScale": 1,
+        "t": 4.601623399998061,
+        "launcher": 7.584826469421387,
+        "launcherScale": 1.1137723922729492,
+        "x": -70,
+        "y": -17,
+        "primary": 1.0000286102294922,
+        "secondary": 1.0000855922698975
+      },
+      {
+        "slot": 4.6540410417017205e-22,
+        "slotScale": 1,
+        "t": 4.7000657000462525,
+        "launcher": 7.914257526397705,
+        "launcherScale": 1.1187138557434082,
+        "x": -71,
+        "y": -16,
+        "primary": 1.0000059604644775,
+        "secondary": 1.0000176429748535
+      },
+      {
+        "slot": 9.407403584120856e-23,
+        "slotScale": 1,
+        "t": 4.799967400031164,
+        "launcher": 7.982668399810791,
+        "launcherScale": 1.1197400093078613,
+        "x": -72,
+        "y": -15,
+        "primary": 1.0000011920928955,
+        "secondary": 1.0000035762786865
+      },
+      {
+        "slot": 1.8972475535190788e-23,
+        "slotScale": 1,
+        "t": 4.90008150000358,
+        "launcher": 7.996504783630371,
+        "launcherScale": 1.1199475526809692,
+        "x": -72,
+        "y": -15,
+        "primary": 1.000000238418579,
+        "secondary": 1.0000007152557373
+      },
+      {
+        "slot": 3.867977105929042e-24,
+        "slotScale": 1,
+        "t": 4.999436700018123,
+        "launcher": 7.9992876052856445,
+        "launcherScale": 1.119989275932312,
+        "x": -73,
+        "y": -14,
+        "primary": 1,
+        "secondary": 1.0000001192092896
+      },
+      {
+        "slot": 7.6057215594456e-25,
+        "slotScale": 1,
+        "t": 5.1013542000437155,
+        "launcher": 7.999859809875488,
+        "launcherScale": 1.1199978590011597,
+        "x": -74,
+        "y": -13,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.5687087048213242e-25,
+        "slotScale": 1,
+        "t": 5.202521200000774,
+        "launcher": 7.99997091293335,
+        "launcherScale": 1.1199995279312134,
+        "x": -75,
+        "y": -12,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 3.124061439849433e-26,
+        "slotScale": 1,
+        "t": 5.300577700021677,
+        "launcher": 7.999994277954102,
+        "launcherScale": 1.119999885559082,
+        "x": -75,
+        "y": -12,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 6.3408936154876365e-27,
+        "slotScale": 1,
+        "t": 5.400411500013433,
+        "launcher": 7.999999046325684,
+        "launcherScale": 1.1200000047683716,
+        "x": -76,
+        "y": -11,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.2061527240503775e-27,
+        "slotScale": 1,
+        "t": 5.506201300013345,
+        "launcher": 8,
+        "launcherScale": 1.1200000047683716,
+        "x": -77,
+        "y": -10,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 2.0058903427064405e-28,
+        "slotScale": 1,
+        "t": 5.616425600019284,
+        "launcher": 3.6647140979766846,
+        "launcherScale": 1.0549707412719727,
+        "x": -77,
+        "y": -10,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 3.953164104775794e-29,
+        "slotScale": 1,
+        "t": 5.717952600040007,
+        "launcher": 0.7222337126731873,
+        "launcherScale": 1.010833501815796,
+        "x": -78,
+        "y": -9,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.995040003445433e-30,
+        "slotScale": 1,
+        "t": 5.817918700049631,
+        "launcher": 0.14606748521327972,
+        "launcherScale": 1.0021910667419434,
+        "x": -79,
+        "y": -8,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.649086354599089e-30,
+        "slotScale": 1,
+        "t": 5.918423500028439,
+        "launcher": 0.030128415673971176,
+        "launcherScale": 1.000451922416687,
+        "x": -80,
+        "y": -7,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 3.2729221031272603e-31,
+        "slotScale": 1,
+        "t": 6.017261800006963,
+        "launcher": 0.005979551468044519,
+        "launcherScale": 1.0000896453857422,
+        "x": -80,
+        "y": -7,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 6.584866034273852e-32,
+        "slotScale": 1,
+        "t": 6.117646500002593,
+        "launcher": 0.0012030393118038774,
+        "launcherScale": 1.0000180006027222,
+        "x": -81,
+        "y": -6,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.3542323810950442e-32,
+        "slotScale": 1,
+        "t": 6.216538200038485,
+        "launcher": 0.0002474150387570262,
+        "launcherScale": 1.000003695487976,
+        "x": -82,
+        "y": -5,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 2.728545364843201e-33,
+        "slotScale": 1,
+        "t": 6.317109600000549,
+        "launcher": 4.984987754141912e-05,
+        "launcherScale": 1.0000007152557373,
+        "x": -82,
+        "y": -5,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 5.505155040652594e-34,
+        "slotScale": 1,
+        "t": 6.416468200040981,
+        "launcher": 1.005778722174e-05,
+        "launcherScale": 1.0000001192092896,
+        "x": -83,
+        "y": -4,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.1076565029597112e-34,
+        "slotScale": 1,
+        "t": 6.516793300048448,
+        "launcher": 2.0236620912328362e-06,
+        "launcherScale": 1,
+        "x": -84,
+        "y": -3,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 2.2217829027195305e-35,
+        "slotScale": 1,
+        "t": 6.617039000033401,
+        "launcher": 4.0591447714177775e-07,
+        "launcherScale": 1,
+        "x": -84,
+        "y": -3,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 4.4937192505389e-36,
+        "slotScale": 1,
+        "t": 6.716960100049619,
+        "launcher": 8.209918433976782e-08,
+        "launcherScale": 1,
+        "x": -85,
+        "y": -2,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 9.22932387091537e-37,
+        "slotScale": 1,
+        "t": 6.815921800036449,
+        "launcher": 1.6861756435559982e-08,
+        "launcherScale": 1,
+        "x": -86,
+        "y": -1,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.8291559155022192e-37,
+        "slotScale": 1,
+        "t": 6.919598900014535,
+        "launcher": 3.341824594826903e-09,
+        "launcherScale": 1,
+        "x": -87,
+        "y": 0,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 3.7507107051970267e-38,
+        "slotScale": 1,
+        "t": 7.01604600000428,
+        "launcher": 6.852459710771086e-10,
+        "launcherScale": 1,
+        "x": -87,
+        "y": 0,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 7.534954202385653e-39,
+        "slotScale": 1,
+        "t": 7.116333700018004,
+        "launcher": 1.3766182638264013e-10,
+        "launcherScale": 1,
+        "x": -44,
+        "y": -43,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.4981856414466992e-39,
+        "slotScale": 1,
+        "t": 7.21740470000077,
+        "launcher": 2.7371506103324172e-11,
+        "launcherScale": 1,
+        "x": -45,
+        "y": -42,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 3.04844073123078e-40,
+        "slotScale": 1,
+        "t": 7.316851000010502,
+        "launcher": 5.569440308245133e-12,
+        "launcherScale": 1,
+        "x": -45,
+        "y": -42,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 6.191357004926339e-41,
+        "slotScale": 1,
+        "t": 7.4165772999986075,
+        "launcher": 1.1311470423519543e-12,
+        "launcherScale": 1,
+        "x": -46,
+        "y": -41,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.2323018695272441e-41,
+        "slotScale": 1,
+        "t": 7.517341700033285,
+        "launcher": 2.2513410677816453e-13,
+        "launcherScale": 1,
+        "x": -47,
+        "y": -40,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 2.4999164603554737e-42,
+        "slotScale": 1,
+        "t": 7.617041500052437,
+        "launcher": 4.566613810729793e-14,
+        "launcherScale": 1,
+        "x": -47,
+        "y": -40,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 5.072700440855838e-43,
+        "slotScale": 1,
+        "t": 7.716742500022519,
+        "launcher": 9.263736763906634e-15,
+        "launcherScale": 1,
+        "x": -48,
+        "y": -39,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.0229478789571165e-43,
+        "slotScale": 1,
+        "t": 7.817106900038198,
+        "launcher": 1.859288564716498e-15,
+        "launcherScale": 1,
+        "x": -49,
+        "y": -38,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 2.1019476964872256e-44,
+        "slotScale": 1,
+        "t": 7.919145100051537,
+        "launcher": 3.7970657963639807e-16,
+        "launcherScale": 1,
+        "x": -50,
+        "y": -37,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 4.203895392974451e-45,
+        "slotScale": 1,
+        "t": 8.0167264000047,
+        "launcher": 7.62465045451533e-17,
+        "launcherScale": 1,
+        "x": -50,
+        "y": -37,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 1.401298464324817e-45,
+        "slotScale": 1,
+        "t": 8.11689500004286,
+        "launcher": 1.535014779146292e-17,
+        "launcherScale": 1,
+        "x": -51,
+        "y": -36,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.216140800039284,
+        "launcher": 3.1364751157425904e-18,
+        "launcherScale": 1,
+        "x": -52,
+        "y": -35,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.316520400054287,
+        "launcher": 6.291572445218011e-19,
+        "launcherScale": 1,
+        "x": -52,
+        "y": -35,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.416839400015306,
+        "launcher": 1.2643177781885998e-19,
+        "launcherScale": 1,
+        "x": -53,
+        "y": -34,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.516876700043213,
+        "launcher": 2.5514172736696465e-20,
+        "launcherScale": 1,
+        "x": -54,
+        "y": -33,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.617354100046214,
+        "launcher": 5.110798826453887e-21,
+        "launcherScale": 1,
+        "x": -54,
+        "y": -33,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.717896900023334,
+        "launcher": 1.0238467411811489e-21,
+        "launcherScale": 1,
+        "x": -55,
+        "y": -32,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.817331400001422,
+        "launcher": 2.085808944139621e-22,
+        "launcherScale": 1,
+        "x": -56,
+        "y": -31,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 8.919395400036592,
+        "launcher": 4.234946127137447e-23,
+        "launcherScale": 1,
+        "x": -57,
+        "y": -30,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.016866400022991,
+        "launcher": 8.558352749603662e-24,
+        "launcherScale": 1,
+        "x": -57,
+        "y": -30,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.116031300043687,
+        "launcher": 1.7510964769001398e-24,
+        "launcherScale": 1,
+        "x": -58,
+        "y": -29,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.217291400011163,
+        "launcher": 3.467099638266811e-25,
+        "launcherScale": 1,
+        "x": -59,
+        "y": -28,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.317246899998281,
+        "launcher": 6.998665482746349e-26,
+        "launcherScale": 1,
+        "x": -59,
+        "y": -28,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.41639780002879,
+        "launcher": 1.4324620110605162e-26,
+        "launcherScale": 1,
+        "x": -60,
+        "y": -27,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.51656560000265,
+        "launcher": 2.883727261354074e-27,
+        "launcherScale": 1,
+        "x": -61,
+        "y": -26,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.616826000041328,
+        "launcher": 5.801547623473182e-28,
+        "launcherScale": 1,
+        "x": -61,
+        "y": -26,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.717335900000762,
+        "launcher": 1.1626431017858776e-28,
+        "launcherScale": 1,
+        "x": -62,
+        "y": -25,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.817086900002323,
+        "launcher": 2.354328234075487e-29,
+        "launcherScale": 1,
+        "x": -63,
+        "y": -24,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 9.91934400005266,
+        "launcher": 4.7805655012913404e-30,
+        "launcherScale": 1,
+        "x": -64,
+        "y": -23,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.016835000016727,
+        "launcher": 9.637274448493353e-31,
+        "launcherScale": 1,
+        "x": -64,
+        "y": -23,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.116223200049717,
+        "launcher": 1.9639920988185563e-31,
+        "launcherScale": 1,
+        "x": -65,
+        "y": -22,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.215880200034007,
+        "launcher": 3.993583952928536e-32,
+        "launcherScale": 1,
+        "x": -66,
+        "y": -21,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.317859900009353,
+        "launcher": 7.813164913766222e-33,
+        "launcherScale": 1,
+        "x": -66,
+        "y": -21,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.417361300031189,
+        "launcher": 1.5886664724699132e-33,
+        "launcherScale": 1,
+        "x": -67,
+        "y": -20,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.516970000055153,
+        "launcher": 3.226258810613225e-34,
+        "launcherScale": 1,
+        "x": -68,
+        "y": -19,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.616968100017402,
+        "launcher": 6.511578635926837e-35,
+        "launcherScale": 1,
+        "x": -68,
+        "y": -19,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.715827300038654,
+        "launcher": 1.338963112406102e-35,
+        "launcherScale": 1,
+        "x": -69,
+        "y": -18,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.815939200052526,
+        "launcher": 2.6979272425373602e-36,
+        "launcherScale": 1,
+        "x": -70,
+        "y": -17,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 10.919851500017103,
+        "launcher": 5.360030749460153e-37,
+        "launcherScale": 1,
+        "x": -71,
+        "y": -16,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.016437100013718,
+        "launcher": 1.090591358427004e-37,
+        "launcherScale": 1,
+        "x": -71,
+        "y": -16,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.117010900052264,
+        "launcher": 2.1831962426173964e-38,
+        "launcherScale": 1,
+        "x": -72,
+        "y": -15,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.216376700031105,
+        "launcher": 4.4545120181250874e-39,
+        "launcherScale": 1,
+        "x": -73,
+        "y": -14,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.317920000001322,
+        "launcher": 8.793526214223595e-40,
+        "launcherScale": 1,
+        "x": -73,
+        "y": -14,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.41694570000982,
+        "launcher": 1.7988748646230542e-40,
+        "launcherScale": 1,
+        "x": -74,
+        "y": -13,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.51606710004853,
+        "launcher": 3.6800900270098346e-41,
+        "launcherScale": 1,
+        "x": -75,
+        "y": -12,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.616592000005767,
+        "launcher": 7.372231220812863e-42,
+        "launcherScale": 1,
+        "x": -75,
+        "y": -12,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.716342700005043,
+        "launcher": 1.493784162970255e-42,
+        "launcherScale": 1,
+        "x": -76,
+        "y": -11,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.816310300026089,
+        "launcher": 3.0127916982983567e-43,
+        "launcherScale": 1,
+        "x": -77,
+        "y": -10,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 11.918286200030707,
+        "launcher": 6.165713243029195e-44,
+        "launcherScale": 1,
+        "x": -78,
+        "y": -9,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.016901299997699,
+        "launcher": 1.2611686178923354e-44,
+        "launcherScale": 1,
+        "x": -78,
+        "y": -9,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.116606100054923,
+        "launcher": 2.802596928649634e-45,
+        "launcherScale": 1,
+        "x": -79,
+        "y": -8,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.2155849999981,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -80,
+        "y": -7,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.316790900018532,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -80,
+        "y": -7,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.416747000010218,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -81,
+        "y": -6,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.516628900018986,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -82,
+        "y": -5,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.615881900012027,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -82,
+        "y": -5,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.716534700011835,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -83,
+        "y": -4,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.815871500002686,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -84,
+        "y": -3,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 12.91919320001034,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -85,
+        "y": -2,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.016073400038294,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -85,
+        "y": -2,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.116097400023136,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -86,
+        "y": -1,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.216942300030496,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -87,
+        "y": 0,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.316766700008884,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -87,
+        "y": 0,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.415973499999382,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -44,
+        "y": -43,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.516153800010215,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -45,
+        "y": -42,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.615149800025392,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -45,
+        "y": -42,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.715867100050673,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -46,
+        "y": -41,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.815356200037058,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -47,
+        "y": -40,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 13.918857900018338,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -48,
+        "y": -39,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.01522100000875,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -48,
+        "y": -39,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.116117400000803,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -49,
+        "y": -38,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.216861000051722,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -50,
+        "y": -37,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.315712900017388,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -50,
+        "y": -37,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.416579100012314,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -51,
+        "y": -36,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.516300600022078,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -52,
+        "y": -35,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.615340500022285,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -52,
+        "y": -35,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.716643500025384,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -53,
+        "y": -34,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.81540620001033,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -54,
+        "y": -33,
+        "primary": 1,
+        "secondary": 1
+      },
+      {
+        "slot": 0,
+        "slotScale": 1,
+        "t": 14.919150200032163,
+        "launcher": 0,
+        "launcherScale": 1,
+        "x": -55,
+        "y": -32,
+        "primary": 1,
+        "secondary": 1
+      }
+    ],
+    "rotation": [
+      {
+        "orientation": "Portrait",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 500,
+            "2": 740
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 416,
+            "2": 692
+          },
+          "layout": "portrait",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 81.1038818359375,
+              "x": 13.377761840820312,
+              "center": {
+                "1": 147.61764526367188,
+                "2": 115.68096923828125
+              },
+              "bottom": 150.2580108642578,
+              "height": 69.15406799316406,
+              "right": 281.85784912109375,
+              "width": 268.4801025390625
+            },
+            "close": {
+              "y": 111.76303100585938,
+              "x": 324.7207946777344,
+              "center": {
+                "1": 361.58837890625,
+                "2": 148.63072204589844
+              },
+              "bottom": 185.4982452392578,
+              "height": 60.20471954345703,
+              "right": 398.4564208984375,
+              "width": 60.20492172241211
+            },
+            "scroll": {
+              "y": 146.18966674804688,
+              "x": 24.767562866210938,
+              "center": {
+                "1": 193.99151611328125,
+                "2": 274.7349853515625
+              },
+              "bottom": 403.28057861328125,
+              "height": 257.0898742675781,
+              "right": 363.2155456542969,
+              "width": 338.4478454589844
+            },
+            "primary": {
+              "y": 417.924560546875,
+              "x": 208.63577270507812,
+              "center": {
+                "1": 285.9256591796875,
+                "2": 456.97662353515625
+              },
+              "bottom": 496.0283203125,
+              "height": 78.103515625,
+              "right": 363.2155456542969,
+              "width": 154.57977294921875
+            },
+            "firstSlot": {
+              "y": 159.20693969726562,
+              "x": 37.7847900390625,
+              "center": {
+                "1": 71.95510864257812,
+                "2": 193.37767028808594
+              },
+              "bottom": 227.54766845703125,
+              "height": 68.34072875976562,
+              "right": 106.12530517578125,
+              "width": 68.34020233154297
+            },
+            "secondary": {
+              "y": 512.299560546875,
+              "x": 215.95794677734375,
+              "center": {
+                "1": 285.92559814453125,
+                "2": 543.2154541015625
+              },
+              "bottom": 574.131591796875,
+              "height": 61.8319091796875,
+              "right": 355.8932189941406,
+              "width": 139.93527221679688
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 401,
+            "2": 778
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      },
+      {
+        "orientation": "LandscapeLeft",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 900,
+            "2": 360
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 496,
+            "2": 600
+          },
+          "layout": "compact-landscape",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 67.3827896118164,
+              "x": 103.96221923828125,
+              "center": {
+                "1": 222.22161865234375,
+                "2": 89.756103515625
+              },
+              "bottom": 112.12953186035156,
+              "height": 44.746742248535156,
+              "right": 340.4810485839844,
+              "width": 236.51882934570312
+            },
+            "close": {
+              "y": 84.07411193847656,
+              "x": 583.46337890625,
+              "center": {
+                "1": 617.9112548828125,
+                "2": 118.52182006835938
+              },
+              "bottom": 152.96987915039062,
+              "height": 56.25318908691406,
+              "right": 652.3590087890625,
+              "width": 56.253021240234375
+            },
+            "scroll": {
+              "y": 112.12953186035156,
+              "x": 115.46835327148438,
+              "center": {
+                "1": 274.0001525878906,
+                "2": 193.95228576660156
+              },
+              "bottom": 275.7751770019531,
+              "height": 163.64564514160156,
+              "right": 432.53167724609375,
+              "width": 317.0631408691406
+            },
+            "primary": {
+              "y": 165.82569885253906,
+              "x": 445.31640625,
+              "center": {
+                "1": 534.8099365234375,
+                "2": 199.06619262695312
+              },
+              "bottom": 232.30667114257812,
+              "height": 66.48097229003906,
+              "right": 624.3037109375,
+              "width": 178.9871826171875
+            },
+            "firstSlot": {
+              "y": 122.35731506347656,
+              "x": 125.69639587402344,
+              "center": {
+                "1": 153.82293701171875,
+                "2": 150.48397827148438
+              },
+              "bottom": 178.61045837402344,
+              "height": 56.253143310546875,
+              "right": 181.94955444335938,
+              "width": 56.25315856933594
+            },
+            "secondary": {
+              "y": 236.14205932617188,
+              "x": 453.62646484375,
+              "center": {
+                "1": 534.81005859375,
+                "2": 264.2687072753906
+              },
+              "bottom": 292.3951721191406,
+              "height": 56.25311279296875,
+              "right": 615.993408203125,
+              "width": 162.366943359375
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 750,
+            "2": 381
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      },
+      {
+        "orientation": "Portrait",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 500,
+            "2": 740
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 416,
+            "2": 692
+          },
+          "layout": "portrait",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 81.1038818359375,
+              "x": 13.377273559570312,
+              "center": {
+                "1": 147.61764526367188,
+                "2": 115.68096923828125
+              },
+              "bottom": 150.25799560546875,
+              "height": 69.15411376953125,
+              "right": 281.857666015625,
+              "width": 268.48040771484375
+            },
+            "close": {
+              "y": 111.7630615234375,
+              "x": 324.7205810546875,
+              "center": {
+                "1": 361.5882873535156,
+                "2": 148.63084411621094
+              },
+              "bottom": 185.49850463867188,
+              "height": 60.2048225402832,
+              "right": 398.4560546875,
+              "width": 60.20480728149414
+            },
+            "scroll": {
+              "y": 146.18983459472656,
+              "x": 24.767333984375,
+              "center": {
+                "1": 193.9913787841797,
+                "2": 274.7349853515625
+              },
+              "bottom": 403.2804260253906,
+              "height": 257.090576171875,
+              "right": 363.2154541015625,
+              "width": 338.4481201171875
+            },
+            "primary": {
+              "y": 417.924560546875,
+              "x": 208.63577270507812,
+              "center": {
+                "1": 285.92559814453125,
+                "2": 456.9764404296875
+              },
+              "bottom": 496.02789306640625,
+              "height": 78.10333251953125,
+              "right": 363.2154541015625,
+              "width": 154.57968139648438
+            },
+            "firstSlot": {
+              "y": 159.2069549560547,
+              "x": 37.784576416015625,
+              "center": {
+                "1": 71.95489501953125,
+                "2": 193.37742614746094
+              },
+              "bottom": 227.5477294921875,
+              "height": 68.34077453613281,
+              "right": 106.12511444091797,
+              "width": 68.3404769897461
+            },
+            "secondary": {
+              "y": 512.299560546875,
+              "x": 215.9580841064453,
+              "center": {
+                "1": 285.925537109375,
+                "2": 543.2154541015625
+              },
+              "bottom": 574.1314697265625,
+              "height": 61.8319091796875,
+              "right": 355.8932189941406,
+              "width": 139.93504333496094
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 401,
+            "2": 778
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      }
+    ]
+  },
+  "lifecycle": {
+    "sourceVersion": "e4016f89c48860cd0da15d80364511aa2cc761c8f30ae886f24f3d1c9aef7e80",
+    "wide": {
+      "enabled": true,
+      "touchEnabled": false,
+      "canvas": {
+        "1": 1000,
+        "2": 720
+      },
+      "gamepadEnabled": false,
+      "scrollCanvas": {
+        "1": 470,
+        "2": 550
+      },
+      "layout": "desktop",
+      "open": true,
+      "scrollEnabled": false,
+      "controls": {
+        "title": {
+          "y": 236.5267333984375,
+          "x": 553.8992309570312,
+          "center": {
+            "1": 886.8554077148438,
+            "2": 329.5816345214844
+          },
+          "bottom": 418.0111389160156,
+          "height": 171.84677124023438,
+          "right": 1230.6416015625,
+          "width": 676.8126220703125
+        },
+        "close": {
+          "y": 305.3877868652344,
+          "x": 1917.5341796875,
+          "center": {
+            "1": 1998.7391357421875,
+            "2": 383.09698486328125
+          },
+          "bottom": 460.4331359863281,
+          "height": 128.96852111816406,
+          "right": 2081.132080078125,
+          "width": 128.05967712402344
+        },
+        "scroll": {
+          "y": 385.0640563964844,
+          "x": 624.5682373046875,
+          "center": {
+            "1": 987.147705078125,
+            "2": 820.2376098632812
+          },
+          "bottom": 1245.559814453125,
+          "height": 826.2728271484375,
+          "right": 1357.3636474609375,
+          "width": 732.8074951171875
+        },
+        "primary": {
+          "y": 963.2276611328125,
+          "x": 1438.69287109375,
+          "center": {
+            "1": 1677.42138671875,
+            "2": 1033.6456298828125
+          },
+          "bottom": 1105.3992919921875,
+          "height": 125.5867691040039,
+          "right": 1924.8233642578125,
+          "width": 483.7402038574219
+        },
+        "firstSlot": {
+          "y": 413.992919921875,
+          "x": 649.2745361328125,
+          "center": {
+            "1": 709.459716796875,
+            "2": 475.91583251953125
+          },
+          "bottom": 537.2904663085938,
+          "height": 122.49380493164062,
+          "right": 769.5931396484375,
+          "width": 117.45349884033203
+        },
+        "secondary": {
+          "y": 1103.980224609375,
+          "x": 1458.2440185546875,
+          "center": {
+            "1": 1672.79150390625,
+            "2": 1161.31103515625
+          },
+          "bottom": 1219.6724853515625,
+          "height": 98.01213836669922,
+          "right": 1894.117431640625,
+          "width": 433.9949645996094
+        }
+      },
+      "scrollPosition": {
+        "1": 0,
+        "2": 0
+      },
+      "artLoaded": {
+        "1": true,
+        "2": true
+      },
+      "titleFits": true,
+      "viewport": {
+        "1": 2559,
+        "2": 1440
+      },
+      "outside": [],
+      "inset": {
+        "1": 0,
+        "2": 58,
+        "3": 0,
+        "4": 0
+      },
+      "launcherVisible": true
+    },
+    "rotationAfterRespawn": [
+      {
+        "orientation": "Portrait",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 500,
+            "2": 740
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 416,
+            "2": 692
+          },
+          "layout": "portrait",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 81.10153198242188,
+              "x": 13.377243041992188,
+              "center": {
+                "1": 147.61770629882812,
+                "2": 115.67916870117188
+              },
+              "bottom": 150.2574462890625,
+              "height": 69.15478515625,
+              "right": 281.8590087890625,
+              "width": 268.48175048828125
+            },
+            "close": {
+              "y": 111.76092529296875,
+              "x": 324.72198486328125,
+              "center": {
+                "1": 361.59002685546875,
+                "2": 148.62966918945312
+              },
+              "bottom": 185.49740600585938,
+              "height": 60.205650329589844,
+              "right": 398.4586486816406,
+              "width": 60.20547103881836
+            },
+            "scroll": {
+              "y": 146.1884765625,
+              "x": 24.76739501953125,
+              "center": {
+                "1": 193.99156188964844,
+                "2": 274.7352294921875
+              },
+              "bottom": 403.2812194824219,
+              "height": 257.0906066894531,
+              "right": 363.2173156738281,
+              "width": 338.4499206542969
+            },
+            "primary": {
+              "y": 417.92498779296875,
+              "x": 208.63543701171875,
+              "center": {
+                "1": 285.9254150390625,
+                "2": 456.9766845703125
+              },
+              "bottom": 496.02899169921875,
+              "height": 78.1031494140625,
+              "right": 363.21563720703125,
+              "width": 154.58006286621094
+            },
+            "firstSlot": {
+              "y": 159.20668029785156,
+              "x": 37.7845458984375,
+              "center": {
+                "1": 71.95497131347656,
+                "2": 193.3772430419922
+              },
+              "bottom": 227.54766845703125,
+              "height": 68.34086608886719,
+              "right": 106.12520599365234,
+              "width": 68.34066009521484
+            },
+            "secondary": {
+              "y": 512.2996215820312,
+              "x": 215.95745849609375,
+              "center": {
+                "1": 285.92510986328125,
+                "2": 543.2159423828125
+              },
+              "bottom": 574.131591796875,
+              "height": 61.83148193359375,
+              "right": 355.89300537109375,
+              "width": 139.93539428710938
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 401,
+            "2": 778
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      },
+      {
+        "orientation": "LandscapeLeft",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 900,
+            "2": 360
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 496,
+            "2": 600
+          },
+          "layout": "compact-landscape",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 67.38272857666016,
+              "x": 103.962158203125,
+              "center": {
+                "1": 222.22161865234375,
+                "2": 89.75603485107422
+              },
+              "bottom": 112.12945556640625,
+              "height": 44.746726989746094,
+              "right": 340.48101806640625,
+              "width": 236.51885986328125
+            },
+            "close": {
+              "y": 84.07404327392578,
+              "x": 583.46337890625,
+              "center": {
+                "1": 617.9112548828125,
+                "2": 118.52182006835938
+              },
+              "bottom": 152.96981811523438,
+              "height": 56.25312042236328,
+              "right": 652.35888671875,
+              "width": 56.252967834472656
+            },
+            "scroll": {
+              "y": 112.12945556640625,
+              "x": 115.46835327148438,
+              "center": {
+                "1": 274.00006103515625,
+                "2": 193.9522247314453
+              },
+              "bottom": 275.7750244140625,
+              "height": 163.64556884765625,
+              "right": 432.5316162109375,
+              "width": 317.0631103515625
+            },
+            "primary": {
+              "y": 165.82569885253906,
+              "x": 445.3163757324219,
+              "center": {
+                "1": 534.8099365234375,
+                "2": 199.06607055664062
+              },
+              "bottom": 232.30661010742188,
+              "height": 66.48091125488281,
+              "right": 624.3037109375,
+              "width": 178.98715209960938
+            },
+            "firstSlot": {
+              "y": 122.35731506347656,
+              "x": 125.69633483886719,
+              "center": {
+                "1": 153.82289123535156,
+                "2": 150.48391723632812
+              },
+              "bottom": 178.6103973388672,
+              "height": 56.253082275390625,
+              "right": 181.94947814941406,
+              "width": 56.253143310546875
+            },
+            "secondary": {
+              "y": 236.14199829101562,
+              "x": 453.62646484375,
+              "center": {
+                "1": 534.8099975585938,
+                "2": 264.2686462402344
+              },
+              "bottom": 292.3951110839844,
+              "height": 56.25311279296875,
+              "right": 615.993408203125,
+              "width": 162.366943359375
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 750,
+            "2": 381
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      },
+      {
+        "orientation": "Portrait",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 500,
+            "2": 740
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 416,
+            "2": 692
+          },
+          "layout": "portrait",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 81.10357666015625,
+              "x": 13.377151489257812,
+              "center": {
+                "1": 147.61749267578125,
+                "2": 115.6806640625
+              },
+              "bottom": 150.2577362060547,
+              "height": 69.15403747558594,
+              "right": 281.8577880859375,
+              "width": 268.48065185546875
+            },
+            "close": {
+              "y": 111.76287841796875,
+              "x": 324.72052001953125,
+              "center": {
+                "1": 361.58831787109375,
+                "2": 148.63055419921875
+              },
+              "bottom": 185.49839782714844,
+              "height": 60.20488357543945,
+              "right": 398.45599365234375,
+              "width": 60.20476150512695
+            },
+            "scroll": {
+              "y": 146.18966674804688,
+              "x": 24.767349243164062,
+              "center": {
+                "1": 193.9913787841797,
+                "2": 274.7349853515625
+              },
+              "bottom": 403.2804260253906,
+              "height": 257.09075927734375,
+              "right": 363.2154846191406,
+              "width": 338.4481201171875
+            },
+            "primary": {
+              "y": 417.9244384765625,
+              "x": 208.63583374023438,
+              "center": {
+                "1": 285.92572021484375,
+                "2": 456.9764404296875
+              },
+              "bottom": 496.0279541015625,
+              "height": 78.103515625,
+              "right": 363.2154846191406,
+              "width": 154.57965087890625
+            },
+            "firstSlot": {
+              "y": 159.2068328857422,
+              "x": 37.78448486328125,
+              "center": {
+                "1": 71.95475769042969,
+                "2": 193.37730407714844
+              },
+              "bottom": 227.54766845703125,
+              "height": 68.34083557128906,
+              "right": 106.12505340576172,
+              "width": 68.34051513671875
+            },
+            "secondary": {
+              "y": 512.2996826171875,
+              "x": 215.95802307128906,
+              "center": {
+                "1": 285.9256591796875,
+                "2": 543.215576171875
+              },
+              "bottom": 574.1314697265625,
+              "height": 61.831787109375,
+              "right": 355.893310546875,
+              "width": 139.93528747558594
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 401,
+            "2": 778
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      }
+    ],
+    "events": [
+      {
+        "kind": "selected",
+        "n": 1
+      },
+      {
+        "kind": "primary",
+        "n": 1
+      },
+      {
+        "kind": "secondary",
+        "n": 1
+      }
+    ],
+    "rootDisableHides": true,
+    "respawnSurfaceSurvives": true,
+    "cleanup": {
+      "proxies": 0,
+      "drivers": 0,
+      "surface": false
+    },
+    "wheelFinalY": 376
+  },
+  "hover": {
+    "slotRotation": 8,
+    "slotScale": 1.08,
+    "backpackRotation": 8,
+    "backpackScale": 1.12,
+    "barScale": 1.09,
+    "returnToRest": true
+  },
+  "nativeImportCaveat": "MCP cannot directly reparent serialized script trees under its capability policy. Native geometry deserialized; exact included source restored with supported editor. Not a fresh one-step Insert from File certification.",
+  "referenceCaveat": "Source video scaling unknown; exact idle/easing and stud speed inferred, not pixel-perfect fidelity.",
+  "checks": {
+    "deviceGeometryCases": 27,
+    "minSampledHit": 44.25027847290039,
+    "importedMouseEvents": [
+      {
+        "kind": "selected",
+        "n": 1
+      },
+      {
+        "kind": "primary",
+        "n": 1
+      },
+      {
+        "kind": "secondary",
+        "n": 1
+      }
+    ],
+    "rapidReversals": true,
+    "proxyAfterReversals": 1,
+    "all28SlotsRevealed": true,
+    "wheelReachedFinalRow": true,
+    "consoleErrors": false
+  }
+}

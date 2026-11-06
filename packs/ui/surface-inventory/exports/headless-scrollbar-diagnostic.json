@@ -1,0 +1,25 @@
+{
+  "sourceVersion": "4c12a88ffbbc1f1353e8ff4813998754a5e4efba1a8fa360b41892caf351d1c9",
+  "modelSha256": "18557f8189aab387707c4ce4587714c100749635e5ac92484bf6a77b7294c014",
+  "referenceKind": "Headless native export, NOT source video",
+  "actualKind": "Actual Studio Client flat native-canvas QA clone; no controller,1:1 rendering",
+  "viewport": [
+    1001,
+    720
+  ],
+  "crop": [
+    565,
+    134,
+    12,
+    550
+  ],
+  "threshold": 0.1,
+  "includeAA": false,
+  "mismatchPixels": 940,
+  "comparedPixels": 6600,
+  "maskPixels": 0,
+  "headlessWarningErrorFindings": [],
+  "missingAssets": [],
+  "interpretation": "RHR1.0.0rc1 imports ScrollBarThickness but does not paint native scrollbar. Actual native paint footprint is4 pixels at x569..572, y200. Diff is not source-video fidelity; renderer cannot certify this feature.",
+  "sourceVideoLimit": "No confidently visible measurable white thumb in supplied compressed demo/breakdown frames; narrower4px is user-directed refinement, not a recovered exact dimension."
+}

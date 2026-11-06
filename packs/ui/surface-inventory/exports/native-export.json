@@ -1,0 +1,19 @@
+{
+  "method": "Studio SerializationService native export + independent Lune binary inspection",
+  "sourceVersion": "35ea117a636d91c871bc89b88f7839eb7b4ed57de0335b8c9301ac533d340cb3",
+  "instances": 12990,
+  "slots": 60,
+  "buttons": 64,
+  "bevelFaces": 2070,
+  "embeddedSourcesMatch": true,
+  "realArtworkId": "rbxassetid://86135425235678",
+  "galleryCount": 17,
+  "hashes": {
+    "SurfaceInventory.rbxm": "0ae87f0d4a12de8c4aaa93f1f08024c4ac93b8e52cff17220df067bc9031c057",
+    "src/Controller.client.luau": "c90e18cef07c8fe192b9ec224ef1405d0ba59e40cb654acefd8b11328c4ab187",
+    "src/Config.luau": "6f7d4839bad5dd11a5528d7ff0c5f0a9d519749b6a76e8cc7336ce82b4a86bc1",
+    "src/SurfaceInventory.rbxmx": "40af5650c412859f249f6aa60166ec4bb8da0c950b53ba6579a020a6e6de3bc1",
+    "assets/backpack-v2.png": "b47bfe96832be606dd4766670b1a5697fefe3f930017c16acf93d5db3afd0f99"
+  },
+  "nativeImportCaveat": "Raw MCP serialized-script reparent blocked; deserialized native UI plus byte-identical embedded sources restored with supported script editor, then Play tested. Fresh one-step Insert from File not certified."
+}

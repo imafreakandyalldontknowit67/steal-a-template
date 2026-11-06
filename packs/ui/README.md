@@ -10,6 +10,7 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 | [Stud Admin Panel](stud-admin-panel/) | [7 screenshots](stud-admin-panel/#screenshot-gallery) | [StudAdminPanel.rbxm](stud-admin-panel/StudAdminPanel.rbxm?raw=1) | Draft; original layout preserved; desktop/tablet/phone fit checked |
 | [Steal a Template / Studs UI - Roblox HUD and Modal Kit](studs-ui/) | [10 screenshots](studs-ui/#screenshot-gallery) | [StudsUI.rbxm](studs-ui/StudsUI.rbxm?raw=1) | Draft; model import and render checked |
 | [Studs UI Pack 2](studs-ui-pack-2/) | [11 screenshots](studs-ui-pack-2/#screenshot-gallery) | [StudsUIPack2.rbxm](studs-ui-pack-2/StudsUIPack2.rbxm?raw=1) | Draft; see pack verification and device limits |
+| [Surface Inventory](surface-inventory/) | [17 screenshots](surface-inventory/#screenshot-gallery) | [SurfaceInventory.rbxm](surface-inventory/SurfaceInventory.rbxm?raw=1) | 0.5.2 draft; imported desktop hover/scroll checked; input and import caveats documented |
 
 ### Command HQ - Roblox HUD and Interface Pack
 
@@ -34,6 +35,10 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 ### Studs UI Pack 2
 
 [![Studs UI Pack 2](studs-ui-pack-2/previews/ui-hud.jpg)](studs-ui-pack-2/)
+
+### Surface Inventory
+
+[![Surface Inventory](surface-inventory/previews/inventory.jpg)](surface-inventory/)
 
 ## Install
 

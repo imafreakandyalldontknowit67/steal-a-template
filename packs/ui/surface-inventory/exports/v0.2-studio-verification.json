@@ -1,0 +1,1595 @@
+{
+  "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2",
+  "modelSha256": "c54c7de02e029ef1a5d6a2ee8f16167ff434d1be175aaedc628bfd86b2fcb617",
+  "trace": {
+    "samples": [
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.00197350000962615,
+        "depth": -1.619996190071106,
+        "width": 0.05499141663312912
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.01659839996136725,
+        "depth": -1.606454849243164,
+        "width": 0.2482883185148239
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.0329059999785386,
+        "depth": -1.5805097818374634,
+        "width": 0.7238732576370239
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.04916830000001937,
+        "depth": -1.5484944581985474,
+        "width": 1.3107304573059082
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.06588710000505671,
+        "depth": -1.5154184103012085,
+        "width": 1.9170308113098145
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.08270309999352321,
+        "depth": -1.4868605136871338,
+        "width": 2.4405100345611572
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.10014219995355234,
+        "depth": -1.4656662940979004,
+        "width": 2.829009771347046
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.11690389999421313,
+        "depth": -1.4547390937805176,
+        "width": 3.029310941696167
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.13335530000040308,
+        "depth": -1.4534603357315063,
+        "width": 3.052751064300537
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.15010949998395517,
+        "depth": -1.4587981700897217,
+        "width": 2.9549055099487305
+      },
+      {
+        "visible": 0,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.16716939996695146,
+        "depth": -1.4693468809127808,
+        "width": 2.7615437507629395
+      },
+      {
+        "visible": 1,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.18386339995777234,
+        "depth": -1.481497049331665,
+        "width": 2.5388236045837402
+      },
+      {
+        "visible": 1,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.2005195000092499,
+        "depth": -1.4948190450668335,
+        "width": 2.294625759124756
+      },
+      {
+        "visible": 2,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.21736319997580722,
+        "depth": -1.5053622722625732,
+        "width": 2.101362705230713
+      },
+      {
+        "visible": 2,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.23367509996751323,
+        "depth": -1.5134273767471313,
+        "width": 1.9535270929336548
+      },
+      {
+        "visible": 3,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.25041209999471903,
+        "depth": -1.5174026489257812,
+        "width": 1.8806575536727905
+      },
+      {
+        "visible": 3,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.2666293999645859,
+        "depth": -1.5183616876602173,
+        "width": 1.8630783557891846
+      },
+      {
+        "visible": 4,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.2840429999632761,
+        "depth": -1.5164028406143188,
+        "width": 1.8989843130111694
+      },
+      {
+        "visible": 4,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.2994573999894783,
+        "depth": -1.512433648109436,
+        "width": 1.9717414379119873
+      },
+      {
+        "visible": 5,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.3170756999752484,
+        "depth": -1.5073847770690918,
+        "width": 2.0642895698547363
+      },
+      {
+        "visible": 5,
+        "enabled": true,
+        "settled": 0,
+        "t": 0.3341103999991901,
+        "depth": -1.5020948648452759,
+        "width": 2.16125750541687
+      },
+      {
+        "visible": 6,
+        "enabled": true,
+        "settled": 1,
+        "t": 0.3512131999596022,
+        "depth": -1.4978821277618408,
+        "width": 2.2384791374206543
+      },
+      {
+        "visible": 6,
+        "enabled": true,
+        "settled": 1,
+        "t": 0.36645839997800067,
+        "depth": -1.49498450756073,
+        "width": 2.291593074798584
+      },
+      {
+        "visible": 7,
+        "enabled": true,
+        "settled": 2,
+        "t": 0.38378729997202754,
+        "depth": -1.4931559562683105,
+        "width": 2.325110673904419
+      },
+      {
+        "visible": 8,
+        "enabled": true,
+        "settled": 2,
+        "t": 0.4014451999682933,
+        "depth": -1.4927738904953003,
+        "width": 2.3321151733398438
+      },
+      {
+        "visible": 8,
+        "enabled": true,
+        "settled": 3,
+        "t": 0.4233347999979742,
+        "depth": -1.4941397905349731,
+        "width": 2.3070759773254395
+      },
+      {
+        "visible": 9,
+        "enabled": true,
+        "settled": 3,
+        "t": 0.4351190999732353,
+        "depth": -1.495246410369873,
+        "width": 2.286792278289795
+      },
+      {
+        "visible": 9,
+        "enabled": true,
+        "settled": 4,
+        "t": 0.45100979995913804,
+        "depth": -1.4972174167633057,
+        "width": 2.250662088394165
+      },
+      {
+        "visible": 10,
+        "enabled": true,
+        "settled": 5,
+        "t": 0.4716358999721706,
+        "depth": -1.4993385076522827,
+        "width": 2.211782932281494
+      },
+      {
+        "visible": 10,
+        "enabled": true,
+        "settled": 5,
+        "t": 0.48753439995925874,
+        "depth": -1.5011478662490845,
+        "width": 2.1786160469055176
+      },
+      {
+        "visible": 11,
+        "enabled": true,
+        "settled": 6,
+        "t": 0.5007071999716572,
+        "depth": -1.5020254850387573,
+        "width": 2.1625282764434814
+      },
+      {
+        "visible": 11,
+        "enabled": true,
+        "settled": 6,
+        "t": 0.5177974999533035,
+        "depth": -1.5027406215667725,
+        "width": 2.149419069290161
+      },
+      {
+        "visible": 12,
+        "enabled": true,
+        "settled": 7,
+        "t": 0.5338656000094488,
+        "depth": -1.5028234720230103,
+        "width": 2.147902011871338
+      },
+      {
+        "visible": 12,
+        "enabled": true,
+        "settled": 7,
+        "t": 0.5506907000089996,
+        "depth": -1.5024911165237427,
+        "width": 2.153994083404541
+      },
+      {
+        "visible": 13,
+        "enabled": true,
+        "settled": 8,
+        "t": 0.5682215999695472,
+        "depth": -1.5018484592437744,
+        "width": 2.16577410697937
+      },
+      {
+        "visible": 14,
+        "enabled": true,
+        "settled": 8,
+        "t": 0.5849735999945551,
+        "depth": -1.501060128211975,
+        "width": 2.1802241802215576
+      },
+      {
+        "visible": 14,
+        "enabled": true,
+        "settled": 9,
+        "t": 0.6000424000085331,
+        "depth": -1.5003271102905273,
+        "width": 2.1936612129211426
+      },
+      {
+        "visible": 15,
+        "enabled": true,
+        "settled": 9,
+        "t": 0.6175674999831244,
+        "depth": -1.4996576309204102,
+        "width": 2.2059319019317627
+      },
+      {
+        "visible": 15,
+        "enabled": true,
+        "settled": 10,
+        "t": 0.6337122999830171,
+        "depth": -1.499177098274231,
+        "width": 2.214740753173828
+      },
+      {
+        "visible": 16,
+        "enabled": true,
+        "settled": 10,
+        "t": 0.6521512999897823,
+        "depth": -1.498916745185852,
+        "width": 2.2195136547088623
+      },
+      {
+        "visible": 16,
+        "enabled": true,
+        "settled": 11,
+        "t": 0.6672472999780439,
+        "depth": -1.4988957643508911,
+        "width": 2.2198984622955322
+      },
+      {
+        "visible": 17,
+        "enabled": true,
+        "settled": 11,
+        "t": 0.6836378999869339,
+        "depth": -1.4990277290344238,
+        "width": 2.2174789905548096
+      },
+      {
+        "visible": 17,
+        "enabled": true,
+        "settled": 12,
+        "t": 0.6997180999605916,
+        "depth": -1.4992717504501343,
+        "width": 2.2130064964294434
+      },
+      {
+        "visible": 18,
+        "enabled": true,
+        "settled": 13,
+        "t": 0.7178188999532722,
+        "depth": -1.4995838403701782,
+        "width": 2.2072861194610596
+      },
+      {
+        "visible": 18,
+        "enabled": true,
+        "settled": 13,
+        "t": 0.7343404999701306,
+        "depth": -1.4998900890350342,
+        "width": 2.2016706466674805
+      },
+      {
+        "visible": 19,
+        "enabled": true,
+        "settled": 14,
+        "t": 0.7515308999572881,
+        "depth": -1.5001435279846191,
+        "width": 2.197026252746582
+      },
+      {
+        "visible": 19,
+        "enabled": true,
+        "settled": 14,
+        "t": 0.7663154999609105,
+        "depth": -1.5003081560134888,
+        "width": 2.19400691986084
+      },
+      {
+        "visible": 20,
+        "enabled": true,
+        "settled": 15,
+        "t": 0.7838905999669805,
+        "depth": -1.5004109144210815,
+        "width": 2.192124843597412
+      },
+      {
+        "visible": 21,
+        "enabled": true,
+        "settled": 15,
+        "t": 0.8017686000093818,
+        "depth": -1.500428318977356,
+        "width": 2.191805839538574
+      },
+      {
+        "visible": 21,
+        "enabled": true,
+        "settled": 16,
+        "t": 0.8294334000092931,
+        "depth": -1.5003076791763306,
+        "width": 2.194016933441162
+      },
+      {
+        "visible": 22,
+        "enabled": true,
+        "settled": 16,
+        "t": 0.8381319000036456,
+        "depth": -1.5002541542053223,
+        "width": 2.194998264312744
+      },
+      {
+        "visible": 22,
+        "enabled": true,
+        "settled": 17,
+        "t": 0.850770199962426,
+        "depth": -1.5001589059829712,
+        "width": 2.196744203567505
+      },
+      {
+        "visible": 23,
+        "enabled": true,
+        "settled": 17,
+        "t": 0.8667847999604419,
+        "depth": -1.5000499486923218,
+        "width": 2.1987407207489014
+      },
+      {
+        "visible": 23,
+        "enabled": true,
+        "settled": 18,
+        "t": 0.8831570000038482,
+        "depth": -1.4999464750289917,
+        "width": 2.2006378173828125
+      },
+      {
+        "visible": 24,
+        "enabled": true,
+        "settled": 18,
+        "t": 0.9006666999775916,
+        "depth": -1.4998737573623657,
+        "width": 2.201970100402832
+      },
+      {
+        "visible": 24,
+        "enabled": true,
+        "settled": 19,
+        "t": 0.9163954999530688,
+        "depth": -1.4998383522033691,
+        "width": 2.2026195526123047
+      },
+      {
+        "visible": 25,
+        "enabled": true,
+        "settled": 20,
+        "t": 0.9347244999953546,
+        "depth": -1.499832034111023,
+        "width": 2.2027344703674316
+      },
+      {
+        "visible": 25,
+        "enabled": true,
+        "settled": 20,
+        "t": 0.9510632999590598,
+        "depth": -1.499853253364563,
+        "width": 2.202345371246338
+      },
+      {
+        "visible": 26,
+        "enabled": true,
+        "settled": 21,
+        "t": 0.9677568000042811,
+        "depth": -1.4998911619186401,
+        "width": 2.201650619506836
+      },
+      {
+        "visible": 26,
+        "enabled": true,
+        "settled": 21,
+        "t": 0.9830243999604136,
+        "depth": -1.4999359846115112,
+        "width": 2.2008309364318848
+      },
+      {
+        "visible": 27,
+        "enabled": true,
+        "settled": 22,
+        "t": 1.0009275999618694,
+        "depth": -1.499983787536621,
+        "width": 2.1999545097351074
+      },
+      {
+        "visible": 27,
+        "enabled": true,
+        "settled": 22,
+        "t": 1.0171856000088155,
+        "depth": -1.5000234842300415,
+        "width": 2.1992270946502686
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 23,
+        "t": 1.0352427999605425,
+        "depth": -1.5000512599945068,
+        "width": 2.198715925216675
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 23,
+        "t": 1.0510700999875553,
+        "depth": -1.5000653266906738,
+        "width": 2.198460102081299
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 24,
+        "t": 1.0668088999809697,
+        "depth": -1.5000660419464111,
+        "width": 2.198446035385132
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 24,
+        "t": 1.0844681999878958,
+        "depth": -1.5000571012496948,
+        "width": 2.1986095905303955
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 25,
+        "t": 1.0996647999854758,
+        "depth": -1.5000427961349487,
+        "width": 2.1988718509674072
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 25,
+        "t": 1.1175048999721184,
+        "depth": -1.500023365020752,
+        "width": 2.1992287635803223
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 26,
+        "t": 1.1328243999741971,
+        "depth": -1.5000066757202148,
+        "width": 2.1995341777801514
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 27,
+        "t": 1.1496894999872893,
+        "depth": -1.4999911785125732,
+        "width": 2.1998190879821777
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 27,
+        "t": 1.1662355999578722,
+        "depth": -1.4999806880950928,
+        "width": 2.2000114917755127
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.1835938000003807,
+        "depth": -1.4999746084213257,
+        "width": 2.2001209259033203
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.2007840999867767,
+        "depth": -1.499974012374878,
+        "width": 2.2001335620880127
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.2323412999976426,
+        "depth": -1.4999831914901733,
+        "width": 2.1999642848968506
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.2392863999702968,
+        "depth": -1.499986171722412,
+        "width": 2.199910879135132
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.2499275999725796,
+        "depth": -1.4999908208847046,
+        "width": 2.1998250484466553
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.266397200000938,
+        "depth": -1.4999977350234985,
+        "width": 2.1996970176696777
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.2845972999930382,
+        "depth": -1.5000041723251343,
+        "width": 2.1995792388916016
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.3003159000072628,
+        "depth": -1.5000079870224,
+        "width": 2.1995110511779785
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.3164153999532573,
+        "depth": -1.5000098943710327,
+        "width": 2.1994755268096924
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.3325826000072993,
+        "depth": -1.5000100135803223,
+        "width": 2.199472665786743
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.3493056999868713,
+        "depth": -1.5000088214874268,
+        "width": 2.199495315551758
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.3664785999571905,
+        "depth": -1.5000064373016357,
+        "width": 2.199538469314575
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.382943999953568,
+        "depth": -1.500003695487976,
+        "width": 2.1995890140533447
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.3997877999790944,
+        "depth": -1.5000008344650269,
+        "width": 2.1996402740478516
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.4167086000088602,
+        "depth": -1.4999985694885254,
+        "width": 2.19968318939209
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.4334029000019655,
+        "depth": -1.4999969005584717,
+        "width": 2.1997127532958984
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.4499385000090115,
+        "depth": -1.4999961853027344,
+        "width": 2.1997268199920654
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.4673338999855332,
+        "depth": -1.4999960660934448,
+        "width": 2.19972825050354
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.4842886999831535,
+        "depth": -1.4999966621398926,
+        "width": 2.199718475341797
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.5003859999706037,
+        "depth": -1.4999974966049194,
+        "width": 2.1997017860412598
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.5167644000030123,
+        "depth": -1.4999985694885254,
+        "width": 2.1996817588806152
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.5333691999549046,
+        "depth": -1.4999996423721313,
+        "width": 2.199662208557129
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.5537566999555565,
+        "depth": -1.5000007152557373,
+        "width": 2.1996428966522217
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.5677076999563724,
+        "depth": -1.5000011920928955,
+        "width": 2.199633836746216
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.5836126999929547,
+        "depth": -1.5000015497207642,
+        "width": 2.1996285915374756
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6004589999793097,
+        "depth": -1.5000015497207642,
+        "width": 2.1996281147003174
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6167727999854833,
+        "depth": -1.500001311302185,
+        "width": 2.199632167816162
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6336107999668457,
+        "depth": -1.5000009536743164,
+        "width": 2.199638843536377
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6496752999955788,
+        "depth": -1.5000005960464478,
+        "width": 2.199646472930908
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6670249999733642,
+        "depth": -1.5000001192092896,
+        "width": 2.1996545791625977
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6829926999635063,
+        "depth": -1.499999761581421,
+        "width": 2.1996607780456543
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.6998517999891192,
+        "depth": -1.4999995231628418,
+        "width": 2.1996653079986572
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.7170181999681517,
+        "depth": -1.4999994039535522,
+        "width": 2.1996676921844482
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.733476499968674,
+        "depth": -1.4999994039535522,
+        "width": 2.1996676921844482
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.7503595000016503,
+        "depth": -1.4999995231628418,
+        "width": 2.1996662616729736
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.766635799955111,
+        "depth": -1.4999996423721313,
+        "width": 2.1996636390686035
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.7835318999714218,
+        "depth": -1.499999761581421,
+        "width": 2.199660301208496
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.799218199972529,
+        "depth": -1.5,
+        "width": 2.199657440185547
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.816532799974084,
+        "depth": -1.5000001192092896,
+        "width": 2.1996548175811768
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.8336828000028618,
+        "depth": -1.500000238418579,
+        "width": 2.199653148651123
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.8496474999701604,
+        "depth": -1.500000238418579,
+        "width": 2.1996521949768066
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.866164300008677,
+        "depth": -1.500000238418579,
+        "width": 2.1996521949768066
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.882358299975749,
+        "depth": -1.500000238418579,
+        "width": 2.199652910232544
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.898993699986022,
+        "depth": -1.5000001192092896,
+        "width": 2.1996538639068604
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.9165092000039294,
+        "depth": -1.5000001192092896,
+        "width": 2.199655294418335
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.933869800006505,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.9500009999610484,
+        "depth": -1.5,
+        "width": 2.1996572017669678
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.9660743999993429,
+        "depth": -1.4999998807907104,
+        "width": 2.199657917022705
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.982372700003907,
+        "depth": -1.4999998807907104,
+        "width": 2.199658155441284
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 1.9990216000005603,
+        "depth": -1.4999998807907104,
+        "width": 2.199658155441284
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.0163128999993205,
+        "depth": -1.4999998807907104,
+        "width": 2.199657917022705
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.0342633999534883,
+        "depth": -1.5,
+        "width": 2.199657678604126
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.0503140999935567,
+        "depth": -1.5,
+        "width": 2.1996572017669678
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.067038599983789,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.082738499972038,
+        "depth": -1.5,
+        "width": 2.1996562480926514
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.0992563999607228,
+        "depth": -1.5,
+        "width": 2.1996560096740723
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.11703480000142,
+        "depth": -1.5,
+        "width": 2.1996560096740723
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.132694099971559,
+        "depth": -1.5,
+        "width": 2.1996560096740723
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.149652599997353,
+        "depth": -1.5,
+        "width": 2.1996560096740723
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.167062199965585,
+        "depth": -1.5,
+        "width": 2.1996562480926514
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.1828292999998666,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.199432399997022,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.21555389999412,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.2329882999765687,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.250478799978737,
+        "depth": -1.5,
+        "width": 2.1996569633483887
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.2664846999687143,
+        "depth": -1.5,
+        "width": 2.1996569633483887
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.2842195999692194,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.3002014000085182,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.3161584999761544,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.3329010999877937,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.349513699999079,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.366956499987282,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.38384689996019,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.399855099967681,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.4169653999852017,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.4333184999995865,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.4496547000017017,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.4664671999635175,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.482470699993428,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.4994757999666035,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.517080499965232,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.5328714000061154,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.5504996000090614,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.565859099966474,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.582729899964761,
+        "depth": -1.5,
+        "width": 2.1996567249298096
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.599796399998013,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.6171799000003375,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.63334419997409,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.649002999998629,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.6669875999796204,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.68253759999061,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.699967900000047,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.717099200002849,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.732639499998186,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.749494899995625,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.766082299989648,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      },
+      {
+        "visible": 28,
+        "enabled": true,
+        "settled": 28,
+        "t": 2.7832197999814525,
+        "depth": -1.5,
+        "width": 2.1996564865112305
+      }
+    ],
+    "events": [
+      {
+        "open": true,
+        "t": 0
+      }
+    ],
+    "t0": 3512.025473400019
+  },
+  "interruption": {
+    "enabled": true,
+    "planes": 1,
+    "open": true,
+    "settledSlots": 28
+  },
+  "functional": {
+    "hoverReset": true,
+    "restored": true,
+    "events": [
+      {
+        "slot": 1,
+        "kind": "selected"
+      },
+      {
+        "slot": 14,
+        "kind": "selected"
+      },
+      {
+        "slot": 28,
+        "kind": "selected"
+      },
+      {
+        "slot": 28,
+        "kind": "primary"
+      },
+      {
+        "slot": 28,
+        "kind": "secondary"
+      }
+    ],
+    "rootDisableHidesSurfaceAndQuery": true
+  },
+  "resizeRegression": [
+    {
+      "name": "small",
+      "viewport": [
+        359,
+        619
+      ],
+      "mode": "portrait",
+      "canvas": [
+        500,
+        740
+      ],
+      "outside": [],
+      "scroll": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "large",
+      "viewport": [
+        1919,
+        1079
+      ],
+      "mode": "desktop",
+      "canvas": [
+        1000,
+        720
+      ],
+      "outside": [],
+      "scroll": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "small-return",
+      "viewport": [
+        359,
+        619
+      ],
+      "mode": "portrait",
+      "canvas": [
+        500,
+        740
+      ],
+      "outside": [],
+      "scroll": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "phone-portrait",
+      "viewport": [
+        401,
+        778
+      ],
+      "mode": "portrait",
+      "canvas": [
+        500,
+        740
+      ],
+      "outside": [
+        "close"
+      ],
+      "scroll": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "phone-landscape",
+      "viewport": [
+        750,
+        381
+      ],
+      "mode": "compact-landscape",
+      "canvas": [
+        900,
+        360
+      ],
+      "outside": [],
+      "scroll": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "phone-portrait-return",
+      "viewport": [
+        401,
+        778
+      ],
+      "mode": "portrait",
+      "canvas": [
+        500,
+        740
+      ],
+      "outside": [
+        "close"
+      ],
+      "scroll": [
+        0,
+        0
+      ]
+    }
+  ],
+  "lifecycle": {
+    "enabled": true,
+    "drivers": 1,
+    "resetOnSpawn": false,
+    "planes": 1,
+    "open": true,
+    "surfacePresent": true
+  },
+  "cleanup": {
+    "planes": 0,
+    "drivers": 0,
+    "surfacePresent": false
+  },
+  "import": {
+    "sourcesMatch": true,
+    "count": 3277,
+    "method": "native UI deserialization + identical controller/config reauthoring via supported script editor",
+    "surfaceResetOnSpawn": false,
+    "directSerializedScriptReparent": "blocked by Network capability",
+    "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+  },
+  "gamepad": {
+    "status": "not-certified",
+    "note": "Keyboard-injected ButtonY toggled visibility in diagnostics; tool reports Keyboard, so physical gamepad focus/activation is not verified."
+  },
+  "gallery": [
+    {
+      "file": "previews/hud.jpg",
+      "captureKey": "galleryClosed",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/inventory.jpg",
+      "captureKey": "roundtripActual",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/selected-slot.jpg",
+      "captureKey": "gallerySelected",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/opening-overshoot.jpg",
+      "captureKey": "galleryPeakNoDelay",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2",
+      "note": "Replayed final native model and captured the large empty-panel overshoot; superseded small-onset image kept only as local evidence."
+    },
+    {
+      "file": "previews/opening-stagger.jpg",
+      "captureKey": "galleryOpeningMid",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/tilt-left.jpg",
+      "captureKey": "galleryTiltLeft",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/tilt-right.jpg",
+      "captureKey": "galleryTiltRight",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/compact-portrait.jpg",
+      "captureKey": "extra-iphone17-portrait",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/compact-landscape.jpg",
+      "captureKey": "device-phone-640x360",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/compact-scroll-bottom.jpg",
+      "captureKey": "galleryScrolled",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    },
+    {
+      "file": "previews/tablet.jpg",
+      "captureKey": "extra-ipadM5-portrait",
+      "context": "Studio Client",
+      "sourceVersion": "a5772332fc33457b63cfed2ed86b93befa9bc6f1527ab90564473bc542223ac2"
+    }
+  ],
+  "nativeModelSha256": "c54c7de02e029ef1a5d6a2ee8f16167ff434d1be175aaedc628bfd86b2fcb617"
+}

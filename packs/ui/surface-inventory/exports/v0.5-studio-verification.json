@@ -1,0 +1,411 @@
+{
+  "sourceVersion": "567a6f7a7b0ec271fa2b81091a588f87c12cf6b998b5522996f6109c1e89f0e9",
+  "modelSha256": "06ecf35b98d77a8f82109cd89b46ab6196916cb1c62dcd13902f6ff502a21bd8",
+  "scope": "60 authored slots and genuine white native scrollbar, desktop and compact",
+  "method": "Studio-native serialization/deserialization + exact embedded script restoration through supported editor + imported actual Client input/captures.",
+  "instances": 12989,
+  "slots": 60,
+  "buttons": 64,
+  "desktopCanvas": [
+    500,
+    1078
+  ],
+  "desktopViewport": [
+    500,
+    550
+  ],
+  "desktopMaxScroll": 528,
+  "desktopThumbHeight": 280.6122448979592,
+  "scrollBarWhite": [
+    1,
+    1,
+    1
+  ],
+  "desktopThickness": 10,
+  "compactThickness": 6,
+  "actualInput": {
+    "sourceVersion": "567a6f7a7b0ec271fa2b81091a588f87c12cf6b998b5522996f6109c1e89f0e9",
+    "preExportThumbDragY": 290.491058,
+    "desktopCanvas": [
+      500,
+      1078
+    ],
+    "desktopView": [
+      500,
+      550
+    ],
+    "desktopThumbHeight": 280.6122448979592,
+    "white": [
+      1,
+      1,
+      1
+    ],
+    "slotCount": 60,
+    "imported": {
+      "maxY": 528,
+      "wheelY": 528,
+      "lastScale": 1.0794997215270996,
+      "selected": {
+        "1": 60
+      },
+      "thumbColor": "1, 1, 1"
+    },
+    "probes": [
+      {
+        "name": "compact-portrait",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 500,
+            "2": 740
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 416,
+            "2": 1460
+          },
+          "layout": "portrait",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 69.70626831054688,
+              "x": 13.379379272460938,
+              "center": {
+                "1": 147.61903381347656,
+                "2": 104.28732299804688
+              },
+              "bottom": 138.86672973632812,
+              "height": 69.15536499023438,
+              "right": 281.8623962402344,
+              "width": 268.4830322265625
+            },
+            "close": {
+              "y": 111.7567138671875,
+              "x": 324.72515869140625,
+              "center": {
+                "1": 361.5947265625,
+                "2": 148.62583923339844
+              },
+              "bottom": 185.49496459960938,
+              "height": 60.20768356323242,
+              "right": 398.4644775390625,
+              "width": 60.206878662109375
+            },
+            "scroll": {
+              "y": 146.18511962890625,
+              "x": 24.76959228515625,
+              "center": {
+                "1": 193.9919891357422,
+                "2": 274.7347717285156
+              },
+              "bottom": 403.28228759765625,
+              "height": 257.08966064453125,
+              "right": 363.22198486328125,
+              "width": 338.452392578125
+            },
+            "primary": {
+              "y": 417.9245910644531,
+              "x": 208.63442993164062,
+              "center": {
+                "1": 285.9248046875,
+                "2": 456.9771728515625
+              },
+              "bottom": 496.03045654296875,
+              "height": 78.10281372070312,
+              "right": 363.2166442871094,
+              "width": 154.58140563964844
+            },
+            "firstSlot": {
+              "y": 159.2053985595703,
+              "x": 37.78660583496094,
+              "center": {
+                "1": 71.95631408691406,
+                "2": 193.3765869140625
+              },
+              "bottom": 227.547119140625,
+              "height": 68.3406982421875,
+              "right": 106.12628173828125,
+              "width": 68.33967590332031
+            },
+            "secondary": {
+              "y": 512.2987670898438,
+              "x": 215.9558563232422,
+              "center": {
+                "1": 285.9235534667969,
+                "2": 543.215576171875
+              },
+              "bottom": 574.1328125,
+              "height": 61.83050537109375,
+              "right": 355.89239501953125,
+              "width": 139.93597412109375
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 401,
+            "2": 778
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      },
+      {
+        "name": "compact-landscape",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 900,
+            "2": 360
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 508,
+            "2": 1176
+          },
+          "layout": "compact-landscape",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 62.268760681152344,
+              "x": 103.9622802734375,
+              "center": {
+                "1": 222.2215576171875,
+                "2": 84.64217376708984
+              },
+              "bottom": 107.015625,
+              "height": 44.746864318847656,
+              "right": 340.4810791015625,
+              "width": 236.518798828125
+            },
+            "close": {
+              "y": 84.07418823242188,
+              "x": 583.4633178710938,
+              "center": {
+                "1": 617.9111938476562,
+                "2": 118.52197265625
+              },
+              "bottom": 152.96987915039062,
+              "height": 56.253013610839844,
+              "right": 652.3590698242188,
+              "width": 56.25312805175781
+            },
+            "scroll": {
+              "y": 112.12960815429688,
+              "x": 115.46844482421875,
+              "center": {
+                "1": 277.83551025390625,
+                "2": 193.9522247314453
+              },
+              "bottom": 275.77496337890625,
+              "height": 163.64535522460938,
+              "right": 440.20245361328125,
+              "width": 324.7340087890625
+            },
+            "primary": {
+              "y": 165.82582092285156,
+              "x": 445.3163757324219,
+              "center": {
+                "1": 534.8099975585938,
+                "2": 199.0662078857422
+              },
+              "bottom": 232.30673217773438,
+              "height": 66.48091125488281,
+              "right": 624.3036499023438,
+              "width": 178.98727416992188
+            },
+            "firstSlot": {
+              "y": 122.35743713378906,
+              "x": 125.69630432128906,
+              "center": {
+                "1": 153.82293701171875,
+                "2": 150.48399353027344
+              },
+              "bottom": 178.6105194091797,
+              "height": 56.253082275390625,
+              "right": 181.94952392578125,
+              "width": 56.25321960449219
+            },
+            "secondary": {
+              "y": 236.14208984375,
+              "x": 453.62652587890625,
+              "center": {
+                "1": 534.8099975585938,
+                "2": 264.26873779296875
+              },
+              "bottom": 292.3951721191406,
+              "height": 56.253082275390625,
+              "right": 615.9934692382812,
+              "width": 162.366943359375
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 750,
+            "2": 381
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": false
+        }
+      },
+      {
+        "name": "tablet",
+        "probe": {
+          "enabled": true,
+          "touchEnabled": true,
+          "canvas": {
+            "1": 1000,
+            "2": 720
+          },
+          "gamepadEnabled": false,
+          "scrollCanvas": {
+            "1": 500,
+            "2": 1078
+          },
+          "layout": "desktop",
+          "open": true,
+          "scrollEnabled": true,
+          "controls": {
+            "title": {
+              "y": 168.90713500976562,
+              "x": 166.62188720703125,
+              "center": {
+                "1": 408.6967468261719,
+                "2": 229.00830078125
+              },
+              "bottom": 289.10992431640625,
+              "height": 120.20278930664062,
+              "right": 650.771484375,
+              "width": 484.14959716796875
+            },
+            "close": {
+              "y": 244.23934936523438,
+              "x": 1111.197021484375,
+              "center": {
+                "1": 1161.632568359375,
+                "2": 294.675048828125
+              },
+              "bottom": 345.11041259765625,
+              "height": 82.3609619140625,
+              "right": 1212.068359375,
+              "width": 82.36103057861328
+            },
+            "scroll": {
+              "y": 293.561767578125,
+              "x": 215.59332275390625,
+              "center": {
+                "1": 493.8402404785156,
+                "2": 599.633544921875
+              },
+              "bottom": 905.705078125,
+              "height": 612.143310546875,
+              "right": 772.0870971679688,
+              "width": 556.4937744140625
+            },
+            "primary": {
+              "y": 695.350341796875,
+              "x": 803.8071899414062,
+              "center": {
+                "1": 969.085693359375,
+                "2": 740.9826049804688
+              },
+              "bottom": 786.615478515625,
+              "height": 91.26513671875,
+              "right": 1134.364501953125,
+              "width": 330.5572509765625
+            },
+            "firstSlot": {
+              "y": 311.369384765625,
+              "x": 233.401123046875,
+              "center": {
+                "1": 276.8076477050781,
+                "2": 354.7762145996094
+              },
+              "bottom": 398.18267822265625,
+              "height": 86.81329345703125,
+              "right": 320.21417236328125,
+              "width": 86.81304931640625
+            },
+            "secondary": {
+              "y": 797.1888427734375,
+              "x": 819.3890380859375,
+              "center": {
+                "1": 969.0858154296875,
+                "2": 833.3607177734375
+              },
+              "bottom": 869.5328979492188,
+              "height": 72.34405517578125,
+              "right": 1118.78271484375,
+              "width": 299.3936767578125
+            }
+          },
+          "scrollPosition": {
+            "1": 0,
+            "2": 0
+          },
+          "artLoaded": {
+            "1": true,
+            "2": true
+          },
+          "titleFits": true,
+          "viewport": {
+            "1": 1375,
+            "2": 1032
+          },
+          "outside": [],
+          "inset": {
+            "1": 0,
+            "2": 58,
+            "3": 0,
+            "4": 0
+          },
+          "launcherVisible": true
+        }
+      }
+    ]
+  },
+  "importedPhoneBottom": {
+    "canvasY": 1460,
+    "viewportY": 316,
+    "scrollY": 1144,
+    "slot60Visible": true
+  },
+  "backgroundObservedDelta": [
+    -3.60192871,
+    3.60192871
+  ],
+  "referenceNote": "Breakdown/demo frames rechecked and timestamped again. Additional cells and white thumb follow explicit user refinement, not an original60-item assertion.",
+  "limits": "Physical touch/gamepad/VR and full rerun of all27 historical geometry cases not certified. Source-video pixel fidelity still unmeasured; fresh one-step native import remains uncertified.",
+  "restored": "Play initially running; returned to Play with inventory open, default simulator, LandscapeRight orientation; temporary preset and detached backups removed."
+}

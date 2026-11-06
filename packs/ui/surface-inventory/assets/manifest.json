@@ -1,0 +1,12 @@
+{
+  "generated": "backpack-v2.png",
+  "method": "built-in image_gen; inspected breakdown reference",
+  "transparent_background": true,
+  "roblox_asset_id": "rbxassetid://86135425235678",
+  "upload_result": "success via Studio upload_image",
+  "loaded_in_studio": true,
+  "load_evidence": "Both IsLoaded probes true in Studio Client and artwork visible in gallery",
+  "runtime_fallback": "Hidden editable NativeBackpack retained; see README for manual use",
+  "renderer_mapping": "Exact local generated/uploaded PNG explicitly preloaded into RHR image cache after RHR reported unavailable. This is not a claim of successful remote fetch.",
+  "superseded": "backpack-generated.png is v1 provenance, not used by shipped UI"
+}
