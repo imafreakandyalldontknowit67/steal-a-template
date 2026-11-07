@@ -1,0 +1,53 @@
+{
+  "id": "asmr-kit",
+  "name": "ASMR Interaction Kit",
+  "category": "systems",
+  "version": "0.1.0",
+  "status": "preview",
+  "distributionAuthorized": true,
+  "publicationReady": false,
+  "model": "ASMRKit.rbxm",
+  "sourceFile": "Asmr_Pack.rbxm",
+  "sha256": "cac555c65726ad40dcc66581962b67080d49757cfda179d2e0de0303b49edc73",
+  "sourceSha256": "cac555c65726ad40dcc66581962b67080d49757cfda179d2e0de0303b49edc73",
+  "itemCount": 10,
+  "scripts": 11,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/item-001.jpg",
+    "previews/item-001-back.jpg",
+    "previews/item-002.jpg",
+    "previews/item-002-back.jpg",
+    "previews/item-003.jpg",
+    "previews/item-003-back.jpg",
+    "previews/item-004.jpg",
+    "previews/item-004-back.jpg",
+    "previews/item-005.jpg",
+    "previews/item-005-back.jpg",
+    "previews/item-006.jpg",
+    "previews/item-006-back.jpg",
+    "previews/item-007.jpg",
+    "previews/item-007-back.jpg",
+    "previews/item-008.jpg",
+    "previews/item-008-back.jpg",
+    "previews/item-009.jpg",
+    "previews/item-009-back.jpg",
+    "previews/item-010.jpg",
+    "previews/item-010-back.jpg",
+    "previews/initialized-bubble.jpg",
+    "previews/initialized-bubble-back.jpg",
+    "previews/initialized-keyboard-final.jpg",
+    "previews/initialized-keyboard-final-back.jpg"
+  ],
+  "limitations": [
+    "Server scripts create touch-responsive parts and sound pools. No Play or audio playback certification. Keyboard and Bubble grids are generated only at runtime; static screenshots show their supplied edit-time instances/templates, not a tested generated result."
+  ],
+  "captureMode": "Studio Edit; isolated temporary clones, no desktop control",
+  "generatorInitialization": {
+    "keyboardCells": 30,
+    "bubbleCells": 30,
+    "soundPoolEmittersEach": 8,
+    "mode": "Edit on temporary clones",
+    "touchAndAudioTested": false
+  }
+}

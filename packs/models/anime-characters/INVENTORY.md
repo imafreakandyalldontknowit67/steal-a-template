@@ -1,0 +1,229 @@
+# Native inventory
+
+Root: Characters
+
+## Included entries
+
+- `One Punch Man` (Folder)
+- `Dragon Ball` (Folder)
+- `Berserk` (Folder)
+- `Other` (Folder)
+- `My Hero Academia` (Folder)
+- `Seven Deadly Sins` (Folder)
+- `Black Clover` (Folder)
+- `Chainsaw Man` (Folder)
+- `Fairy Tail` (Folder)
+- `Demon Slayer` (Folder)
+- `JoJo` (Folder)
+- `Naruto` (Folder)
+- `Gurren Lagann` (Folder)
+- `One Piece` (Folder)
+- `Slime` (Folder)
+- `Fate` (Folder)
+- `Attack on Titan` (Folder)
+- `Bleach` (Folder)
+- `Jujutsu Kaisen` (Folder)
+- `Hunter x Hunter` (Folder)
+- `Baki` (Folder)
+
+## Instance classes
+
+- Accessory: 534
+- AnimationConstraint: 1560
+- Animator: 157
+- Attachment: 9047
+- BallSocketConstraint: 2198
+- Beam: 37
+- BodyColors: 158
+- BodyPartDescription: 942
+- BoolValue: 2
+- CFrameValue: 104
+- Configuration: 104
+- Decal: 2
+- FaceControls: 157
+- Folder: 554
+- Humanoid: 159
+- HumanoidDescription: 157
+- MeshPart: 2817
+- Model: 160
+- Motor6D: 825
+- NoCollisionConstraint: 3021
+- NumberValue: 954
+- ObjectValue: 104
+- Pants: 157
+- Part: 277
+- ParticleEmitter: 1937
+- PointLight: 96
+- RigidConstraint: 535
+- Shirt: 157
+- SpecialMesh: 102
+- SpotLight: 1
+- StringValue: 420
+- SurfaceAppearance: 54
+- Vector3Value: 11614
+- Weld: 5
+- WeldConstraint: 25
+- WrapLayer: 114
+- WrapTarget: 2352
+
+## Full preview entry mapping
+
+- 1. `Attack on Titan / Eren` (Attack on Titan)
+- 2. `Attack on Titan / Erwin` (Attack on Titan)
+- 3. `Attack on Titan / Levi` (Attack on Titan)
+- 4. `Baki / Baki` (Baki)
+- 5. `Baki / Yujiro` (Baki)
+- 6. `Berserk / Griffith` (Berserk)
+- 7. `Berserk / Guts` (Berserk)
+- 8. `Berserk / GutsAngry` (Berserk)
+- 9. `Black Clover / Asta` (Black Clover)
+- 10. `Black Clover / Julius` (Black Clover)
+- 11. `Black Clover / Yami` (Black Clover)
+- 12. `Black Clover / Yuno` (Black Clover)
+- 13. `Bleach / Aizen` (Bleach)
+- 14. `Bleach / Ichigo` (Bleach)
+- 15. `Bleach / IchigoTwo` (Bleach)
+- 16. `Bleach / Kenpachi` (Bleach)
+- 17. `Bleach / RukiaBankai` (Bleach)
+- 18. `Bleach / Starrk` (Bleach)
+- 19. `Bleach / Ulquiorra` (Bleach)
+- 20. `Bleach / Yhwach` (Bleach)
+- 21. `Chainsaw Man / Denji` (Chainsaw Man)
+- 22. `Chainsaw Man / Kishibe` (Chainsaw Man)
+- 23. `Chainsaw Man / Makima` (Chainsaw Man)
+- 24. `Demon Slayer / Akaza` (Demon Slayer)
+- 25. `Demon Slayer / Douma` (Demon Slayer)
+- 26. `Demon Slayer / Inosuke` (Demon Slayer)
+- 27. `Demon Slayer / Kokushibo` (Demon Slayer)
+- 28. `Demon Slayer / Muzan` (Demon Slayer)
+- 29. `Demon Slayer / Rengoku` (Demon Slayer)
+- 30. `Demon Slayer / Tanjiro` (Demon Slayer)
+- 31. `Demon Slayer / Yoriichi` (Demon Slayer)
+- 32. `Demon Slayer / Zenitsu` (Demon Slayer)
+- 33. `Dragon Ball / BeastGohan` (Dragon Ball)
+- 34. `Dragon Ball / Beerus` (Dragon Ball)
+- 35. `Dragon Ball / BlackFrieza` (Dragon Ball)
+- 36. `Dragon Ball / BlackGoku` (Dragon Ball)
+- 37. `Dragon Ball / Broly` (Dragon Ball)
+- 38. `Dragon Ball / Cell` (Dragon Ball)
+- 39. `Dragon Ball / DripGoku` (Dragon Ball)
+- 40. `Dragon Ball / Gogeta` (Dragon Ball)
+- 41. `Dragon Ball / GogetaBlue` (Dragon Ball)
+- 42. `Dragon Ball / Goku` (Dragon Ball)
+- 43. `Dragon Ball / Hit` (Dragon Ball)
+- 44. `Dragon Ball / InstinctGoku` (Dragon Ball)
+- 45. `Dragon Ball / Janemba` (Dragon Ball)
+- 46. `Dragon Ball / Jiren` (Dragon Ball)
+- 47. `Dragon Ball / JirenFullPower` (Dragon Ball)
+- 48. `Dragon Ball / JohnDragonBall` (Dragon Ball)
+- 49. `Dragon Ball / KidBuu` (Dragon Ball)
+- 50. `Dragon Ball / Krillin` (Dragon Ball)
+- 51. `Dragon Ball / Vegeta` (Dragon Ball)
+- 52. `Dragon Ball / VegetaBlue` (Dragon Ball)
+- 53. `Dragon Ball / Vegito` (Dragon Ball)
+- 54. `Dragon Ball / Whis` (Dragon Ball)
+- 55. `Dragon Ball / Zamasu` (Dragon Ball)
+- 56. `Fairy Tail / Acnologia` (Fairy Tail)
+- 57. `Fairy Tail / Natsu` (Fairy Tail)
+- 58. `Fate / Arthur` (Fate)
+- 59. `Fate / Gilgamesh` (Fate)
+- 60. `Gurren Lagann / AntiSpiral` (Gurren Lagann)
+- 61. `Gurren Lagann / Kamina` (Gurren Lagann)
+- 62. `Hunter x Hunter / AdultGon` (Hunter x Hunter)
+- 63. `Hunter x Hunter / Chrollo` (Hunter x Hunter)
+- 64. `Hunter x Hunter / Killua` (Hunter x Hunter)
+- 65. `Hunter x Hunter / Netero` (Hunter x Hunter)
+- 66. `JoJo / Diavolo` (JoJo)
+- 67. `JoJo / Dio` (JoJo)
+- 68. `JoJo / DioOverheaven` (JoJo)
+- 69. `JoJo / Giorno` (JoJo)
+- 70. `JoJo / GyroZeppeli` (JoJo)
+- 71. `JoJo / Johnny` (JoJo)
+- 72. `JoJo / Jonathan` (JoJo)
+- 73. `JoJo / Joseph` (JoJo)
+- 74. `JoJo / Jotaro` (JoJo)
+- 75. `JoJo / Kars` (JoJo)
+- 76. `JoJo / KiraYoshikage` (JoJo)
+- 77. `JoJo / Pucci` (JoJo)
+- 78. `Jujutsu Kaisen / Gojo` (Jujutsu Kaisen)
+- 79. `Jujutsu Kaisen / GojoFocused` (Jujutsu Kaisen)
+- 80. `Jujutsu Kaisen / HeianSukuna` (Jujutsu Kaisen)
+- 81. `Jujutsu Kaisen / Itadori` (Jujutsu Kaisen)
+- 82. `Jujutsu Kaisen / Mahito` (Jujutsu Kaisen)
+- 83. `Jujutsu Kaisen / Megumi` (Jujutsu Kaisen)
+- 84. `Jujutsu Kaisen / Naoya` (Jujutsu Kaisen)
+- 85. `Jujutsu Kaisen / Sukuna` (Jujutsu Kaisen)
+- 86. `Jujutsu Kaisen / Toji` (Jujutsu Kaisen)
+- 87. `Jujutsu Kaisen / TojiTwo` (Jujutsu Kaisen)
+- 88. `Jujutsu Kaisen / Yuki` (Jujutsu Kaisen)
+- 89. `Jujutsu Kaisen / Yuta` (Jujutsu Kaisen)
+- 90. `My Hero Academia / AllForOne` (My Hero Academia)
+- 91. `My Hero Academia / AllMight` (My Hero Academia)
+- 92. `My Hero Academia / Bakugo` (My Hero Academia)
+- 93. `My Hero Academia / Izuku` (My Hero Academia)
+- 94. `My Hero Academia / Mineta` (My Hero Academia)
+- 95. `My Hero Academia / Ochaco` (My Hero Academia)
+- 96. `My Hero Academia / Shigaraki` (My Hero Academia)
+- 97. `My Hero Academia / Stain` (My Hero Academia)
+- 98. `My Hero Academia / Todoroki` (My Hero Academia)
+- 99. `Naruto / Itachi` (Naruto)
+- 100. `Naruto / Jiraiya` (Naruto)
+- 101. `Naruto / Kaguya` (Naruto)
+- 102. `Naruto / Kakashi` (Naruto)
+- 103. `Naruto / Madara` (Naruto)
+- 104. `Naruto / MadaraSix` (Naruto)
+- 105. `Naruto / Minato` (Naruto)
+- 106. `Naruto / Naruto` (Naruto)
+- 107. `Naruto / Obito` (Naruto)
+- 108. `Naruto / Pain` (Naruto)
+- 109. `Naruto / RikudoNaruto` (Naruto)
+- 110. `Naruto / RockLee` (Naruto)
+- 111. `Naruto / Sasuke` (Naruto)
+- 112. `One Piece / Blackbeard` (One Piece)
+- 113. `One Piece / Doflamingo` (One Piece)
+- 114. `One Piece / Kaido` (One Piece)
+- 115. `One Piece / Katakuri` (One Piece)
+- 116. `One Piece / Law` (One Piece)
+- 117. `One Piece / Luffy` (One Piece)
+- 118. `One Piece / Mihawk` (One Piece)
+- 119. `One Piece / Shanks` (One Piece)
+- 120. `One Piece / Usopp` (One Piece)
+- 121. `One Piece / WhiteBeard` (One Piece)
+- 122. `One Piece / Zoro` (One Piece)
+- 123. `One Punch Man / Boros` (One Punch Man)
+- 124. `One Punch Man / CosmicGarou` (One Punch Man)
+- 125. `One Punch Man / Garou` (One Punch Man)
+- 126. `One Punch Man / Genos` (One Punch Man)
+- 127. `One Punch Man / MonsterGarou` (One Punch Man)
+- 128. `One Punch Man / Saitama` (One Punch Man)
+- 129. `One Punch Man / SeriousSaitama` (One Punch Man)
+- 130. `One Punch Man / Tatsumaki` (One Punch Man)
+- 131. `Other / Akuma` (Other)
+- 132. `Other / Alucard` (Other)
+- 133. `Other / Cid` (Other)
+- 134. `Other / Dante` (Other)
+- 135. `Other / Edward` (Other)
+- 136. `Other / Frieren` (Other)
+- 137. `Other / Gabimaru` (Other)
+- 138. `Other / JinMori` (Other)
+- 139. `Other / Jinwoo` (Other)
+- 140. `Other / Kaneki` (Other)
+- 141. `Other / Lelouch` (Other)
+- 142. `Other / Mob` (Other)
+- 143. `Other / Mugen` (Other)
+- 144. `Other / Okarun` (Other)
+- 145. `Other / Qifrey` (Other)
+- 146. `Other / QinShiHuang` (Other)
+- 147. `Other / Rudeus` (Other)
+- 148. `Other / Rudo` (Other)
+- 149. `Other / Saiki` (Other)
+- 150. `Other / Sakamoto` (Other)
+- 151. `Other / Sinbad` (Other)
+- 152. `Other / Soul` (Other)
+- 153. `Other / Subaru` (Other)
+- 154. `Seven Deadly Sins / Ban` (Seven Deadly Sins)
+- 155. `Seven Deadly Sins / Escanor` (Seven Deadly Sins)
+- 156. `Seven Deadly Sins / Estarossa` (Seven Deadly Sins)
+- 157. `Seven Deadly Sins / Meliodas` (Seven Deadly Sins)
+- 158. `Slime / Benimaru` (Slime)
+- 159. `Slime / Rimuru` (Slime)

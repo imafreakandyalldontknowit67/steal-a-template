@@ -23,6 +23,8 @@ Editable Roblox model collections with native downloads and real Studio screensh
 | [Lucky Blocks - Seven Variants](lucky-blocks-effects/) | [14 screenshots](lucky-blocks-effects/GALLERY.md) | [Lucky Blocks.rbxm](lucky-blocks-effects/Lucky%20Blocks.rbxm?raw=1) | Static geometry; gameplay unverified |
 | [Classic Colored Lucky Blocks](classic-lucky-blocks/) | [10 screenshots](classic-lucky-blocks/GALLERY.md) | [LuckyBlocks.rbxm](classic-lucky-blocks/LuckyBlocks.rbxm?raw=1) | Static geometry; gameplay unverified |
 | [Mythical Animals Collection](mythical-animals/) | [224 screenshots](mythical-animals/GALLERY.md) | [Mythical Animals.rbxm](mythical-animals/Mythical%20Animals.rbxm?raw=1) | Static geometry; gameplay unverified |
+| [Anime Character Collection](anime-characters/) | [318 screenshots](anime-characters/GALLERY.md) | [anime characters.rbxm](anime-characters/anime%20characters.rbxm?raw=1) | Static geometry; rigs/gameplay unverified |
+| [Classic Studded Eggs](classic-studded-eggs/) | [212 screenshots](classic-studded-eggs/GALLERY.md) | [Classic Studded Eggs.rbxm](classic-studded-eggs/Classic%20Studded%20Eggs.rbxm?raw=1) | Static geometry; rigs/gameplay unverified |
 
 ### Brainrot Models & Mutations
 
@@ -99,6 +101,14 @@ Editable Roblox model collections with native downloads and real Studio screensh
 ### Mythical Animals Collection
 
 [![Mythical Animals Collection](mythical-animals/previews/cover.jpg)](mythical-animals/)
+
+### Anime Character Collection
+
+[![Anime Character Collection](anime-characters/previews/cover.jpg)](anime-characters/)
+
+### Classic Studded Eggs
+
+[![Classic Studded Eggs](classic-studded-eggs/previews/cover.jpg)](classic-studded-eggs/)
 
 ## Install
 

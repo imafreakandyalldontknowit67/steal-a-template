@@ -1,0 +1,57 @@
+[
+  {
+    "file": "src/001-Read-Me.module.luau",
+    "instancePath": "ASMR kit /Read Me",
+    "sha256": "a28bfebedc40b58c23d618e6e2b71eb009df7a302b468e8c240106337615ff4f"
+  },
+  {
+    "file": "src/002-Script.server.luau",
+    "instancePath": "ASMR kit /Needohs/Needoh/Script",
+    "sha256": "85c6301c954fbc0566310a13701dd4ee4fad53da3603add349732ec1aec12678"
+  },
+  {
+    "file": "src/003-Script.server.luau",
+    "instancePath": "ASMR kit /Needohs/Needoh/Script",
+    "sha256": "85c6301c954fbc0566310a13701dd4ee4fad53da3603add349732ec1aec12678"
+  },
+  {
+    "file": "src/004-Script.server.luau",
+    "instancePath": "ASMR kit /Needohs/Needoh/Script",
+    "sha256": "85c6301c954fbc0566310a13701dd4ee4fad53da3603add349732ec1aec12678"
+  },
+  {
+    "file": "src/005-Script.server.luau",
+    "instancePath": "ASMR kit /Needohs/Needoh/Script",
+    "sha256": "85c6301c954fbc0566310a13701dd4ee4fad53da3603add349732ec1aec12678"
+  },
+  {
+    "file": "src/006-Script.server.luau",
+    "instancePath": "ASMR kit /Butters/Butter/Script",
+    "sha256": "62779deba5923aa1a7b6d3ce4af571fce7a8f057603b5382328fac2cf07ab719"
+  },
+  {
+    "file": "src/007-Script.server.luau",
+    "instancePath": "ASMR kit /Butters/Butter/Script",
+    "sha256": "62779deba5923aa1a7b6d3ce4af571fce7a8f057603b5382328fac2cf07ab719"
+  },
+  {
+    "file": "src/008-Script.server.luau",
+    "instancePath": "ASMR kit /Butters/Butter/Script",
+    "sha256": "62779deba5923aa1a7b6d3ce4af571fce7a8f057603b5382328fac2cf07ab719"
+  },
+  {
+    "file": "src/009-Script.server.luau",
+    "instancePath": "ASMR kit /Butters/Butter/Script",
+    "sha256": "62779deba5923aa1a7b6d3ce4af571fce7a8f057603b5382328fac2cf07ab719"
+  },
+  {
+    "file": "src/010-Script.server.luau",
+    "instancePath": "ASMR kit /Keyboard/Script",
+    "sha256": "57b59f0ecf715a84a4a72871f3da029d9d12384bbeb1186fc44ca851991d6b16"
+  },
+  {
+    "file": "src/011-Script.server.luau",
+    "instancePath": "ASMR kit /Bubble/Script",
+    "sha256": "f749518b095b30e02ce7c785b54627ebf9b8845b4c73a22e57bc95cfcad8fa88"
+  }
+]
