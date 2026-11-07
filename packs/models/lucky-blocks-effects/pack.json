@@ -1,0 +1,36 @@
+{
+  "id": "lucky-blocks-effects",
+  "name": "Lucky Blocks - Seven Variants",
+  "category": "models",
+  "version": "0.1.0",
+  "status": "preview",
+  "distributionAuthorized": true,
+  "publicationReady": false,
+  "model": "Lucky Blocks.rbxm",
+  "sourceFile": "Lucky Blocks.rbxm",
+  "sha256": "19e366c14793f85fca8279598e4f532f17622228ec940359db67802329b46dbf",
+  "sourceSha256": "19e366c14793f85fca8279598e4f532f17622228ec940359db67802329b46dbf",
+  "itemCount": 7,
+  "scripts": 0,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/item-001.jpg",
+    "previews/item-001-back.jpg",
+    "previews/item-002.jpg",
+    "previews/item-002-back.jpg",
+    "previews/item-003.jpg",
+    "previews/item-003-back.jpg",
+    "previews/item-004.jpg",
+    "previews/item-004-back.jpg",
+    "previews/item-005.jpg",
+    "previews/item-005-back.jpg",
+    "previews/item-006.jpg",
+    "previews/item-006-back.jpg",
+    "previews/item-007.jpg",
+    "previews/item-007-back.jpg"
+  ],
+  "limitations": [
+    "Geometry-only captures with effects disabled on temporary clones. Supplied effects/controllers are retained in the native file but motion, timing, animation, opening and reward behavior are unverified."
+  ],
+  "captureMode": "Studio Edit, isolated preview clones; original scripts not executed"
+}

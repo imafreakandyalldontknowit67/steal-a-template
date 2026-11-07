@@ -1,0 +1,139 @@
+# Native inventory
+
+Root: Mythical Animals
+
+## Included entries
+
+- `CrystalDragon` (Model)
+- `CyberDragon` (Model)
+- `CannonVehicleMech` (Model)
+- `Snowman (02)` (Model)
+- `Mothra` (Model)
+- `Celestial Dragon Emperor` (Model)
+- `BigDragon` (Model)
+- `Dragon Cryst` (Model)
+- `ShadowWing` (Model)
+- `Default_Ariel` (Model)
+- `Heavenly Qilin Sovereign` (Model)
+- `Pegasus (01)` (Model)
+- `BluePhoenix` (Model)
+- `Cerberus (02)` (Model)
+- `Krampus` (Model)
+- `Kitsune1` (Model)
+- `RabbitRobot` (Model)
+- `EastSeaDragon` (Model)
+- `Centaur` (Model)
+- `Dragon (04)` (Model)
+- `LightningDragon` (Model)
+- `BlackUnicorn` (Model)
+- `Elf` (Model)
+- `Eternal Lunar Dragon` (Model)
+- `Werewolf` (Model)
+- `Azure Dragon` (Model)
+- `Dragon` (Model)
+- `RoboticOmega` (Model)
+- `GrasshopperBee` (Model)
+- `Kitsune (01)` (Model)
+- `Griffin` (Model)
+- `Gargoyl` (Model)
+- `ZoroFox` (Model)
+- `Golden Qilin` (Model)
+- `Griffin (02)` (Model)
+- `HoneyToast` (Model)
+- `CreamUnicorn` (Model)
+- `Dragon (02)` (Model)
+- `Pandaigon` (Model)
+- `Sunstorm` (Model)
+- `Celeste` (Model)
+- `PinkHeart` (Model)
+- `FieryDragon` (Model)
+- `Minotaur` (Model)
+- `BlueDragon` (Model)
+- `StoneGiant` (Model)
+- `WhiteToothless` (Model)
+- `PastelDragon` (Model)
+- `Godzilla` (Model)
+- `Vermilion Bird` (Model)
+- `Medusa` (Model)
+- `Toothless` (Model)
+- `PinkUnicorn` (Model)
+- `Chimera` (Model)
+- `Yule Cat` (Model)
+- `SwampDragon` (Model)
+- `MischiefMaker` (Model)
+- `Black Tortoise` (Model)
+- `KrakenCutscene` (Model)
+- `Nine-Tailed Moon Fox` (Model)
+- `SapphireDragon` (Model)
+- `Unicorn (01)` (Model)
+- `Kraken2` (Model)
+- `Dragon (03)` (Model)
+- `LittleMonster` (Model)
+- `Phoenix Bird` (Model)
+- `Dragon (01)` (Model)
+- `PearlRose` (Model)
+- `PinkHeartRobot` (Model)
+- `PhoenixCutscene` (Model)
+- `Apollo` (Model)
+- `Unicorn (02)` (Model)
+- `Wendigo` (Model)
+- `ShadowKing` (Model)
+- `EastSeaDragon` (Model)
+- `Griffin (01)` (Model)
+- `Sirius` (Model)
+- `Lightblue` (Model)
+- `Santa Sleigh` (Model)
+- `Phoenix Bird Cryst` (Model)
+- `FoxBird` (Model)
+- `Headless Horse` (Model)
+- `Lunar Phoenix` (Model)
+- `Tsukiyo Kitsune` (Model)
+- `Snowman (01)` (Model)
+- `Christmas Spirit` (Model)
+- `Kirin` (Model)
+- `Drakespine` (Model)
+- `Savannah Ninja` (Model)
+- `Raikura Kirin` (Model)
+- `GreenDrake` (Model)
+- `Yeti (01)` (Model)
+- `Spider` (Model)
+- `NinjaDog` (Model)
+- `Cerberus (01)` (Model)
+- `GreenStorm` (Model)
+- `Toothless Simple` (Model)
+- `Hydra (01)` (Model)
+- `LittleDragon` (Model)
+- `Ascended Vermilion Phoenix` (Model)
+- `Jackolantern` (Model)
+- `Cactus` (Model)
+- `Chocolate Golem` (Model)
+- `GemDragon` (Model)
+- `Scarecrow` (Model)
+- `Jack O Lantern` (Model)
+- `Rudolph` (Model)
+- `Wendigo Simple` (Model)
+- `Birdmen` (Model)
+- `Festive Christmas Spirit` (Model)
+- `Ghost` (Model)
+- `Serpent` (Model)
+
+## Instance classes
+
+- AnimationController: 1
+- Attachment: 1095
+- Beam: 233
+- Bone: 1610
+- ColorCorrectionEffect: 1
+- Folder: 11
+- MeshPart: 5248
+- Model: 5637
+- Motor6D: 760
+- Part: 166
+- ParticleEmitter: 579
+- Sky: 1
+- SpawnLocation: 1
+- StringValue: 1
+- SurfaceAppearance: 635
+- Trail: 24
+- UnionOperation: 17
+- WeldConstraint: 44

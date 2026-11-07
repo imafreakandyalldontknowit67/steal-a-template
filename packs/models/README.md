@@ -19,6 +19,10 @@ Editable Roblox model collections with native downloads and real Studio screensh
 | [Gym Model Collection](gym-models/) | [85 screenshots](gym-models/GALLERY.md) | [GymModels.rbxm](gym-models/GymModels.rbxm?raw=1) | Static geometry captured; gameplay unverified |
 | [Stud Pickaxes 2](pickaxes-studs-2/) | [19 screenshots](pickaxes-studs-2/GALLERY.md) | [PickaxePack_Studs_2.rbxm](pickaxes-studs-2/PickaxePack_Studs_2.rbxm?raw=1) | Static geometry captured; gameplay unverified |
 | [Animal Pack 3](animal-pack-3/) | [181 screenshots](animal-pack-3/GALLERY.md) | [AnimalPack3.rbxm](animal-pack-3/AnimalPack3.rbxm?raw=1) | Static geometry captured; gameplay unverified |
+| [Studded Egg Models](egg-models/) | [16 screenshots](egg-models/GALLERY.md) | [Egg Models.rbxm](egg-models/Egg%20Models.rbxm?raw=1) | Static geometry; gameplay unverified |
+| [Lucky Blocks - Seven Variants](lucky-blocks-effects/) | [14 screenshots](lucky-blocks-effects/GALLERY.md) | [Lucky Blocks.rbxm](lucky-blocks-effects/Lucky%20Blocks.rbxm?raw=1) | Static geometry; gameplay unverified |
+| [Classic Colored Lucky Blocks](classic-lucky-blocks/) | [10 screenshots](classic-lucky-blocks/GALLERY.md) | [LuckyBlocks.rbxm](classic-lucky-blocks/LuckyBlocks.rbxm?raw=1) | Static geometry; gameplay unverified |
+| [Mythical Animals Collection](mythical-animals/) | [224 screenshots](mythical-animals/GALLERY.md) | [Mythical Animals.rbxm](mythical-animals/Mythical%20Animals.rbxm?raw=1) | Static geometry; gameplay unverified |
 
 ### Brainrot Models & Mutations
 
@@ -79,6 +83,22 @@ Editable Roblox model collections with native downloads and real Studio screensh
 ### Animal Pack 3
 
 [![Animal Pack 3](animal-pack-3/previews/cover.jpg)](animal-pack-3/)
+
+### Studded Egg Models
+
+[![Studded Egg Models](egg-models/previews/cover.jpg)](egg-models/)
+
+### Lucky Blocks - Seven Variants
+
+[![Lucky Blocks - Seven Variants](lucky-blocks-effects/previews/cover.jpg)](lucky-blocks-effects/)
+
+### Classic Colored Lucky Blocks
+
+[![Classic Colored Lucky Blocks](classic-lucky-blocks/previews/cover.jpg)](classic-lucky-blocks/)
+
+### Mythical Animals Collection
+
+[![Mythical Animals Collection](mythical-animals/previews/cover.jpg)](mythical-animals/)
 
 ## Install
 

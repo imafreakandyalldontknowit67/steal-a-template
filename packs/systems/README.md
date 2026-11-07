@@ -6,6 +6,7 @@ Editable Roblox systems with native models, Luau source, and real Studio screens
 | --- | --- | --- | --- |
 | [Dialogue and Quest System](dialogue-system/) | [7 screenshots](dialogue-system/#screenshot-gallery) | [DialogueSystem.rbxm](dialogue-system/DialogueSystem.rbxm?raw=1) | Draft; see pack verification and device limits |
 | [Dungeon Camera](dungeoncam/) | [2 screenshots](dungeoncam/GALLERY.md) | [DungeonCam.rbxm](dungeoncam/DungeonCam.rbxm?raw=1) | Visual preview; limited camera Play test |
+| [General Movement Animations](general-movement-animations/) | [66 screenshots](general-movement-animations/GALLERY.md) | [35+ General Movement Animations Pack.rbxm](general-movement-animations/35%2B%20General%20Movement%20Animations%20Pack.rbxm?raw=1) | Saved poses + sampled-pose GIFs; runtime unverified |
 
 ### Dialogue and Quest System
 
@@ -14,6 +15,10 @@ Editable Roblox systems with native models, Luau source, and real Studio screens
 ### Dungeon Camera
 
 [![Dungeon Camera](dungeoncam/previews-v2/live-camera-a.jpg)](dungeoncam/)
+
+### General Movement Animations
+
+[![General Movement Animations](general-movement-animations/previews/cover.jpg)](general-movement-animations/)
 
 ## Install
 

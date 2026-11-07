@@ -1,0 +1,32 @@
+{
+  "id": "classic-lucky-blocks",
+  "name": "Classic Colored Lucky Blocks",
+  "category": "models",
+  "version": "0.1.0",
+  "status": "preview",
+  "distributionAuthorized": true,
+  "publicationReady": false,
+  "model": "LuckyBlocks.rbxm",
+  "sourceFile": "LuckyBlocks.rbxm",
+  "sha256": "e91e676440c52ae1c4434b62238833fe4237a725fbaf789deb0fbab04a9bdd0d",
+  "sourceSha256": "e91e676440c52ae1c4434b62238833fe4237a725fbaf789deb0fbab04a9bdd0d",
+  "itemCount": 5,
+  "scripts": 0,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/item-001.jpg",
+    "previews/item-001-back.jpg",
+    "previews/item-002.jpg",
+    "previews/item-002-back.jpg",
+    "previews/item-003.jpg",
+    "previews/item-003-back.jpg",
+    "previews/item-004.jpg",
+    "previews/item-004-back.jpg",
+    "previews/item-005.jpg",
+    "previews/item-005-back.jpg"
+  ],
+  "limitations": [
+    "Static decorative blocks; no opening or reward system. The nested Model group is preserved rather than incorrectly treated as a single unique variant."
+  ],
+  "captureMode": "Studio Edit, isolated preview clones; original scripts not executed"
+}

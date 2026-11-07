@@ -1,0 +1,12 @@
+[
+  {
+    "file": "src/001-StoreHandler_OLD.client.luau",
+    "instancePath": "Store/StoreHandler_OLD",
+    "sha256": "f7b6fff0f5b4e5d14f471eca5b1cbd41f383dd80ff25ee333ed562f182b8fd06"
+  },
+  {
+    "file": "src/002-StoreHandler.client.luau",
+    "instancePath": "Store/StoreHandler",
+    "sha256": "9b3548c3b7c88de79b3b8e0baf87fefa1153518614b2343069b7b37374d64553"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "egg-models",
+  "name": "Studded Egg Models",
+  "category": "models",
+  "version": "0.1.0",
+  "status": "preview",
+  "distributionAuthorized": true,
+  "publicationReady": false,
+  "model": "Egg Models.rbxm",
+  "sourceFile": "Egg Models.rbxm",
+  "sha256": "b3b28c38ba65943782d1cbb90cdc249184d27a1f2f9e35a28ca52c74064c6c90",
+  "sourceSha256": "b3b28c38ba65943782d1cbb90cdc249184d27a1f2f9e35a28ca52c74064c6c90",
+  "itemCount": 9,
+  "scripts": 1,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/item-001.jpg",
+    "previews/item-001-back.jpg",
+    "previews/item-002.jpg",
+    "previews/item-002-back.jpg",
+    "previews/item-003.jpg",
+    "previews/item-003-back.jpg",
+    "previews/item-004.jpg",
+    "previews/item-004-back.jpg",
+    "previews/item-005.jpg",
+    "previews/item-005-back.jpg",
+    "previews/item-006.jpg",
+    "previews/item-006-back.jpg",
+    "previews/item-007.jpg",
+    "previews/item-007-back.jpg",
+    "previews/item-008.jpg",
+    "previews/item-008-back.jpg"
+  ],
+  "limitations": [
+    "Visual models and billboard labels only; no hatch, reward or purchase implementation. Original labels remain in the download but are hidden on geometry-only preview clones."
+  ],
+  "captureMode": "Studio Edit, isolated preview clones; original scripts not executed"
+}

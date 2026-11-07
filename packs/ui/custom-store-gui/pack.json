@@ -1,0 +1,27 @@
+{
+  "id": "custom-store-gui",
+  "name": "Custom Store UI",
+  "category": "ui",
+  "version": "0.1.0",
+  "status": "preview",
+  "distributionAuthorized": true,
+  "publicationReady": false,
+  "model": "Custom Gui.rbxm",
+  "sourceFile": "Custom Gui.rbxm",
+  "sha256": "72584b5fa51bf57c83ea896340219b47a4c4a0b883f43c52b1151e75621e4b88",
+  "sourceSha256": "72584b5fa51bf57c83ea896340219b47a4c4a0b883f43c52b1151e75621e4b88",
+  "itemCount": 5,
+  "scripts": 2,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/page-001.jpg",
+    "previews/page-002.jpg",
+    "previews/page-003.jpg",
+    "previews/page-004.jpg",
+    "previews/page-005.jpg"
+  ],
+  "limitations": [
+    "Presentation preview only. Missing game-specific dependencies prevent a standalone working store. Purchase prompts are not fulfillment; original product IDs are not your products. No purchases or supplied scripts were executed for capture; scrolling/device/runtime behavior remains unverified."
+  ],
+  "captureMode": "Studio Edit, isolated preview clones; original scripts not executed"
+}
