@@ -25,6 +25,9 @@ Editable Roblox model collections with native downloads and real Studio screensh
 | [Mythical Animals Collection](mythical-animals/) | [224 screenshots](mythical-animals/GALLERY.md) | [Mythical Animals.rbxm](mythical-animals/Mythical%20Animals.rbxm?raw=1) | Static geometry; gameplay unverified |
 | [Anime Character Collection](anime-characters/) | [318 screenshots](anime-characters/GALLERY.md) | [anime characters.rbxm](anime-characters/anime%20characters.rbxm?raw=1) | Static geometry; rigs/gameplay unverified |
 | [Classic Studded Eggs](classic-studded-eggs/) | [212 screenshots](classic-studded-eggs/GALLERY.md) | [Classic Studded Eggs.rbxm](classic-studded-eggs/Classic%20Studded%20Eggs.rbxm?raw=1) | Static geometry; rigs/gameplay unverified |
+| [ASMR Butter Models V1](asmr-butter-models-v1/) | [4 screenshots](asmr-butter-models-v1/GALLERY.md) | [ASMR_Butter_Models_V1.rbxm](asmr-butter-models-v1/ASMR_Butter_Models_V1.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Stud Fish Models](stud-fish-models/) | [40 screenshots](stud-fish-models/GALLERY.md) | [roblox fish models.rbxm](stud-fish-models/roblox%20fish%20models.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Small Stud Asset Pack](small-stud-asset-pack/) | [40 screenshots](small-stud-asset-pack/GALLERY.md) | [Small Stud Asset Pack.rbxm](small-stud-asset-pack/Small%20Stud%20Asset%20Pack.rbxm?raw=1) | Preview; see verification and integration limits |
 
 ### Brainrot Models & Mutations
 
@@ -109,6 +112,19 @@ Editable Roblox model collections with native downloads and real Studio screensh
 ### Classic Studded Eggs
 
 [![Classic Studded Eggs](classic-studded-eggs/previews/cover.jpg)](classic-studded-eggs/)
+
+
+### ASMR Butter Models V1
+
+[![ASMR Butter Models V1](asmr-butter-models-v1/previews/cover.jpg)](asmr-butter-models-v1/)
+
+### Stud Fish Models
+
+[![Stud Fish Models](stud-fish-models/previews/cover.jpg)](stud-fish-models/)
+
+### Small Stud Asset Pack
+
+[![Small Stud Asset Pack](small-stud-asset-pack/previews/cover.jpg)](small-stud-asset-pack/)
 
 ## Install
 

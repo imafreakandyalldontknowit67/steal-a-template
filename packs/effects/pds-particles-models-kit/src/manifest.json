@@ -1,0 +1,22 @@
+[
+  {
+    "file": "src/001-ColourScript.luau",
+    "instancePath": "PDS' Particles & Models Kit.PDS Models Pack for BSED:R.Presets.Samples.SampleOre.Big Ore.ColourScript",
+    "sha256": "02a157aab41cd30a6ede00c043e7e549c35f307ed4ebead6a87465015e1206e5"
+  },
+  {
+    "file": "src/002-SpinScript.luau",
+    "instancePath": "PDS' Particles & Models Kit.PDS Models Pack for BSED:R.Presets.Samples.SampleOre.Big Ore.SpinScript",
+    "sha256": "0df2a41a1d1dc1490f62dfd9278031ebf6abb76a8a68e3c79b79916018e9c95e"
+  },
+  {
+    "file": "src/003-EmitScript.luau",
+    "instancePath": "PDS' Particles & Models Kit.PDS Models Pack for BSED:R.Presets.Samples.SampleOre.Hitbox.EmitScript",
+    "sha256": "16a0114b5ca692edc0a6bed2d591de07cef8a477cac035cd307641ce3590ac35"
+  },
+  {
+    "file": "src/004-MoveScript.luau",
+    "instancePath": "PDS' Particles & Models Kit.PDS Models Pack for BSED:R.Presets.Samples.SampleOre.Big Ore.MoveScript",
+    "sha256": "82070da39c9fc370eb214f635eae567262058760c4e09ec96020a8cb4171a81c"
+  }
+]

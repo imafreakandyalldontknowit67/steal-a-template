@@ -8,6 +8,9 @@ Editable Roblox systems with native models, Luau source, and real Studio screens
 | [Dungeon Camera](dungeoncam/) | [2 screenshots](dungeoncam/GALLERY.md) | [DungeonCam.rbxm](dungeoncam/DungeonCam.rbxm?raw=1) | Visual preview; limited camera Play test |
 | [General Movement Animations](general-movement-animations/) | [66 screenshots](general-movement-animations/GALLERY.md) | [35+ General Movement Animations Pack.rbxm](general-movement-animations/35%2B%20General%20Movement%20Animations%20Pack.rbxm?raw=1) | Saved poses + sampled-pose GIFs; runtime unverified |
 | [ASMR Interaction Kit](asmr-kit/) | [24 screenshots](asmr-kit/GALLERY.md) | [ASMRKit.rbxm](asmr-kit/ASMRKit.rbxm?raw=1) | Static interaction assets; touch/audio unverified |
+| [Egg RNG Roller](egg-rng-roller/) | [34 screenshots](egg-rng-roller/GALLERY.md) | [EggRNGRoller.rbxm](egg-rng-roller/EggRNGRoller.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Interactive Keyboard Models](interactive-keyboards/) | [16 screenshots](interactive-keyboards/GALLERY.md) | [Keyboard.rbxm](interactive-keyboards/Keyboard.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Nebulix Emote System](nebulix-emote-system/) | [2 screenshots](nebulix-emote-system/GALLERY.md) | [omg emotes woww its mangos.rbxm](nebulix-emote-system/omg%20emotes%20woww%20its%20mangos.rbxm?raw=1) | Integration template; missing dependencies |
 
 ### Dialogue and Quest System
 
@@ -24,6 +27,19 @@ Editable Roblox systems with native models, Luau source, and real Studio screens
 ### ASMR Interaction Kit
 
 [![ASMR Interaction Kit](asmr-kit/previews/cover.jpg)](asmr-kit/)
+
+
+### Egg RNG Roller
+
+[![Egg RNG Roller](egg-rng-roller/previews/cover.jpg)](egg-rng-roller/)
+
+### Interactive Keyboard Models
+
+[![Interactive Keyboard Models](interactive-keyboards/previews/cover.jpg)](interactive-keyboards/)
+
+### Nebulix Emote System
+
+[![Nebulix Emote System](nebulix-emote-system/previews/cover.jpg)](nebulix-emote-system/)
 
 ## Install
 

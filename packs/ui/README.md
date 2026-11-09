@@ -12,6 +12,10 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 | [Studs UI Pack 2](studs-ui-pack-2/) | [11 screenshots](studs-ui-pack-2/#screenshot-gallery) | [StudsUIPack2.rbxm](studs-ui-pack-2/StudsUIPack2.rbxm?raw=1) | Draft; see pack verification and device limits |
 | [Surface Inventory](surface-inventory/) | [17 screenshots](surface-inventory/#screenshot-gallery) | [SurfaceInventory.rbxm](surface-inventory/SurfaceInventory.rbxm?raw=1) | 0.5.2 draft; imported desktop hover/scroll checked; input and import caveats documented |
 | [Custom Store UI](custom-store-gui/) | [5 screenshots](custom-store-gui/GALLERY.md) | [Custom Gui.rbxm](custom-store-gui/Custom%20Gui.rbxm?raw=1) | Static UI; game dependencies/integration unverified |
+| [Player Profile Card UI](player-profile-card-ui/) | [1 screenshots](player-profile-card-ui/GALLERY.md) | [Player Profile Card UI.rbxm](player-profile-card-ui/Player%20Profile%20Card%20UI.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Advanced Settings UI V1.6](advanced-settings-ui/) | [9 screenshots](advanced-settings-ui/GALLERY.md) | [Settings GUI ADVANCED V1.6.rbxm](advanced-settings-ui/Settings%20GUI%20ADVANCED%20V1.6.rbxm?raw=1) | Runtime preview; known click-sound error |
+| [Shop & Index UI Buttons](shop-index-ui-buttons/) | [1 screenshots](shop-index-ui-buttons/GALLERY.md) | [Shop Index UI [FREE].rbxm](shop-index-ui-buttons/Shop%20Index%20UI%20%5BFREE%5D.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Square Shine UI Buttons](square-shine-ui-buttons/) | [1 screenshots](square-shine-ui-buttons/GALLERY.md) | [Square Shine Button [Free UI].rbxm](square-shine-ui-buttons/Square%20Shine%20Button%20%5BFree%20UI%5D.rbxm?raw=1) | Preview; see verification and integration limits |
 
 ### Command HQ - Roblox HUD and Interface Pack
 
@@ -44,6 +48,23 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 ### Custom Store UI
 
 [![Custom Store UI](custom-store-gui/previews/cover.jpg)](custom-store-gui/)
+
+
+### Player Profile Card UI
+
+[![Player Profile Card UI](player-profile-card-ui/previews/cover.jpg)](player-profile-card-ui/)
+
+### Advanced Settings UI V1.6
+
+[![Advanced Settings UI V1.6](advanced-settings-ui/previews/cover.jpg)](advanced-settings-ui/)
+
+### Shop & Index UI Buttons
+
+[![Shop & Index UI Buttons](shop-index-ui-buttons/previews/cover.jpg)](shop-index-ui-buttons/)
+
+### Square Shine UI Buttons
+
+[![Square Shine UI Buttons](square-shine-ui-buttons/previews/cover.jpg)](square-shine-ui-buttons/)
 
 ## Install
 

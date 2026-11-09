@@ -1,0 +1,122 @@
+[
+  {
+    "file": "src/001-ShopEffects.luau",
+    "instancePath": "Ui Buttons.ShopButton.ShopEffects",
+    "sha256": "5fdf96682edad0620a475052f1edc0c92a91e230890cbf081fcd8df18aa9bc34"
+  },
+  {
+    "file": "src/002-CartClickParticles.luau",
+    "instancePath": "Ui Buttons.ShopButton.CartClickParticles",
+    "sha256": "a1593106f47ce1e985c1f6b9d685dbe514bba6748b7d213d20b6de6bceae6c8f"
+  },
+  {
+    "file": "src/003-FallingCartIcons.luau",
+    "instancePath": "Ui Buttons.ShopButton.FallingCartIcons",
+    "sha256": "ac5c16ee69f5266c8b60690821faa8ba44919ba74321e24ef42f0d7766b5a05c"
+  },
+  {
+    "file": "src/004-InnerStrokeAnimation.luau",
+    "instancePath": "Ui Buttons.ShopButton.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  },
+  {
+    "file": "src/005-IndexEffects.luau",
+    "instancePath": "Ui Buttons.IndexButton.IndexEffects",
+    "sha256": "139369b4989ebae64b199b0bf86714cc23e34b540a0e873c500e05c964f4070c"
+  },
+  {
+    "file": "src/006-IndexClickParticles.luau",
+    "instancePath": "Ui Buttons.IndexButton.IndexClickParticles",
+    "sha256": "2df694aa4a4524ccc840c438f0a7bb5ebe422d84e187acc11f166a3d599ff210"
+  },
+  {
+    "file": "src/007-FallingIndexIcons.luau",
+    "instancePath": "Ui Buttons.IndexButton.FallingIndexIcons",
+    "sha256": "aab79c822c290ad2af4a16a3e2b952fac473a368758338f095a5d42e1be343f0"
+  },
+  {
+    "file": "src/008-InnerStrokeAnimation.luau",
+    "instancePath": "Ui Buttons.IndexButton.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  },
+  {
+    "file": "src/009-IndexEffects.luau",
+    "instancePath": "Ui Buttons.IndexButton New Text.IndexEffects",
+    "sha256": "139369b4989ebae64b199b0bf86714cc23e34b540a0e873c500e05c964f4070c"
+  },
+  {
+    "file": "src/010-IndexClickParticles.luau",
+    "instancePath": "Ui Buttons.IndexButton New Text.IndexClickParticles",
+    "sha256": "2df694aa4a4524ccc840c438f0a7bb5ebe422d84e187acc11f166a3d599ff210"
+  },
+  {
+    "file": "src/011-FallingIndexIcons.luau",
+    "instancePath": "Ui Buttons.IndexButton New Text.FallingIndexIcons",
+    "sha256": "aab79c822c290ad2af4a16a3e2b952fac473a368758338f095a5d42e1be343f0"
+  },
+  {
+    "file": "src/012-InnerStrokeAnimation.luau",
+    "instancePath": "Ui Buttons.IndexButton New Text.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  },
+  {
+    "file": "src/013-ShopEffects.luau",
+    "instancePath": "Ui Buttons.ShopButton New Text.ShopEffects",
+    "sha256": "5fdf96682edad0620a475052f1edc0c92a91e230890cbf081fcd8df18aa9bc34"
+  },
+  {
+    "file": "src/014-CartClickParticles.luau",
+    "instancePath": "Ui Buttons.ShopButton New Text.CartClickParticles",
+    "sha256": "a1593106f47ce1e985c1f6b9d685dbe514bba6748b7d213d20b6de6bceae6c8f"
+  },
+  {
+    "file": "src/015-FallingCartIcons.luau",
+    "instancePath": "Ui Buttons.ShopButton New Text.FallingCartIcons",
+    "sha256": "ac5c16ee69f5266c8b60690821faa8ba44919ba74321e24ef42f0d7766b5a05c"
+  },
+  {
+    "file": "src/016-InnerStrokeAnimation.luau",
+    "instancePath": "Ui Buttons.ShopButton New Text.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  },
+  {
+    "file": "src/017-IndexEffects.luau",
+    "instancePath": "Ui Buttons.Folder.IndexButton.IndexEffects",
+    "sha256": "139369b4989ebae64b199b0bf86714cc23e34b540a0e873c500e05c964f4070c"
+  },
+  {
+    "file": "src/018-IndexClickParticles.luau",
+    "instancePath": "Ui Buttons.Folder.IndexButton.IndexClickParticles",
+    "sha256": "2df694aa4a4524ccc840c438f0a7bb5ebe422d84e187acc11f166a3d599ff210"
+  },
+  {
+    "file": "src/019-FallingIndexIcons.luau",
+    "instancePath": "Ui Buttons.Folder.IndexButton.FallingIndexIcons",
+    "sha256": "aab79c822c290ad2af4a16a3e2b952fac473a368758338f095a5d42e1be343f0"
+  },
+  {
+    "file": "src/020-InnerStrokeAnimation.luau",
+    "instancePath": "Ui Buttons.Folder.IndexButton.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  },
+  {
+    "file": "src/021-ShopEffects.luau",
+    "instancePath": "Ui Buttons.Folder.ShopButton.ShopEffects",
+    "sha256": "5fdf96682edad0620a475052f1edc0c92a91e230890cbf081fcd8df18aa9bc34"
+  },
+  {
+    "file": "src/022-CartClickParticles.luau",
+    "instancePath": "Ui Buttons.Folder.ShopButton.CartClickParticles",
+    "sha256": "a1593106f47ce1e985c1f6b9d685dbe514bba6748b7d213d20b6de6bceae6c8f"
+  },
+  {
+    "file": "src/023-FallingCartIcons.luau",
+    "instancePath": "Ui Buttons.Folder.ShopButton.FallingCartIcons",
+    "sha256": "ac5c16ee69f5266c8b60690821faa8ba44919ba74321e24ef42f0d7766b5a05c"
+  },
+  {
+    "file": "src/024-InnerStrokeAnimation.luau",
+    "instancePath": "Ui Buttons.Folder.ShopButton.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "pds-particles-models-kit",
+  "category": "effects",
+  "name": "PDS Particles & Models Kit",
+  "file": "particle and model kit.rbxm",
+  "prefixes": [
+    "particle"
+  ],
+  "summary": "PDS particle/model library with three top-level groups: particles, model presets and Log.",
+  "install": "Import into ServerStorage, inspect the PDS Particle Pack for BSED:R and PDS Models Pack for BSED:R groups, then copy the desired effect or model into Workspace. Keep required attachments, emitter parents and preset scripts together. Review each sample script before enabling it.",
+  "limits": "Uses the owner-supplied preview image as requested. No new particle simulation, per-effect gallery or motion/playback verification was performed. Original binary contains 34 ParticleEmitters and four scripts; the large hierarchy also includes model/geometry samples.",
+  "credit": "Embedded labels credit Quantack, Antimatter & B1GPIG and identify kit version 2.0.0. Labels state most particle artwork is not owned by the kit authors and condition sharing on the kit having been released; original notices remain in the native file. Operator supplied this kit for publication; underlying third-party artwork is not relicensed by this repository.",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "particle and model kit.rbxm",
+  "sha256": "0a847652db657093d7ec6ac42a3f962d28f0b3d922714a482b76b9bd93be74cd",
+  "sourceSha256": "0a847652db657093d7ec6ac42a3f962d28f0b3d922714a482b76b9bd93be74cd",
+  "instanceCount": 16342,
+  "scripts": 4,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/supplied-preview.png"
+  ],
+  "verification": "Native binary hierarchy and scripts inspected. Reused owner-supplied image as explicitly requested. No new effect captures, simulation or per-effect verification."
+}

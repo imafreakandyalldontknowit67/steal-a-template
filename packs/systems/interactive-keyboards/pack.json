@@ -1,0 +1,40 @@
+{
+  "id": "interactive-keyboards",
+  "category": "systems",
+  "name": "Interactive Keyboard Models",
+  "file": "Keyboard.rbxm",
+  "prefixes": [
+    "keyboard"
+  ],
+  "summary": "Eight keyboard variants, each with 36 labeled keycap MeshParts and a touch-response script.",
+  "install": "Import Keycap/Keyboard into ServerStorage for review, then copy one keyboard Model into Workspace. Preserve its Script, keycap MeshParts and SurfaceGui labels. Scripts respond to character contact and create click sounds/equalizers at runtime.",
+  "limits": "All eight variants have static front/back previews. Key depression timing, touch response and sound playback remain unverified. Three external sound IDs require access in your experience.",
+  "credit": "Original supplied hierarchy and embedded scripts are preserved.",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "Keyboard.rbxm",
+  "sha256": "3babd2f028e2a7a1c38a723f3981a6990f5dfa1b6c51e8fa0e5f70d7dcbe3bce",
+  "sourceSha256": "3babd2f028e2a7a1c38a723f3981a6990f5dfa1b6c51e8fa0e5f70d7dcbe3bce",
+  "instanceCount": 1169,
+  "scripts": 8,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/keyboard-01-front.jpg",
+    "previews/keyboard-01-back.jpg",
+    "previews/keyboard-02-front.jpg",
+    "previews/keyboard-02-back.jpg",
+    "previews/keyboard-03-front.jpg",
+    "previews/keyboard-03-back.jpg",
+    "previews/keyboard-04-front.jpg",
+    "previews/keyboard-04-back.jpg",
+    "previews/keyboard-05-front.jpg",
+    "previews/keyboard-05-back.jpg",
+    "previews/keyboard-06-front.jpg",
+    "previews/keyboard-06-back.jpg",
+    "previews/keyboard-07-front.jpg",
+    "previews/keyboard-07-back.jpg",
+    "previews/keyboard-08-front.jpg",
+    "previews/keyboard-08-back.jpg"
+  ],
+  "verification": "Static Studio Edit inspection on isolated clones; no runtime behavior certification. Native instance counts/root names matched the supplied imports. Original scripts were disabled on static preview clones."
+}

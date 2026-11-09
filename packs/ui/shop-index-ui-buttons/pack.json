@@ -1,0 +1,25 @@
+{
+  "id": "shop-index-ui-buttons",
+  "category": "ui",
+  "name": "Shop & Index UI Buttons",
+  "file": "Shop Index UI [FREE].rbxm",
+  "prefixes": [
+    "buttons"
+  ],
+  "summary": "Six shop/index button variants with native editable GUI objects, hover effects and click-particle scripts.",
+  "install": "Move Ui Buttons ScreenGui into StarterGui. Choose the ShopButton/IndexButton variants you need, including the alternate text and Folder variants; adjust their Position and Size for your layout. Add your own shop/index opening callbacks. Included effects are presentation, not purchases or an inventory backend.",
+  "limits": "Button presentation/effects only. No shop catalog, purchase fulfillment or index backend is included. Mobile/gamepad behavior is unverified.",
+  "credit": "Original supplied file and embedded script notices are retained.",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "Shop Index UI [FREE].rbxm",
+  "sha256": "2f7bf2878a01f369f02b96f8fd304f68b4ed327de81c937d4fcd86c2687abba2",
+  "sourceSha256": "2f7bf2878a01f369f02b96f8fd304f68b4ed327de81c937d4fcd86c2687abba2",
+  "instanceCount": 104,
+  "scripts": 24,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/buttons-final.jpg"
+  ],
+  "verification": "Static Studio Edit inspection on isolated clones; no runtime behavior certification. Native instance counts/root names matched the supplied imports. Original scripts were disabled on static preview clones."
+}

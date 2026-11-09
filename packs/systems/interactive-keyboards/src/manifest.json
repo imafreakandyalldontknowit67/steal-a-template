@@ -1,0 +1,42 @@
+[
+  {
+    "file": "src/001-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/002-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/003-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/004-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/005-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/006-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/007-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  },
+  {
+    "file": "src/008-Script.luau",
+    "instancePath": "Keycap/Keyboard.Model.Script",
+    "sha256": "9e1193cd66d6fc70c5f12e5ba77940efa0abc434529b26b14b9d7291e5be7506"
+  }
+]

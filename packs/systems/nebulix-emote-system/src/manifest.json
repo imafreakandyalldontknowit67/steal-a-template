@@ -1,0 +1,147 @@
+[
+  {
+    "file": "src/001-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.KillsUntilEmote.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/002-ActualLogic.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.KillsUntilEmote.ActualLogic",
+    "sha256": "822c0f00a731a59bfa75956a2670d8eeb34e2381ee87cf4ff240b7f1ba61dff7"
+  },
+  {
+    "file": "src/003-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.BuyRandomEmote.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/004-ActualLogic.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.BuyRandomEmote.ActualLogic",
+    "sha256": "9976ef8ef2126a808d16cadf1eb356e648038ab07bc6836b1b083c4f75d19687"
+  },
+  {
+    "file": "src/005-CallAnim.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot1.CallAnim",
+    "sha256": "3879d31c9c941298a788d7f3432477dedca7e11394afdbe9283f87d45394f3f6"
+  },
+  {
+    "file": "src/006-DummyEmote.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot1.DummyEmote",
+    "sha256": "a92c87fa6669efbfe93883bd8cb362f7ca48da5434e5117ce92904f80a382422"
+  },
+  {
+    "file": "src/007-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot1.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/008-LocalScript.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot1.LocalScript",
+    "sha256": "050339c980a4300c90b58de094cb91cddb71734416fdeae7f8aab3e2356eb3d6"
+  },
+  {
+    "file": "src/009-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot2.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/010-DummyEmote.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot2.DummyEmote",
+    "sha256": "a92c87fa6669efbfe93883bd8cb362f7ca48da5434e5117ce92904f80a382422"
+  },
+  {
+    "file": "src/011-CallAnim.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot2.CallAnim",
+    "sha256": "3879d31c9c941298a788d7f3432477dedca7e11394afdbe9283f87d45394f3f6"
+  },
+  {
+    "file": "src/012-LocalScript.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot2.LocalScript",
+    "sha256": "09189dcec21ffea472d652ae8ed67529ecc1ce7dd4e05aa4f7b22fe8ffc8fcc7"
+  },
+  {
+    "file": "src/013-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot3.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/014-DummyEmote.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot3.DummyEmote",
+    "sha256": "a92c87fa6669efbfe93883bd8cb362f7ca48da5434e5117ce92904f80a382422"
+  },
+  {
+    "file": "src/015-CallAnim.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot3.CallAnim",
+    "sha256": "3879d31c9c941298a788d7f3432477dedca7e11394afdbe9283f87d45394f3f6"
+  },
+  {
+    "file": "src/016-LocalScript.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot3.LocalScript",
+    "sha256": "3b3a5935b9fa24bb8ac68bca4d764ba2ea494d47cca71f2c0f2e3f4bef9b6969"
+  },
+  {
+    "file": "src/017-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot4.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/018-DummyEmote.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot4.DummyEmote",
+    "sha256": "a92c87fa6669efbfe93883bd8cb362f7ca48da5434e5117ce92904f80a382422"
+  },
+  {
+    "file": "src/019-CallAnim.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot4.CallAnim",
+    "sha256": "3879d31c9c941298a788d7f3432477dedca7e11394afdbe9283f87d45394f3f6"
+  },
+  {
+    "file": "src/020-LocalScript.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.Slot4.LocalScript",
+    "sha256": "18745b353832ad68861e9ae1ad3416757bb6d208281f997d8838502ec639cb87"
+  },
+  {
+    "file": "src/021-LocalScript.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.ListHolder.LocalScript",
+    "sha256": "2afda0645f24f3dda8225162d50d275f7a69290526158a5dba5bc395c7105f2c"
+  },
+  {
+    "file": "src/022-LocalScript.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.ListHolder.EmoteList.Template.Click.LocalScript",
+    "sha256": "724701db0f91d4e0e5693338d3be97f6974bca72f5afe3a97077d19a75df0bdd"
+  },
+  {
+    "file": "src/023-selectthing.luau",
+    "instancePath": "Emotes By Nebulix.StarterGui.MainGUI.EmoteWheel.ListHolder.EmoteList.Template.Click.selectthing",
+    "sha256": "a00f0e872b138f49dd7ae8c7ed5a516aec72df1a40c6f80f7396632a3c1491d0"
+  },
+  {
+    "file": "src/024-Topbar.luau",
+    "instancePath": "Emotes By Nebulix.StarterPlayerScripts.Topbar",
+    "sha256": "c5435153088fd6b198821fdf7e2371912671f27874b13dddf4b76b581353d0b1"
+  },
+  {
+    "file": "src/025-EmoteState.luau",
+    "instancePath": "Emotes By Nebulix.ReplicatedStorage.Shared.EmoteState",
+    "sha256": "854a9d5acbf8107d3f2850dbf07cc67af55b0b0bcf736bf3f6c548f4949d2403"
+  },
+  {
+    "file": "src/026-ExampleModule.luau",
+    "instancePath": "Emotes By Nebulix.ServerStorage.Emotes.Modules.ExampleModule",
+    "sha256": "dde99f877ac9c526642721446eb20ce40e539ea6ebd8f9126388a8680c372797"
+  },
+  {
+    "file": "src/027-EmoteHandler.luau",
+    "instancePath": "Emotes By Nebulix.ServerScriptService.ServerSideHandlers.EmoteHandler",
+    "sha256": "f3fb3fd9fe7db4af5229a1162ce71eeb7c43cf7275883d37a2ad12674bb00add"
+  },
+  {
+    "file": "src/028-SaveEmotes.luau",
+    "instancePath": "Emotes By Nebulix.ServerScriptService.SaveEmotes",
+    "sha256": "3688f28c48e170e24ced06152bc971e2de1f1ed1f3b607a651e9e451fcac759a"
+  },
+  {
+    "file": "src/029-Emotes.luau",
+    "instancePath": "Emotes By Nebulix.ServerScriptService.Emotes",
+    "sha256": "32946490ea3495d82aa4ac3132e3d35984c72e049f3290a2b74f0de566cb210c"
+  }
+]

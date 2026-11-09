@@ -1,0 +1,26 @@
+{
+  "id": "nebulix-emote-system",
+  "category": "systems",
+  "name": "Nebulix Emote System",
+  "file": "omg emotes woww its mangos.rbxm",
+  "prefixes": [
+    "emotes"
+  ],
+  "summary": "Four-slot emote wheel UI, preview rigs, server handlers, data-store scripts and an example animation/module.",
+  "install": "Inspect in ServerStorage first. Move the CONTENTS of the named ReplicatedStorage, ServerScriptService, ServerStorage and StarterGui containers to those services; StarterPlayerScripts contents belong in StarterPlayer.StarterPlayerScripts. Supply the missing Shared.Icon topbar library and game-specific Stats/Kills, SettingsFrame and remote handlers before enabling the complete system.",
+  "limits": "Integration template, not drop-in working gameplay. Shared.Icon and MainGUI.SettingsFrame are absent; Topbar also references an unassigned settingsIcon. Reward/purchase/slot-change dependencies and remote validation need review. Data-store saving and emote playback are unverified.",
+  "credit": "Original root credits Nebulix. Source filename and existing embedded attribution are preserved; authorship is not independently established.",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "omg emotes woww its mangos.rbxm",
+  "sha256": "ba714391e93a2390c7dc2071d6d7af5fb55a4bfb36f3d25d3d6c3768e49d9327",
+  "sourceSha256": "ba714391e93a2390c7dc2071d6d7af5fb55a4bfb36f3d25d3d6c3768e49d9327",
+  "instanceCount": 324,
+  "scripts": 29,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/emotes-final.jpg",
+    "previews/emotes-list.jpg"
+  ],
+  "verification": "Edit-mode GUI preview only. Wheel/list visibility was set on temporary clones; scripts were disabled. No animation/reward/purchase/save test. Missing Shared.Icon, SettingsFrame and game-specific handlers are documented."
+}

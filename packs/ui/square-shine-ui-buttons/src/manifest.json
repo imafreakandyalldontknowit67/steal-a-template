@@ -1,0 +1,52 @@
+[
+  {
+    "file": "src/001-IndexClickParticles.luau",
+    "instancePath": "Shop Rebirth UI.Phone .IndexButton.IndexClickParticles",
+    "sha256": "2df694aa4a4524ccc840c438f0a7bb5ebe422d84e187acc11f166a3d599ff210"
+  },
+  {
+    "file": "src/002-IndexEffects.luau",
+    "instancePath": "Shop Rebirth UI.Phone .IndexButton.IndexEffects",
+    "sha256": "0b4eef85aacb563b225e580f8f83688fd149bdfa0f67c9cd178398b44bb4fbef"
+  },
+  {
+    "file": "src/003-FallingIndexIcons.luau",
+    "instancePath": "Shop Rebirth UI.Phone .IndexButton.FallingIndexIcons",
+    "sha256": "aab79c822c290ad2af4a16a3e2b952fac473a368758338f095a5d42e1be343f0"
+  },
+  {
+    "file": "src/004-HoverShine.luau",
+    "instancePath": "Shop Rebirth UI.Phone .IndexButton.ButtonBackground.BackgroundHighlights.NarrowHighlight.HoverShine",
+    "sha256": "8a216ffa1511639c00766efb6b3c34554a15e3f55ee4603b9c9a178ebfd4150a"
+  },
+  {
+    "file": "src/005-InnerStrokeAnimation.luau",
+    "instancePath": "Shop Rebirth UI.Phone .IndexButton.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  },
+  {
+    "file": "src/006-FallingCartIcons.luau",
+    "instancePath": "Shop Rebirth UI.Phone .ShopButton.FallingCartIcons",
+    "sha256": "ac5c16ee69f5266c8b60690821faa8ba44919ba74321e24ef42f0d7766b5a05c"
+  },
+  {
+    "file": "src/007-ShopEffects.luau",
+    "instancePath": "Shop Rebirth UI.Phone .ShopButton.ShopEffects",
+    "sha256": "abcd3932a37528aad15c0626aad9ea168afedc88d35e2ba925c2bb7dcfa95ac6"
+  },
+  {
+    "file": "src/008-CartClickParticles.luau",
+    "instancePath": "Shop Rebirth UI.Phone .ShopButton.CartClickParticles",
+    "sha256": "a1593106f47ce1e985c1f6b9d685dbe514bba6748b7d213d20b6de6bceae6c8f"
+  },
+  {
+    "file": "src/009-HoverShine.luau",
+    "instancePath": "Shop Rebirth UI.Phone .ShopButton.ButtonBackground.BackgroundHighlights.NarrowHighlight.HoverShine",
+    "sha256": "8a216ffa1511639c00766efb6b3c34554a15e3f55ee4603b9c9a178ebfd4150a"
+  },
+  {
+    "file": "src/010-InnerStrokeAnimation.luau",
+    "instancePath": "Shop Rebirth UI.Phone .ShopButton.ButtonBackground.InnerStroke.InnerStrokeAnimation",
+    "sha256": "c76446d0ed3263cbe0e9884f24d3953d9c201a69c99f2a897ab022f6f58dca28"
+  }
+]

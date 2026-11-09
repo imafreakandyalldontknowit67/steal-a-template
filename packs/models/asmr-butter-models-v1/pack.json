@@ -1,0 +1,29 @@
+{
+  "id": "asmr-butter-models-v1",
+  "category": "models",
+  "name": "ASMR Butter Models V1",
+  "file": "ASMR_Butter_Models_V1.rbxm",
+  "prefixes": [
+    "butter-crunchy",
+    "butter-standard"
+  ],
+  "summary": "Two skinned butter models: CrunchyButter and StandardButter, with editable bones.",
+  "install": "Import into ServerStorage, then copy the chosen model into Workspace. Preserve MeshParts and Bone descendants. These are model assets, not a complete ASMR interaction system.",
+  "limits": "Static mesh/bone inspection only. No deformation animation, touch interaction, sound, collision or gameplay verification.",
+  "credit": "Original supplied model names are preserved.",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "ASMR_Butter_Models_V1.rbxm",
+  "sha256": "94b0cfb230c987e6274ed6d59b20232c2ccc653c9da84da139ffea3c35fc21b4",
+  "sourceSha256": "94b0cfb230c987e6274ed6d59b20232c2ccc653c9da84da139ffea3c35fc21b4",
+  "instanceCount": 123,
+  "scripts": 0,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/butter-crunchy-01-front.jpg",
+    "previews/butter-crunchy-01-back.jpg",
+    "previews/butter-standard-01-front.jpg",
+    "previews/butter-standard-01-back.jpg"
+  ],
+  "verification": "Static Studio Edit inspection on isolated clones; no runtime behavior certification. Native instance counts/root names matched the supplied imports. Original scripts were disabled on static preview clones."
+}

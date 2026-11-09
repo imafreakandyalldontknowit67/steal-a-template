@@ -1,0 +1,17 @@
+[
+  {
+    "file": "src/001-Settings.luau",
+    "instancePath": "Settings Panel.SettingsUi.Settings",
+    "sha256": "8ec207e5506927f375192c46c946ce146f66113855ff557d3a66a2515b76c0a0"
+  },
+  {
+    "file": "src/002-ClickSound.luau",
+    "instancePath": "Settings Panel.SettingsUi.SettingsButton.ClickSound",
+    "sha256": "015c72f6636ec2fc93ea29f3637ca23afc2171135736007ae1857d77870d8d7a"
+  },
+  {
+    "file": "src/003-Tween.luau",
+    "instancePath": "Settings Panel.SettingsUi.SettingsButton.Tween",
+    "sha256": "84a1ebe38c3221e62912d7ec8c57ff420ddebd15ae8e8119137281568e580941"
+  }
+]

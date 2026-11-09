@@ -1,0 +1,92 @@
+[
+  {
+    "file": "src/001-EggShopClient.luau",
+    "instancePath": "EggRandomizerKit.StarterGui.EggShopGui.EggShopClient",
+    "sha256": "c44ba47156327058e879c62e98da367f2cfd7bbe49c48d4b1da92f00d996a3e4"
+  },
+  {
+    "file": "src/002-EggRandomizerClient.luau",
+    "instancePath": "EggRandomizerKit.StarterPlayerScripts.EggRandomizerClient",
+    "sha256": "2ab9a5bdbd2dbaddb2ebd141b52b9df0adecf592f8f6e9e966b2d51bcfaa52a9"
+  },
+  {
+    "file": "src/003-CheckUIPrompts.luau",
+    "instancePath": "EggRandomizerKit.StarterPlayerScripts.CheckUIPrompts",
+    "sha256": "bf92443c1e23aff76cb96828d5fb152645505d0446d3985e7b4530e347816360"
+  },
+  {
+    "file": "src/004-HeldEggClient.luau",
+    "instancePath": "EggRandomizerKit.StarterPlayerScripts.HeldEggClient",
+    "sha256": "80d767a626ffdaa74e20ea2d2627e2df78373a30ef9df624df24ef734393d2f3"
+  },
+  {
+    "file": "src/005-Config.luau",
+    "instancePath": "EggRandomizerKit.ReplicatedStorage.EggRandomizer.Config",
+    "sha256": "018004ca4feaa9f593df51c4587ca0669c91c01893a270dd6893e2d6163a825c"
+  },
+  {
+    "file": "src/006-EggAppearance.luau",
+    "instancePath": "EggRandomizerKit.ReplicatedStorage.EggRandomizer.EggAppearance",
+    "sha256": "f48bb328439c25deb0625082c222f72563d3731fecb8eca26b8d4f3cc74d29b9"
+  },
+  {
+    "file": "src/007-ShuffleTimeline.luau",
+    "instancePath": "EggRandomizerKit.ReplicatedStorage.EggRandomizer.ShuffleTimeline",
+    "sha256": "fc8fb8b90c1d4f5cab100f5bac1477c7ae8bd1b757ec84d5d5eaccee032133ee"
+  },
+  {
+    "file": "src/008-EggAnimations.luau",
+    "instancePath": "EggRandomizerKit.ReplicatedStorage.EggRandomizer.EggAnimations",
+    "sha256": "38c30bdbeaefd80d3370a20e1aca3e900bb233abd77e04c2bd462bda56d78180"
+  },
+  {
+    "file": "src/009-StudTexture.luau",
+    "instancePath": "EggRandomizerKit.ReplicatedStorage.EggRandomizer.StudTexture",
+    "sha256": "c901c4e8be50f05c61acc4c0beeb067d9ffeaaccb4c66a0d7f3c5bd5ad85ca1f"
+  },
+  {
+    "file": "src/010-UIFx.luau",
+    "instancePath": "EggRandomizerKit.ReplicatedStorage.EggRandomizer.UIFx",
+    "sha256": "cdb764feb29da90b915051a579f8ecda80890bf52c26f264cf9ee490343ce4c1"
+  },
+  {
+    "file": "src/011-EggSelector.luau",
+    "instancePath": "EggRandomizerKit.ServerScriptService.EggRandomizer.EggSelector",
+    "sha256": "cd694d6dcc51c596cba9d39482f80c155b09b3dc07f45a84c745dffe4a0c8681"
+  },
+  {
+    "file": "src/012-PlayerData.luau",
+    "instancePath": "EggRandomizerKit.ServerScriptService.EggRandomizer.PlayerData",
+    "sha256": "4d2cc63325273151bd5b321109ea60037659f165a677d2d33cff6288b69d1b3c"
+  },
+  {
+    "file": "src/013-Install.luau",
+    "instancePath": "EggRandomizerKit.Install",
+    "sha256": "722966b621a4940aa3782cb2f266040d192be1e2e6750a85fd9b72c740fd0be7"
+  },
+  {
+    "file": "src/014-EggRandomizerServer.luau",
+    "instancePath": "EggRandomizerKit.ServerScriptService.EggRandomizer.EggRandomizerServer",
+    "sha256": "1513ce49d88bc07df02ccc8c026787e87bf22d74ae45c198ed236bf572c187c4"
+  },
+  {
+    "file": "src/015-EggShopServer.luau",
+    "instancePath": "EggRandomizerKit.ServerScriptService.EggRandomizer.EggShopServer",
+    "sha256": "37183c6e45c45990767a284fd0bd1fe92007505f44e6ab5573b0432720c27801"
+  },
+  {
+    "file": "src/016-CashShopServer.luau",
+    "instancePath": "EggRandomizerKit.ServerScriptService.EggRandomizer.CashShopServer",
+    "sha256": "f1d0835cec2fc3685217c5f83ac83ad5ce658f3e2b8ba192df5e15b668395385"
+  },
+  {
+    "file": "src/017-AutoInstall.luau",
+    "instancePath": "EggRandomizerKit.AutoInstall",
+    "sha256": "124de875babef81c182253ce81103a304c2854617703d0bdda0af42847791f44"
+  },
+  {
+    "file": "src/018-README.luau",
+    "instancePath": "EggRandomizerKit.README",
+    "sha256": "fdef4b6eb778006230927a9861ea36fe9dc1929355f6499455e45548d2721e1e"
+  }
+]
