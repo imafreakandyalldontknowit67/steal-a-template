@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "src/001-AdminPanel_UIBuilder.luau",
+    "instancePath": "StarterPlayer.StarterPlayerScripts.AdminPanel_UIBuilder",
+    "sha256": "4acd53a3454a44c97e881b9f526ce657735af2fea5c8154f0026973be42e19e0"
+  },
+  {
+    "file": "src/002-AnnouncementClient.luau",
+    "instancePath": "StarterPlayer.StarterPlayerScripts.AnnouncementClient",
+    "sha256": "38f432c5658eb08cdbdce247792e76a8bae1733aed2790f81dc2de0c02fc7bd0"
+  },
+  {
+    "file": "src/003-OnyxUI.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI",
+    "sha256": "f66b0b4e2180e247064ea112301c4f785d3f3b52f87d32480f1a0333d3ad6805"
+  },
+  {
+    "file": "src/004-ColorUtils.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.ColorUtils",
+    "sha256": "8ee170fca254a2a681782043ffaf61a885defaeb2724309016b7674780cb6997"
+  },
+  {
+    "file": "src/005-Fusion.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.Fusion",
+    "sha256": "4f546808e24860f4feb8da859af80ba3352238568a5c5d089ad9c27af9708c96"
+  },
+  {
+    "file": "src/006-colour-utils.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils",
+    "sha256": "e1a49adae2a3fc7ad2d833d2a1478ae894424e8f716ee5220d5e2d55deb6667a"
+  },
+  {
+    "file": "src/007-APCA.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.APCA",
+    "sha256": "5964e4e841c68269ee1795bea76db19c6c73fbedefb7f0fafa702efe51dae28a"
+  },
+  {
+    "file": "src/008-Const.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.APCA.Const",
+    "sha256": "a3268ea688163ec998cf6571c69a59dc69ab9b4103d19d64fd471a304e960dd4"
+  },
+  {
+    "file": "src/009-GetContrastRatio.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.APCA.GetContrastRatio",
+    "sha256": "74c8ed1864bc654c6541f920eb3d6f5a3fa23e33bea41ea496e4d46033c05867"
+  },
+  {
+    "file": "src/010-Blend.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend",
+    "sha256": "853ec6c4270acdd13c68f308420dc9e382531e2b63f21e86d27a9a6037efa518"
+  },
+  {
+    "file": "src/011-Burn.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend.Burn",
+    "sha256": "d29a9491320419a1e4fa8b4d3eb2ccc2592cddeec3de03fc7dffbedd0de04e04"
+  },
+  {
+    "file": "src/012-Dodge.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend.Dodge",
+    "sha256": "de3acaccb2e823559a0fa6ddd19c771c7299cf43bdeac61c0b04caea45c78b51"
+  },
+  {
+    "file": "src/013-Multiply.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend.Multiply",
+    "sha256": "709c09fb9af13f146230ba77dd3b40cf9a98c9d39a5e66ea9d2ba4e99a0a037f"
+  },
+  {
+    "file": "src/014-Overlay.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend.Overlay",
+    "sha256": "1019a6f9c8364e670684f7b4e898d7481b622af3e87f486ee983c1a1c8499695"
+  },
+  {
+    "file": "src/015-Screen.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend.Screen",
+    "sha256": "8582a0a18418875040e9eca895bf9ca00cd19c4acf28d08e283981f5d55aafa6"
+  },
+  {
+    "file": "src/016-Transparency.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend.Transparency",
+    "sha256": "088c1dd175e6e586d6aef7ed90ff5bc73be46f3eff6484d709b6f6be3706eea9"
+  },
+  {
+    "file": "src/017-_Filter.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blend._Filter",
+    "sha256": "01e3c38363513db967633d67d587cd7f3ce7415db2d6d23b4a0deefb815aa33d"
+  },
+  {
+    "file": "src/018-Blind.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blind",
+    "sha256": "beca0da0f848c096ae55efa618dc21cb79ce2cb85cf922d16e8de513ecac9e62"
+  },
+  {
+    "file": "src/019-Enum.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blind.Enum",
+    "sha256": "9d06c603f23e14c7f3c749040be4ee10bed6fc7d0ba0a1812c83b1281480a28b"
+  },
+  {
+    "file": "src/020-Simulate.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blind.Simulate",
+    "sha256": "feb9f95fdb02604b11a009d355419b749022a02139b6be3cd4bf99c2aa47db1f"
+  },
+  {
+    "file": "src/021-Configs.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Blind.Simulate.Configs",
+    "sha256": "28c9700bb7282ee0da1980b882d4986ca78d035f982e52ffc97cd433666ff2d8"
+  },
+  {
+    "file": "src/022-Darken.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Darken",
+    "sha256": "e3fe826082455d659addb551dbe7297a3324a5cf58f8e17034ea5f1d15059312"
+  },
+  {
+    "file": "src/023-Desaturate.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Desaturate",
+    "sha256": "e57495b8a7a40b01329805727c87a6e5c8b37d4ed933a7ee51f4b2cb395e5af4"
+  },
+  {
+    "file": "src/024-Emphasize.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Emphasize",
+    "sha256": "d373ff7e6674c150e20b3ffae50063bc717dabb8ccf617f1c542b604d039a6af"
+  },
+  {
+    "file": "src/025-GetContrastRatioCompat.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.GetContrastRatioCompat",
+    "sha256": "690bb23336a07f167fb354574620c2649d02624af30dc754add87fb46c57f726"
+  },
+  {
+    "file": "src/026-GetLuminance.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.GetLuminance",
+    "sha256": "25cfb06c52f8ef727171be0bbda563125c85315d30979fcde50dccf402f124d5"
+  },
+  {
+    "file": "src/027-GetPerceivedBrightness.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.GetPerceivedBrightness",
+    "sha256": "8b2d44a9127328269f5bbc2211c80e489f7d2a3aa82ad19b7592bd806e8237ee"
+  },
+  {
+    "file": "src/028-HSL.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.HSL",
+    "sha256": "899aa441c8b344066a60d83d25003160450a03be0f1278c1294d79bcefa831f9"
+  },
+  {
+    "file": "src/029-Hex.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Hex",
+    "sha256": "5823b9b34cc8bd471de47bca692d705d39a929010ab693d726c44cb7b1e12d26"
+  },
+  {
+    "file": "src/030-Int.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Int",
+    "sha256": "3ffcddcbb242209a5121affaf534abf2d61de868ca97cff94d92bfe6a95fe445"
+  },
+  {
+    "file": "src/031-Invert.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Invert",
+    "sha256": "8bbcc9a753dbb8da38ba7c09bade1ed9e843ed2d196251ad44ca87273d3f6edd"
+  },
+  {
+    "file": "src/032-LAB.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LAB",
+    "sha256": "c326571b3a289a6999212d10d8aeb3bbca9fdc4c29deed179a7d5ec23b0b14c5"
+  },
+  {
+    "file": "src/033-Constants.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LAB.Constants",
+    "sha256": "795cc3f38d0534f77ba91bbe02d96df822b00b1cf23cbbe76aeed22e33c3fa4d"
+  },
+  {
+    "file": "src/034-FromLAB.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LAB.FromLAB",
+    "sha256": "4524b6e0fd364c795ca3a888020650292df8c3d71083e7d199944ca7613702e0"
+  },
+  {
+    "file": "src/035-Lerp.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LAB.Lerp",
+    "sha256": "f12d45ab7cc8767214b1f526c3c9adb1282be92efceaeda5eacf02eb73c8ac9b"
+  },
+  {
+    "file": "src/036-ToLAB.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LAB.ToLAB",
+    "sha256": "dbf427795bfcd0ddc246c799abe67e6a916490915ee0fe58ec13d45e8f8d2720"
+  },
+  {
+    "file": "src/037-LCH.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LCH",
+    "sha256": "6a2a827d81db842569c6c76627a6296a8b8b1355c93fc2215059edf26cd4c1db"
+  },
+  {
+    "file": "src/038-Constants.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LCH.Constants",
+    "sha256": "7a5c33706a9c68b0ea8e3e72005b2e5b96da4683a35c075f9a8a546c46683e2c"
+  },
+  {
+    "file": "src/039-FromLCH.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LCH.FromLCH",
+    "sha256": "893843668da2b5736039886a99979f2dc88f01ae5db2f665290dd4f74d09f9ee"
+  },
+  {
+    "file": "src/040-ToLCH.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.LCH.ToLCH",
+    "sha256": "dcf4c8375f287ba0a7bbd3b4816d8266663c33526e11ded516b17ef8d9ec5897"
+  },
+  {
+    "file": "src/041-Lighten.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Lighten",
+    "sha256": "5db31ce331f5fc97e817603ac43db0e0981e8d26b5125ecdccd6589f9285db23"
+  },
+  {
+    "file": "src/042-Palette.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette",
+    "sha256": "59c6fb286dd0cfab1d5d7094338e34b836e0d60c86c18ff208832b58d727ab91"
+  },
+  {
+    "file": "src/043-Analogous.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Analogous",
+    "sha256": "81c416135f43f349a0e0f180ce7e516c6ab4461cdad3a5d2ba1aa01af34a077c"
+  },
+  {
+    "file": "src/044-Complementary.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Complementary",
+    "sha256": "403b62b1be4a6becd55ae81ca1d73a3dcdb63fe3c85aa0c0fe0d0bec8a89041d"
+  },
+  {
+    "file": "src/045-Monochromatic.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Monochromatic",
+    "sha256": "bd215759d2b70d06a57cc48ddd00570f33afe4291e4467845d16e07d0028eafc"
+  },
+  {
+    "file": "src/046-Nearest.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Nearest",
+    "sha256": "dd3ffde45984d9b9c8c8a6d3ce21353162ab5da6c7bd5b77646e75732f5e442f"
+  },
+  {
+    "file": "src/047-SplitComplementary.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.SplitComplementary",
+    "sha256": "209701cc4636d8de13316be9513ba5668cba2784327c237799857eaa0be2d345"
+  },
+  {
+    "file": "src/048-Tailwind.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Tailwind",
+    "sha256": "69a5b67dcdd3fe844fecb77df7ce02bd49d8f5bdae3331624315aa57873700f8"
+  },
+  {
+    "file": "src/049-Tetradic.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Tetradic",
+    "sha256": "289d6ec887a2073982c1f36ab48857d12998669599d964ae2f7b214df3e9cb23"
+  },
+  {
+    "file": "src/050-Triadic.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Triadic",
+    "sha256": "af2d8b5948587a6344d909b06a91866c621ada987eec4fea3cdc7e778c075ac9"
+  },
+  {
+    "file": "src/051-Vibrant.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Palette.Vibrant",
+    "sha256": "f437e261dc8ea9279f80b71d488df146265ac06c73cc169035eea5d142276ce1"
+  },
+  {
+    "file": "src/052-Rotate.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Rotate",
+    "sha256": "e59aeb57c04713f9fcc711bcfa1453cf9f91719b7ec0e7f6cf28fe55c25f14a8"
+  },
+  {
+    "file": "src/053-Saturate.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Saturate",
+    "sha256": "55c33b3d98da2530e974bebb9bf168ecc098b66301b9aaaf36d639b25b04f95c"
+  },
+  {
+    "file": "src/054-Util.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util",
+    "sha256": "ab304b50452210adfd250b49562723970473835d098a5d75976f30133cc26f08"
+  },
+  {
+    "file": "src/055-Array.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.Array",
+    "sha256": "7a78f3ced99f1acc3d6eab56b1e413ed40f6577022854588439dc149e1abcfd4"
+  },
+  {
+    "file": "src/056-Assert.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.Assert",
+    "sha256": "fd3e5e931eb09e3c941aff87ca7fda072eee97591fbeab0a5d6bbb0ea237be21"
+  },
+  {
+    "file": "src/057-BasicallyIdentical.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.BasicallyIdentical",
+    "sha256": "f5deb3502e4e5c212bb45031f69d813d436a9fc3ff6d8f842a05cc9cbd60888c"
+  },
+  {
+    "file": "src/058-ClampColor.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.ClampColor",
+    "sha256": "426c195bd7def691d8dcd0a4c2c5b2f9ec29f74cefbfa87c1b2d89238e363323"
+  },
+  {
+    "file": "src/059-DeprecateWarnOnce.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.DeprecateWarnOnce",
+    "sha256": "c9678b7ede4939390b14ee1a79a767fdb2b4c077594ad18dfa95eafea7161a15"
+  },
+  {
+    "file": "src/060-Schema.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.Schema",
+    "sha256": "c1be8e27916e7bf61e84a3396aa9522bc33c896ea1a9a631c3e7d555ba57b2ec"
+  },
+  {
+    "file": "src/061-Types.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.Types",
+    "sha256": "7ba9aee98da671b8ded73adfb3a7ba3e63bc1de1582ebaa9a9dec4480b1b2598"
+  },
+  {
+    "file": "src/062-isNaN.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.Util.isNaN",
+    "sha256": "56ee2e609678eff382ec846ae5080ab5f12df78e68bbedd0c44b17c2819e1726"
+  },
+  {
+    "file": "src/063-WCAG.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.WCAG",
+    "sha256": "9cc05277ce68a9cfcf25b6fda64256fde72d7ab749947144dc20b9a13957de1f"
+  },
+  {
+    "file": "src/064-GetContrastRatio.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.WCAG.GetContrastRatio",
+    "sha256": "fe503cafccabb8d2833278b098b36a6fd9269a30ad4f1677450ad89c1f7f3678"
+  },
+  {
+    "file": "src/065-GetContrastingColor.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.WCAG.GetContrastingColor",
+    "sha256": "852dcb1d38fba74977c6fad2f5aad847965ad380766bcc3c81b8d0a80a26c24f"
+  },
+  {
+    "file": "src/066-isDark.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.isDark",
+    "sha256": "c6bcc877144182943cf3abdb58cee53b9d7a05f5a6f9ff396c74e497f8cbc4d3"
+  },
+  {
+    "file": "src/067-isLight.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.csqrl_colour-utils@1.4.1.colour-utils.isLight",
+    "sha256": "e4cc04a68409074a353d552a602e06491ebf4d2f9b40bf340ffba71fcd8d6472"
+  },
+  {
+    "file": "src/068-fusion.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion",
+    "sha256": "eb2e9b4b20524fbe073b5498d03e7aae6d88dcfda22e1578f91a2578aaccd8d5"
+  },
+  {
+    "file": "src/069-ExternalTime.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.ExternalTime",
+    "sha256": "8466123c380050daa9c6d16232b87d3bd2dd562c0a72e40259db98b592e12f6e"
+  },
+  {
+    "file": "src/070-Spring.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.Spring",
+    "sha256": "6d797cfc06c3d3db1d570eaaa294a5b887bd8d986cb45b4e3315409d9a1ae452"
+  },
+  {
+    "file": "src/071-Stopwatch.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.Stopwatch",
+    "sha256": "32c317d86ef782b6ab0064db71f7857e81da9d76517cff9f0755c01eacc3957d"
+  },
+  {
+    "file": "src/072-Tween.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.Tween",
+    "sha256": "bb0c7654d8db2fa39f4f1786a8e5d68f776e30cfef4dfe79658a0840cb52093f"
+  },
+  {
+    "file": "src/073-getTweenDuration.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.getTweenDuration",
+    "sha256": "7fab8568f6781d9f66b2dab454fc81a0ec2d2d855ff1cecc5d5056b466748518"
+  },
+  {
+    "file": "src/074-getTweenRatio.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.getTweenRatio",
+    "sha256": "c7ec82ff6572b2396f665fbe24a06edf02d32f682e58c519ec61f46bedf1fa94"
+  },
+  {
+    "file": "src/075-lerpType.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.lerpType",
+    "sha256": "c5195fb78e35bb383bf9afdc31940f7ca41bc55d4d914f478370d3ee5af99e17"
+  },
+  {
+    "file": "src/076-packType.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.packType",
+    "sha256": "cc8ed16c21144a3a930c59b741ef8ff064f4976ce85914f71a07b135953434a6"
+  },
+  {
+    "file": "src/077-springCoefficients.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.springCoefficients",
+    "sha256": "a1fb185e4197b1f88b18b852d122e5ab4ec4cac7197716863a6a45362dc2a1a8"
+  },
+  {
+    "file": "src/078-unpackType.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Animation.unpackType",
+    "sha256": "a7388166115069fcd1c7e86209b23ebf5f74c5ac10129df973cadd988a3f0f42"
+  },
+  {
+    "file": "src/079-Oklab.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Colour.Oklab",
+    "sha256": "bd32294126598bdf29f50b673c63d410f42dc920bfe0b8476149465b23983e28"
+  },
+  {
+    "file": "src/080-sRGB.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Colour.sRGB",
+    "sha256": "0e7a2c7db3fee2d01bd7f07f10e70de68962a5c7d4e8c9482cdf7f4a21994566"
+  },
+  {
+    "file": "src/081-External.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.External",
+    "sha256": "ed6c3b8db8116a802312bc11f684ac34cd4cc0c77c2d767bb5d90c6f6240f83b"
+  },
+  {
+    "file": "src/082-ExternalDebug.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.ExternalDebug",
+    "sha256": "70287ad5c527ea27ff3c454cb7f04cc7a0d1335625cc4d21bd210853c01321d3"
+  },
+  {
+    "file": "src/083-Observer.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Graph.Observer",
+    "sha256": "e961e48bae4a78adca3fd74416bc6a9906cccf0de51ef7a0af217c842fd908be"
+  },
+  {
+    "file": "src/084-castToGraph.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Graph.castToGraph",
+    "sha256": "b9d2934d69126dd40090f9b57c098592a61720813bb92c1b03f8a1ffe70a9b36"
+  },
+  {
+    "file": "src/085-change.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Graph.change",
+    "sha256": "07309ed4b0132c35da9ae8b69823eee1949a592047d0a2c755328502ca364569"
+  },
+  {
+    "file": "src/086-depend.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Graph.depend",
+    "sha256": "bb33f0ea0026995a57064760a6694b0f3cdd0ae47b32935167bbd4ac8e0629b5"
+  },
+  {
+    "file": "src/087-evaluate.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Graph.evaluate",
+    "sha256": "0ee0f1613b83ae824289be215c067cf31f7f463790f851cea200d0f6f4811cf5"
+  },
+  {
+    "file": "src/088-Attribute.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.Attribute",
+    "sha256": "17cbdd3d053890dcc164352908eeda89b3e5093c536fa60a914724f830edc4c3"
+  },
+  {
+    "file": "src/089-AttributeChange.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.AttributeChange",
+    "sha256": "1337a4176505aa866cbcfbd9b16839117a98f91598b188944a5f986722064c04"
+  },
+  {
+    "file": "src/090-AttributeOut.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.AttributeOut",
+    "sha256": "a4ac354f60e50ba7c5d7fc24713a563451d1d3872083a1d73dc9ff3a8857bc70"
+  },
+  {
+    "file": "src/091-Child.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.Child",
+    "sha256": "0fcf168047bd1757066effc916473b2753ec33d6e0c1899f896a589cbd05693c"
+  },
+  {
+    "file": "src/092-Children.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.Children",
+    "sha256": "7573a08e323c50693e5ba4b1bc9483dfd5f8769b9e79f487d1a3adb4e93790ed"
+  },
+  {
+    "file": "src/093-Hydrate.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.Hydrate",
+    "sha256": "d31370b3ec203adc30a144c328857820ea42ef3302ff16211d2678062d5bef24"
+  },
+  {
+    "file": "src/094-New.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.New",
+    "sha256": "95e81cb7542df65cb94cccb5fd58c11df3827e3908f7b4c1456bef3c129368f6"
+  },
+  {
+    "file": "src/095-OnChange.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.OnChange",
+    "sha256": "d15ee839cb30b2caf6e4f513e1cde762a6f08e6aff978bd28c832c5644ef0bf1"
+  },
+  {
+    "file": "src/096-OnEvent.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.OnEvent",
+    "sha256": "381f0351ec29692caeb709bd2e9a7f0ea1f82cc243295314bf2f42fcb243bbc3"
+  },
+  {
+    "file": "src/097-Out.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.Out",
+    "sha256": "248741c56706e6c581033f4ae1ca36946a7a08e34ed0d5d20a1b7259280a1795"
+  },
+  {
+    "file": "src/098-applyInstanceProps.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.applyInstanceProps",
+    "sha256": "594b17a02e03a88ef8f4cae4df829a3ffe88569e30f1c9e2c2d297fcbe2e27d2"
+  },
+  {
+    "file": "src/099-defaultProps.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Instances.defaultProps",
+    "sha256": "8e936aabfbecce12fe0e6a054865328bf66fadc77a14884229e472309eb84fb1"
+  },
+  {
+    "file": "src/100-formatError.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Logging.formatError",
+    "sha256": "65b4e6bc916e2e17852b5e6c0b8c7fe20ddf4f5e33bc2ab7802fe32b1ec7bfbf"
+  },
+  {
+    "file": "src/101-messages.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Logging.messages",
+    "sha256": "9ae12fa8a2dbbef5fe491508c65ece69cd9870b46cb0c0c109c099d558d075a9"
+  },
+  {
+    "file": "src/102-parseError.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Logging.parseError",
+    "sha256": "be2ff62c7680bde011985e1289792697c3c8004f70eca5893f7963ed7c289ffe"
+  },
+  {
+    "file": "src/103-checkLifetime.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.checkLifetime",
+    "sha256": "97f970b078a30b025cbb5e0e02899e2c4670297c4549afc03d8ab425037a17a4"
+  },
+  {
+    "file": "src/104-deriveScope.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.deriveScope",
+    "sha256": "df38c66b923d70fc623712165295f14aef7557085f0fbce5728fbc276f3385a7"
+  },
+  {
+    "file": "src/105-deriveScopeImpl.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.deriveScopeImpl",
+    "sha256": "ee417992ef25580d4dd258cb0542f0ac513ce5ff368de679ee22fd33a2898399"
+  },
+  {
+    "file": "src/106-doCleanup.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.doCleanup",
+    "sha256": "7ce2154533b9edc9a80023f3dcf4ee6de5e9f3312e222b5c2a9ef30b138ade2d"
+  },
+  {
+    "file": "src/107-innerScope.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.innerScope",
+    "sha256": "19ceca984f4b873cf2dee676d08e49350f0b886091dfcb783201f84f93234d64"
+  },
+  {
+    "file": "src/108-legacyCleanup.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.legacyCleanup",
+    "sha256": "a397896303f0fc848aef5dd30acb26951d91a620069249ebec701c51ea9c0b48"
+  },
+  {
+    "file": "src/109-needsDestruction.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.needsDestruction",
+    "sha256": "82c72ad17a3f60a44c1803f5cbf63b53529e667127510e2f43fc6ef1658be056"
+  },
+  {
+    "file": "src/110-poisonScope.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.poisonScope",
+    "sha256": "26dda09b4ba5e83c2128910a5c859c398a7be076c3a5b333e0f702a2c6adee6f"
+  },
+  {
+    "file": "src/111-scopePool.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.scopePool",
+    "sha256": "639e88f271a5b8240d68ef27aabb16facdd3c25b30fca4e0f46025a94e037629"
+  },
+  {
+    "file": "src/112-scoped.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.scoped",
+    "sha256": "9874f7129304b45274c7276fc5058465a603b8a9a56c312091e46791a9c08ff3"
+  },
+  {
+    "file": "src/113-whichLivesLonger.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Memory.whichLivesLonger",
+    "sha256": "1be3668b36fb335d837572e4959e32e811bca15e60cb51114cc05d1dd2ca2d2d"
+  },
+  {
+    "file": "src/114-RobloxExternal.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.RobloxExternal",
+    "sha256": "23997b7d8ced81ac486c5a3e265a02d4ca44b925953c0239d8073430f8ca6c27"
+  },
+  {
+    "file": "src/115-Computed.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.Computed",
+    "sha256": "ac77569460b0fcf0902e482cfb09c9fb7755c3d87476f9beea1ae1ffc50a92c4"
+  },
+  {
+    "file": "src/116-For.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.For",
+    "sha256": "723e437322e0eddb1dd162c0347997ba6ad59c4a69668225707dac43cf11695f"
+  },
+  {
+    "file": "src/117-Disassembly.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.For.Disassembly",
+    "sha256": "6381a198daa09b681c3cbfcee77cf4c58f9d5ac30af7a1720c328ac6e864dd45"
+  },
+  {
+    "file": "src/118-ForTypes.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.For.ForTypes",
+    "sha256": "d11a7d463231b560811412d40dd8137debb194f300990d72e7f54417c4e97c22"
+  },
+  {
+    "file": "src/119-ForKeys.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.ForKeys",
+    "sha256": "52b47cdffc79636e2de2a746a8741bfb1e13d9dd3a88df385a05839a0521d68f"
+  },
+  {
+    "file": "src/120-ForPairs.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.ForPairs",
+    "sha256": "1dd333b3d550467644c144c47a9b1181976d15bd9ce7a5df8fd8acd7cccbabb7"
+  },
+  {
+    "file": "src/121-ForValues.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.ForValues",
+    "sha256": "3c8f169a8dbf1cb63a2071e6fd54dc82f623c3f46a3c9cc3291daeb3d29359f7"
+  },
+  {
+    "file": "src/122-Value.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.Value",
+    "sha256": "4e3f0584ba9f1e38c44742312293616c4dfc629076b2ea8e1ebcef030414c791"
+  },
+  {
+    "file": "src/123-castToState.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.castToState",
+    "sha256": "e9cd85741ff5f3bb001a791c9f40ad68fd5a0ed9804b08ad5a840e5dd1a07817"
+  },
+  {
+    "file": "src/124-peek.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.peek",
+    "sha256": "864a1b7273d2a5246211a657fa28d40ca2ffcb58aa6b9c5a06fc0109e5e4856e"
+  },
+  {
+    "file": "src/125-updateAll.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.State.updateAll",
+    "sha256": "f9517c59debae52ccc37b7bc65113bb2611297984f90ed67744f46fc3180577e"
+  },
+  {
+    "file": "src/126-Types.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Types",
+    "sha256": "79d03e9b5cb24663c0d3ebb6f85bac3f6592f3ba980a10c86c3b147f3ca4f938"
+  },
+  {
+    "file": "src/127-Contextual.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.Contextual",
+    "sha256": "955a60fa323bf468a19958b39d90a110b142389038d8e3a346c5e5405726d863"
+  },
+  {
+    "file": "src/128-Safe.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.Safe",
+    "sha256": "028337540a930ad5a7fd8f50b22f45b3b03b1a67aefd24e6652d349de8e73f7c"
+  },
+  {
+    "file": "src/129-isSimilar.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.isSimilar",
+    "sha256": "432bdcf1a9a4fa69e2fe65ffb3aba638eb3943e7a544f24e108419b2810e1bcc"
+  },
+  {
+    "file": "src/130-merge.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.merge",
+    "sha256": "13b7ffd61ddb5e2c795ab257f37a6f54d00e52d4adf295f76b48d4330ccf0f03"
+  },
+  {
+    "file": "src/131-nameOf.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.nameOf",
+    "sha256": "3095a8c67e3befd5624d0b62a4f1e34a4a12af7a8e327e56e5d97aa29d143cc1"
+  },
+  {
+    "file": "src/132-never.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.never",
+    "sha256": "5d0954b6e22317eab9cbc258156903c228bc8552da6b203d9e61f0499a982f47"
+  },
+  {
+    "file": "src/133-nicknames.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.nicknames",
+    "sha256": "f4848201495bf57dde8b142c7e31a00ea471b6ae5f920808a16f137c8d239649"
+  },
+  {
+    "file": "src/134-xtypeof.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages._Index.elttob_fusion@0.3.0.fusion.Utility.xtypeof",
+    "sha256": "757a7e47bc632ed66cf1c541ab198ca85051273f71e9b357ab4593ea0d559f41"
+  },
+  {
+    "file": "src/135-OnyxUI.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI",
+    "sha256": "ef8c9299ee4ffd9e1ca235c410c69a5f00e4d3b86ef5df678adca34b59c8452c"
+  },
+  {
+    "file": "src/136-Components.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components",
+    "sha256": "7b6e7a78dce85b3a36bb41c80c5fb0a527eef88e32b3db9680c4b1f7434ce504"
+  },
+  {
+    "file": "src/137-AutoScaler.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.AutoScaler",
+    "sha256": "e2995008575a1153babe1489934473e1bd4422efe3b5a2a35646b380ce83def6"
+  },
+  {
+    "file": "src/138-AutoScaler.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.AutoScaler.story",
+    "sha256": "023fb8d1d283c48dcd6f5c05894a2c77763eedee4e1f6f40c1734ec620140d9e"
+  },
+  {
+    "file": "src/139-Avatar.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Avatar",
+    "sha256": "77871cdf33a033c50c3d3368128291905e632d51c010af52d71952f3e075ed34"
+  },
+  {
+    "file": "src/140-Avatar.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Avatar.story",
+    "sha256": "1358d528da0112601b62080252fa00f44a22805e6fd079f2e5cfbb2fbcf75b86"
+  },
+  {
+    "file": "src/141-Badge.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Badge",
+    "sha256": "898d4ba6326e92c8ee2032b0c266a6446459107c48ace6c0bf4c7a68137d1c35"
+  },
+  {
+    "file": "src/142-Badge.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Badge.story",
+    "sha256": "6cee507e8e86271f1353e216386ea207630059b797f4cea108d479d5e232260e"
+  },
+  {
+    "file": "src/143-Base.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Base",
+    "sha256": "4e6608e085ee21ecdab979d9d342ef65ab9261d448b479dc7110f21bf4e23117"
+  },
+  {
+    "file": "src/144-Base.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Base.story",
+    "sha256": "c20ec23aa4a91fa11517aabc5e597bafead5ffd44ea6c8b9391d944367f3c306"
+  },
+  {
+    "file": "src/145-BaseButton.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.BaseButton",
+    "sha256": "97fa091e5987fc58fd80dee05401175992104bb892f0f12b15432c7fd3e539b4"
+  },
+  {
+    "file": "src/146-Button.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Button",
+    "sha256": "10e6cc2e35db56436f432add0be0936e5e807f15ecb3d9de19ed35fc7e9e69f2"
+  },
+  {
+    "file": "src/147-Button.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Button.story",
+    "sha256": "e3f50be26ac7aeb5dfcebf802120c1bd7cac066f761d37ff796af289b8220b59"
+  },
+  {
+    "file": "src/148-Card.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Card",
+    "sha256": "1ae280507b4bdadc94463583c90b7bd438833f8dbf2b84ff757c6f75833e5872"
+  },
+  {
+    "file": "src/149-Card.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Card.story",
+    "sha256": "de615ec0ea02762c7ae9fc4ccfc7278fab9f438d7b519b07a1b7d26d99c9eaf8"
+  },
+  {
+    "file": "src/150-Checkbox.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Checkbox",
+    "sha256": "c368f9bd5bb9de94c8b6257a4f05847d73facff20078d95abd45b7bd3324fbd3"
+  },
+  {
+    "file": "src/151-Checkbox.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Checkbox.story",
+    "sha256": "5564d50c2a58d3f889001a3dd060d7c605987fa005bec8e87742c78f265e63d2"
+  },
+  {
+    "file": "src/152-Divider.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Divider",
+    "sha256": "2dbb07ecca61fb15280d8eecb2a2e809eb1e3c171a8f2073013f0a481cc4a284"
+  },
+  {
+    "file": "src/153-Divider.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Divider.story",
+    "sha256": "b1d65ef71966d64cf44047d2eeb0fefceffc4c31b52615353f496bf0c8e46a3c"
+  },
+  {
+    "file": "src/154-Frame.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Frame",
+    "sha256": "a9be90fe477d58ab2d2266bd5be8406383297e9730842cb5cc6bf802c03b9de9"
+  },
+  {
+    "file": "src/155-Group.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Group",
+    "sha256": "c4b90d58212a4d7601d604cb446540029552b4cd2b2509fcb69c4742631b0692"
+  },
+  {
+    "file": "src/156-Heading.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Heading",
+    "sha256": "34ffb8cb1bf25d611216f19a7c98ffcac05080136b64437e1a2ce173082aebce"
+  },
+  {
+    "file": "src/157-Heading.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Heading.story",
+    "sha256": "d93e0f029537ba550850239f0f07f35a8a9bcf001e1ba03076f5d820f878c50b"
+  },
+  {
+    "file": "src/158-Icon.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Icon",
+    "sha256": "ac438a13bc14d262f9172995003777348a897535c719bfa8bbb4620cd03eecd1"
+  },
+  {
+    "file": "src/159-Icon.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Icon.story",
+    "sha256": "bb88e3235abda3cd7a1f0b6cd73d4927c894f3d5a117b34fed75645706307f60"
+  },
+  {
+    "file": "src/160-IconButton.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.IconButton",
+    "sha256": "e78b198242f26306906586b3b9f8a648a99cc4a57b0cdf232f5bd34f6eb6b3c0"
+  },
+  {
+    "file": "src/161-IconButton.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.IconButton.story",
+    "sha256": "6bf739e2c36ac7317c08ce3ddaad964ac0dc8b428e40001e2f7388087c06c302"
+  },
+  {
+    "file": "src/162-IconSwap.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.IconSwap",
+    "sha256": "a6cfa1914d473dd01ca59c0a449cf4db097e7715b6fdba99929da46102f87934"
+  },
+  {
+    "file": "src/163-IconSwap.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.IconSwap.story",
+    "sha256": "d9cee52f112e0c6927867bf6c78215abfba4aac4d6c179e42a1a7227e4dc6105"
+  },
+  {
+    "file": "src/164-IconText.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.IconText",
+    "sha256": "89f994e196c2ad308cc60109a989d07c74eb41e845092f3ac91f618aff49e1b7"
+  },
+  {
+    "file": "src/165-IconText.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.IconText.story",
+    "sha256": "27894d95602813eb6bb72bc2c21c212dc67110836d4e19177c150ccead755a94"
+  },
+  {
+    "file": "src/166-Image.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Image",
+    "sha256": "22ee02106511b0bc30f256deaccdc4e14eb78857f198419cf855f120fa4a2ca4"
+  },
+  {
+    "file": "src/167-Image.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Image.story",
+    "sha256": "f376617e677bf5f39c982cbf982c3d3392f1f4e0e42763b5ea9618e4813ca8af"
+  },
+  {
+    "file": "src/168-ProgressBar.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.ProgressBar",
+    "sha256": "c9cc733376c5e76987ad4cc45ba3202432793975704f8403bfe85d56b94f161a"
+  },
+  {
+    "file": "src/169-ProgressBar.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.ProgressBar.story",
+    "sha256": "1d990723a298de9bd0d2c445647614d807325bebfa3ef96cc26fd0ff8f42e17e"
+  },
+  {
+    "file": "src/170-Scroller.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Scroller",
+    "sha256": "3e536684c8754add0a063eb908e02f559cf304afd4e0b377ca6f5ae2190729fc"
+  },
+  {
+    "file": "src/171-Scroller.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Scroller.story",
+    "sha256": "f8efb6ad62f250522177e85e9e25ce64c9be63bccf11cc073bcd16e11594fa2b"
+  },
+  {
+    "file": "src/172-Slider.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Slider",
+    "sha256": "25fcbf3c6346dfa1a74d65e8ee4e47e11d16987e9b85b52cc735d070b46d40e3"
+  },
+  {
+    "file": "src/173-Slider.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Slider.story",
+    "sha256": "d9236637d7d9fc665cbc24569691626dd098c5c372d3bdcf50f03df27d41d81e"
+  },
+  {
+    "file": "src/174-Switch.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Switch",
+    "sha256": "b6a022fc37d79a740454077526784a94c3277207bc12bc3d74d00bca402be773"
+  },
+  {
+    "file": "src/175-Switch.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Switch.story",
+    "sha256": "1df617d4b53464d217fc7df3416eff5a4faec421b412624e37c552d3aa2fc3d7"
+  },
+  {
+    "file": "src/176-Tabs.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Tabs",
+    "sha256": "d832cf6db8a5c93887281fe3dbc70a89aad6651bf841e5d15bafdb9e15812b7e"
+  },
+  {
+    "file": "src/177-Tabs.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Tabs.story",
+    "sha256": "a66a5bd106d9375bfe42401fbe3fb53b36198426ccd552be0472556a99c85e79"
+  },
+  {
+    "file": "src/178-Text.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Text",
+    "sha256": "92338165b136187f1e314bf17b2d131942657cdf37145b97a054fdde751ec964"
+  },
+  {
+    "file": "src/179-Text.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.Text.story",
+    "sha256": "2ff17edad29d5a48f8287dd6be20f0e79c74ca9c28fa0b7e7c5b854461f77f87"
+  },
+  {
+    "file": "src/180-TextArea.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TextArea",
+    "sha256": "696536be88f7c37625abc96ad20bd6447fa788c6a9afb6d5309a0164601971ea"
+  },
+  {
+    "file": "src/181-TextArea.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TextArea.story",
+    "sha256": "dee4ee8bef7e81c030a6151157bcb8fee485aaf6ba11eea7d7b283f31a86c5b6"
+  },
+  {
+    "file": "src/182-TextInput.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TextInput",
+    "sha256": "b59664d7e6aa0ceaf39bf84750bfd179b6200241f008472708db9066c548f08b"
+  },
+  {
+    "file": "src/183-TextInput.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TextInput.story",
+    "sha256": "2a1c2fdcf0d902910bea039ca021f2f303ada67a54149928066846651e2b6cf3"
+  },
+  {
+    "file": "src/184-TextSwap.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TextSwap",
+    "sha256": "507360d50320776db5c457a3151451914c2515df675688fc24eb7f82d5a1ed9c"
+  },
+  {
+    "file": "src/185-TextSwap.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TextSwap.story",
+    "sha256": "826db17f10a58f28c726c93ee6103eabcaa21e8fc77a29bed99022ed6bb938aa"
+  },
+  {
+    "file": "src/186-TitleBar.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TitleBar",
+    "sha256": "c60dc66bd6add82397e55cf29d124defcc94893092b42c1e8cbff21d76712680"
+  },
+  {
+    "file": "src/187-TitleBar.story.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Components.TitleBar.story",
+    "sha256": "f126ec93d3b311371c23f7d72289e13cfabb0856cb53a724859e9944f9b36f5e"
+  },
+  {
+    "file": "src/188-OnyxUI.storybook.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.OnyxUI.storybook",
+    "sha256": "1add232dd88b5bf341b61138b4ed4d3c70cd96f0d68b11353a6c2f4830ef574c"
+  },
+  {
+    "file": "src/189-Themer.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Themer",
+    "sha256": "70709c7f13cdea6760d1d9c9677d1edc8105f61e7e4f1729fd32743fe4ed8c59"
+  },
+  {
+    "file": "src/190-NewTheme.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Themer.NewTheme",
+    "sha256": "d9ad2ba0333fa74a91d6143493f8aaafb43679e8ca5c75aaee759f682c4967f8"
+  },
+  {
+    "file": "src/191-OnyxNight.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Themer.OnyxNight",
+    "sha256": "722a85ef802de9c6123ae5f532b28e8004b002acac516ad0c2fe80bed7ff7f5d"
+  },
+  {
+    "file": "src/192-ThemeSpec.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Themer.ThemeSpec",
+    "sha256": "e97f3b7db43885e78178273e59b983052d13b471b41958db38399dd4c49f9498"
+  },
+  {
+    "file": "src/193-Util.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util",
+    "sha256": "382f56572e05515683496b692a8117b0d3e3901bb010aee128453594df957f1a"
+  },
+  {
+    "file": "src/194-Colors.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.Colors",
+    "sha256": "0ac9a6ff22df70d602c306c3ab4fb2c97591777b7df29694caf983511d28eaab"
+  },
+  {
+    "file": "src/195-CombineProps.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.CombineProps",
+    "sha256": "fb7856975b4e81092f118c00886a53c155f7197f82a196c234b2ceea4c438300"
+  },
+  {
+    "file": "src/196-Emphasize.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.Emphasize",
+    "sha256": "829f3b683ece9498893eae9f74060643585c435d4ac03235403193e36fe2a29e"
+  },
+  {
+    "file": "src/197-EnsureValue.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.EnsureValue",
+    "sha256": "6858229546960b8debb6e5052104788f610807bf11e1382d0c254066fa1f467b"
+  },
+  {
+    "file": "src/198-Fallback.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.Fallback",
+    "sha256": "771fddc150cac7667bc5219567bdeed195189e035a8ab0a09563358bf9525e03"
+  },
+  {
+    "file": "src/199-Unit.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.Unit",
+    "sha256": "8ee625fd5431ff0ff231274dceabb2bcbec66f45f9a16b5b729751dcc78b9383"
+  },
+  {
+    "file": "src/200-ViewportSize.luau",
+    "instancePath": "ReplicatedStorage.Packages.OnyxUI.Packages.OnyxUI.Util.ViewportSize",
+    "sha256": "013681d5e5ee3178bfa85ef6268d3b2749597e91a04b49782a52536532707a5c"
+  },
+  {
+    "file": "src/201-UILibrary.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary",
+    "sha256": "7a1e448ed8c365d6902f6e1818c63e8070a8d0dc0a4cfbfe06661bbb41f6fbf0"
+  },
+  {
+    "file": "src/202-Arcade.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary.themes.Arcade",
+    "sha256": "bf73e81c6310245d96102f71e66f992b3ea86ad8cc812e470ba545c49c692a69"
+  },
+  {
+    "file": "src/203-Midnight.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary.themes.Midnight",
+    "sha256": "462bda7c843c7338b3969e5e60a8c219a60997d47e4bc389310780430d823271"
+  },
+  {
+    "file": "src/204-Pastel.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary.themes.Pastel",
+    "sha256": "fe9bf8b5a529890254c8a073154f7c12acaf1a11b23b2388c668310a229d6ca2"
+  },
+  {
+    "file": "src/205-_base.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary.themes._base",
+    "sha256": "9adf4830d4526422e1b20ff4735cf81a3177fa1b94f9b46b9c4c104525f08d87"
+  },
+  {
+    "file": "src/206-Lemonade.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary.themes.Lemonade",
+    "sha256": "6df967773be6ecab0491b4ea43666981bbced0053781dc0df80be3d1e2cec0a1"
+  },
+  {
+    "file": "src/207-Industrial.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.UILibrary.themes.Industrial",
+    "sha256": "6a17bb6003ebc3fa781a8f934b48dddcf999e82de714718a777a9a9a3b86376f"
+  },
+  {
+    "file": "src/208-IconButton.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.IconButton",
+    "sha256": "507d1d0aa716959847b853ad4ceae94642e7082f2abf16e3a3ad70c33f0cc251"
+  },
+  {
+    "file": "src/209-AdminPanel.luau",
+    "instancePath": "ReplicatedStorage.UITemplates.AdminPanel",
+    "sha256": "4b260f1521c3d8384861b6c791f6a1d228d0e25cf88796f867088cb5dcd23de2"
+  },
+  {
+    "file": "src/210-AdminHandler.luau",
+    "instancePath": "ServerScriptService.AdminHandler",
+    "sha256": "c17838386a9078bff6c574fed85c368cb95c67d7818f2d97d9eb9e8997d7eb5a"
+  }
+]

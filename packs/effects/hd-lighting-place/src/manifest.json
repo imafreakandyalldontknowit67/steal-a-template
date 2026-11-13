@@ -1,0 +1,37 @@
+[
+  {
+    "file": "src/001-WeldBackup.luau",
+    "instancePath": "Lighting.Tools.Pistol.Handle.WeldBackup",
+    "sha256": "7b9eb45044ff52e5a7dcc18a74c88600c7933110f0f056e411a1fbda637f3761"
+  },
+  {
+    "file": "src/002-Pistol_Main.luau",
+    "instancePath": "Lighting.Tools.Pistol.Pistol_Main",
+    "sha256": "be824e50b55ea17d85eaca9de532ceaf62f33ece2e7f32e012560dfe0529aad5"
+  },
+  {
+    "file": "src/003-FireEvent.luau",
+    "instancePath": "Lighting.Tools.Pistol.BulletHoles.FireEvent",
+    "sha256": "c5fb07dd5700eed3ba035d89ff58d0ba53529d0675241f214dde2cf5b0d0694c"
+  },
+  {
+    "file": "src/004-DamageHandler.luau",
+    "instancePath": "Lighting.Tools.Pistol.DealDamage.DamageHandler",
+    "sha256": "af93bbf19d2890b6045d748dffc419570cb247cccd174a7a6775527a1cb51f93"
+  },
+  {
+    "file": "src/005-Weld.luau",
+    "instancePath": "Lighting.Tools.Pistol.Handle.Weld",
+    "sha256": "7b9eb45044ff52e5a7dcc18a74c88600c7933110f0f056e411a1fbda637f3761"
+  },
+  {
+    "file": "src/006-EventCatcher.luau",
+    "instancePath": "Lighting.Tools.Pistol.BulletHoles.EventCatcher",
+    "sha256": "e3285d404db49cb5b61fe98d0badb69f8e116f6d9bbb517c4d3ac6367e4953e6"
+  },
+  {
+    "file": "src/007-DestroyBulletHole.luau",
+    "instancePath": "Lighting.Tools.Pistol.BulletHoles.DestroyBulletHole",
+    "sha256": "61878a0084d2b0d97314e7a32506012a91be056c8ba47a5283ba6b8777e6e103"
+  }
+]

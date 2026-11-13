@@ -1,0 +1,29 @@
+{
+  "id": "free-admin-panel-place",
+  "name": "Free Admin Panel Demo Place",
+  "category": "systems",
+  "file": "Free Admin Panel System.rbxl",
+  "summary": "Native Roblox place containing the Lemonade UI Builder AdminPanel template, OnyxUI and Fusion packages, kick/ban controls, an announcement client, three remotes and a demo server handler. Includes 210 embedded scripts/modules.",
+  "install": "Open the downloaded .rbxl with File > Open from File in Roblox Studio as a separate place. Do not insert it into StarterGui. To integrate selected components, copy ReplicatedStorage.Packages, ReplicatedStorage.UITemplates and ReplicatedStorage.AdminPanelRemote, then the two StarterPlayer.StarterPlayerScripts clients and ServerScriptService.AdminHandler only after securing the handler. Merge into existing services; do not replace your game wholesale.",
+  "limits": "INSECURE DEMO: AdminHandler explicitly allows every player to kick, ban and announce, with no admin authorization, input type validation, text filtering or rate limiting. Bans are in-memory only. Do not publish this place as a live game or copy its server handler into production before securing it. No real kicks/bans or multiplayer moderation tests were performed. The announcement banner overlaps the panel and exposes a default Label at rest in this viewport.",
+  "credit": "Embedded UI builder comment credits Lemonade UI Builder; bundled libraries identify OnyxUI and Fusion. Preserve these names and all bundled notices. The supplied file does not establish operator authorship of these third-party libraries.",
+  "test": "Opened the actual supplied place through Studio and inspected via MCP. Original client scripts generated the UI in Play. The real open button enabled the panel, mouse-wheel input scrolled to announcement controls, and the close button disabled it. A local-client GlobalAnnounce remote request with the fixed text Steal a Template preview reached the original announcement client; its label and tween position were read back. No live server or other player was targeted. Captures at 685 x 634. No mobile/gamepad test.",
+  "statusLabel": "INSECURE demo place; authorization missing",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "Free Admin Panel System.rbxl",
+  "sha256": "028254480df6e494524bbc0efc648a281bca1f93002fa52fab799f70d5d93102",
+  "sourceSha256": "028254480df6e494524bbc0efc648a281bca1f93002fa52fab799f70d5d93102",
+  "instanceCount": 314,
+  "scripts": 210,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/admin-bottom.jpg",
+    "previews/admin-scroll.jpg",
+    "previews/admin-announcement.jpg"
+  ],
+  "verification": "Opened the actual supplied place through Studio and inspected via MCP. Original client scripts generated the UI in Play. The real open button enabled the panel, mouse-wheel input scrolled to announcement controls, and the close button disabled it. A local-client GlobalAnnounce remote request with the fixed text Steal a Template preview reached the original announcement client; its label and tween position were read back. No live server or other player was targeted. Captures at 685 x 634. No mobile/gamepad test.",
+  "nativeFormat": "rbxl",
+  "assetKind": "demo-place",
+  "coverSource": "previews/admin-bottom.jpg"
+}
