@@ -11,7 +11,7 @@ Editable Roblox systems with native models, Luau source, and real Studio screens
 | [Egg RNG Roller](egg-rng-roller/) | [34 screenshots](egg-rng-roller/GALLERY.md) | [EggRNGRoller.rbxm](egg-rng-roller/EggRNGRoller.rbxm?raw=1) | Preview; see verification and integration limits |
 | [Interactive Keyboard Models](interactive-keyboards/) | [16 screenshots](interactive-keyboards/GALLERY.md) | [Keyboard.rbxm](interactive-keyboards/Keyboard.rbxm?raw=1) | Preview; see verification and integration limits |
 | [Nebulix Emote System](nebulix-emote-system/) | [2 screenshots](nebulix-emote-system/GALLERY.md) | [omg emotes woww its mangos.rbxm](nebulix-emote-system/omg%20emotes%20woww%20its%20mangos.rbxm?raw=1) | Integration template; missing dependencies |
-| [Free Admin Panel Demo Place](free-admin-panel-place/) | [3 screenshots](free-admin-panel-place/GALLERY.md) | [Free Admin Panel System.rbxl](free-admin-panel-place/Free%20Admin%20Panel%20System.rbxl?raw=1) | INSECURE demo place; authorization missing |
+| [Free Admin Panel System](free-admin-panel-place/) | [3 screenshots](free-admin-panel-place/GALLERY.md) | [FreeAdminPanelSystem.rbxm](free-admin-panel-place/FreeAdminPanelSystem.rbxm?raw=1) | INSECURE admin demo; authorization missing |
 
 ### Dialogue and Quest System
 
@@ -43,13 +43,13 @@ Editable Roblox systems with native models, Luau source, and real Studio screens
 [![Nebulix Emote System](nebulix-emote-system/previews/cover.jpg)](nebulix-emote-system/)
 
 
-### Free Admin Panel Demo Place
+### Free Admin Panel System
 
-[![Free Admin Panel Demo Place](free-admin-panel-place/previews/cover.jpg)](free-admin-panel-place/)
+[![Free Admin Panel System](free-admin-panel-place/previews/cover.jpg)](free-admin-panel-place/)
 
 ## Install
 
-For a `.rbxl` demo place, use **File > Open from File** in Studio rather than inserting it as a model. For `.rbxm` packs, stop Play, and follow the exact destination and setup steps on its pack page. Review the documented dependencies and test limits before integrating it into a game.
+Download the native `.rbxm`, stop Play, and follow the exact destination and setup steps on its pack page. Review the documented dependencies and test limits before integrating it into a game.
 
 Original Steal a Template contributions use [MIT terms](../../LICENSE); each pack's credits preserve applicable third-party notices.
 

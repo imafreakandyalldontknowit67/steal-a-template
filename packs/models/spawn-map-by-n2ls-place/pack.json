@@ -2,20 +2,14 @@
   "id": "spawn-map-by-n2ls-place",
   "name": "Spawn Map by N2ls",
   "category": "models",
-  "file": "SpawnMapByN2ls.rbxl",
-  "summary": "Editable native scene/place with seven fenced Plot5 areas, Empty Slot labels, checker/stud ground, layered perimeter walls and varied forest, savanna, jungle, desert, mountain, taiga, ocean, ruins and prehistoric vegetation/rock props. The supplied file contains 6,363 instances and no embedded scripts. This is map geometry, not a functioning tycoon or complete game.",
-  "install": "Open the .rbxl with File > Open from File in Studio. Use Save As to make a working copy. To merge geometry into another place, select intended Workspace objects in Studio and copy them into Workspace; merge Lighting separately if desired. Keep internal models and transforms intact. Add your own SpawnLocation, plot ownership, collection/economy and gameplay scripts. Do not overwrite an existing game with this scene unintentionally.",
-  "limits": "Static scene preview and limited local spawn check only. No plot ownership, collecting, saving, economy or gameplay scripts are supplied. No authored SpawnLocation was found in the file. Local Play spawned at approximately (0, 5, 0); this is not proof of complete traversal or collision correctness. Galleries show grouped scene regions, not exhaustive isolated inspection of every prop copy. No mobile/gamepad or performance testing.",
-  "credit": "Supplied filename attributes the map to N2ls. That attribution is retained without asserting independent authorship verification. Preserve embedded names and third-party/platform asset terms.",
-  "test": "Opened the actual supplied place and reviewed its Workspace hierarchy through Studio MCP. Local binary inspection found 6,363 instances and zero embedded LuaSourceContainer scripts. Captured courtyard, reverse and four perimeter detail regions at 685 x 634. Brief Play check spawned the local character near (0, 5, 0); no gameplay actions or full collision/traversal checks. Runtime engine character scripts are not scripts embedded in the file. Returned to Edit afterward.",
-  "statusLabel": ".rbxl scene geometry; no gameplay scripts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "status": "preview",
-  "model": "SpawnMapByN2ls.rbxl",
-  "sha256": "54384fe598370016fe7dd7ccfd875f7a0899f50e286d773c3c6eb521c33c68dc",
-  "sourceSha256": "54384fe598370016fe7dd7ccfd875f7a0899f50e286d773c3c6eb521c33c68dc",
-  "instanceCount": 6363,
-  "scripts": 0,
+  "nativeFormat": "rbxm",
+  "model": "SpawnMapByN2ls.rbxm",
+  "file": "SpawnMapByN2ls.rbxm",
+  "sha256": "db809cd40eedf08f5d96d6fffaf5746ee492e5b4f579faaec01a5a1887d5496e",
+  "instanceCount": 6292,
+  "scripts": 1,
   "cover": "previews/cover.jpg",
   "previews": [
     "previews/spawn-courtyard.jpg",
@@ -26,8 +20,9 @@
     "previews/spawn-south-props.jpg",
     "previews/spawn-east-props.jpg"
   ],
-  "verification": "Opened the actual supplied place and reviewed its Workspace hierarchy through Studio MCP. Local binary inspection found 6,363 instances and zero embedded LuaSourceContainer scripts. Captured courtyard, reverse and four perimeter detail regions at 685 x 634. Brief Play check spawned the local character near (0, 5, 0); no gameplay actions or full collision/traversal checks. Runtime engine character scripts are not scripts embedded in the file. Returned to Edit afterward.",
-  "nativeFormat": "rbxl",
-  "assetKind": "scene-place",
-  "coverSource": "previews/spawn-courtyard.jpg"
+  "verification": "Exported real binary .rbxm with Studio SerializationService, not a renamed place file. Deserialized the final export buffer back through Studio; root names, native instance counts and class counts matched the local file inventory. Temporary export objects were unparented for serialization; source place originals were not saved or overwritten. LightingSettings was added for explicit property transfer; it is configuration, not an auto-installer. Prior place previews show the same delivered geometry/lighting; no new model-specific full runtime test is claimed.",
+  "limitations": [
+    "No plot ownership, collecting, saving, economy or gameplay handlers are included. The only script in this export is the new LightingSettings configuration ModuleScript. No authored SpawnLocation. Screenshots show grouped scene regions, not exhaustive isolated inspection of every copy. No full traversal/collision, device or performance certification."
+  ],
+  "convertedFrom": "SpawnMapByN2ls.rbxl"
 }

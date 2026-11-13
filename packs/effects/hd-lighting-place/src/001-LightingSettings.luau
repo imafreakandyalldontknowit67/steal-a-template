@@ -1,0 +1,17 @@
+return {
+Ambient = Color3.new(0.27450981736183167,0.27450981736183167,0.27450981736183167),
+OutdoorAmbient = Color3.new(0.27450981736183167,0.27450981736183167,0.27450981736183167),
+Brightness = 3,
+ClockTime = 7.907777786254883,
+ExposureCompensation = 0,
+ColorShift_Bottom = Color3.new(0,0,0),
+ColorShift_Top = Color3.new(0,0,0),
+EnvironmentDiffuseScale = 1,
+EnvironmentSpecularScale = 1,
+GlobalShadows = true,
+ShadowSoftness = 0.20000000298023224,
+GeographicLatitude = 0,
+FogColor = Color3.new(0.75294125080108643,0.75294125080108643,0.75294125080108643),
+FogStart = 0,
+FogEnd = 100000,
+}

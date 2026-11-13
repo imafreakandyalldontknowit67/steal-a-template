@@ -1,43 +1,48 @@
 # Spawn Map by N2ls
 
-Editable native scene/place with seven fenced Plot5 areas, Empty Slot labels, checker/stud ground, layered perimeter walls and varied forest, savanna, jungle, desert, mountain, taiga, ocean, ruins and prehistoric vegetation/rock props. The supplied file contains 6,363 instances and no embedded scripts. This is map geometry, not a functioning tycoon or complete game.
+Native scene package with 6,292 instances: Workspace geometry/UI/proximity prompts and all 13 original Lighting children, grouped into Workspace and Lighting folders, plus one new LightingSettings configuration ModuleScript. Seven fenced plots and grouped perimeter prop regions are preserved. Place services, Camera, Terrain and Studio metadata are not model contents. No authored terrain content was present to export.
 
-**Preview release 0.1.0.** Static scene preview and limited local spawn check only. No plot ownership, collecting, saving, economy or gameplay scripts are supplied. No authored SpawnLocation was found in the file. Local Play spawned at approximately (0, 5, 0); this is not proof of complete traversal or collision correctness. Galleries show grouped scene regions, not exhaustive isolated inspection of every prop copy. No mobile/gamepad or performance testing.
+**Preview release 0.1.1.** No plot ownership, collecting, saving, economy or gameplay handlers are included. The only script in this export is the new LightingSettings configuration ModuleScript. No authored SpawnLocation. Screenshots show grouped scene regions, not exhaustive isolated inspection of every copy. No full traversal/collision, device or performance certification.
 
 ## Download
 
-[Download SpawnMapByN2ls.rbxl](SpawnMapByN2ls.rbxl?raw=1) — 234,673 bytes.
+[Download SpawnMapByN2ls.rbxm](SpawnMapByN2ls.rbxm?raw=1) - 195,823 bytes, actual native Roblox model.
 
 ![Spawn Map by N2ls](previews/cover.jpg)
 
-[Full gallery — 7 screenshots](GALLERY.md) | [Native inventory](INVENTORY.md) | [Compressed full hierarchy](HIERARCHY.json.gz) | [Verification](VERIFICATION.md)
-
-**Native format: `.rbxl` place. Open it separately in Studio; this is not an `.rbxm` model.**
-
-## Included assets
-
-Editable native scene/place with seven fenced Plot5 areas, Empty Slot labels, checker/stud ground, layered perimeter walls and varied forest, savanna, jungle, desert, mountain, taiga, ocean, ruins and prehistoric vegetation/rock props. The supplied file contains 6,363 instances and no embedded scripts. This is map geometry, not a functioning tycoon or complete game.
-
-No embedded scripts were found.
+[Full gallery - 7 screenshots](GALLERY.md) | [Inventory](INVENTORY.md) | [Compressed hierarchy](HIERARCHY.json.gz) | [Verification](VERIFICATION.md)
 
 ## Installation
 
-Open the .rbxl with File > Open from File in Studio. Use Save As to make a working copy. To merge geometry into another place, select intended Workspace objects in Studio and copy them into Workspace; merge Lighting separately if desired. Keep internal models and transforms intact. Add your own SpawnLocation, plot ownership, collection/economy and gameplay scripts. Do not overwrite an existing game with this scene unintentionally.
+Insert SpawnMapByN2ls.rbxm into ServerStorage while Play is stopped. Move the CONTENTS of its Workspace folder into game.Workspace, preserving model hierarchies and transforms. Optionally merge the CONTENTS of Lighting into game.Lighting after reviewing existing effects. Keep LightingSettings in ServerStorage and apply the values with the snippet below if you want the original scene lighting. Add your own SpawnLocation and gameplay systems. Delete only the now-empty staging folders after checking installation.
 
-## Customization and dependencies
+## Apply saved Lighting properties
 
-Work on a copy in Studio. Preserve required internal hierarchy, attachments, bones and relative transforms. Inspect [asset references](ASSET-REFERENCES.json); their availability in this Studio session does not guarantee permission in your destination experience. Keep original creator notices.
+After inserting the package in ServerStorage, run this in the Studio Command Bar (Edit mode), after reviewing the values:
+
+```luau
+local settings = require(game.ServerStorage.SpawnMapByN2ls.LightingSettings)
+for property, value in pairs(settings) do
+    game.Lighting[property] = value
+end
+```
+
+This changes the destination place Lighting properties; review conflicts before applying. It does not move the Lighting child objects for you.
+
+## Included source and customization
+
+1 embedded scripts/modules are extracted in [src/manifest.json](src/manifest.json). The model is authoritative; do not install duplicate extracted copies. Customize native instances in Studio and preserve internal names and references. Linked Roblox assets may need permission in your destination experience; see [asset references](ASSET-REFERENCES.json).
 
 ## Verification and limitations
 
-Opened the actual supplied place and reviewed its Workspace hierarchy through Studio MCP. Local binary inspection found 6,363 instances and zero embedded LuaSourceContainer scripts. Captured courtyard, reverse and four perimeter detail regions at 685 x 634. Brief Play check spawned the local character near (0, 5, 0); no gameplay actions or full collision/traversal checks. Runtime engine character scripts are not scripts embedded in the file. Returned to Edit afterward.
+Exported real binary .rbxm with Studio SerializationService, not a renamed place file. Deserialized the final export buffer back through Studio; root names, native instance counts and class counts matched the local file inventory. Temporary export objects were unparented for serialization; source place originals were not saved or overwritten. LightingSettings was added for explicit property transfer; it is configuration, not an auto-installer. Prior place previews show the same delivered geometry/lighting; no new model-specific full runtime test is claimed.
 
-Static scene preview and limited local spawn check only. No plot ownership, collecting, saving, economy or gameplay scripts are supplied. No authored SpawnLocation was found in the file. Local Play spawned at approximately (0, 5, 0); this is not proof of complete traversal or collision correctness. Galleries show grouped scene regions, not exhaustive isolated inspection of every prop copy. No mobile/gamepad or performance testing.
+No plot ownership, collecting, saving, economy or gameplay handlers are included. The only script in this export is the new LightingSettings configuration ModuleScript. No authored SpawnLocation. Screenshots show grouped scene regions, not exhaustive isolated inspection of every copy. No full traversal/collision, device or performance certification.
 
-SHA-256: `54384fe598370016fe7dd7ccfd875f7a0899f50e286d773c3c6eb521c33c68dc`
+SHA-256: `db809cd40eedf08f5d96d6fffaf5746ee492e5b4f579faaec01a5a1887d5496e`
 
 ## Credits and license
 
-[Credits](CREDITS.md) | [Scoped project MIT notice](LICENSE) | [Repository scope](../../../docs/LICENSING.md) | [Changelog](CHANGELOG.md)
+Original attribution and notices remain applicable. [Credits](CREDITS.md) | [Scoped project MIT notice](LICENSE) | [Repository licensing](../../../docs/LICENSING.md) | [Changelog](CHANGELOG.md)
 
 [Back to category](../README.md)

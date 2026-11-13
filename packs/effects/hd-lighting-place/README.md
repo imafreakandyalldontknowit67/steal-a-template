@@ -1,43 +1,48 @@
-# HD Lighting Demo Place
+# HD Lighting
 
-Original native lighting demonstration place with a baseplate/spawn, two Atmosphere instances, two Sky instances, four Bloom effects, two ColorCorrection effects, four DepthOfField effects, eight Blur effects and six SunRays effects. Also contains a Pistol Tool under Lighting.Tools, with seven embedded weapon scripts; this is not a clean lighting-only model.
+Clean lighting package with 31 instances: a Lighting folder containing 28 lighting objects (two Atmosphere, two Sky, four Bloom, eight Blur, two ColorCorrection, four DepthOfField and six SunRays), plus a LightingSettings ModuleScript. The original pistol, seven weapon scripts, two misplaced sound effects and 134 unrelated nested avatar/geometry objects are excluded.
 
-**Preview release 0.1.0.** Visual lighting preview only; no quality/performance or device certification. Duplicate effects and inactive blur states are retained exactly as supplied. The unrelated Pistol DamageHandler trusts client-supplied target/damage and EventCatcher accepts client positions without validation/rate limiting; do not deploy those weapon scripts. The pistol, weapon animations, sounds and damage were not exercised. Static screenshots show combined lighting, not isolated proof of every effect or animation.
+**Preview release 0.1.1.** Static combined-lighting preview only. Original duplicate skies/atmospheres, enabled/disabled effects and eight blur objects are retained. No device/performance certification, animation or audio testing. The unsafe unrelated pistol is NOT included in this model.
 
 ## Download
 
-[Download HD-Lighting.rbxl](HD-Lighting.rbxl?raw=1) — 672,177 bytes.
+[Download HDLighting.rbxm](HDLighting.rbxm?raw=1) - 6,613 bytes, actual native Roblox model.
 
-![HD Lighting Demo Place](previews/cover.jpg)
+![HD Lighting](previews/cover.jpg)
 
-[Full gallery — 3 screenshots](GALLERY.md) | [Native inventory](INVENTORY.md) | [Compressed full hierarchy](HIERARCHY.json.gz) | [Verification](VERIFICATION.md)
-
-**Native format: `.rbxl` place. Open it separately in Studio; this is not an `.rbxm` model.**
-
-## Included assets
-
-Original native lighting demonstration place with a baseplate/spawn, two Atmosphere instances, two Sky instances, four Bloom effects, two ColorCorrection effects, four DepthOfField effects, eight Blur effects and six SunRays effects. Also contains a Pistol Tool under Lighting.Tools, with seven embedded weapon scripts; this is not a clean lighting-only model.
-
-7 embedded scripts are extracted verbatim in [src/manifest.json](src/manifest.json). The binary is authoritative; do not install duplicate extracted copies.
+[Full gallery - 3 screenshots](GALLERY.md) | [Inventory](INVENTORY.md) | [Compressed hierarchy](HIERARCHY.json.gz) | [Verification](VERIFICATION.md)
 
 ## Installation
 
-Open the .rbxl as a separate place in Studio. Inspect LIGHTING-SETTINGS.json and Lighting properties. For integration, copy only the reviewed Lighting effects and desired property values into your own Lighting service. Review duplicate skies/atmospheres and enabled states rather than blindly stacking them. Do not copy Lighting.Tools or its Pistol into your game merely to install the lighting. A .rbxl is a place, not an insertable model.
+Insert HDLighting.rbxm into ServerStorage with Play stopped. Move the CONTENTS of HDLighting.Lighting into game.Lighting, after reviewing existing effects to avoid unwanted stacking. Keep LightingSettings in ServerStorage; it returns the supplied Lighting property values. Apply the settings through the Command Bar snippet below, then remove the empty staging folder when finished. Do not put the Settings module inside Lighting or expect automatic installation.
 
-## Customization and dependencies
+## Apply saved Lighting properties
 
-Work on a copy in Studio. Preserve required internal hierarchy, attachments, bones and relative transforms. Inspect [asset references](ASSET-REFERENCES.json); their availability in this Studio session does not guarantee permission in your destination experience. Keep original creator notices.
+After inserting the package in ServerStorage, run this in the Studio Command Bar (Edit mode), after reviewing the values:
+
+```luau
+local settings = require(game.ServerStorage.HDLighting.LightingSettings)
+for property, value in pairs(settings) do
+    game.Lighting[property] = value
+end
+```
+
+This changes the destination place Lighting properties; review conflicts before applying. It does not move the Lighting child objects for you.
+
+## Included source and customization
+
+1 embedded scripts/modules are extracted in [src/manifest.json](src/manifest.json). The model is authoritative; do not install duplicate extracted copies. Customize native instances in Studio and preserve internal names and references. Linked Roblox assets may need permission in your destination experience; see [asset references](ASSET-REFERENCES.json).
 
 ## Verification and limitations
 
-Opened the actual native place and inspected Lighting through Studio MCP. Recorded effect names, enabled states and principal properties. Limited Play check spawned the local character on the baseplate; the Backpack was empty and Lighting retained 31 children. The pistol remained in Lighting.Tools and was not equipped. Captures are 685 x 634 Edit-mode views at the supplied clock time, not alternate lighting presets. No changes saved to the original.
+Exported real binary .rbxm with Studio SerializationService, not a renamed place file. Deserialized the final export buffer back through Studio; root names, native instance counts and class counts matched the local file inventory. Temporary export objects were unparented for serialization; source place originals were not saved or overwritten. LightingSettings was added for explicit property transfer; it is configuration, not an auto-installer. Prior place previews show the same delivered geometry/lighting; no new model-specific full runtime test is claimed.
 
-Visual lighting preview only; no quality/performance or device certification. Duplicate effects and inactive blur states are retained exactly as supplied. The unrelated Pistol DamageHandler trusts client-supplied target/damage and EventCatcher accepts client positions without validation/rate limiting; do not deploy those weapon scripts. The pistol, weapon animations, sounds and damage were not exercised. Static screenshots show combined lighting, not isolated proof of every effect or animation.
+Static combined-lighting preview only. Original duplicate skies/atmospheres, enabled/disabled effects and eight blur objects are retained. No device/performance certification, animation or audio testing. The unsafe unrelated pistol is NOT included in this model.
 
-SHA-256: `21f40ee66e3cb45854ff0a237aff96a1843f41ac904181601ea4aafc2737abe3`
+SHA-256: `4f67a3fa39fbb9dd7dee59b8e0444efa664e5dc570979f408b15141e4647d275`
 
 ## Credits and license
 
-[Credits](CREDITS.md) | [Scoped project MIT notice](LICENSE) | [Repository scope](../../../docs/LICENSING.md) | [Changelog](CHANGELOG.md)
+Original attribution and notices remain applicable. [Credits](CREDITS.md) | [Scoped project MIT notice](LICENSE) | [Repository licensing](../../../docs/LICENSING.md) | [Changelog](CHANGELOG.md)
 
 [Back to category](../README.md)

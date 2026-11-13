@@ -1,43 +1,35 @@
-# Free Admin Panel Demo Place
+# Free Admin Panel System
 
-Native Roblox place containing the Lemonade UI Builder AdminPanel template, OnyxUI and Fusion packages, kick/ban controls, an announcement client, three remotes and a demo server handler. Includes 210 embedded scripts/modules.
+Native model package with 233 instances: a ReplicatedStorage folder containing Packages, UITemplates and AdminPanelRemote; StarterPlayerScripts containing both clients; and ServerScriptService containing AdminHandler. All 210 original embedded scripts/modules are retained byte-for-byte.
 
-**Preview release 0.1.0.** INSECURE DEMO: AdminHandler explicitly allows every player to kick, ban and announce, with no admin authorization, input type validation, text filtering or rate limiting. Bans are in-memory only. Do not publish this place as a live game or copy its server handler into production before securing it. No real kicks/bans or multiplayer moderation tests were performed. The announcement banner overlaps the panel and exposes a default Label at rest in this viewport.
+**Preview release 0.1.1.** The original admin scripts still allow any player to kick, ban and announce, without server authorization, type validation, filtering or rate limits. Bans remain in-memory. This conversion does not repair those issues. Do not deploy the handler in a live game before securing it.
 
 ## Download
 
-[Download Free Admin Panel System.rbxl](Free%20Admin%20Panel%20System.rbxl?raw=1) — 170,080 bytes.
+[Download FreeAdminPanelSystem.rbxm](FreeAdminPanelSystem.rbxm?raw=1) - 157,090 bytes, actual native Roblox model.
 
-![Free Admin Panel Demo Place](previews/cover.jpg)
+![Free Admin Panel System](previews/cover.jpg)
 
-[Full gallery — 3 screenshots](GALLERY.md) | [Native inventory](INVENTORY.md) | [Compressed full hierarchy](HIERARCHY.json.gz) | [Verification](VERIFICATION.md)
-
-**Native format: `.rbxl` place. Open it separately in Studio; this is not an `.rbxm` model.**
-
-## Included assets
-
-Native Roblox place containing the Lemonade UI Builder AdminPanel template, OnyxUI and Fusion packages, kick/ban controls, an announcement client, three remotes and a demo server handler. Includes 210 embedded scripts/modules.
-
-210 embedded scripts are extracted verbatim in [src/manifest.json](src/manifest.json). The binary is authoritative; do not install duplicate extracted copies.
+[Full gallery - 3 screenshots](GALLERY.md) | [Inventory](INVENTORY.md) | [Compressed hierarchy](HIERARCHY.json.gz) | [Verification](VERIFICATION.md)
 
 ## Installation
 
-Open the downloaded .rbxl with File > Open from File in Roblox Studio as a separate place. Do not insert it into StarterGui. To integrate selected components, copy ReplicatedStorage.Packages, ReplicatedStorage.UITemplates and ReplicatedStorage.AdminPanelRemote, then the two StarterPlayer.StarterPlayerScripts clients and ServerScriptService.AdminHandler only after securing the handler. Merge into existing services; do not replace your game wholesale.
+Insert FreeAdminPanelSystem.rbxm into ServerStorage while Play is stopped. Move the CONTENTS of its ReplicatedStorage folder into game.ReplicatedStorage. Move the CONTENTS of StarterPlayerScripts into game.StarterPlayer.StarterPlayerScripts. Move the CONTENTS of ServerScriptService into game.ServerScriptService only after securing AdminHandler. Merge folders; do not leave an extra ReplicatedStorage wrapper nested inside the service. Remove the empty staging folder afterward. Test in an isolated place, not your live game.
 
-## Customization and dependencies
+## Included source and customization
 
-Work on a copy in Studio. Preserve required internal hierarchy, attachments, bones and relative transforms. Inspect [asset references](ASSET-REFERENCES.json); their availability in this Studio session does not guarantee permission in your destination experience. Keep original creator notices.
+210 embedded scripts/modules are extracted in [src/manifest.json](src/manifest.json). The model is authoritative; do not install duplicate extracted copies. Customize native instances in Studio and preserve internal names and references. Linked Roblox assets may need permission in your destination experience; see [asset references](ASSET-REFERENCES.json).
 
 ## Verification and limitations
 
-Opened the actual supplied place through Studio and inspected via MCP. Original client scripts generated the UI in Play. The real open button enabled the panel, mouse-wheel input scrolled to announcement controls, and the close button disabled it. A local-client GlobalAnnounce remote request with the fixed text Steal a Template preview reached the original announcement client; its label and tween position were read back. No live server or other player was targeted. Captures at 685 x 634. No mobile/gamepad test.
+Exported real binary .rbxm with Studio SerializationService, not a renamed place file. Deserialized the final export buffer back through Studio; root names, native instance counts and class counts matched the local file inventory. Temporary export objects were unparented for serialization; source place originals were not saved or overwritten. All 210 original sources match the supplied place exactly. Additionally installed the deserialized final model into the documented services in Studio, with originals temporarily backed up. Play generated the UI; the actual open button enabled it and a local announcement request delivered Converted RBXM preview to the original client. Restored the original source contents afterward. No live moderation action, kick/ban test, persistence, multiplayer security or device certification.
 
-INSECURE DEMO: AdminHandler explicitly allows every player to kick, ban and announce, with no admin authorization, input type validation, text filtering or rate limiting. Bans are in-memory only. Do not publish this place as a live game or copy its server handler into production before securing it. No real kicks/bans or multiplayer moderation tests were performed. The announcement banner overlaps the panel and exposes a default Label at rest in this viewport.
+The original admin scripts still allow any player to kick, ban and announce, without server authorization, type validation, filtering or rate limits. Bans remain in-memory. This conversion does not repair those issues. Do not deploy the handler in a live game before securing it.
 
-SHA-256: `028254480df6e494524bbc0efc648a281bca1f93002fa52fab799f70d5d93102`
+SHA-256: `19d6839e934a2d96b0213c72504f0e494b2dbdbd546c67c657f60d66cf854c4b`
 
 ## Credits and license
 
-[Credits](CREDITS.md) | [Scoped project MIT notice](LICENSE) | [Repository scope](../../../docs/LICENSING.md) | [Changelog](CHANGELOG.md)
+Original attribution and notices remain applicable. [Credits](CREDITS.md) | [Scoped project MIT notice](LICENSE) | [Repository licensing](../../../docs/LICENSING.md) | [Changelog](CHANGELOG.md)
 
 [Back to category](../README.md)

@@ -5,3 +5,7 @@ Supplied filename HD-Lighting.rbxl. Original lighting/weapon authors are not ind
 Supplied by the repository operator for this asset import as HD-Lighting.rbxl. Original embedded source/notices are retained. No independent authorship claim is made.
 
 The project MIT notice covers original Steal a Template packaging/documentation only to the extent the contributor holds those rights. It does not relicense external meshes, artwork, sounds, animations or other third-party material. Existing creator terms remain applicable. See [repository license scope](../../../docs/LICENSING.md).
+
+## Model conversion 0.1.1
+
+Lighting instances/properties retained. The unrelated pistol, its weapon scripts, misplaced sound effects and nested avatar/geometry contents are excluded from this model. This does not relicense third-party sky textures or other Roblox-hosted assets.

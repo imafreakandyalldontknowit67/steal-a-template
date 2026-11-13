@@ -1,6 +1,6 @@
 # Spawn Map by N2ls — gallery
 
-Actual Studio MCP captures of the supplied native place. Camera framing does not alter the delivered file.
+Actual Studio MCP captures of the source implementation. Conversion retains the pictured UI/geometry/lighting; service wrappers and LightingSettings are packaging, not visual additions. Model-specific complete runtime behavior has not been certified.
 
 ### Spawn Courtyard — actual supplied place
 

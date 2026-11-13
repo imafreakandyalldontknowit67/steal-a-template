@@ -28,7 +28,7 @@ Editable Roblox model collections with native downloads and real Studio screensh
 | [ASMR Butter Models V1](asmr-butter-models-v1/) | [4 screenshots](asmr-butter-models-v1/GALLERY.md) | [ASMR_Butter_Models_V1.rbxm](asmr-butter-models-v1/ASMR_Butter_Models_V1.rbxm?raw=1) | Preview; see verification and integration limits |
 | [Stud Fish Models](stud-fish-models/) | [40 screenshots](stud-fish-models/GALLERY.md) | [roblox fish models.rbxm](stud-fish-models/roblox%20fish%20models.rbxm?raw=1) | Preview; see verification and integration limits |
 | [Small Stud Asset Pack](small-stud-asset-pack/) | [40 screenshots](small-stud-asset-pack/GALLERY.md) | [Small Stud Asset Pack.rbxm](small-stud-asset-pack/Small%20Stud%20Asset%20Pack.rbxm?raw=1) | Preview; see verification and integration limits |
-| [Spawn Map by N2ls](spawn-map-by-n2ls-place/) | [7 screenshots](spawn-map-by-n2ls-place/GALLERY.md) | [SpawnMapByN2ls.rbxl](spawn-map-by-n2ls-place/SpawnMapByN2ls.rbxl?raw=1) | .rbxl scene geometry; no gameplay scripts |
+| [Spawn Map by N2ls](spawn-map-by-n2ls-place/) | [7 screenshots](spawn-map-by-n2ls-place/GALLERY.md) | [SpawnMapByN2ls.rbxm](spawn-map-by-n2ls-place/SpawnMapByN2ls.rbxm?raw=1) | Native scene model; no gameplay systems |
 
 ### Brainrot Models & Mutations
 
@@ -134,7 +134,7 @@ Editable Roblox model collections with native downloads and real Studio screensh
 
 ## Install
 
-For a `.rbxl` demo place, use **File > Open from File** in Studio rather than inserting it as a model. For `.rbxm` packs, stop Play, and follow the exact destination and setup steps on its pack page. Review the documented dependencies and test limits before integrating it into a game.
+Download the native `.rbxm`, stop Play, and follow the exact destination and setup steps on its pack page. Review the documented dependencies and test limits before integrating it into a game.
 
 Original Steal a Template contributions use [MIT terms](../../LICENSE); each pack's credits preserve applicable third-party notices.
 

@@ -1,9 +1,9 @@
 # Verification
 
-- Native file preserved byte-for-byte from the owner-supplied input.
-- Local native hierarchy and embedded source inspected; actual file opened in Studio.
-- Opened the actual supplied place through Studio and inspected via MCP. Original client scripts generated the UI in Play. The real open button enabled the panel, mouse-wheel input scrolled to announcement controls, and the close button disabled it. A local-client GlobalAnnounce remote request with the fixed text Steal a Template preview reached the original announcement client; its label and tween position were read back. No live server or other player was targeted. Captures at 685 x 634. No mobile/gamepad test.
-- INSECURE DEMO: AdminHandler explicitly allows every player to kick, ban and announce, with no admin authorization, input type validation, text filtering or rate limiting. Bans are in-memory only. Do not publish this place as a live game or copy its server handler into production before securing it. No real kicks/bans or multiplayer moderation tests were performed. The announcement banner overlaps the panel and exposes a default Label at rest in this viewport.
-- External mesh/image/audio dependencies may require permission in the destination experience.
-- Inspection, Play checks and captures performed through the connected Studio MCP. Original file was not saved or overwritten.
-- SHA-256: 028254480df6e494524bbc0efc648a281bca1f93002fa52fab799f70d5d93102
+Exported real binary .rbxm with Studio SerializationService, not a renamed place file. Deserialized the final export buffer back through Studio; root names, native instance counts and class counts matched the local file inventory. Temporary export objects were unparented for serialization; source place originals were not saved or overwritten. All 210 original sources match the supplied place exactly. Additionally installed the deserialized final model into the documented services in Studio, with originals temporarily backed up. Play generated the UI; the actual open button enabled it and a local announcement request delivered Converted RBXM preview to the original client. Restored the original source contents afterward. No live moderation action, kick/ban test, persistence, multiplayer security or device certification.
+
+The original admin scripts still allow any player to kick, ban and announce, without server authorization, type validation, filtering or rate limits. Bans remain in-memory. This conversion does not repair those issues. Do not deploy the handler in a live game before securing it.
+
+Native SHA-256: `19d6839e934a2d96b0213c72504f0e494b2dbdbd546c67c657f60d66cf854c4b`
+
+Version 0.1.1, 2026-11-13.
