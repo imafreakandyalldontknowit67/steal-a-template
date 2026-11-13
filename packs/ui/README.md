@@ -16,6 +16,9 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 | [Advanced Settings UI V1.6](advanced-settings-ui/) | [9 screenshots](advanced-settings-ui/GALLERY.md) | [Settings GUI ADVANCED V1.6.rbxm](advanced-settings-ui/Settings%20GUI%20ADVANCED%20V1.6.rbxm?raw=1) | Runtime preview; known click-sound error |
 | [Shop & Index UI Buttons](shop-index-ui-buttons/) | [1 screenshots](shop-index-ui-buttons/GALLERY.md) | [Shop Index UI [FREE].rbxm](shop-index-ui-buttons/Shop%20Index%20UI%20%5BFREE%5D.rbxm?raw=1) | Preview; see verification and integration limits |
 | [Square Shine UI Buttons](square-shine-ui-buttons/) | [1 screenshots](square-shine-ui-buttons/GALLERY.md) | [Square Shine Button [Free UI].rbxm](square-shine-ui-buttons/Square%20Shine%20Button%20%5BFree%20UI%5D.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Brainrot HUD UI](brainrot-hud-ui/) | [12 screenshots](brainrot-hud-ui/GALLERY.md) | [hud.rbxm](brainrot-hud-ui/hud.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Offline Earnings UI](offline-earnings-ui/) | [1 screenshots](offline-earnings-ui/GALLERY.md) | [Offline Earnings GUI - TU VIP.rbxm](offline-earnings-ui/Offline%20Earnings%20GUI%20-%20TU%20VIP.rbxm?raw=1) | Preview; see verification and integration limits |
+| [Worlds Teleporter UI](worlds-teleporter-ui/) | [3 screenshots](worlds-teleporter-ui/GALLERY.md) | [Worlds Teleporter GUI - TU.rbxm](worlds-teleporter-ui/Worlds%20Teleporter%20GUI%20-%20TU.rbxm?raw=1) | Preview; see verification and integration limits |
 
 ### Command HQ - Roblox HUD and Interface Pack
 
@@ -65,6 +68,19 @@ Editable Roblox interfaces with native models, Luau source, and real Studio scre
 ### Square Shine UI Buttons
 
 [![Square Shine UI Buttons](square-shine-ui-buttons/previews/cover.jpg)](square-shine-ui-buttons/)
+
+
+### Brainrot HUD UI
+
+[![Brainrot HUD UI](brainrot-hud-ui/previews/cover.jpg)](brainrot-hud-ui/)
+
+### Offline Earnings UI
+
+[![Offline Earnings UI](offline-earnings-ui/previews/cover.jpg)](offline-earnings-ui/)
+
+### Worlds Teleporter UI
+
+[![Worlds Teleporter UI](worlds-teleporter-ui/previews/cover.jpg)](worlds-teleporter-ui/)
 
 ## Install
 

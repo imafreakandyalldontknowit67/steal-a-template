@@ -1,0 +1,36 @@
+{
+  "id": "brainrot-hud-ui",
+  "name": "Brainrot HUD UI",
+  "category": "ui",
+  "file": "hud.rbxm",
+  "prefixes": [
+    "hud"
+  ],
+  "summary": "Editable HUD with six sidebar buttons, rebirth panel, scrollable shop, collection index, mutation list and index settings. Shop prices, player names and collection cards are sample layout content, not connected purchases or player data.",
+  "install": "Insert the native HUD ScreenGui into StarterGui. Keep HUD, Interfaces and Afk descendants together. Add your own panel navigation, collection data, code redemption, invite and admin authorization logic. Implement purchases, rebirth and currency on the server; the sample labels are not an economy.",
+  "limits": "Static layout inspected in Studio Play on temporary clones at 1325 x 761; panel visibility and scroll positions were set manually. No gameplay handlers are included. No mobile/gamepad testing. Native files are unchanged. Codes, Invite and Admin Panel are buttons only; there are no corresponding working systems. The Afk label is transparent in its supplied styling.",
+  "credit": "Original filename hud.rbxm; original author not independently established.",
+  "version": "0.1.0",
+  "status": "preview",
+  "model": "hud.rbxm",
+  "sha256": "fa8944c7018f9fa8ec5a87061cec6227b99f04fd84e4767a04f6623113f3603c",
+  "sourceSha256": "fa8944c7018f9fa8ec5a87061cec6227b99f04fd84e4767a04f6623113f3603c",
+  "instanceCount": 1567,
+  "scripts": 0,
+  "cover": "previews/cover.jpg",
+  "previews": [
+    "previews/hud-index-bottom.jpg",
+    "previews/hud-index-settings.jpg",
+    "previews/hud-index.jpg",
+    "previews/hud-main.jpg",
+    "previews/hud-rebirth.jpg",
+    "previews/hud-shop-1.jpg",
+    "previews/hud-shop-2.jpg",
+    "previews/hud-shop-3.jpg",
+    "previews/hud-shop-4.jpg",
+    "previews/hud-shop-5.jpg",
+    "previews/hud-shop-6.jpg",
+    "previews/hud-shop.jpg"
+  ],
+  "verification": "Static layout preview in Studio Play on temporary clones; no original scripts are present. Panel visibility and scrolling were set manually, not by working navigation. Native instance counts/root names matched the supplied imports. Viewport 1325 x 761; desktop only."
+}
